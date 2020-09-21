@@ -2,26 +2,21 @@ import multiprocessing
 import os
 import pickle
 from pathlib import Path
+import numpy as np
 
 import itertools
-import random
-from PIL import Image, ImageDraw
+from PIL import Image
 from joblib.parallel import Parallel, delayed, parallel_backend
 
-from mondrian.distances import *
-from mondrian.visualization import draw_rectangles
+from .distances import rectangle_as_array, parallel_distance
 
-from sklearn.cluster import DBSCAN, MeanShift, OPTICS, cluster_optics_dbscan, SpectralClustering
-from sklearn.metrics import pairwise_distances, silhouette_score
-from sklearn.neighbors import NearestNeighbors
-from scipy.spatial.distance import cdist
+from sklearn.cluster import DBSCAN
+from sklearn.metrics import pairwise_distances
 
 
-#Credits: https://gist.github.com/rtavenar/a4fb580ae235cc61ce8cf07878810567
-
+# Credits: https://gist.github.com/rtavenar/a4fb580ae235cc61ce8cf07878810567
 def cdist_generic(dist_fun, dataset1, dataset2=None, n_jobs=None, verbose=0,
-                  compute_diagonal=True, pool =None, *args, **kwargs):
-
+                  compute_diagonal=True, pool=None, *args, **kwargs):
     """Compute cross-similarity matrix with joblib parallelization for a given
     similarity function.
     Parameters
@@ -62,9 +57,9 @@ def cdist_generic(dist_fun, dataset1, dataset2=None, n_jobs=None, verbose=0,
     -------
     cdist : numpy.ndarray
         Cross-similarity matrix
-    """ # noqa: E501
+    """  # noqa: E501
     if n_jobs is not None:
-        if n_jobs ==-1:
+        if n_jobs == -1:
             n_jobs = multiprocessing.cpu_count()
 
     if dataset2 is None:
@@ -72,8 +67,8 @@ def cdist_generic(dist_fun, dataset1, dataset2=None, n_jobs=None, verbose=0,
         # https://github.com/rtavenar/tslearn/pull/128#discussion_r314978479
         matrix = np.zeros((len(dataset1), len(dataset1)))
         indices = np.triu_indices(len(dataset1),
-                                     k=0 if compute_diagonal else 1,
-                                     m=len(dataset1))
+                                  k=0 if compute_diagonal else 1,
+                                  m=len(dataset1))
         matrix[indices] = Parallel(n_jobs=n_jobs,
                                    verbose=verbose)(
             delayed(dist_fun)(
@@ -90,29 +85,22 @@ def cdist_generic(dist_fun, dataset1, dataset2=None, n_jobs=None, verbose=0,
 
     else:
         index_pairs = list(itertools.product(range(len(dataset1)), range(len(dataset2))))
-        if len(index_pairs) <128:
-            n_jobs=1 #be nice
+        if len(index_pairs) < 128:
+            n_jobs = 1  # be nice
         list_works = [index_pairs]
         if n_jobs is not None:
             list_works = np.array_split(index_pairs, n_jobs)
         with parallel_backend("templates"):
             matrix = Parallel(n_jobs=n_jobs, verbose=verbose)(delayed(
-                lambda list_pairs: [dist_fun(dataset1[p[0]], dataset2[p[1]],*args, **kwargs) for p in list_pairs])(list_pairs) for list_pairs in list_works)
+                lambda list_pairs: [dist_fun(dataset1[p[0]], dataset2[p[1]], *args, **kwargs) for p in list_pairs])(list_pairs) for list_pairs in
+                                                              list_works)
 
-        # matrix_old = Parallel(n_jobs=n_jobs, verbose=verbose)(
-        #     delayed(dist_fun)(
-        #         dataset1[i], dataset2[j],
-        #         *args, **kwargs
-        #     )
-        #     for i in range(len(dataset1)) for j in range(len(dataset2))
-        # )
         matrix = [x for lst in matrix for x in lst]
         return np.array(matrix).reshape((len(dataset1), -1))
 
 
-# noinspection PyUnusedLocal
 def clustering(elements, min_samples=1, print_stats=False, radius=1, alpha=1, beta=1, gamma=1, lbp=False,
-               distances=None, n_jobs=-1, save_path= None):
+               distances=None, n_jobs=-1, save_path=None):
     """
     Wrapper function to encapsulate the clustering process. It can use either a Meanshift, a DBSCAN with or without a custom metric.
 
@@ -129,8 +117,6 @@ def clustering(elements, min_samples=1, print_stats=False, radius=1, alpha=1, be
     ---------
     labels: list
         For each element, the cluster label associated to it
-    silhouette: float
-        The silhouette score
     """
 
     save = False
@@ -145,21 +131,15 @@ def clustering(elements, min_samples=1, print_stats=False, radius=1, alpha=1, be
         return [0], 0
 
     if distances is None:
-
         file_width = max([e["bot_rx"][0] for e in elements]) + 1
         file_height = max([e["bot_rx"][1] for e in elements]) + 1
 
         p_elements = np.asarray([rectangle_as_array(x) for x in elements])
-        # distances = cdist_generic(dist_fun=parallel_distance, dataset1=p_elements, compute_diagonal=False, n_jobs = n_jobs,
-        #                   file_width=file_width, file_height=file_height, alpha=alpha, beta=beta, gamma=gamma, lbp = lbp)
-
         distances = pairwise_distances(X=p_elements, metric=parallel_distance, n_jobs=n_jobs,
                                        file_width=file_width, file_height=file_height, alpha=alpha, beta=beta,
                                        gamma=gamma)
 
-
     db = DBSCAN(eps=radius, min_samples=min_samples, metric="precomputed", n_jobs=n_jobs)
-    # db = SpectralClustering(n_clusters=eps, affinity="precomputed", n_jobs=n_jobs)
     db.fit(distances)
 
     labels = denoise_labels(db.labels_)
@@ -167,7 +147,6 @@ def clustering(elements, min_samples=1, print_stats=False, radius=1, alpha=1, be
 
     if print_stats:
         print('Estimated number of clusters: %d' % n_clusters)
-        # print("Silhouette Coefficient: %0.3f" % silhouette)
 
     if -1 in labels:
         raise Exception("Clustering still found noise points ?!")
@@ -231,7 +210,7 @@ def find_cluster_edges(labels, elements):
         cluster = labels[idx]
         current = cluster_edges[cluster]
 
-        cluster_edges[cluster] = {"top_lx": np.minimum(current["top_lx"], e["top_lx"]), \
+        cluster_edges[cluster] = {"top_lx": np.minimum(current["top_lx"], e["top_lx"]),
                                   "bot_rx": np.maximum(current["bot_rx"], e["bot_rx"])}
 
     return cluster_edges
@@ -267,8 +246,7 @@ def intersection_over_union(boxA, boxB, img):
     inter_region = Image.fromarray(img).crop((xA, yA, xB + 1, yB + 1))
     inter_region = np.asarray(inter_region)
 
-    try: #inter_region can be empty
-        # print(np.size(np.ravel(inter_region[:,:,0])))
+    try:  # inter_region can be empty
         w, h = np.size(inter_region, 0), np.size(inter_region, 1)
         inter_n_empty = np.sum([1 for px in inter_region.reshape(w * h, 3) if np.array_equal(px, [255, 255, 255])])
         if inter_n_empty > 0:
@@ -276,9 +254,7 @@ def intersection_over_union(boxA, boxB, img):
     except:
         pass
 
-    # compute the area of both the prediction and ground-truth
-    # rectangles
-
+    # compute the area of both the prediction and ground-truth rectangles
     A_region = Image.fromarray(img).crop(
         (boxA["top_lx"][0], boxA["top_lx"][1], boxA["bot_rx"][0] + 1, boxA["bot_rx"][1] + 1))
     A_region = np.asarray(A_region)
@@ -297,12 +273,7 @@ def intersection_over_union(boxA, boxB, img):
     if B_n_empty > 0:
         boxBArea = B_w * B_h - B_n_empty
 
-    # compute the intersection over union by taking the intersection
-    # area and dividing it by the sum of prediction + ground-truth
-    # areas - the interesection area
     iou = interArea / float(boxAArea + boxBArea - interArea)
-
-    # return the intersection over union value
     return iou
 
 
@@ -378,138 +349,7 @@ def denoise_labels(labels):
     return labels
 
 
-def compute_edit_cost(elements, labels, target_edges):
-    elements = [np.ravel(x) for x in elements]
-    target_labels = cluster_labels_inference(elements, target_edges)
-    target = inverse_clustering(target_labels)
-    edit_cost = slice_algorithm(labels, target)
-    return edit_cost
-
-
-# user interactions
-def compute_user_actions(iou_m, print_costs=False):
-    add_cost = 2#3
-    del_cost = 1#2
-    resize_cost = 1
-
-    total_cost = 0
-    composition = ""
-    n_add =0
-    n_del = 0
-
-    n_clusters = len(iou_m[0, :])
-    n_tables = len(iou_m[:, 0])
-
-    n_nonsparse_cols = n_clusters
-
-    if n_tables > n_clusters:
-        n_add += (n_tables - n_clusters)
-    else:
-        n_del += (n_clusters - n_tables)
-
-    for j in range(n_clusters):
-        if np.any(iou_m[:, j] == 1):
-            n_nonsparse_cols -= 1
-        if np.all(iou_m[:,j] == 0):
-            n_del +=1
-        # n_intersecting = len([x for x in iou_m[:,j] if x ==1])
-        # if n_intersecting >1:
-        #     print("N intersecting is ", n_intersecting)
-        #     print("ioum", iou_m)
-        #     n_nonsparse_cols += 1 #you need one resize
-        #     total_cost = (n_intersecting-1) * add_cost #and n-1 additions
-
-    for i in range(n_tables):
-        if np.all(iou_m[i,:] == 0):
-            total_cost += add_cost
-            n_add +=1
-
-    total_cost += n_add * add_cost
-    total_cost += n_del * del_cost
-    total_cost += n_nonsparse_cols * resize_cost
-    composition += str(n_add) + " add, "
-    composition += str(n_del) + "del, "
-    composition += str(n_nonsparse_cols) + " resizes"
-
-    if print_costs:
-        print(iou_m)
-        print("Total cost:", total_cost, " ", composition)
-    return total_cost, composition
-
-
-# Clusters must be expressed in terms of the elements that belong to them
-
-def slice_algorithm(predicted_labels, target_clusters):
-    """
-    Algorithm to find the split-merge edit distance between two clustering over the same elements.
-    How the algorithm works:
-        For each cluster in the target, build a map that tells in what predicted cluster the elements
-        of the target cluster lie.
-        E.g.: Predicted {[0,1],[2,3]}, Target: {[0,1,2],[3]}
-            For the first target cluster the map looks like {0:2, 1:1} meaning that two elements
-            are in the first predicted cluster and one in the second.
-            
-        Then comes calculation of splits/merges operation. If the predicted cluster contains more elements
-        that don't belong to the target cluster currently under inspection, there is the need for a split.
-        If after the split the cluster is complete as it is, there is no need for a merge.
-        Otherwise, each successive iteration will include a merge with the previous ones.
-        
-        Current split cost: 1 (regardless of # of elements split)
-        Current merge cost: 1 (regardless of # of elements split)
-    
-    Parameters: 
-        predicted_labels: list of integers
-            For each element at index i, stores its predicted cluster label
-        
-        target_clusters: list of lists of integers
-            Each cluster is represented with a list containing the index of the elements that belong to it.
-            E.g. [[0,1],[2,3]]
-            
-    Returns:
-        cost: integer
-            Split-merge edit distance, range [0, inf)
-
-    """
-
-    _, r_sizes = np.unique(predicted_labels, return_counts=True)
-
-    cost = 0
-
-    for t in target_clusters:
-        p_map = {}
-
-        for element in t:
-            if predicted_labels[element] not in p_map:
-                p_map[predicted_labels[element]] = 0
-
-            p_map[predicted_labels[element]] += 1
-
-        # compute cost to generate cluster i
-
-        c_cost = 0
-        total_recs = 0
-
-        for p in p_map:
-            #         add the cost to split Ri
-            count = p_map[p]
-            if r_sizes[p] > count:
-                c_cost += 1  # count #here goes cost function split
-
-            r_sizes[p] -= count
-
-            if total_recs != 0:
-                c_cost += 1  # (total_recs) #here goes cost function merge
-
-            total_recs += count
-
-        cost += c_cost
-
-    return cost
-
-
-def evaluate_IoU(predicted_clusters, target_clusters, img, print_matrix=False, remove_col=False):
-    # What happens in single case of file?
-
+def evaluate_IoU(predicted_clusters, target_clusters, img, print_matrix=False):
     iou_m = np.zeros((len(target_clusters), len(predicted_clusters)))
 
     tmp100 = 0
@@ -536,16 +376,9 @@ def evaluate_IoU(predicted_clusters, target_clusters, img, print_matrix=False, r
                 max = score
         dict_iou[e["region_label"]] = max
 
-    if remove_col:
-        # TODO
-        iou_m.argmax(axis=1)
-
     acc100 = tmp100 / len(target_clusters) * 100
     acc80 = tmp80 / len(target_clusters) * 100
     acc50 = tmp50 / len(target_clusters) * 100
-
-    # if acc50 ==0:
-    #     print_matrix = True
 
     if print_matrix:
         print(iou_m)
@@ -562,155 +395,26 @@ def calculate_W(custom_metric_matrix, labels):
     return W
 
 
-def generate_random_elements(n, file_width, file_height):
-    random_elements = []
-    i = 0
-    while i < n:
-        x0 = random.randint(0, file_width)
-        y0 = random.randint(0, file_height)
-        x1 = random.randint(x0, file_width)
-        y1 = random.randint(y0, file_height)
-
-        redo = False
-        for r in random_elements:
-            if dist_closest(np.asarray([x0, y0, x1, y1]), rectangle_as_array(r)) == 0:
-                redo = True
-                break
-        if redo:
-            continue
-
-        c_x = x0 + np.floor(file_width / 2)
-        c_y = y0 + np.floor(file_height / 2)
-        w = x1 - x0 + 1
-        h = y1 - y0 + 1
-        inner_area = np.random.randint(0, w * h)
-
-        e = {
-            "label": "random_" + str(i),
-            "top_lx": [x0, y0],
-            "bot_rx": [x1, y1],
-            "center": [c_x, c_y],
-            "aspect_ratio": float(w) / h,
-            "width": w,
-            "height": h,
-            "area": w * h,
-            "inner_area": inner_area,
-            "extent": inner_area / (w * h),
-            "diagonal": np.sqrt(file_width ** 2 + file_height ** 2)
-        }
-        random_elements.append(e)
-        i += 1
-    return random_elements
-
-
-def optimal_gap(elements, alpha, beta, gamma, lbp, range_k, n_b=100):
-    n_elements = len(elements)
-
-    W_target = []
-    W_random = []
-
-    file_width = max([e["bot_rx"][0] for e in elements]) + 1
-    file_height = max([e["bot_rx"][1] for e in elements]) + 1
-    p_elements = np.asarray([rectangle_as_array(x) for x in elements])
-    custom_metric_matrix = cdist(p_elements, p_elements,
-                                 metric=lambda x, y, file_width=file_width, file_height=file_height, alpha=alpha,
-                                               beta=beta, gamma=gamma, lbp=lbp:
-                                 parallel_distance(x, y, file_width, file_height, alpha, beta, gamma, lbp))
-
-    n_k = []
-    radius_list = []
-    latest_n_k = -1
-    for k in range_k:
-        db = DBSCAN(eps=k, min_samples=1, metric="precomputed", n_jobs=-1)
-        # db = SpectralClustering(n_clusters = k, affinity = "precomputed")
-        db.fit(custom_metric_matrix)
-        labels = denoise_labels(db.labels_)
-        cur_n_k = len(set(labels))
-        if (cur_n_k > latest_n_k):
-            latest_n_k = cur_n_k
-            W_target.append(calculate_W(custom_metric_matrix, labels))
-            n_k.append(len(set(labels)))
-            radius_list.append(k)
-
-    for b in range(n_b):
-        r_elements = generate_random_elements(n_elements, file_width, file_height)
-
-        if b == 0:
-            img = Image.new("RGB", (file_width, file_height))
-            FACTOR = 20  # Resize before otherwise lines are pixel wide
-            img = img.resize(tuple(np.array(img.size) * FACTOR))
-            draw = ImageDraw.Draw(img, "RGBA")
-            draw_rectangles(draw, r_elements, factor=FACTOR)
-            img.save('random.jpg')
-
-        r_elements = np.asarray([rectangle_as_array(x) for x in r_elements])
-        random_metric_matrix = cdist(r_elements, r_elements,
-                                     metric=lambda x, y, file_width=file_width, file_height=file_height, alpha=alpha,
-                                                   beta=beta, gamma=gamma, lbp=lbp:
-                                     parallel_distance(x, y, file_width, file_height, alpha, beta, gamma, lbp))
-
-        W_tmp = []
-        for k in radius_list:
-            db = DBSCAN(eps=k, min_samples=1, metric="precomputed", n_jobs=-1)
-            # db = SpectralClustering(n_clusters=k, affinity="precomputed")
-            db.fit(random_metric_matrix)
-            labels = denoise_labels(db.labels_)
-            W_tmp.append(calculate_W(random_metric_matrix, labels))
-        W_random.append(W_tmp)
-
-    W_random = np.log(np.array(W_random) + 1)  # np.finfo(float).eps)
-    W_target = np.log(np.array(W_target) + 1)  # np.finfo(float).eps)
-
-    s = np.std(W_random, 0) * np.sqrt(1 + 1 / n_b)
-    W_random = np.median(W_random, 0)
-
-    gap = []
-    for idx, x in enumerate(radius_list):
-        g = W_target[idx] - W_random[idx]
-        gap.append(g)
-
-    gap = np.abs(gap)
-    #    gap = np.array(gap) + np.abs(min(gap))
-
-    for i, x in enumerate(W_random):
-        print("Radius:", radius_list[i], "N clusters", n_k[i], "W_target", W_target[i])
-        print("\tW_random", W_random[i], "Gap", gap[i], "Sk", s[i])
-        print("\t\t Gap - std", gap[i] - s[i])
-
-    # optimal_k = radius_list[-1]
-    # for i, g in enumerate(gap[:-1]):
-    #     if gap[i] >= gap[i + 1]:  # - s[i + 1]:
-    #         optimal_k = radius_list[i]  # biggest k such that gap(k)
-    #         break
-
-    optimal_k = radius_list[np.argmax(gap)]
-
-    return optimal_k, radius_list, gap, W_target, W_random, s
-
-
 def iou_labels(predicted_labels, target_labels):
     """ This function computes the average iou given clusters in the form of element labels
-        IT IS SENSITIVE TO THE ARGUMENTORDER
+        Sensitive to argument order
     """
     iou, target_indices, predicted_indices = dict(), dict(), dict()
 
-
     for cluster in set(target_labels):
-        target_indices[cluster] = set([idx for idx, t in enumerate(target_labels) if t==cluster])
+        target_indices[cluster] = set([idx for idx, t in enumerate(target_labels) if t == cluster])
 
     for cluster in set(predicted_labels):
-        predicted_indices[cluster] = set([idx for idx, t in enumerate(predicted_labels) if t==cluster])
+        predicted_indices[cluster] = set([idx for idx, t in enumerate(predicted_labels) if t == cluster])
 
     for k in target_indices:
         max_iou = 0
-        for pred_k,v in predicted_indices.items():
+        for pred_k, v in predicted_indices.items():
             intersection = len(v.intersection(target_indices[k]))
-            if intersection >0:
-                tmp = intersection/len(v.union(target_indices[k]))
-                max_iou = tmp if tmp>max_iou else max_iou #taking the max
+            if intersection > 0:
+                tmp = intersection / len(v.union(target_indices[k]))
+                max_iou = tmp if tmp > max_iou else max_iou  # taking the max
         iou[k] = max_iou
 
-    avg = np.average([v for k,v in iou.items()], weights = [len(v) for k,v in target_indices.items()])
-    #weighted
+    avg = np.average([v for k, v in iou.items()], weights=[len(v) for k, v in target_indices.items()])
     return iou, avg
-    # return np.average([v for k,v in iou.items()])

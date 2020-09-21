@@ -1,20 +1,13 @@
-import warnings
-from dateutil.parser._parser import UnknownTimezoneWarning
-warnings.simplefilter(action='ignore', category=UnknownTimezoneWarning)
-
 import datetime
 from backports.datetime_fromisoformat import MonkeyPatch
-MonkeyPatch.patch_fromisoformat()
-
 import re
-from enum import Enum
-
-import mondrian.colors as colors
-import numpy as np
+from . import colors as colors
 import dateutil.parser
 
+MonkeyPatch.patch_fromisoformat()
 
-class CellType():
+
+class CellType:
     EMPTY = colors.RGB_WHITE
     NON_EMPTY = colors.RGB_BLACK
     INTEGER = colors.RGB_AQUA
@@ -32,8 +25,6 @@ class customDateParserInfo(dateutil.parser.parserinfo):
 
 
 def parse_cell(val, color=False):
-    # if cell_length else CellType.EMPTY
-
     if not val.split() or val.isspace():
         return CellType.EMPTY
 
@@ -41,10 +32,9 @@ def parse_cell(val, color=False):
         return CellType.NON_EMPTY
 
     comma_split = val.split(",")
-    # it's a number like 1,123 or something
+    # can be a number like 1,123 or something
     if any([len(x) == 3 for x in comma_split]) and not any([x.isalpha() for x in val]):
-        val = re.sub(",", "", val)  # potentially, the float like 1,234 becomes an integer 1234
-
+        val = re.sub(",", "", val)
     elif len(comma_split) == 2 and not any([x.isalpha() for x in val]):
         val = re.sub(",", ".", val)
 
@@ -71,7 +61,6 @@ def parse_cell(val, color=False):
     except ValueError:
         pass
     except TypeError:
-        # print("\tTypeError parsing cell as date:", val)
         pass
 
     if val.isupper():

@@ -1,3 +1,6 @@
+# The functions in this file can be used to partition connected components in a more efficient way than the one used in model.mondrian.find_regions()
+# Conceptually, the results are equivalent to those calculated with mondrian.find_regions()
+
 import numpy as np
 from functools import reduce
 
@@ -36,7 +39,6 @@ def find_external_lines(contour):
             x_add = np.sign(x1 - x0)
             y_add = np.sign(y1 - y0)
 
-            # Recursion is a bitch
             to_add = np.array([[(x0 + x_add), (y0 + y_add)]])
             contour = np.insert(contour, i + 1, to_add, axis=0)
             continue  # don't increment i
@@ -86,7 +88,6 @@ def find_external_lines(contour):
         [x1, y1] = contour[j, 0]
 
     # pair is a pair of sequent points
-
     for pair in line_edges:
 
         [x0, y0], [x1, y1] = pair[0], pair[1]
@@ -200,10 +201,6 @@ def find_external_lines(contour):
                     left.add((x0, y0, y0))
                     bot.add((y0, x0, x0))
                     right.add((x0, y0, y0))
-
-                # right.add((x0, y0, y0))
-                # right or left?
-
             continue
 
         elif pair[2] == 270:
@@ -370,10 +367,10 @@ def find_virtual_lines(ext_lines, hole_lines, concave_vertices):
             virtual_right.add((x0, y_t, y0))
 
             y_t = find_next_parallel(x1, y1, ext_hor, concave_vertices, "top")
-            virtual_left.add((x1, y_t, y1))  # originally y0
+            virtual_left.add((x1, y_t, y1))
 
             x_r = find_next_meridian(x0, y0, ext_ver, concave_vertices, "right")
-            virtual_bot.add((y0, x0, x_r))  # originally x0
+            virtual_bot.add((y0, x0, x_r))
 
             x_r = find_next_meridian(x1, y1, ext_ver, concave_vertices, "right")
             virtual_top.add((y1, x1, x_r))
@@ -384,13 +381,13 @@ def find_virtual_lines(ext_lines, hole_lines, concave_vertices):
             virtual_right.add((x1, y1, y_b))
 
             y_b = find_next_parallel(x0, y0, ext_hor, concave_vertices, "bot")
-            virtual_left.add((x0, y0, y_b))  # originally y1
+            virtual_left.add((x0, y0, y_b))
 
             x_r = find_next_meridian(x0, y0, ext_ver, concave_vertices, "right")
             virtual_bot.add((y0, x0, x_r))
 
             x_r = find_next_meridian(x1, y1, ext_ver, concave_vertices, "right")
-            virtual_top.add((y1, x1, x_r))  # originally x0
+            virtual_top.add((y1, x1, x_r))
 
         elif c[2] == 270:  # ++
 
@@ -398,18 +395,15 @@ def find_virtual_lines(ext_lines, hole_lines, concave_vertices):
             virtual_left.add((x0, y0, y_b))
 
             y_b = find_next_parallel(x1, y1, ext_hor, concave_vertices, "bot")
-            virtual_right.add((x1, y1, y_b))  # originally y0
+            virtual_right.add((x1, y1, y_b))
 
             x_l = find_next_meridian(x0, y0, ext_ver, concave_vertices, "left")
-            virtual_top.add((y0, x_l, x0))  # originally x1
+            virtual_top.add((y0, x_l, x0))
 
             x_l = find_next_meridian(x1, y1, ext_ver, concave_vertices, "left")
             virtual_bot.add((y1, x_l, x1))
 
         elif c[2] == 360:  # -+
-
-            # y_t = find_next_parallel(x1, y1, ext_hor, concave_vertices, "top")
-            # virtual_right.add((x0, y_t, y1))  # originally y1
 
             y_t = find_next_parallel(x1, y1, ext_hor, concave_vertices, "top")
             virtual_left.add((x1, y_t, y1))
@@ -418,9 +412,7 @@ def find_virtual_lines(ext_lines, hole_lines, concave_vertices):
             virtual_top.add((y0, x_l, x0))
 
             x_l = find_next_meridian(x1, y1, ext_ver, concave_vertices, "left")
-            virtual_bot.add((y1, x_l, x1))  # originally x0
-
-    #         print(c[2], "top lines",virtual_h_lines_top)
+            virtual_bot.add((y1, x_l, x1))
 
     return [virtual_top, virtual_bot, virtual_left, virtual_right]
 
@@ -441,7 +433,6 @@ def find_next_parallel(x, y, h_lines, concave_vertices, direction):
         else:
             ret = [min({c[0][1], c[1][1]}) for c in concave_vertices if
                    {c[0][0], c[1][0]} & {x, x} and y < c[0][1]][0]
-            # c[0][1] is the y1 of the vertex
 
     return ret
 
@@ -466,51 +457,9 @@ def find_next_meridian(x, y, v_lines, concave_vertices, direction):
         else:
             ret = [min({c[0][0], c[1][0]}) for c in concave_vertices if
                    {c[0][1], c[1][1]} & {y, y} and x < c[1][0]][0]
-            # c[1][0] is the x1 of the vertex
     return ret
 
-
-def find_holes(contour_index, hierarchy, contours):
-
-    hierarchy = hierarchy[0]
-
-    holes = [contours[idx] for idx,x in enumerate(hierarchy) if x[3] == contour_index]
-    if not holes:
-        return -1
-
-    top = set()
-    bot = set()
-    left = set()
-    right = set()
-
-    #invert them to get the correct stuff
-    for h in holes:
-        [h_top, h_bot, h_left, h_right], _ = find_external_lines(h)
-        # top |= h_top
-        # bot |= h_bot
-        # left|= h_left
-        # right|=h_right
-
-        for ht in h_top:
-            find_next_meridian(ht[0], ht[1], v_lines, concave_vertices, "left")
-
-        top |= set (h_top)
-        bot |= set (h_bot)
-        left|= set (h_left)
-        right|=set (h_right)
-
-    return [top,bot,left,right]
-
-
 def partition_contour(external_lines, virtual_lines, hole_lines):
-    # 1) find outer lines
-    # 2) find inner lines
-    # 3) find intersection points and separate lines accordingly
-    # 4) define top and bot points of rectangles according to orientation of h/v lines
-
-    # horizontal line direction 0: top, 1: bottom
-    # vertical line direction 0: left, 1: right
-
     elements_found = []
 
     sides = reduce(lambda count, l: count + len(l), external_lines, 0)
@@ -525,22 +474,14 @@ def partition_contour(external_lines, virtual_lines, hole_lines):
         elements_found.append([start, end])
         return elements_found
 
-    # merge lines
-
     if hole_lines == -1:
-        hole_lines = [set()]*4
-    top, bot, left, right = list(map(lambda x, y, z : x | y | z, external_lines, virtual_lines, hole_lines))
+        hole_lines = [set()] * 4
+    top, bot, left, right = list(map(lambda x, y, z: x | y | z, external_lines, virtual_lines, hole_lines))
 
     top = merge_lines(top)
     bot = merge_lines(bot)
     left = merge_lines(left)
     right = merge_lines(right)
-
-    # print("\n bot\n", "\n".join(map(str, sorted(list(bot)))))
-    # print("\n left\n", "\n".join(map(str, sorted(list(left)))))
-    # print("\n right\n", "\n".join(map(str, sorted(list(right)))))
-
-    # Find intersecting points
 
     top = split_intersections(top, left, right)
     bot = split_intersections(bot, left, right)
@@ -568,15 +509,12 @@ def partition_contour(external_lines, virtual_lines, hole_lines):
     top_points = sorted(list(top_points), key=lambda x: (x[0], x[1]))
     bot_points = sorted(list(bot_points), key=lambda x: (x[0], x[1]))
 
-    # return top_points, bot_points
-
-    # print("Set of rectangles:")
     for t in top_points:
-        bot_limit = min([x for x in bot if t[0] in range(x[1], x[2]+1) and x[0]>=t[1]])[0]
-        right_limit = min([x for x in right if t[1] in range(x[1], x[2]+1) and x[0]>=t[0]])[0]
+        bot_limit = min([x for x in bot if t[0] in range(x[1], x[2] + 1) and x[0] >= t[1]])[0]
+        right_limit = min([x for x in right if t[1] in range(x[1], x[2] + 1) and x[0] >= t[0]])[0]
 
-        list1 = [b for b in bot_points if b[0]<=right_limit and b[1]<= bot_limit]
-        b= [b for b in list1 if b[0]>= t[0] and b[1]>= t[1]][0]
+        list1 = [b for b in bot_points if b[0] <= right_limit and b[1] <= bot_limit]
+        b = [b for b in list1 if b[0] >= t[0] and b[1] >= t[1]][0]
 
         bot_points.remove(b)
         elements_found.append([t, b])

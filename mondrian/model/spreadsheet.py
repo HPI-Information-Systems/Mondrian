@@ -1,22 +1,23 @@
-import functools
-import itertools
 import json
 import ntpath
-import time
+import os
+import pickle
 
 import matplotlib
 import networkx as nx
-from networkx.drawing.layout import rescale_layout, planar_layout
+import numpy as np
+from pathlib import Path
+
 import matplotlib.pyplot as plt
-from networkx.drawing.nx_pydot import write_dot
-from scipy.interpolate import interp1d
+from PIL.Image import Image
+from PIL.ImageDraw import ImageDraw
+
 from scipy.stats import rankdata
 
-from mondrian.model.mondrian import *
-from mondrian.model.region import *
-from mondrian.visualization import *
-from mondrian.clustering import *
-import mondrian.colors as colors
+from .mondrian import find_regions
+from .region import Region
+from .. import colors as colors
+from ..visualization import table_as_image, draw_rectangles, draw_grid
 
 
 class Spreadsheet:
@@ -31,13 +32,9 @@ class Spreadsheet:
         self.color_list = None
         self.similar_files = set([self.filename])
 
-        # self.img = table_as_image(file_path, delimiter=delimiter)
-        # self.color_img = table_as_image(file_path, delimiter=delimiter, color=True)
-        # self.height, self.width, _ = np.shape(self.img)
-
         try:
             region_path = save_path + self.filename + "_regions.json"
-            empty_path = save_path + self.filename + "_empty_regions.json"  # TODO Remove empty regions altogether?
+            empty_path = save_path + self.filename + "_empty_regions.json"
             self.regions = self.restore(region_path)
             self.empty_regions = self.restore(empty_path)
 
@@ -55,8 +52,6 @@ class Spreadsheet:
             if save_path:
                 self.save(region_path, self.regions)
                 self.save(empty_path, self.regions)
-
-        # del self.img, self.color_img
 
         if printing:
             im = Image.fromarray(color_img)

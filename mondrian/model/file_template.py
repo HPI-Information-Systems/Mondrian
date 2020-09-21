@@ -1,28 +1,20 @@
 from __future__ import print_function
 import builtins as __builtin__
-import pdb
+import time
 
 import warnings
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-from multiprocessing.pool import Pool
-import itertools, multiprocessing, scipy, functools
+import itertools
 
-import cv2 as cv
 import numpy as np
 import networkx as nx
-import dask.dataframe as dd
-import pandas as pd
-from joblib import Parallel, delayed, parallel_backend
-from mondrian.clustering import cdist_generic
+from joblib import Parallel, delayed
 from scipy.optimize import linear_sum_assignment
-from sklearn.metrics import pairwise_distances
-from pympler import summary, muppy, asizeof, refbrowser, tracker
 
-from .region import region_similarity, parallel_region_sim, DIRECTION_NONE
-from .stub import *
+from .region import parallel_region_sim, DIRECTION_NONE
 
 
 def print(*args, **kwargs):
@@ -36,8 +28,6 @@ def edge_similarity(edge_a, edge_b):
     dist *= np.linalg.norm(w_a - w_b) / np.max(np.abs(np.append(w_a, w_b)))
 
     return 1 - dist
-    # dist *= np.abs(w_a - w_b) / max(np.abs(w_a), np.abs(w_b))
-    # return dist < EDGE_THRESHOLD
 
 
 def neigh_props(m, n, i, j):
@@ -59,7 +49,6 @@ def parallel_matrix_indices(pair_obj):
 
 
 def edge_dist(p):
-    # direction,weight,dist
     edge_a, edge_b = p[0], p[1]
     if edge_a["direction"] == DIRECTION_NONE or edge_b["direction"] == DIRECTION_NONE:
         return 0
@@ -68,16 +57,10 @@ def edge_dist(p):
     dist = int(edge_a["direction"] == edge_b["direction"])
     dist *= np.linalg.norm(w_a - w_b) / np.max(np.abs(np.append(w_a, w_b)))
 
-    # dir_a, weight_a, dist_a, dir_b, weight_b, dist_b, = p[0], p[1],p[2],p[3],p[4],p[5]
-    # w_a = np.asarray([weight_a, dist_a])
-    # w_b = np.asarray([weight_b, dist_b])
-    # dist = int(dir_a == dir_b)
-    # dist *= np.linalg.norm(w_a - w_b) / np.max(np.abs(np.append(w_a, w_b)))
-
     return 1 - dist
 
 
-def propagation_func(p):  # edges_a, edges_b, u, n_u, v, n_v):
+def propagation_func(p):
     edges_a, edges_b, u, n_u, v, n_v = p[2], p[3], p[0][0], p[0][1], p[1][0], p[1][1]
     try:
         edge_a = edges_a[u, n_u]
@@ -87,12 +70,10 @@ def propagation_func(p):  # edges_a, edges_b, u, n_u, v, n_v):
 
     w_a = np.asarray([edge_a["weight"], edge_a["distance"]])
     w_b = np.asarray([edge_b["weight"], edge_b["distance"]])
-    # dist = int(edge_a["direction"] == edge_b["direction"])
-    # dist *= np.linalg.norm(w_a - w_b) / np.max(np.abs(np.append(w_a, w_b)))
 
     m = np.max([w_a, w_b], axis=0)
     m[m == 0] = 1
-    sim = 1 - np.linalg.norm(w_a / m - w_b / m, axis=0) / np.sqrt(2)  # sqrt(2) is max achievable
+    sim = 1 - np.linalg.norm(w_a / m - w_b / m, axis=0) / np.sqrt(2)
 
     return sim
 
@@ -102,7 +83,6 @@ def unisim(s0, edge_propagation, n_jobs=1):
     mwm = linear_sum_assignment(1 - node_sim)  # function minimizes weights
     node_match = list(zip(mwm[0], mwm[1]))
 
-    # sim_mismatch = (len(node_match))/max(len(layout_a.nodes), len(layout_b.nodes))
     node_diff = np.abs(np.diff(s0.shape)[0])
     return np.average([node_sim[i, j] for i, j in node_match] + [0] * node_diff)
 
@@ -120,14 +100,10 @@ def similarity_flooding(s0, edge_propagation, SIM_EPS=0.1, N_ITER=10, n_jobs=1):
     while not terminate:
 
         n_works = n_jobs
-        # list_pairs = list(itertools.product(range(m), range(n)))
         list_pairs = [(sim[i, j], s0[i, j], s0, sim, list_edge_neigh[i + j * m]) for i in range(m) for j in range(n)]
 
         list_works = np.array_split(list_pairs, n_works)
-        # TODO MEMSHARE IS OK?
         new_sim = Parallel(n_jobs=n_jobs)(delayed(
-            # new_sim = Parallel(n_jobs = n_jobs, prefer="threads", require ="memshare")(delayed(
-            #       lambda pair_list: [sim[i, j] * (s0[i,j] + sum(np.max((s0 + sim) * list_edge_neigh[i+j*m], axis=1))) for i,j
             lambda pair_list: [p[0] * (p[1] + sum(np.max((p[2] + p[3]) * p[4], axis=1))) for p
                                in pair_list])(w) for w in list_works)
         new_sim = [x for lst in new_sim for x in lst]
@@ -137,7 +113,6 @@ def similarity_flooding(s0, edge_propagation, SIM_EPS=0.1, N_ITER=10, n_jobs=1):
         norm_sim[np.isnan(norm_sim)] = 0
         delta_sim = np.linalg.norm(norm_sim - sim)
         if delta_sim < SIM_EPS or n_iter >= N_ITER:
-            # print(f"\tTerminating with d={delta_sim} and i={n_iter}")
             terminate = True
         sim = norm_sim
         n_iter += 1
@@ -171,11 +146,6 @@ def layout_similarity(layout_a, layout_b):
     else:
         b_sim_a = unisim(s0.transpose(), edge_propagation.transpose())
 
-    # if a_sim_b == b_sim_a:
-    #     if 1 not in s0.shape:
-    #         print("\tSymmetrical, shapes", np.shape(s0))
-    # else:
-    #     print("\tDifferent, shape", s0.shape)
     avg_sim = np.average([a_sim_b, b_sim_a])
     return avg_sim
 
@@ -187,4 +157,4 @@ class FileTemplate:
         self.file_list = [spreadsheet.filename]
 
     def recompute_layout(self):
-        self.layout = []  # average for spreadsheet in ssheet list
+        self.layout = []

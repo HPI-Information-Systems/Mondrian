@@ -1,16 +1,23 @@
-from multiprocessing.pool import Pool
-import pdb
-import time
+import itertools
+import pickle
 
 import networkx as nx
-from mondrian.model.region import *
-from mondrian.visualization import *
-from mondrian.clustering import *
-import mondrian.colors as colors
-from scipy.special._ufuncs import binom
+import numpy as np
+
+import cv2 as cv
+from PIL.Image import Image
+from PIL.ImageDraw import ImageDraw
+
+from joblib import Parallel, delayed
+from sklearn.cluster import DBSCAN
+
+from .region import Region, rectangles_from_lines, dominating, region_adjacency, region_distance
+from ..clustering import cdist_generic, denoise_labels
+from ..distances import parallel_distance
+from ..visualization import table_as_image
 
 '''
-Class that is used to abstract the computer vision algorithm specific things.
+Class that is used to encapsulate the Mondrian algorithms.
 Partitioning, clustering, etc. etc.
 '''
 
@@ -18,34 +25,6 @@ RADIUS = 1
 ALPHA = 1
 BETA = 0.5
 GAMMA = 10
-
-
-def neighbors(pixel, img):
-    '''
-    If the neighbors are empty, they will contain a 0
-    '''
-
-    height, width, _ = np.shape(img)
-    x, y = pixel
-    if x - 1 >= 0:
-        n_left = int(all(img[y, x - 1] == [0, 0, 0]))
-    else:
-        n_left = 0
-    try:
-        n_right = int(all(img[y, x + 1] == [0, 0, 0]))
-    except IndexError:
-        n_right = 0
-    if y - 1 >= 0:
-        n_top = int(all(img[y - 1, x] == [0, 0, 0]))
-    else:
-        n_top = 0
-    try:
-        n_bot = int(all(img[y + 1, x] == [0, 0, 0]))
-    except IndexError:
-        n_bot = 0
-
-    return [n_left, n_bot, n_right, n_top]
-
 
 def find_regions(spreadsheet, partitioning=True, inverse_regions=None, inverse=False):
     if inverse_regions is None:
@@ -96,7 +75,6 @@ def find_regions(spreadsheet, partitioning=True, inverse_regions=None, inverse=F
                 drawable_cnt = list(np.append(contours[j].flatten(), contours[j].flatten()[0:2]))
                 draw.polygon(drawable_cnt, fill=(0, 0, 0))  # empty sons
                 draw.line(drawable_cnt, fill=(255, 255, 255))  # but contour is full
-                # check if only print inner though
                 cnt = np.vstack((cnt, contours[j]))
 
         detail_img = np.asarray(detail_img)
@@ -131,26 +109,47 @@ def find_regions(spreadsheet, partitioning=True, inverse_regions=None, inverse=F
                 detail_img = 255 - img
             partitions = [p for p in partitions if (
                     detail_img[p[1]: p[3] + 1, p[0]: p[2] + 1]  # if roi is completely black
-                    == [0, 0, 0]).all(axis=2).all()
-                          ]
+                    == [0, 0, 0]).all(axis=2).all()]
 
             before_dom = len(partitions)
-            start = time.time()
             to_delete = Parallel(n_jobs=-1)(delayed(dominating)(a, b) for a, b in itertools.combinations(partitions, 2))
-            # to_delete = [dominating(a, b) for a, b in itertools.combinations(partitions, 2)]
             to_delete = [d for d in to_delete if d is not None]
             [partitions.remove(d) for d in set(to_delete)]
-            if time.time() - start > 1:
-                print("\tBefore dominance I had", before_dom, "partitions")
-                print("\tTook", time.time() - start, "s to remove dominant")
 
         regions |= set(partitions)
 
     return regions
 
+def neighbors(pixel, img):
+    '''
+    Function used to check for a given pixel the content of neighboring pixels.
+    '''
+
+    height, width, _ = np.shape(img)
+    x, y = pixel
+    if x - 1 >= 0:
+        n_left = int(all(img[y, x - 1] == [0, 0, 0]))
+    else:
+        n_left = 0
+    try:
+        n_right = int(all(img[y, x + 1] == [0, 0, 0]))
+    except IndexError:
+        n_right = 0
+    if y - 1 >= 0:
+        n_top = int(all(img[y - 1, x] == [0, 0, 0]))
+    else:
+        n_top = 0
+    try:
+        n_bot = int(all(img[y + 1, x] == [0, 0, 0]))
+    except IndexError:
+        n_bot = 0
+
+    return [n_left, n_bot, n_right, n_top]
+
+
 
 def merge_nodes(spreadsheet, G, list_nodes):
-    while len(list_nodes) > 0:  # check for merging
+    while len(list_nodes) > 0: 
         e = list_nodes[0]
         merged = False
         for v in G[e]:
@@ -178,7 +177,7 @@ def merge_nodes(spreadsheet, G, list_nodes):
                     try:
                         list_nodes.remove(v)
                     except ValueError:
-                        pass  # this doesn't matter, if means it was previously inspected
+                        pass  # this means it was previously inspected
                     list_nodes.remove(e)
                     G.remove_node(v)
                     G.remove_node(e)
@@ -194,10 +193,7 @@ def merge_nodes(spreadsheet, G, list_nodes):
 def calculate_layout(region_objects, save_path = None, overwrite= ""):
     G = nx.Graph()
     G.add_nodes_from([(str(r), {"region": r}) for r in region_objects])
-    # G.add_nodes_from([(str(r), {"region": r}) for r in empty_regions])
 
-    # if overwrite != "":
-    #     print("Overwriting file layouts")
     try:
         edges = pickle.load(open(save_path+overwrite, "rb"))
     except:
@@ -209,38 +205,6 @@ def calculate_layout(region_objects, save_path = None, overwrite= ""):
     G.add_edges_from([e for e in edges if e[2]["weight"] != 0])
     return G
 
-    # G.add_edges_from(edges) #includes Diagonal distance
-
-    # edges = Parallel(n_jobs=n_cores)(
-    # delayed(lambda r1, r2: (r1, r2, region_distance(G.nodes[r1]["region"], G.nodes[r2]["region"])))
-    # (r1, r2) for r1, r2 in itertools.combinations(G.nodes, 2))
-
-    # try:
-    #     assert(len(G.nodes)==(len(regions)+len(empty_regions)))
-    # except:
-    #     print("Intersection", set([str(r) for r in regions]).intersection([str(r) for r in empty_regions]))
-    #     raise AssertionError
-
-    # for r1, r2 in itertools.combinations(G.nodes, 2):
-    #     dict_dist = region_distance(G.nodes[r1]["region"], G.nodes[r2]["region"])
-    #     if dict_dist["weight"] != 0:
-    #         G.add_edge(r1, r2, **dict_dist)
-
-    # G = merge_nodes(G, [v for v in G if G.nodes[v]["region"].type == "empty"])
-    #
-    # for e in [x for x in G.nodes if G.nodes[x]["region"].type == "empty"]:
-    #     delete = True
-    #     for r1, r2 in itertools.combinations(G[e], 2):
-    #         # delete only if it's completely surrounded by empty nodes
-    #         # if not G.has_edge(r1, r2) and \
-    #         if G.nodes[r1]["region"].type != "empty" and G.nodes[r2]["region"].type != "empty":
-    #             delete = False
-    #             break
-    #     if delete:
-    #         G.remove_node(e)
-
-
-
 class Mondrian:
 
     def __init__(self, alpha=ALPHA, beta=BETA, gamma=GAMMA, radius=RADIUS):
@@ -248,14 +212,9 @@ class Mondrian:
         self.beta = beta
         self.gamma = gamma
         self.radius = radius
-        # print if radius = "BEST"
 
     def cluster_regions(self, spreadsheet, min_samples=1, n_jobs=-1):
         p_regions = np.asarray([r.asarray() for r in spreadsheet.regions])
-        # distances = pairwise_distances(X=p_regions, metric=parallel_distance, n_jobs=n_jobs,
-        #                                file_width=width, file_height=height, alpha=alpha, beta=beta,
-        #                                gamma=gamma)
-
         img = table_as_image(spreadsheet.file_path)
         height, width, _ = np.shape(img)
 
@@ -265,7 +224,6 @@ class Mondrian:
                                   gamma=self.gamma)
 
         db = DBSCAN(eps=self.radius, min_samples=min_samples, metric="precomputed", n_jobs=n_jobs)
-        # db = SpectralClustering(n_clusters=eps, affinity="precomputed", n_jobs=n_jobs)
         db.fit(distances)
 
         labels = denoise_labels(db.labels_)
@@ -283,66 +241,3 @@ class Mondrian:
                                       "bot_rx": np.maximum(current["bot_rx"], r.bot_rx).astype(int)}
 
         return [(*e["top_lx"], *e["bot_rx"]) for e in cluster_edges]
-
-    # def calculate_old_layout(self, regions, empty_regions):
-    #
-    #     G = nx.Graph()
-    #     G.add_nodes_from(regions)
-    #     G.add_nodes_from(empty_regions)
-    #     assert (len(G.nodes) == (len(regions) + len(empty_regions)))
-    #
-    #     for r1, r2 in itertools.combinations(G.nodes, 2):
-    #         d, w = region_adjacency(r1, r2)
-    #         if w != 0:
-    #             G.add_edge(r1, r2, direction=d, weight=w)
-    #
-    #     G = self.merge_old_nodes(G, [v for v in G if v.type == "empty"])
-    #
-    #     for e in [x for x in G.nodes if x.type == "empty"]:
-    #         delete = True
-    #         for r1, r2 in itertools.combinations(G[e], 2):
-    #             # if not G.has_edge(r1, r2) and \
-    #             if r1.type != "empty" and r2.type != "empty":  # delete only if it's completely surrounded by empty nodes
-    #                 delete = False
-    #         if delete:
-    #             G.remove_node(e)
-    #
-    #     return G
-    #
-    # def merge_old_nodes(self, graph, list_nodes):
-    #     G = graph
-    #     while len(list_nodes) > 0:  # check for merging
-    #         e = list_nodes[0]
-    #         merged = False
-    #         for v in G[e]:
-    #             if v.type == e.type:
-    #                 # if they have no shared neighbors OR any of the shared neighbors has same direction
-    #                 shared_neighbors = set(G[v]).intersection(set(G[e]))
-    #                 if shared_neighbors == {} or all(
-    #                         [G[v][n]["direction"] == G[e][n]["direction"] for n in shared_neighbors]):
-    #                     new_top_lx = [min(v.top_lx[0], e.top_lx[0]), min(v.top_lx[1], e.top_lx[1])]
-    #                     new_bot_rx = [max(v.bot_rx[0], e.bot_rx[0]), max(v.bot_rx[1], e.bot_rx[1])]
-    #                     new_node = Region((*new_top_lx, *new_bot_rx), e.filename, self.color_img, type=e.type)
-    #
-    #                     G.add_node(new_node)
-    #                     for n in set(G[v]) | set(G[e]):
-    #                         d, w = region_adjacency(n, new_node)
-    #                         if w != 0:
-    #                             G.add_edge(n, new_node, direction=d, weight=w)
-    #
-    #                     list_nodes.append(new_node)
-    #                     try:
-    #                         list_nodes.remove(v)
-    #                     except ValueError:
-    #                         pass  # this doesn't matter, if means it was previously inspected
-    #                     list_nodes.remove(e)
-    #                     G.remove_node(v)
-    #                     G.remove_node(e)
-    #                     merged = True
-    #                     break
-    #                 else:
-    #                     continue
-    #         if not merged:
-    #             list_nodes = list_nodes[1:]
-    #
-    #     return G

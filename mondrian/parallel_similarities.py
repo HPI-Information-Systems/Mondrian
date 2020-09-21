@@ -1,34 +1,18 @@
 from __future__ import print_function
 import builtins as __builtin__
-import pdb
-import sys, os
-from numba import jit
-from scipy.sparse import csr_matrix, coo_matrix
+from scipy.sparse import coo_matrix
 from scipy.special._ufuncs import binom
-from tqdm.contrib.concurrent import process_map  # or thread_map
-from tqdm import tqdm
-
-import warnings
-
-warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from multiprocessing.pool import Pool
-import itertools, multiprocessing, scipy, functools
+import itertools
 
-import cv2 as cv
 import numpy as np
 import networkx as nx
-import dask.dataframe as dd
 import pandas as pd
-from joblib import Parallel, delayed, parallel_backend
 import time
-from mondrian.clustering import cdist_generic
 from scipy.optimize import linear_sum_assignment
-from sklearn.metrics import pairwise_distances
-from pympler import summary, muppy, asizeof, refbrowser, tracker
 
-from .model.region import region_similarity, parallel_region_sim, DIRECTION_NONE
+from .model.region import parallel_region_sim, DIRECTION_NONE
 
 
 def print(*args, **kwargs):
@@ -43,10 +27,8 @@ def parallel_neigh_props(m, n, i, j, edge_prop):
     indices_y += list(range(max(indices_y) + 1, max(indices_y) + n - len(indices_y) + 1))
     indices_y = np.asarray(indices_y)
 
-    # return (indices_x[:, None], indices_y)
     return edge_prop[indices_y,indices_x[:, None]]
 
-#TODO: Update edge sim also non-parallel
 def vectorized_edge_sim(direction_a, direction_b, weight_a, weight_b, distance_a, distance_b):
     z = np.array([DIRECTION_NONE] *len(direction_a))
     nonzero = (direction_a == direction_b) & (direction_a != z) & (direction_b != z)  # only consider where directions are equal and not none

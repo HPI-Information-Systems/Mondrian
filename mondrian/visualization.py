@@ -3,34 +3,35 @@ import os
 import pickle
 import random
 import PIL
+import numpy as np
 from pathlib import Path
 from PIL import Image, ImageFont
-from mondrian.parsing import parse_cell
 from skimage import feature
 
 import cv2 as cv
 import matplotlib.pyplot as plt
 from PIL import ImageDraw
 
-import mondrian.colors as colors
-from mondrian.partition import *
+from . import colors as colors
+from .parsing import parse_cell
+
+from .partition import find_external_lines, partition_contour, find_virtual_lines
 
 
 def lbp_describe(image, numPoints=8, radius=1, eps=1e-7):
-    # compute the Local Binary Pattern representation
-    # of the image, and then use the LBP representation
-    # to build the histogram of patterns
+    """
+    This function computes the Local Binary Pattern representation
+    of the image, and then use the LBP representation
+    to build the histogram of patterns
+    """
     lbp = feature.local_binary_pattern(image, numPoints,
                                        radius, method="uniform")
     (hist, _) = np.histogram(lbp.ravel(),
                              bins=np.arange(0, numPoints + 3),
                              range=(0, numPoints + 2))
 
-    # normalize the histogram
     hist = hist.astype("float")
     hist /= (hist.sum() + eps)
-
-    # return the histogram of Local Binary Patterns
     return hist
 
 
@@ -83,10 +84,8 @@ def table_as_image(path, delimiter=',', color=False, cell_length=False):
     return img
 
 
-# RETR_CCOMP
 def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
-    '''
-
+    ''' This function finds the components of a table, whether connected or after partitioning.
     :param img: np.array
     :param partitioning: bool
     :param lbp: bool
@@ -106,20 +105,11 @@ def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
         except:
             save = True
 
-    # Padding and depadding necessary?
     img = 255 - cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     contours, hierarchy = cv.findContours(img, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE, None, 1)
 
-    # img, contours, hierarchy = cv.findContours(img, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE, None, 1)
-
-    # [Next, Previous, First_Child, Parent]
-    # print("Hierarchies:\n",hierarchy,"\n")
-
-    # tmp = [c for idx,c in enumerate(contours) if hierarchy[0,idx,2]==-1]
-
     elements_found = []
     for idx, c in enumerate(contours):
-        # if hierarchy[0,idx,2]==-1:
         label = idx
         inner_area = cv.contourArea(c)
         x, y, width, height = cv.boundingRect(c)
@@ -128,7 +118,6 @@ def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
         c_y = y + np.floor(height / 2)
         area = width * height
 
-        # this means the element is a single line
         if area == 0:
             area = inner_area
         extent = inner_area / area
@@ -154,17 +143,11 @@ def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
         if lbp:
             region = Image.fromarray(img).crop((x, y0, x1 + 1, y1 + 1))
             region = np.asarray(region)
-            # print(region)
-            # region = cv.cvtColor(region, cv.COLOR_RGB2GRAY)
             h = lbp_describe(region, numPoints=8, radius=8)
             e["lbp"] = h
 
         elements_found.append(e)
 
-    # print("Found ",np.size(elements_found)," elements")
-    # print('\n'.join(map(str, elements_found)))
-
-    # noinspection Duplicate
     if partitioning:
         elements_found = []
         for c in contours:
@@ -336,7 +319,7 @@ def save_colored_image(img, path):
     to_save = np.concatenate((to_save, to_save, to_save), axis=2)
     mask = (to_save != 0)
 
-    to_save[:, :, 0] % 180
+    to_save[:, :, 0] %= 180
     to_save[:, :, 1] = 255
     to_save[:, :, 2] = 255
     to_save *= mask
@@ -348,8 +331,8 @@ def save_colored_image(img, path):
 
 def save_image(img, path, grid=False):
     im = Image.fromarray(img)
-    FACTOR = 20  # Resize before otherwise lines are pixel wide
-    im = im.resize(tuple(np.array(im.size) * FACTOR), resample = PIL.Image.NEAREST)
+    FACTOR = 20
+    im = im.resize(tuple(np.array(im.size) * FACTOR), resample=PIL.Image.NEAREST)
     if grid:
         rows, cols = np.shape(img)[0:2]
         height, width = im.height, im.width
@@ -360,7 +343,6 @@ def save_image(img, path, grid=False):
         h_lines = [(y - line_width, 0, width) for y in y_points]
         draw = ImageDraw.Draw(im)
         draw_lines(draw, [h_lines, h_lines, v_lines, v_lines], color=tuple(colors.RGB_BLACK), width=line_width)
-        # draw.line(xy=(0,0,0,123), fill=colors.RGB_BLACK, width=23)
 
     Path(os.path.split(path)[0]).mkdir(parents=True, exist_ok=True)
     im.save(path)
@@ -396,20 +378,21 @@ def draw_lines(draw, lines, color=(255, 0, 0), width=5, factor=1):
     return draw
 
 
-def draw_grid(draw, img_size, color, factor=1, line_width=1, text= False, text_color=None):
+def draw_grid(draw, img_size, color, factor=1, line_width=1, text=False, text_color=None):
     h, w, _ = img_size
 
     for x in range(w):
-        draw.line([x * factor, 0, x * factor, h*factor], fill=color, width=line_width)
+        draw.line([x * factor, 0, x * factor, h * factor], fill=color, width=line_width)
     for y in range(h):
-        draw.line([0, y * factor, w*factor, y * factor], fill=color, width=line_width)
+        draw.line([0, y * factor, w * factor, y * factor], fill=color, width=line_width)
 
     if text:
-        font = ImageFont.truetype("arial.ttf", int(factor/3))
+        font = ImageFont.truetype("arial.ttf", int(factor / 3))
 
-        for i,x in enumerate(range(w)):
+        for i, x in enumerate(range(w)):
             for j, y in enumerate(range(h)):
-                draw.text([x*factor+int(factor/6), y*factor+int(factor/6)], text=str(i)+","+str(j), fill = text_color, font=font)
+                draw.text([x * factor + int(factor / 6), y * factor + int(factor / 6)], text=str(i) + "," + str(j), fill=text_color, font=font)
+
 
 def draw_rectangles(draw, rectangles, labels=None, factor=1, color=None, out_color=None, alpha=255, width=0):
     """
@@ -432,14 +415,10 @@ def draw_rectangles(draw, rectangles, labels=None, factor=1, color=None, out_col
         if labels is not None:
             random.seed(labels[i])  # same label, same color
         if color is None:
-            # r = random.randint(0, 255)
-            # g = random.randint(0, 255)
-            # b = random.randint(0, 255)
-            # draw_color = (r, g, b, alpha)
             draw_color = (*colors.rgb_region_colors[i % len(colors.rgb_region_colors)], alpha)
         else:
-            draw_color = (*color,alpha)
-        outline = (*out_color,alpha) if out_color is not None else draw_color
+            draw_color = (*color, alpha)
+        outline = (*out_color, alpha) if out_color is not None else draw_color
 
         draw.rectangle(rect, fill=draw_color, outline=outline, width=width)
 
@@ -449,17 +428,13 @@ def draw_rectangles(draw, rectangles, labels=None, factor=1, color=None, out_col
 
 
 def print_images(fname, img, predicted_labels, predicted_cluster_edges, target_cluster_edges):
-    # img = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
     im = Image.fromarray(img)
-    FACTOR = 20  # Resize before otherwise lines are pixel wide
+    FACTOR = 20
     im = im.resize(tuple(np.array(im.size) * FACTOR))
     im = im.convert("RGB")
     gold_im = im.copy()
     draw = ImageDraw.Draw(im, "RGBA")
     gold_draw = ImageDraw.Draw(gold_im, "RGBA")
-    # draw_rectangles(draw, predicted_cluster_edges, factor=FACTOR, alpha=125, width=3)
-    # draw_rectangles(gold_draw, target_cluster_edges, factor=FACTOR, alpha=200, width=3)
-    # im.show()
 
     draw = ImageDraw.Draw(im)
     images = [im, gold_im]

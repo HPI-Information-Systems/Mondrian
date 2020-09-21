@@ -1,5 +1,4 @@
 import itertools
-import json
 
 import numpy as np
 import cv2 as cv
@@ -10,21 +9,14 @@ DIRECTION_V = 2
 DIRECTION_O = 3
 
 def parallel_region_sim(r1,r2):
-    # return [np.abs(cv.compareHist(pair[0], pair[1], method=cv.HISTCMP_CORREL)) for pair in lst_pairs]
     return np.abs(cv.compareHist(r1, r2, method = cv.HISTCMP_CORREL))
 
 def region_similarity(region_a, region_b):
     w_a, h_a, hist_a = region_a.width, region_a.height, region_a.color_hist
     w_b, h_b, hist_b = region_b.width, region_b.height, region_b.color_hist
-
-    # w_diff = np.abs(w_a - w_b) / max(w_a, w_b)  # increased weight if regions are smaller
-    # h_diff = np.abs(h_a - h_b) / max(h_a, h_b)
     hist_correl = np.abs(cv.compareHist(hist_a, hist_b, method=cv.HISTCMP_CORREL))
-    # return 1-np.average([w_diff, h_diff, hist_diff])
     return hist_correl
 
-
-# noinspection DuplicatedCode,DuplicatedCode
 def region_adjacency(region_a, region_b):
     """
     Returns 0 if the regions are either the same or not adjacent.
@@ -82,7 +74,6 @@ def region_distance(region_a, region_b):
             DIRECTION_H if they share x axis
             DIRECTION_V if they share Y axis
             DIRECTION_NONE if they don't share any axis
-
     """
 
     if region_a.top_lx == region_b.top_lx and region_a.bot_rx == region_b.bot_rx:
@@ -119,13 +110,11 @@ def intersecting(line_a, line_b):
 
 
 def dominating(region_a, region_b):
-    # Returns the dominated region (the subset) if there's intersection between the two
-    # x0_a, y0_a, x1_a, y1_a = *region_a["top_lx"], *region_a["bot_rx"]
-    # x0_b, y0_b, x1_b, y1_b = *region_b["top_lx"], *region_b["bot_rx"]
+    """ Returns the dominated region (the subset) if there's intersection between the two
+    """
     x0_a, y0_a, x1_a, y1_a = region_a
     x0_b, y0_b, x1_b, y1_b = region_b
 
-    # coordinates of the intersection rectangle
     x = max(x0_a, x0_b)
     y = max(y0_a, y0_b)
     w = min(x0_a + x1_a, x0_b + x1_b) - x
@@ -145,7 +134,6 @@ def rectangles_from_lines(lines):
     bot_x = max([l[1] for l in lines if l[0] == "v"]) - 1
     bot_y = max([l[1] for l in lines if l[0] == "h"]) - 1
 
-    # return {"top_lx": [top_x, top_y], "bot_rx": [bot_x, bot_y]}
     return (top_x, top_y, bot_x, bot_y)
 
 
@@ -166,10 +154,6 @@ class Region:
 
         if color_hist is None:
             content = img[y0:y1 + 1, x0:x1 + 1, :]
-            #hist = cv.calcHist(images, channels, mask, histSize, ranges)
-            # hist = cv.calcHist([content], [0, 1, 2], None, [64, 64, 64],
-            #                    [0, 256, 0, 256, 0, 256])
-            # self.color_hist = cv.normalize(hist, hist).flatten()
             b_hist = cv.calcHist([content], [0], None, [64], (0,256))
             b_hist = cv.normalize(b_hist, b_hist)
             g_hist = cv.calcHist([content], [1], None, [64], (0,256))
@@ -192,18 +176,10 @@ class Region:
 
     def __str__(self):
         out = ""
-        # out += "Region boundaries:"
         out += str(self.top_lx)
         out += "\n"
         out += str(self.bot_rx)
         return out
-        # return self.filename+out
-
-    # def __eq__(self, obj):
-    #     return isinstance(obj, Region) and str(obj) == str(self)
-    #
-    # def __neq__(self, obj):
-    #     return not self==obj
 
     def asarray(self):
         """To be used in order to paralallelize the distance measure"""
