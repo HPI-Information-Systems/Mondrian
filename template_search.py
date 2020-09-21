@@ -1,30 +1,36 @@
-# <editor-fold desc="Imports">
 from __future__ import print_function
+
+import json
+import multiprocessing
+import os
+import pickle
+import time
+from pathlib import Path
+
+import numpy as np
 import networkx as nx
+import pandas as pd
 
 import builtins as __builtin__
 import tqdm as tqdm
 import warnings
-from mondrian.parallel_similarities import parallel_layout_similarity
+
 from numpy import VisibleDeprecationWarning
+from sklearn.metrics import normalized_mutual_info_score, adjusted_mutual_info_score, homogeneity_score, completeness_score, v_measure_score
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.filterwarnings("ignore", category=VisibleDeprecationWarning)
 import argparse
 from pathos.multiprocessing import ProcessingPool as Pool
 
-from sklearn.metrics import *
-
-from mondrian.clustering import *
-from mondrian.model.file_template import *
-from mondrian.model.region import *
-from mondrian.model.spreadsheet import Spreadsheet, calculate_layout
+from .mondrian.model.spreadsheet import Spreadsheet
+from .mondrian.clustering import iou_labels
+from .mondrian.model.region import parallel_region_sim
+from .mondrian.parallel_similarities import parallel_layout_similarity
+from .mondrian.model.mondrian import calculate_layout
 
 pd.options.mode.chained_assignment = None
 
-# </editor-fold>
-
-# os.environ["LOKY_PICKLER"] = "pickle"
 DELIMITER = ","
 OVERWRITE = "yes"
 SUBSET_START = 0
@@ -41,18 +47,17 @@ def print(*args, **kwargs):
     return __builtin__.print(f"\033[94m{time.process_time()}:\033[0m", *args, **kwargs)
 
 
-def assess_pair(m, n, allthresholds = False):  # row
+def assess_pair(m, n, allthresholds = False):
     if not allthresholds:
         if min(m, n) / max(m, n) < 0.7:
             return "easy"
-    if np.mean([m, n]) < 100:  # upperbound
+    if np.mean([m, n]) < 100:
         return "easy"
     else:
         return "hard"
 
 
 def main():
-    # <editor-fold desc="Setup and parameter parsing code">
     parser = argparse.ArgumentParser()
     parser.add_argument("--a", default=1, help="The desired alpha to experiment")
     parser.add_argument("--b", default=1, help="The desired beta to experiment")
@@ -112,18 +117,15 @@ def main():
         run_path = os.path.join(result_dir, DATASET, "connected_components")
 
     total_cores = multiprocessing.cpu_count()
-    n_cores = total_cores  # `int(total_cores * 3 / 4)
+    n_cores = total_cores
     n_jobs = n_cores
     print("Total cores: ", total_cores, "used cores: ", n_cores)
-    # </editor-fold>
 
-    # <editor-fold desc="Load/compute file layouts">
     file_paths = []
     for index, file in enumerate(os.listdir(file_dir)[SUBSET_START:SUBSET_END]):
         fname = os.fsdecode(file)
         if not fname.endswith(".csv") or fname in to_skip or fname not in target_regions:
             continue
-        # print(index, ".", fname)
         fpath = os.path.join(file_dir, fname)
         file_paths.append(fpath)
     files_df = pd.DataFrame({"file_path": file_paths})
@@ -141,9 +143,7 @@ def main():
     files_df['index'] = files_df.index
 
     del spreadsheet_list, file_paths
-    # </editor-fold>
 
-    # <editor-fold desc="Load/compute region similarities">
     regions_df = pd.DataFrame([{"file": f, "region": r_idx, "color_hist": r.color_hist}
                                for f, s in zip(files_df["filename"].index, files_df["spreadsheet"]) for r_idx, r in enumerate(s.clusters)])
 
@@ -200,7 +200,6 @@ def main():
         with open(region_sims_pckl, "wb") as pckl_file:
             pickle.dump(region_pairs_df, pckl_file)
     del diff
-    # </editor-fold>
 
     print(f"Finding candidate file pairs... {time.time() - start} sec")
     layout_pairs_df = region_pairs_df[region_pairs_df["similarity"] > REGION_THRESHOLD]
@@ -216,7 +215,6 @@ def main():
     layout_pairs_df.rename(columns={"n_regions": "n_regions_y"})
 
     print("There are", len(layout_pairs_df), "candidate layout pairs")
-    # layout_pairs_df  = dd.from_pandas(layout_pairs_df, chunksize = 10000000)
     print("Assessing pair difficulty...")
 
     chunksize = int(len(layout_pairs_df) / n_cores)
@@ -236,7 +234,6 @@ def main():
     hard_pairs_df.to_json(f"{template_path}/hard_pairs.json")
     easy_sims_path = f"{template_path}/easy_similarities.json"
     hard_sims_path = f"{template_path}/hard_similarities.json"
-    # <editor-fold desc="Load/compute easy similarities">
     try:
         easy_diff = easy_pairs_df
         start = time.time()
@@ -275,9 +272,7 @@ def main():
         del loaded_sims
     except:
         pass
-    # </editor-fold>
 
-    # <editor-fold desc="Load/compute hard similarities">
     if len(hard_pairs_df) > 0:
         try:
             hard_diff = hard_pairs_df
@@ -298,7 +293,6 @@ def main():
             hard_diff = hard_pairs_df[np.isnan(hard_pairs_df["similarity"])]
             del loaded_sims
             assert len(hard_diff) == 0
-            # assert len(loaded_sims) == len(hard_pairs_df) #See easy sims
         except (FileNotFoundError, AssertionError) as e:
             start = time.time()
 
@@ -317,7 +311,6 @@ def main():
                 hard_pairs_df["similarity"] = scores
             print(f"Time for computing hard similiraties: {time.time() - start} sec")
             hard_pairs_df.to_json(hard_sims_path)
-    # </editor-fold>
 
     print("Concatenating dataframes...")
     easy_pairs_df.reset_index(drop=True, inplace=True)
@@ -333,7 +326,7 @@ def main():
         chunk_size = int(len(thresholds_list)/n_cores)
         args = list(zip([layout_pairs_df] * len(thresholds_list), thresholds_list, [files_df] * len(thresholds_list), [template_path] * len(thresholds_list),
                 [region_files] * len(thresholds_list), [target_templates] * len(thresholds_list)))
-        result_list = list(pool.starmap(calculate_clusters, args, chunksize=n_cores))
+        result_list = list(pool.starmap(calculate_clusters, args, chunksize=chunk_size))
 
     print(result_list)
 
@@ -354,26 +347,11 @@ def calculate_clusters(layout_pairs_df, threshold, files_df, template_path, regi
 
     threshold = round(threshold, 2)
 
-    # similar_files_dict = {fname: set([fname]) for fname in files_df.filename.values}
-    #
-    # def update_similar_files(row):
-    #     f1, f2 = row["filename_x"], row["filename_y"]
-    #     similar_files_dict[f1].add(f2)
-    #     similar_files_dict[f2].add(f1)
-    #     for f in similar_files_dict[f1]:
-    #         similar_files_dict[f].add(f2)
-    #     for f in similar_files_dict[f2]:
-    #         similar_files_dict[f].add(f1)
-    #
-    # interesting_pairs_df.apply(update_similar_files, axis=1)
     G = nx.Graph()
     G.add_nodes_from(files_df.filename.values)
     pairs = zip(interesting_pairs_df.filename_x.values, interesting_pairs_df.filename_y.values)
     G.add_edges_from(pairs)
     predicted_templates = nx.connected_components(G)
-    # predicted_templates = set()
-    # for file, s in similar_files_dict.items():
-    #     predicted_templates.add(frozenset(s))
     predicted_templates = {"template_" + str(idx): list(t) for idx, t in enumerate(predicted_templates)}
 
     if SUBSET_END is not None:
@@ -408,35 +386,25 @@ def calculate_clusters(layout_pairs_df, threshold, files_df, template_path, regi
     completeness = completeness_score(target_labels, predicted_labels)
     vm = v_measure_score(target_labels, predicted_labels)
     print("Template threshold:", threshold)
-    # print("Normalized mutual info:", nmi)
-    # print("Adjusted mutual info:", ami)
-    # print("Homogeneity score:", homo)
-    # print("Completeness score:", completeness)
+    print("Normalized mutual info:", nmi)
+    print("Adjusted mutual info:", ami)
+    print("Homogeneity score:", homo)
+    print("Completeness score:", completeness)
     print("V measure score:", vm)
-    # print("Average weighted iou", avg_iou)
+    print("Average weighted iou", avg_iou)
 
     pickle.dump(template_scores, open(template_path + "/template_scores.pckl", "wb"))
     json.dump(template_scores, open(template_path + "/template_scores.json", "w"))
     return 0
 
-# f1 = "0cdb4f6a-5c88-4e3b-af1c-c530f10b692e.xlsx_FHA - VA Rates.csv"
-# f2 ="2d870db8-7e17-47c7-a761-05a59878d06a.xlsx_FCM Data May 2009.csv"
-# "res/files/fuse/c9052ee8-c10e-4473-b276-64ba54661d44.xlsx_Elite Men.csv"
-# "res/json/fuse/baseline/"
-# "../multiregion-detection/results/fuse/a1.0_b1.0_g1.0_partition1/gold-regions"
-
 def load_spreadsheet(file_path, partition_path, run_path, overwrite = ""):
     s = Spreadsheet(file_path, printing=False, save_path=partition_path)
-    # print("\tLoading layout of ", s.filename)
     clusters_path = f"{run_path}/{s.filename}_results.pckl"
     layout_path = f"{run_path}/{s.filename}_layout.pckl"
 
     s.clusters = s.restore(clusters_path, pckl=True)
     s.layout = calculate_layout(s.clusters, save_path=layout_path, overwrite=overwrite)
-    # if not nx.is_connected(s.layout) and len(s.layout.nodes) > 1:
-    #     print("\tWarning! The graph is not connected with more than 1 node")
     return s
-
 
 if __name__ == "__main__":
     main()
