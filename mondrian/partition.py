@@ -295,7 +295,7 @@ def merge_lines(lines_set):
     while i < len(lines) - 1:
 
         l = compare_lines(lines[i], lines[i + 1])
-        if l is not -1:
+        if l != -1:
             tmp = lines[:i]
             tmp.append(l)
             lines = tmp + lines[i + 2:]

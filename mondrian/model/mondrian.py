@@ -5,8 +5,8 @@ import networkx as nx
 import numpy as np
 
 import cv2 as cv
-from PIL.Image import Image
-from PIL.ImageDraw import ImageDraw
+from PIL import Image
+from PIL import ImageDraw
 
 from joblib import Parallel, delayed
 from sklearn.cluster import DBSCAN

@@ -58,7 +58,7 @@ def table_as_image(path, delimiter=',', color=False, cell_length=False):
 
     img = []
     last_nonempty = 0
-    with open(path, 'r', encoding="ISO-8859-1") as csvfile:
+    with open(path, 'r', encoding="UTF-8") as csvfile:
         tablereader = csv.reader(csvfile, delimiter=delimiter)
         max_size = 0
         for idx, line in enumerate(tablereader):
