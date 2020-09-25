@@ -128,7 +128,7 @@ class Spreadsheet:
             [self.color_list.append([*colors.RGB_WHITE, 200]) for n in range(n_empty)]
         color_list = np.asarray(self.color_list) / 255
 
-        plt.figure(figsize=(10, 25))
+        plt.figure(figsize=(10, 10))
         if len(self.layout.nodes) > 1:
             scale = 10
             pos = nx.spring_layout(self.layout)

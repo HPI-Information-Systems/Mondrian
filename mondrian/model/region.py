@@ -82,21 +82,21 @@ def region_distance(region_a, region_b):
     a_x0, a_y0, a_x1, a_y1 = *region_a.top_lx, *region_a.bot_rx
     b_x0, b_y0, b_x1, b_y1 = *region_b.top_lx, *region_b.bot_rx
 
-    dx = min(a_x1, b_x1) - max(a_x0, b_x0) + 1
-    dy = min(a_y1, b_y1) - max(a_y0, b_y0) + 1
+    dx = min(a_x1, b_x1) - max(a_x0, b_x0)
+    dy = min(a_y1, b_y1) - max(a_y0, b_y0)
 
     # Overlap
     if (dx >= 0) and (dy >= 0):
-        return {"direction":DIRECTION_O, "weight":dx * dy, "distance":0}
+        return {"direction":DIRECTION_O, "weight":(dx+1) * (dy+1), "distance":0}
     # H overlap
     elif (dx >= 0) and (dy < 0):
-        return {"direction":DIRECTION_H, "weight":dx, "distance":np.abs(dy)}
+        return {"direction":DIRECTION_H, "weight":dx+1, "distance":np.abs(dy+1)}
     # V overlap
     elif (dx < 0) and (dy >= 0):
-        return {"direction": DIRECTION_V, "weight": dy, "distance": np.abs(dx)}
+        return {"direction": DIRECTION_V, "weight": dy+1, "distance": np.abs(dx+1)}
     # non overlap
     else:
-        return {"direction":DIRECTION_NONE, "weight":0, "distance":np.sqrt(dx ** 2 + dy ** 2)}
+        return {"direction":DIRECTION_NONE, "weight":0, "distance":np.sqrt((dx+1) ** 2 + (dy+1) ** 2)}
 
 
 def intersecting(line_a, line_b):
