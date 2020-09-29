@@ -331,7 +331,7 @@ def process_file(filename, result_dir, radius=None):
             best_target_multiregion = dict["target_multiregion"]
             best_predicted_cluster_edges = dict["predicted_cluster_edges"]
             best_time = dict["time"]
-            if largest_radius < best_radius:
+            if best_radius is not None and largest_radius < best_radius:
                 largest_radius = best_radius
         elif overall == best_overall:
             largest_radius = dict["radius"]
