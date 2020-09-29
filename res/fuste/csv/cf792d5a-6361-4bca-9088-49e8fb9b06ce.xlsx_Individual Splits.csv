@@ -1,0 +1,49 @@
+ATHLETE FIRST,ATHLETE LAST,NATIONALITY,TEAM,LEG,SWIM,T1,BIKE,T2,RUN,TOTAL TIME
+Melanie,Santos,POR,Team I Portugal,,00:04:34,00:00:00,00:17:57,00:00:00,00:06:53,00:29:24
+Sara,Tenrinho,POR,Team I Portugal,,00:04:49,00:00:00,00:18:26,00:00:00,00:07:03,00:30:18
+Luisa,Condeço,POR,Team I Portugal,,00:04:39,00:00:00,00:18:04,00:00:00,00:06:26,00:29:09
+Cassandre,Beaugrand,FRA,Team I France,,00:04:35,00:00:00,00:18:54,00:00:00,00:06:42,00:30:11
+Jeanne,Lehair,FRA,Team I France,,00:04:32,00:00:00,00:18:15,00:00:00,00:06:19,00:29:06
+Celia,Bremond,FRA,Team I France,,00:05:04,00:00:00,00:17:57,00:00:00,00:06:40,00:29:41
+Sophie,Coldwell,GBR,Team I Great Britain,,00:04:34,00:00:00,00:17:52,00:00:00,00:06:44,00:29:10
+Megan,Mcdonald,GBR,Team I Great Britain,,00:04:55,00:00:00,00:18:32,00:00:00,00:06:54,00:30:21
+Kate,Curran,GBR,Team I Great Britain,,00:04:48,00:00:00,00:18:16,00:00:00,00:06:48,00:29:52
+Angelica,Olmo,ITA,Team I Italy,,00:04:34,00:00:00,00:17:57,00:00:00,00:06:39,00:29:10
+Federica,Parodi,ITA,Team I Italy,,00:04:58,00:00:00,00:18:39,00:00:00,00:00:00,00:00:00
+Luisa,Iogna-Prat,ITA,Team I Italy,,00:00:00,00:00:00,00:18:24,00:00:00,00:06:51,00:00:00
+Viktoria,Vizi,HUN,Team I Hungary,,00:04:36,00:00:00,00:17:57,00:00:00,00:07:25,00:29:58
+Henrietta,Hargitai,HUN,Team I Hungary,,00:04:47,00:00:00,00:18:25,00:00:00,00:07:22,00:30:34
+Renata,Fuchs,HUN,Team I Hungary,,00:04:50,00:00:00,00:18:19,00:00:00,00:07:06,00:30:15
+Ekaterina,Rodkina,RUS,Team I Russia,,00:04:31,00:00:00,00:18:08,00:00:00,00:07:25,00:30:04
+Antonina,Pisareva,RUS,Team I Russia,,00:04:41,00:00:00,00:18:19,00:00:00,00:06:55,00:29:55
+Ekaterina,Sereda,RUS,Team I Russia,,00:04:57,00:00:00,00:19:28,00:00:00,00:07:02,00:31:27
+Alissa,Konig,SUI,Team I Switzerland,,00:04:52,00:00:00,00:19:23,00:00:00,00:07:05,00:31:20
+Marine,Antille,SUI,Team I Switzerland,,00:05:29,00:00:00,00:19:00,00:00:00,00:07:17,00:31:46
+Julia,Derroh,SUI,Team I Switzerland,,00:05:12,00:00:00,00:18:39,00:00:00,00:07:08,00:30:59
+Amber,Rombaut,BEL,Team I Belgium,,00:04:45,00:00:00,00:18:38,00:00:00,00:07:38,00:31:01
+Kirsten,Nuyes,BEL,Team I Belgium,,00:05:08,00:00:00,00:19:46,00:00:00,00:07:47,00:32:41
+Sofie,Rubbrecht,BEL,Team I Belgium,,00:05:30,00:00:00,00:18:53,00:00:00,00:07:26,00:31:49
+Celia,Santamaria,ESP,Team I Spain,,00:04:36,00:00:00,00:18:57,00:00:00,00:06:38,00:30:11
+Ines,Santiago,ESP,Team I Spain,,00:05:17,00:00:00,00:20:16,00:00:00,00:07:23,00:32:56
+Yaiza,Blanco Bermudez,ESP,Team I Spain,,00:04:49,00:00:00,00:20:28,00:00:00,00:07:47,00:33:04
+Sigrid,Baardsdatter Kleveland,NOR,Team I Norway,,00:06:18,00:00:00,00:19:38,00:00:00,00:07:53,00:33:49
+Lotte,Miller,NOR,Team I Norway,,00:04:46,00:00:00,00:18:37,00:00:00,00:06:42,00:30:05
+Ingborg,Liseth Pedersen,NOR,Team I Norway,,00:05:06,00:00:00,00:20:23,00:00:00,00:08:11,00:33:40
+Hannah,Hanusch,AUT,Team I Austria,,00:04:44,00:00:00,00:18:54,00:00:00,00:07:44,00:31:22
+Lisa,Totschnig,AUT,Team I Austria,,00:05:33,00:00:00,00:20:02,00:00:00,00:07:37,00:33:12
+Sara,Skardelly,AUT,Team I Austria,,00:05:10,00:00:00,00:21:26,00:00:00,00:07:13,00:33:49
+Yagmur,Aydogan,TUR,Team I Turkey,,00:05:45,00:00:00,00:21:11,00:00:00,00:07:56,00:34:52
+Tugce,Karakaya,TUR,Team I Turkey,,00:07:27,00:00:00,00:20:37,00:00:00,00:07:33,00:35:37
+Ilkay,Polat,TUR,Team I Turkey,,00:05:59,00:00:00,00:21:03,00:00:00,00:07:33,00:34:35
+Jessica,Brillas,ESP,Team II Spain,,00:04:41,00:00:00,00:20:02,00:00:00,00:07:39,00:32:22
+Diana,Coton,ESP,Team II Spain,,00:05:16,00:00:00,00:15:10,00:00:00,00:08:02,00:28:28
+Raquel,Mateos,ESP,Team II Spain,,00:04:57,00:00:00,00:20:46,00:00:00,00:07:45,00:33:28
+Vira,Sosnova,UKR,Team II Ukraine,,00:04:52,00:00:00,00:21:02,00:00:00,00:07:35,00:33:29
+Daryna,Moskalenko ,UKR,Team II Ukraine,,00:05:26,00:00:00,00:14:48,00:00:00,00:07:44,00:27:58
+Sofiya,Pryyma,UKR,Team II Ukraine,,00:05:15,00:00:00,00:18:22,00:00:00,00:07:14,00:30:51
+Perrine,Gillot,FRA,Team II France,,00:04:36,00:00:00,00:18:59,00:00:00,00:06:37,00:30:12
+Emilie,Morier,FRA,Team II France,,00:04:48,00:00:00,00:18:42,00:00:00,00:06:58,00:30:28
+Marion,Doll,FRA,Team II France,,00:05:13,00:00:00,00:19:03,00:00:00,00:07:08,00:31:24
+Érica,Cardigo,POR,Team Ii Portugal,,00:04:37,00:00:00,00:19:41,00:00:00,00:07:39,00:31:57
+Andreia,Ferrum,POR,Team Ii Portugal,,00:05:07,00:00:00,00:19:19,00:00:00,00:07:04,00:31:30
+Maria Eduarda,Vidigueira,POR,Team Ii Portugal,,00:05:29,00:00:00,00:19:06,00:00:00,00:06:50,00:31:25

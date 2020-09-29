@@ -1,0 +1,71 @@
+Table S2. Primers and associated information,,,,,
+Target,Primer,Sequence (5'-3'),Annealing Temp.,Extension Time,Application
+NAIP,NAIPf-R,ctgtggtatccatgagctgtac,55,1min,5' RACE (outer)
+NAIP,NAIPf-2R,actgggagatcctctcgtcag,55,1min,5' RACE (inner)
+,,,,,
+mNaipa,1aORF-3'R,ggaagcttcctgaggctattgc,58,1min,5' RACE (outer)
+mNaipa,1aORF-R,ttgccagctgaactgcatccac,58,1min,5' RACE (inner)
+mNaipb,1bORF-3'R,ggaagtttcctgagtctggtgg,58,1min,5' RACE (outer)
+mNaipb,1bORF-R,caagactgaaagtgcatccactc,58,1min,5' RACE (inner)
+mNaipe,1eORF-R2,caaaagcactgaacgccaagtc,58,1min,5' RACE (outer)
+mNaipe,1eRACE-R,gctctttgccacctgaaatg,58,1min,5' RACE (inner)
+mNaipf,1fORF-R2,aaaagcactgaaccccaagtttc,58,1min,5' RACE (outer)
+mNaipf,1fRACE-R,gctgaactagattcatcccgaaac,58,1min,5' RACE (inner)
+,,,,,
+rNaip1/2,RAT-outer-R,ttcacccgtatgtcgtacttgc,55,1min,5' RACE (outer)
+rNaip1/2,RAT-inner-R,atctttgcccgagaggaactc,55,1min,5' RACE (inner)
+,,,,,
+NAIP,NAIPb-F,ctcttcgactgcctgttcatc,55,1min,RT-PCR (LTR-Xu et al.)
+NAIP,MinLTR-F,gtgaactcagacagaagtgtgg,54-58,0.5-1min,RT-PCR (LTR-TestisTSS)
+NAIP,NAIPf-2R,actgggagatcctctcgtcag,54-58,0.5-1min,RT-PCR (LTR)
+NAIP,NAIPf-F,gtacagctcatggataccacag,55,1min,RT-PCR (ORF)
+NAIP,NAIPd-R,cccttgtagctttgaatatactg,55,1min,RT-PCR (ORF)
+GAPDH,GAPDH-F,catgagaagtatgacaacagcctc,55,0.5min,RT-PCR (control)
+GAPDH,GAPDH-R,gttgctgtagccaattcgttgtc,55,0.5min,RT-PCR (control)
+,,,,,
+mNaipa,5'1aORR1E-F,ggcggagcctcatcagagg,60,30sec,RT-PCR (upstream 1aLTR)
+mNaipa,1aMTE-F,tccttctaccaaaccttccgtg,58,45sec,RT-PCR (1aLTR)
+mNaipa,1aORF-R,ttgccagctgaactgcatccac,58,45sec,RT-PCR (1aLTR)
+mNaipa,1aORFb-F,ggtggatgcagttcagctg,58,45sec,RT-PCR (1aORF)
+mNaipa,1aORFb-R,acaaatccctcatagccttgg,58,45sec,RT-PCR (1aORF)
+mNaipb,5'1bORR1E-F,gaggtggagcatggtggag,59,30sec,RT-PCR (upstream 1bLTR)
+mNaipb,1bMTE-F,gctcctgccaagccttctgtg,58,45sec,RT-PCR (1bLTR)
+mNaipb,1bORF-R,caagactgaaagtgcatccactc,58,45sec,RT-PCR (1bLTR)
+mNaipb,1bORFb-F,agagtggatgcactttcagtc,58,45sec,RT-PCR (1bORF)
+mNaipb,1bORFb-R,catattgggtaatttcctctgg,58,45sec,RT-PCR (1bORF)
+mNaipe/f,5'1e/1fORR1E-F,aggcggggcatggtgaag,58,30sec,RT-PCR (upstream 1e/1fLTR)
+mNaipe,1eMTE-F,ccttgagatacagatcttcagag,58,45sec,RT-PCR (1eLTR)
+mNaipe,1eORF-R,gaaggaactcacattccggac,58,45sec,RT-PCR (1eLTR)
+mNaipe,1eORF-F,tgctcttctcggggtggatgc,58,45sec,RT-PCR (1eORF)
+mNaipe,1eORF-3'R,ttacatgaacaaatccttcgtagc,58,45sec,RT-PCR (1eORF)
+mNaipf,1fMTE-F,tgtgaccagctggcttcctgc,58,45sec,RT-PCR (1fLTR)
+mNaipf,1fORF-R,tgaaggaactcacattctggtc,58,45sec,RT-PCR (1fLTR)
+mNaipf,1fORF-F,gctcgtttcgggatgaatctag,58,45sec,RT-PCR (1fORF)
+mNaipf,1fORF-3'R,catgaacaaatccctcgtagtc,58,45sec,RT-PCR (1fORF)
+gapdh,gapdh-f,gtggcagtgatggcatggac,55,0.5min,RT_PCR (control)
+gapdh,gapdh-r,gtggagtctactggtgtcttc,55,0.5min,RT_PCR (control)
+,,,,,
+rNaip1,Naip1MTE-F,tgctccttctaccacagcttc,59,30sec,RT-PCR (LTR)
+rNaip1,Naip1ORF-R,ggtcgtaatttcctgtggctc,59,30sec,RT-PCR (LTR)
+rNaip1,1aORFb-F,ggtggatgcagttcagctg,59,45sec,RT-PCR (ORF)
+rNaip1,Naip1ORF-3'R,catgaagaaatcccgtgtagc,59,45sec,RT-PCR (ORF)
+rNaip2,Naip2MTE-F,tgtgaccagctggtttcctg,59,30sec,RT-PCR (LTR)
+rNaip2,Naip2ORF-R,ctggttgtaatttccggtgaac,59,30sec,RT-PCR (LTR)
+rNaip2,Naip2ORF-F,agttcaccggaaattacaaccag,59,45sec,RT-PCR (ORF)
+rNaip2,Naip2ORF-F.2,tgccaagtacatacaaacctacg,59,30sec,RT-PCR (ORF)
+rNaip2,Naip2ORF-3'R,catgaagaaatccctcgtagg,59,45sec,RT-PCR (ORF)
+rNaip2,Naip2ORF-3'R.2,cagaagaatgaactgccactcc,59,30sec,RT-PCR (ORF)
+,,,,,
+GAPDH,qGAPDH-F,cccatcaccatcttccaggag,see Methods,see Methods,qRT-PCR (control)
+GAPDH,qGAPDH-R,cttctccatggtggtgaagacg,see Methods,see Methods,qRT-PCR (control)
+NAIP,qTotal-F,gcattctcctctattagactag,see Methods,see Methods,qRT-PCR (Total)
+NAIP,qTotal-R,gccaactgaactgcatctag,see Methods,see Methods,qRT-PCR (Total)
+NAIP,qLTR-F2,ggaaaacccatatatttgatgtc,see Methods,see Methods,qRT-PCR (LTR)
+NAIP,qLTR-R4,tatttaaggaacttgttgcccag,see Methods,see Methods,qRT-PCR (LTR)
+,,,,,
+mNaipa,1aCPE-F3,agctcttccggaaagttcctggagaatactg,55,0.5min,genomic PCR
+mNaipb,1bCPE-F3,agctcttaagactgtgtctgggcctacactg,55,0.5min,genomic PCR
+mNaipe/f,1e/fCPE-F3,agctcttaaggagtttggatcctttaagaggc,55,0.5min,genomic PCR
+mNaipa,1aCPE-R3,agctaagcttagttacttcatgttcttcaacac,55,0.5min,genomic PCR
+mNaipb/e/f,1b/e/fCPE-R3,agctaagctttactttcatttcccctcgcac,55,0.5min,genomic PCR
+"Primer name suffixes F and R, distinguish forward and reverse primers, respectively.",,,,,

@@ -1,0 +1,31 @@
+ATHLETE FIRST,ATHLETE LAST,NATIONALITY,START NUMBER,SWIM,T1,BIKE,T2,RUN,POSITION,TOTAL TIME,PROGRAM
+Jason,Wilson,BAR,25, 00:09:44 , 00:00:26 , 00:31:19 , 00:00:15 , 00:16:53 ,1, 00:58:21 ,Elite Men
+Michael,Poole,USA,35, 00:09:51 , 00:00:29 , 00:30:53 , 00:00:14 , 00:17:23 ,2, 00:58:35 ,Elite Men
+Gaspar,Riveros,CHI,27, 00:09:45 , 00:00:29 , 00:30:57 , 00:00:16 , 00:17:25 ,3, 00:58:36 ,Elite Men
+Luke ,Farkas,USA,31, 00:09:35 , 00:00:28 , 00:31:08 , 00:00:15 , 00:17:27 ,4, 00:58:36 ,Elite Men
+Alexander ,Hinton,CAN,26, 00:09:46 , 00:00:27 , 00:32:14 , 00:00:16 , 00:16:32 ,5, 00:58:57 ,Elite Men
+John,O'Neill,USA,38, 00:10:08 , 00:00:34 , 00:31:47 , 00:00:28 , 00:16:38 ,6, 00:59:05 ,Elite Men
+Dan,Feeney,USA,34, 00:09:50 , 00:00:47 , 00:31:49 , 00:00:22 , 00:16:50 ,7, 00:59:15 ,Elite Men
+Tyler,Mislawchuk,CAN,40, 00:09:39 , 00:00:29 , 00:31:22 , 00:00:15 , 00:17:52 ,8, 00:59:21 ,Elite Men
+Brandon,Nied,USA,43, 00:10:17 , 00:00:27 , 00:31:49 , 00:00:14 , 00:17:06 ,9, 00:59:38 ,Elite Men
+Riley,Unger,CAN,41, 00:09:51 , 00:00:34 , 00:32:04 , 00:00:14 , 00:17:56 ,10, 01:00:23 ,Elite Men
+Tomas,Olavarria,CHI,33, 00:09:52 , 00:00:30 , 00:32:05 , 00:00:16 , 00:18:21 ,11, 01:00:46 ,Elite Men
+Eric,Lagerstrom,USA,28, 00:09:41 , 00:00:30 , 00:32:15 , 00:00:18 , 00:18:41 ,12, 01:01:05 ,Elite Men
+Aaron,Thomas,CAN,29, 00:09:40 , 00:00:28 , 00:32:19 , 00:00:18 , 00:18:45 ,13, 01:01:11 ,Elite Men
+Andrew,Bysice,CAN,32, 00:09:49 , 00:00:25 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Justin,Roeder,USA,36, 00:10:43 , 00:00:31 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Aleem,Mohammed,TRI,37, 00:10:59 , 00:00:34 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Chris,Regis,GRN,39, 00:11:00 , 00:00:35 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Bryan,Jobity,TRI,42, 00:14:26 , 00:00:39 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Tyler ,Bredschneider,CAN,30, 00:09:39 , 00:00:30 , 00:00:00 , 00:00:00 , 00:00:00 ,DNF,00:00:00,Elite Men
+Amelie,Kretz,CAN,27, 00:10:25 , 00:00:27 , 00:33:27 , 00:00:15 , 00:18:21 ,1, 01:02:39 ,Elite Women
+Dominika,Jamnicky,CAN,25, 00:10:26 , 00:00:28 , 00:33:25 , 00:00:15 , 00:19:05 ,2, 01:03:23 ,Elite Women
+Erin,Jones,USA,30, 00:10:23 , 00:00:32 , 00:33:26 , 00:00:17 , 00:19:13 ,3, 01:03:33 ,Elite Women
+Favia,Diaz,CHI,26, 00:11:09 , 00:00:31 , 00:34:11 , 00:00:20 , 00:18:59 ,4, 01:04:48 ,Elite Women
+Ana Leidis,Arias,CUB,33, 00:11:08 , 00:00:31 , 00:34:13 , 00:00:15 , 00:19:05 ,5, 01:04:56 ,Elite Women
+Johanna,Gartman,USA,35, 00:10:58 , 00:00:36 , 00:34:14 , 00:00:18 , 00:19:50 ,6, 01:05:37 ,Elite Women
+Tanja,Stroschneider,AUT,31, 00:11:01 , 00:00:31 , 00:34:15 , 00:00:16 , 00:21:03 ,7, 01:06:49 ,Elite Women
+Kyla,Chapman,USA,32, 00:11:05 , 00:00:36 , 00:36:50 , 00:00:19 , 00:18:42 ,8, 01:07:12 ,Elite Women
+Maria Isabel ,Escudero,COL,28, 00:11:05 , 00:00:34 , 00:34:14 , 00:00:21 , 00:21:40 ,9, 01:07:32 ,Elite Women
+Carolina,Trewhela,CHI,29, 00:10:57 , 00:00:38 , 00:34:15 , 00:00:23 , 00:22:29 ,10, 01:08:18 ,Elite Women
+Florence,Chretien,USA,34, 00:11:14 , 00:00:37 , 00:37:31 , 00:00:23 , 00:21:18 ,11, 01:10:39 ,Elite Women

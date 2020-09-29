@@ -1,0 +1,18 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+RURCU,Test,RURCU,"Uric Acid, Random, Urine","Uric Acid, Random, U",Uricase,"Plastic, urine tube: PlUrTb
+",,,5,mL,"Container/Tube: Plastic, 6-mL tube (Supply T465)
+Specimen Volume: 5 mL
+Collection Instructions:
+1. Collect a random urine specimen.
+2. No preservative.
+Additional Information: A timed 24-hour urine collection is usually the preferred specimen for measuring and interpreting this urinary analyte. Random collections normalized to urinary creatinine may be of clinical use in the following 2 scenarios:
+1. In patients who cannot collect a 24-hour specimen, typically small children, a uric acid creatinine ratio can be used to approximate 24-hour excretion.
+2. When acute renal failure secondary to uric acid is suspected, a uric acid to creatinine ratio (mg/mg) >1.0 is consistent with acute uric acid nephropathy, whereas values <0.75 are consistent with other causes of acute renal failure. (Kelton, J, Kelley, WN, Holmes, EW: A rapid method for the detection of acute uric acid nephropathy. Arch Intern Med 1978; 138:612).",1 mL,"Hemolysis	NA
+Thawing	Warm reject; Cold OK
+Lipemia	NA
+Icterus	NA
+Other	NA",No established reference values,Monday through Sunday; Continuously,Same day/1 day,3 days,1,84560,,,,,Rochester
+RURCU,Specimen,URINE,Urine,,,,Refrigerated,,,,,,,,,,,,,,,,,
+RURCU,Result,URCO2,"Uric Acid, Random, U","Uric Acid, Random, U",Numeric,,,,,mg/dL,,,,,,,,,,3086-6,Urate:MCnc:Pt:Urine:Qn:,,,
+RURCU,Result,CREA7,Creatinine Concentration,Creatinine Concentration,Numeric,,,,,mg/dL,,,,,,,,,,2161-8,Creatinine:MCnc:Pt:Urine:Qn:,,,
+RURCU,Result,RATO6,Uric Acid/Creatinine Ratio,Uric Acid/Creatinine Ratio,Numeric,,,,,mg/mg,,,,,,,,,,3089-0,Urate/Creatinine:MCrto:Pt:Urine:Qn:,,,

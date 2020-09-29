@@ -1,0 +1,553 @@
+Table S1. Data sources.,,,,
+,,,,
+Country,ISO Code,Data source name,Acronym of census or survey,Data type from census or survey
+Afghanistan,4,1972/1974 National Demographic and Family Guidance Survey,NDFG72,Indirect
+Afghanistan,4,1979 Census,Census79,Direct
+Albania,8,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Albania,8,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Albania,8,"Vital registration 1980, 1984-2007",,
+Albania,8,2008/2009 Demographic and Health Survey,2008/2009 DHS,Direct & indirect
+Algeria,12,1986 Enquête nationale sur la fécondité,ENF86,Direct
+Algeria,12,1992 Enquête sur la santé de la mère et de l'enfant,MCH92,Direct
+Algeria,12,1995 Enquête nationale sur les objectifs,MDG95,Direct
+Algeria,12,1998 Enquête etat civil,EEC1998,Direct
+Algeria,12,2002 Enquête sur la santé de la famille,PAPFAM02,Direct
+Algeria,12,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Algeria,12,"Vital registration 1970, 1979-1983, 1980-1986, 1998, 2000-2002",,
+Angola,24,2001 Multiple Indicator Cluster Survey,MICS2001,Indirect
+Argentina,32,"Vital registration 1966-1970, 1977-2009",,
+Armenia,51,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Armenia,51,2005 Demographic and Health Survey,DHS2005,Direct & indirect
+Armenia,51,Vital registration 1981-2009,,
+Australia,36,Vital registration 1950-2009,,
+Austria,40,Vital registration 1955-2009,,
+Azerbaijan,31,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Azerbaijan,31,2001 Reproductive Health Survey,RHS 2001,Direct
+Azerbaijan,31,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Azerbaijan,31,Vital registration 1981-2009,,
+Bahrain,48,1989 Child Health Survey,BCHS89,Direct
+Bahrain,48,1995 Family Health Survey,BFHS95,Direct
+Bahrain,48,Vital registration 1980-2003,,
+Bangladesh,50,1974 Retrospective Survey of Fertility and Mortality,RSFM74,Indirect
+Bangladesh,50,1975/1976 World Fertility Survey,WFS75/76,Direct
+Bangladesh,50,1988/1989 Fertility Survey,BFS89,Direct
+Bangladesh,50,1993/1994 Demographic and Health Survey,DHS1993/1994,Direct & indirect
+Bangladesh,50,1996/1997 Demographic and Health Survey,DHS1996/1997,Direct & indirect
+Bangladesh,50,1999/2000 Demographic and Health Survey,DHS1999/2000,Direct & indirect
+Bangladesh,50,2001 Maternal Health Services and Maternal Mortality Survey,2001MMS,Direct
+Bangladesh,50,2004 Demographic and Health Survey,DHS2004,Direct & indirect
+Bangladesh,50,2007 Demographic and Health Survey,DHS2007,Direct & indirect
+Bangladesh,50,"Sample registration system 1980-1987, 1991, 1995, 1997-2004",,
+Belarus,112,Vital registration 1959-2009,,
+Belgium,56,Vital registration 1954-2009,,
+Benin,204,1981-1983 Enquête à passages répétés,Survey 81-83,Direct
+Benin,204,1982 Enquête sur la fécondité,WFS82,Direct
+Benin,204,1992 Census,Census92,Indirect
+Benin,204,1996 Enquête démographique et de santé,DHS1996,Direct & indirect
+Benin,204,2001 Enquête démographique et de santé,DHS2001,Direct & indirect
+Benin,204,2006 Enquête démographique et de santé,DHS2006,Direct & indirect
+Bolivia (Plurinational State of),68,1975 Encuesta Demográfica Nacional,EDN75,Indirect
+Bolivia (Plurinational State of),68,1980 Encuesta Demográfica Nacional,EDN80,Indirect
+Bolivia (Plurinational State of),68,1989 Encuesta Nacional de Demografía y Salud,DHS1989,Direct & indirect
+Bolivia (Plurinational State of),68,1994 Encuesta Nacional de Demografía y Salud,DHS1994,Direct & indirect
+Bolivia (Plurinational State of),68,1998 Encuesta Nacional de Demografía y Salud,DHS1998,Direct & indirect
+Bolivia (Plurinational State of),68,2000 Encuesta de Múltiples Indicadores por Conglomerados,MICS2000,Indirect
+Bolivia (Plurinational State of),68,2003 Encuesta Nacional de Demografía y Salud,DHS2003,Direct & indirect
+Bolivia (Plurinational State of),68,2008 Encuesta Nacional de Demografía y Salud,DHS2008,Direct & indirect
+Bosnia and Herzegovina,70,"Vital registration 1985-1991, 1999-2009",,
+Botswana,72,1981 Census,CEN81,Direct
+Botswana,72,1988 Demographic and Health Survey,DHS88,Direct & indirect
+Botswana,72,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Brazil,76,1986 Pesquisa Nacional sobre Saúde Materno-Infantil e Planejamento Familiar,DHS1986,Direct
+Brazil,76,1996 Pesquisa Nacional sobre Demografia e Saúde,DHS1996,Direct & indirect
+Brazil,76,Vital registration 1974-2008,,
+Bulgaria,100,Vital registration 1964-2009,,
+Burkina Faso,854,1992/1993 Enquête démographique et de santé,DHS1992/1993,Direct & indirect
+Burkina Faso,854,1998/1999 Enquête démographique et de santé,DHS1998/1999,Direct & indirect
+Burkina Faso,854,2003 Enquête démographique et de santé,DHS2003,Direct & indirect
+Burkina Faso,854,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Burkina Faso,854,2006 Census,Census2006,Direct
+Burundi,108,1970-1971 Enquête démographique nationale,EDB70-71,Direct
+Burundi,108,1987 Enquête démographique et de santé,DHS1987,Direct & indirect
+Burundi,108,2005 Multiple Indicator Cluster Survey,MICS2005,Indirect
+Cambodia,116,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Cambodia,116,2004 Inter-censal Population Survey,CIPS2004,Indirect
+Cambodia,116,2005 Demographic and Health Survey,DHS2005,Direct & indirect
+Cameroon,120,1978 Enquête nationale sur la fécondité,WFS78,Direct
+Cameroon,120,1991 Enquête démographique et de santé,DHS1991,Direct & indirect
+Cameroon,120,1998 Enquête démographique et de santé,DHS1998,Direct & indirect
+Cameroon,120,2000 Enquête à indicateurs multiples,MICS2000,Indirect
+Cameroon,120,2004 Enquête démographique et de santé,DHS2004,Direct & indirect
+Canada,124,Vital registration 1950-2007,DYB,
+Central African Republic,140,1988 Census,Census88,Indirect
+Central African Republic,140,1994/1995 Enquête démographique et de santé,DHS1994/1995,Direct & indirect
+Central African Republic,140,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Central African Republic,140,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Chad,148,1996/1997 Enquête démographique et de santé,DHS1996/1997,Direct & indirect
+Chad,148,2000 Enquête par grappes à indicateurs multiples,MICS2000,Indirect
+Chad,148,2004 Enquête démographique et de santé,DHS2004,Direct & indirect
+Chile,152,Vital registration 1955-2008,,
+China,156,1973/1975 Cancer Epidemiology Survey,1973-75survey,Direct
+China,156,1982 Census,Census1982,Direct
+China,156,1987 One-per-thousand Population Sample Survey,1per100087,Direct
+China,156,1988 National Survey on Fertility and Birth Control,NSFBC88,Direct
+China,156,1990 Census,Census1990,Direct & indirect
+China,156,1995 One-per-thousand Sample Survey,1perTh1995,Direct
+China,156,2000 Census,Census2000,Direct
+China,156,2005 One-per-thousand Sample Survey,1perTh2005,Direct
+"China, Hong Kong SAR",344,Vital registration 1960-2006,,
+Colombia,170,1976 Encuesta Nacional de Fecundidad,WFS76,Direct & indirect
+Colombia,170,"1986 Encuesta de Prevalencia, Demografía y Salud",DHS1986,Direct & indirect
+Colombia,170,"1990 Encuesta de Prevalencia, Demografía y Salud",DHS1990,Direct & indirect
+Colombia,170,1995 Encuesta Nacional de Demografía y Salud,DHS1995,Direct & indirect
+Colombia,170,2000 Encuesta Nacional de Demografía y Salud,DHS2000,Direct & indirect
+Colombia,170,2005 Encuesta Nacional de Demografía y Salud,DHS2005,Direct & indirect
+Colombia,170,2010 Encuesta Nacional de Demografía y Salud,DHS2010,Direct & indirect
+Colombia,170,Vital registration 1955-2009,,
+Congo,178,1974 Census,Census74,Direct & indirect
+Congo,178,1984 Census,Census84,Direct
+Congo,178,2005 Enquête démographique et de santé,DHS2005,Direct & indirect
+Congo,178,2009 AIDS Indicator Survey,2009AIS,Indirect
+Costa Rica,188,1976 Encuesta Nacional de Fecundidad,WFS76,Direct
+Costa Rica,188,Vital registration 1956-2010,,
+Côte d'Ivoire,384,1978-1979 Enquête démographique à passages répétés,EDPR78/79,Direct
+Côte d'Ivoire,384,1981 Enquête nationale sur la fécondité,WFS80/81,Direct
+Côte d'Ivoire,384,1994 Enquête démographique et de santé,DHS1994,Direct & indirect
+Côte d'Ivoire,384,1998/1999 Enquête démographique et de santé,DHS1998/1999,Direct & indirect
+Côte d'Ivoire,384,2005 Enquête sur les indicateurs du sida,HIS2005,Direct
+Croatia,191,Vital registration 1982-2009,,
+Cuba,192,"Vital registration 1964-1965, 1968-2009",,
+Czech Republic,203,Vital registration 1950-2009,,
+Democratic Republic of the Congo,180,2001 Enquête nationale sur la situation des enfants,MICS2001,Indirect
+Democratic Republic of the Congo,180,2007 Demographic and Health Survey,DHS2007,Direct & indirect
+Denmark,208,Vital registration 1951-2009,,
+Dominican Republic,214,1975 Encuesta Nacional de Fecundidad,WFS75,Direct
+Dominican Republic,214,1980 Encuesta Nacional de Fecundidad,WFS80,Direct
+Dominican Republic,214,1986 Encuesta Demográfica y de Salud,DHS1986,Direct & indirect
+Dominican Republic,214,1991 Encuesta Demográfica y de Salud,DHS1991,Direct & indirect
+Dominican Republic,214,1996 Encuesta Demográfica y de Salud,DHS1996,Direct & indirect
+Dominican Republic,214,1999 Encuesta Experimental de Demografía y Salud,DHS1999,Direct & indirect
+Dominican Republic,214,2000 Encuesta por Conglomerados de Indicadores Múltiples,MICS2000,Indirect
+Dominican Republic,214,2002 Encuesta Demográfica y de Salud,DHS2002,Direct & indirect
+Dominican Republic,214,2007 Encuesta Demográfica y de Salud,DHS2007,Direct & indirect
+Dominican Republic,214,Vital registration 1958-2008,,
+Democratic People's Republic of Korea,408,1993 Census,Census1993,Direct
+Democratic People's Republic of Korea,408,2008 Census,Census2008,Direct
+Ecuador,218,1979 Encuesta Nacional de Fecundidad,WFS79,Direct
+Ecuador,218,1987 Encuesta Demográfica y de Salud Familiar,DHS1987,Direct & indirect
+Ecuador,218,1989 Encuesta Demográfica y de Salud Materna e Infantil,EDSMI89,Direct
+Ecuador,218,1999 Encuesta Demográfica y de Salud Materna e Infantil,Endemain99,Direct
+Ecuador,218,Vital registration 1968-2009,,
+Egypt,818,1976 Census,Census76,Indirect
+Egypt,818,1980 Fertility Survey,WFS80,Direct
+Egypt,818,1988 Demographic and Health Survey,DHS1988,Direct & indirect
+Egypt,818,1991 Maternal Health Survey,MCH91,Direct
+Egypt,818,1992 Demographic and Health Survey,DHS1992,Direct & indirect
+Egypt,818,1995 Demographic and Health Survey,DHS1995,Direct & indirect
+Egypt,818,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Egypt,818,2003 Interim Demographic and Health Survey,IDHS2003,Direct & indirect
+Egypt,818,2005 Demographic and Health Survey,DHS2005,Direct & indirect
+Egypt,818,2008 Demographic and Health Survey,DHS2008,Direct & indirect
+Egypt,818,Vital registration 1955-2010,,
+El Salvador,222,1985 Encuesta Nacional de Salud Familiar,DHS1985,Direct & indirect
+El Salvador,222,1988 Encuesta Nacional de Salud Familiar,FESAL88,Direct
+El Salvador,222,2003 Encuesta Nacional de Salud Familiar,FESAL02/03,Direct
+El Salvador,222,Vital registration 1958-2010,,
+Equatorial Guinea,226,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Eritrea,232,1995 Demographic and Health Survey,DHS1995,Direct
+Eritrea,232,2002 Demographic and Health Survey,DHS2002,Direct
+Estonia,233,Vital registration 1959-2009,,
+Ethiopia,231,1984 Census,Census84,Direct & indirect
+Ethiopia,231,1990 National Fertility and Family Survey,NFFS90,Direct & indirect
+Ethiopia,231,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Ethiopia,231,2005 Demographic and Health Survey,DHS2005,Direct & indirect
+Finland,246,Vital registration 1950-2009,,
+France,250,Vital registration 1950-2009,,
+Gabon,266,2000 Enquête démographique et de santé,DHS2000,Direct & indirect
+Gambia,270,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Gambia,270,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Georgia,268,1999 Reproductive Health Survey,RHS 1999,Direct
+Georgia,268,2005 Reproductive Health Survey,RHS 2005,Direct
+Georgia,268,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Georgia,268,Vital registration 1981-2009,,
+Germany,276,Vital registration 1969-2009,,
+Ghana,288,1979/1980 Fertility Survey,WFS79/80,Direct
+Ghana,288,1988 Demographic and Health Survey,DHS1988,Direct & indirect
+Ghana,288,1993 Demographic and Health Survey,DHS1993,Direct & indirect
+Ghana,288,1998 Demographic and Health Survey,DHS1998,Direct & indirect
+Ghana,288,2003 Demographic and Health Survey,DHS2003,Direct & indirect
+Ghana,288,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Ghana,288,2007 Maternal Health Survey,2007MHS,Direct
+Ghana,288,2008 Demographic and Health Survey,2008 DHS,Direct & indirect
+Greece,300,Vital registration 1956-2009,,
+Guatemala,320,1986/1987 Encuesta Nacional Socio-demográfica,ENSD86-87,Indirect
+Guatemala,320,1987 Encuesta Nacional de Salud Materno Infantil,DHS1987,Direct & indirect
+Guatemala,320,1989 Encuesta Nacional Socio-demográfica,ENSD89,Indirect
+Guatemala,320,1995 Encuesta Nacional de Salud Materno Infantil,DHS1995,Direct & indirect
+Guatemala,320,1998/1999 Encuesta Nacional de Salud Materno Infantil,DHS1998/1999,Direct & indirect
+Guatemala,320,2002 Encuesta Nacional de Salud Materno Infantil,ENSMI02,Direct
+Guatemala,320,"Vital registration 1959-1965, 1970-1972, 1975-1981, 1983-2008",,
+Guinea,324,1999 Enquête démographique et de santé,DHS1999,Direct & indirect
+Guinea,324,2003 Multiple Indicator Cluster Survey,MICS2003,Direct & indirect
+Guinea,324,2005 Enquête démographique et de santé,DHS2005,Indirect
+Guinea-Bissau,624,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Guinea-Bissau,624,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Haiti,332,1971 Census,CEN71,Direct
+Haiti,332,1977 Enquête sur la fécondité,WFS77,Direct
+Haiti,332,1987 EMMUS,EMMUS87,Direct & indirect
+Haiti,332,"1994/1995 Enquête mortalité, morbidité et utilisation des services",DHS1994/1995,Direct & indirect
+Haiti,332,"2000 Enquête mortalité, morbidité et utilisation des services",DHS2000,Direct & indirect
+Haiti,332,"2005 Enquête mortalité, morbidité et utilisation des services",DHS2005,Direct & indirect
+Haiti,332,Vital registration 1980,,
+Honduras,340,1971-1972 Encuesta Demográfica Nacional,EDN71,Direct
+Honduras,340,1983 Encuesta Demográfica Nacional,EDN83,Indirect
+Honduras,340,1987 Encuesta Nacional de Epidemiología y Salud Familiar,EFHS87,Direct
+Honduras,340,2005/2006 Encuesta Nacional de Demografía y Salud,DHS2005/2006,Direct & indirect
+Honduras,340,"Vital registration 1966, 1968-1976, 1980-1983, 2001-2006",,
+Hungary,348,Vital registration 1955-2009,,
+India,356,1981 Census,Census81,Indirect
+India,356,1992/1993 National Family Health Survey,NFHS1992/1993,Direct & indirect
+India,356,1998/1999 National Family Health Survey,NFHS1998/1999,Direct & indirect
+India,356,2001 Census,Census2001,Indirect
+India,356,2005/2006 National Family Health Survey,NFHS2005/2006,Direct & indirect
+India,356,"Sample registration system, 1969-2009 (various years)",,
+Indonesia,360,1976 Fertility Survey,IFS76,Direct & indirect
+Indonesia,360,1987 National Contraceptive Prevalence Survey,DHS1987,Direct & indirect
+Indonesia,360,1991 Demographic and Health Survey,DHS1991,Direct & indirect
+Indonesia,360,1994 Demographic and Health Survey,DHS1994,Direct & indirect
+Indonesia,360,1997 Demographic and Health Survey,DHS1997,Direct & indirect
+Indonesia,360,2002/2003 Demographic and Health Survey,DHS2002/2003,Direct & indirect
+Indonesia,360,2007 Demographic and Health Survey,DHS2007,
+Iran (Islamic Republic of),364,1973-1976 Population Growth Survey,PGS73-76,Direct
+Iran (Islamic Republic of),364,1991 Birth Survey,CSCBS91,Direct
+Iran (Islamic Republic of),364,2000 Demographic and Health Survey,DHS2000,Direct
+Iran (Islamic Republic of),364,"Vital registration 1983-1984, 1986, 1991, 1999, 2001",,
+Iraq,368,1973-1975 Demographic Sample Survey and Sample Registration System,DSSRS73-74,Direct
+Iraq,368,1987 Census,CENSUS87,Indirect
+Iraq,368,"1990 Immunization, Diarrhoeal Disease, Maternal and Childhood Mortality Survey",IIDDMCMS90,Indirect
+Iraq,368,2004 Living Conditions Survey,LCS2004,Direct
+Iraq,368,2006 Multiple Indicator Cluster Survey,MICS2006,Direct & indirect
+Iraq,368,Vital registration 1987-1989,,
+Ireland,372,Vital registration 1950-2009,,
+Israel,376,Vital registration 1975-2009,,
+Italy,380,Vital registration 1951-2008,,
+Jamaica,388,1975/1976 Fertility Survey,WFS75/76,Direct & indirect
+Jamaica,388,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Jamaica,388,"Vital registration 1980-1985, 1989-1991, 1996-1999, 2007-2008",,
+Japan,392,Vital registration 1950-2009,,
+Jordan,400,1976 Fertility Survey,JFS76,Direct & indirect
+Jordan,400,1979 Census,CENSUS79,Indirect
+Jordan,400,1981 Demographic Survey,JDS81,Indirect
+Jordan,400,1988 EPI/CDD and Child Mortality Survey,EPI/CDDCM88,Indirect
+Jordan,400,1990 EPI/CDD and Child Mortality Survey,EPI/CDDCM90,Indirect
+Jordan,400,1990 Population and Family Health Survey,DHS1990,Direct & indirect
+Jordan,400,1997 Population and Family Health Survey,DHS1997,Direct & indirect
+Jordan,400,2002 Population and Family Health Survey,DHS2002,Direct & indirect
+Jordan,400,2007 Demographic and Health Survey,DHS2007,Direct & indirect
+Jordan,400,2009 Interim Demographic and Health Survey,IDHS200,Direct & indirect
+Jordan,400,Vital registration 1965-1966,,
+Kazakhstan,398,1995 Demographic and Health Survey,DHS1995,Direct & indirect
+Kazakhstan,398,1999 Demographic and Health Survey,DHS1999,Direct & indirect
+Kazakhstan,398,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Kazakhstan,398,Vital registration 1981-2009,,
+Kenya,404,1977/1978 Fertility Survey,WFS77/78,Direct & indirect
+Kenya,404,1989 Demographic and Health Survey,DHS1989,Direct & indirect
+Kenya,404,1993 Demographic and Health Survey,DHS1993,Direct & indirect
+Kenya,404,1998 Demographic and Health Survey,DHS1998,Direct & indirect
+Kenya,404,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Kenya,404,2003 Demographic and Health Survey,DHS2003,Direct & indirect
+Kuwait,414,1975 Census,CENSUS75,Indirect
+Kuwait,414,1980 Census,CENSUS80,Indirect
+Kuwait,414,1987 Child Health Survey,KCHS87,Indirect
+Kuwait,414,Vital registration 1970-2009,,
+Kyrgyzstan,417,1997 Demographic and Health Survey,DHS1997,Direct & indirect
+Kyrgyzstan,417,2005/2006 Multiple Indicator Cluster Survey,MICS2005/2006,Indirect
+Kyrgyzstan,417,Vital registration 1981-2009,,
+Laos,418,1985 Census,Census1985,Indirect
+Laos,418,1994/1995 Fertility and Birth Spacing Survey,LFBSS94,Direct
+Laos,418,1995 Census,Census1995,Indirect
+Laos,418,2000 Reproductive Health Survey,RHS2000,Indirect
+Laos,418,2005 Census,Census2005,Indirect
+Latvia,428,Vital registration 1959-2009,,
+Lebanon,422,2004 Family Health Survey,PAPFAM04,Direct
+Lesotho,426,1971-1972 Demographic Survey,LDS71,Indirect
+Lesotho,426,1977 Fertility Survey,WFS77,Direct & indirect
+Lesotho,426,1986 Census,Census86,Indirect
+Lesotho,426,2000 End-Decade Multiple Indicator Cluster Survey,MICS2000,Indirect
+Lesotho,426,2004 Demographic and Health Survey,DHS2004,Direct & indirect
+Lesotho,426,2009 Demographic and Health Survey,DHS2009,Direct & indirect
+Liberia,430,1969-1971 Population Growth Survey,PGS69/70,Direct
+Liberia,430,1986 Demographic and Health Survey,DHS1986,Direct & indirect
+Liberia,430,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Liberia,430,2008 Census,2008Census,Indirect
+Liberia,430,2008/2009 Malaria Indicator Surveys,2009MIS,Direct & indirect
+Libyan Arab Jamahiriya,434,1995 Maternal and Child Health Survey,LMCHS1995,Direct
+Libyan Arab Jamahiriya,434,2007 Family Health Survey,PAPFAM07,Direct
+Libyan Arab Jamahiriya,434,"Vital registration 1972-1976, 1981",,
+Lithuania,440,Vital registration 1959-2009,,
+Madagascar,450,1992 Enquête nationale démographique et sanitaire,DHS1992,Direct & indirect
+Madagascar,450,1997 Enquête démographique et de santé,DHS1997,Direct & indirect
+Madagascar,450,2003/2004 Enquête démographique et de santé,DHS2003/2004,Direct & indirect
+Madagascar,450,2008/2009 Enquête démographique et de santé,DHS2008/2009,Direct & indirect
+Malawi,454,1970-1972 Population Change Survey,PCS70-72,Direct
+Malawi,454,1977 Census,Census77,Direct
+Malawi,454,1982 Demographic Survey,MDS82,Indirect
+Malawi,454,1984 Family Formation Survey,MFFS84,Direct & indirect
+Malawi,454,1992 Demographic and Health Survey,DHS1992,Direct & indirect
+Malawi,454,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Malawi,454,2004 Demographic and Health Survey,DHS2004,Direct & indirect
+Malawi,454,2010 Demographic and Health Survey,DHS2010,Direct & indirect
+Malaysia,458,1974 Fertility and Family Survey,MFFS74,Direct
+Malaysia,458,"Vital registration 1971-1982, 1984-2008",,
+Mali,466,1976 Census,Census76,Direct
+Mali,466,1987 Census,Census87,Direct
+Mali,466,1987 Enquête démographique et de santé,DHS1987,Direct & indirect
+Mali,466,1995/1996 Enquête démographique et de santé,DHS1995/1996,Direct & indirect
+Mali,466,2001 Enquête démographique et de santé,DHS2001,Direct & indirect
+Mali,466,2006 Enquête démographique et de santé,DHS2006,Direct & indirect
+Mauritania,478,1976/1977 Census,Census77,Direct
+Mauritania,478,1981/1982 Enquête nationale sur la fécondité,WFS81/82,Direct
+Mauritania,478,1990 Maternal and Child Health Survey,MCHS90/91,Direct
+Mauritania,478,2000/2001 Enquête démographique et de santé,DHS2000/2001,Direct
+Mauritania,478,2003/2004 Enquête sur la mortalité infantile et le paludisme,DHS2003/2004,Direct
+Mauritius,480,Vital registration 1957-2009,,
+Mexico,484,1987 Encuesta Nacional sobre Fecundidad y Salud,DHS1987,Direct & indirect
+Mexico,484,Vital registration 1955-2009,,
+Republic of Moldova,498,2005 Demographic and Health Survey,DHS2005,Direct & indirect
+Republic of Moldova,498,Vital registration 1981-2009,,
+Mongolia,496,1998 Reproductive Health Survey,RHS98,Direct
+Mongolia,496,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Mongolia,496,2005 Multiple Indicator Cluster Survey (Child and Development Survey),MICS2005,Indirect
+Mongolia,496,Vital registration 1991-2008,,
+Morocco,504,1979/1980 Enquête nationale sur la fécondité et la planification familiale,WFS79/80,Direct
+Morocco,504,"1987 Enquête nationale sur la planification familiale, la fécondité et la santé de la population",DHS1987,Direct & indirect
+Morocco,504,1992 Enquête nationale sur la population et la santé,DHS1992,Direct & indirect
+Morocco,504,1995 Enquête de panel sur la population et la santé,EPPS 1995,Direct
+Morocco,504,1997 Enquête nationale sur la santé de la mère et de l'enfant,ENSME 1997,Direct
+Morocco,504,2003/2004 Enquête sur la population et la santé familiale,DHS2003/2004,Direct & indirect
+Morocco,504,"Vital registration 1991-1993, 1995-1998",,
+Mozambique,508,1991 Inquérito Demográfico Nacional,MNDS-91,Indirect
+Mozambique,508,1997 Census,1997Census,Indirect
+Mozambique,508,1997 Inquérito Demográfico e de Saúde,DHS1997,Direct & indirect
+Mozambique,508,2003 Inquérito Demográfico e de Saúde,DHS2003,Direct & indirect
+Mozambique,508,"2009 Inquérito Nacional de Prevalência, Riscos Comportamentais e Informação sobre o HIV e SIDA",AIS2009,Indirect
+Myanmar,104,1991 Population Change and Fertility Survey,PCFS91,Direct
+Myanmar,104,1997 Fertility and Reproductive Health Survey,FRHS1997,Direct
+Myanmar,104,2001 Reproductive Health Survey,FRHS2001,Direct
+Namibia,516,1992 Demographic and Health Survey,DHS1992,Direct & indirect
+Namibia,516,2000 Demographic and Health Survey,DHS2000,Direct & indirect
+Namibia,516,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Nepal,524,1976 Fertility Survey,NFS76,Direct & indirect
+Nepal,524,1985/1986 Fertility and Family Planning Survey,NFFS85,Indirect
+Nepal,524,"1991/1992 Fertility, Family Planning and Health Survey",NFFHS91,Direct
+Nepal,524,1996 Family Health Survey,DHS1996,Direct & indirect
+Nepal,524,2001 Demographic and Health Survey,DHS2001,Direct & indirect
+Nepal,524,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Netherlands,528,Vital registration 1950-2009,,
+New Zealand,554,Vital registration 1950-2009,,
+Nicaragua,558,1985/1986 Encuesta Socio-demográfica,ESDN85,Indirect
+Nicaragua,558,1997/1998 Encuesta de Demografía y Salud,DHS1997/1998,Direct & indirect
+Nicaragua,558,2001 Encuesta de Demografía y Salud,DHS2001,Direct & indirect
+Nicaragua,558,"Vital registration 1959, 1961-1965, 1968-1969, 1973-1978, 1987-1994, 1996-2007",,
+Niger,562,1992 Enquête démographique et de santé,DHS1992,Direct & indirect
+Niger,562,1998 Enquête démographique et de santé,DHS1998,Direct & indirect
+Niger,562,2000 Enquête à indicateurs multiples de la fin de la décennie,MICS2000,Indirect
+Niger,562,2006 Enquête démographique et de santé et à indicateurs multiples,DHS2006,Direct & indirect
+Nigeria,566,1981/1982 Fertility Survey,WFS81/82,Direct
+Nigeria,566,1990 Demographic and Health Survey,DHS1990,Direct & indirect
+Nigeria,566,1999 Demographic and Health Survey,DHS1999,Direct & indirect
+Nigeria,566,2003 Demographic and Health Survey,DHS2003,Direct & indirect
+Nigeria,566,2008 Demographic and Health Survey,DHS2008,Direct & indirect
+Norway,578,Vital registration 1951-2009,,
+Occupied Palestinian Territory,275,1995 Demographic Survey,DS95,Direct
+Occupied Palestinian Territory,275,2000 Health Survey,HS00,Direct
+Occupied Palestinian Territory,275,2004 Demographic and Health Survey,DHS04,Direct
+Occupied Palestinian Territory,275,2006 Family Health Survey,FHS2006,Direct
+Oman,512,1988/1989 Child Health Survey,CHS88-89,Direct
+Oman,512,1995 Family Health Survey,FHS1995,Direct
+Pakistan,586,1968-1971 Population Growth Survey I,PGS168-71,Direct
+Pakistan,586,1975 Fertility Survey,PFS75,Direct
+Pakistan,586,1976-1979 Population Growth Survey II,PGSII76-79,Direct
+Pakistan,586,1984-1988 Demographic Survey,PDS84-88,Direct
+Pakistan,586,1990/1991 Demographic and Health Survey,DHS1990/1991,Direct & indirect
+Pakistan,586,1996/1997 Integrated Household Survey,PIHS1996-97,Indirect
+Pakistan,586,1998 Census,Census1998,Indirect
+Pakistan,586,1998/1999 Integrated Household Survey,PIHS1998-99,Direct & indirect
+Pakistan,586,2000/2001 Reproductive Health and Family Planning Survey,PRHFPS 2000-01,Direct
+Pakistan,586,2001 Demographic Survey,PDS2001,Direct
+Pakistan,586,2001/2002 Integrated Household Survey,PIHS2001-02,Direct & indirect
+Pakistan,586,2003 Demographic Survey,PDS2003,Direct
+Pakistan,586,2005 Demographic Survey,PDS2005,Direct
+Pakistan,586,2005/2006 Social and Living Standards Measurement Survey,PSLM2005-06,Direct
+Pakistan,586,2006 Demographic Survey,PDS2006,Direct
+Pakistan,586,2006/2007 Demographic and Health Survey,DHS2006/2007,Direct & indirect
+Pakistan,586,2007 Demographic Survey,PDS2007,Direct
+Pakistan,586,2007/2008 Social and Living Standards Measurement Survey,PSLM2007-08,Direct
+Pakistan,586,Vital registration 1984-1993,,
+Panama,591,1975/1976 Encuesta de Fecundidad,WFS76,Direct
+Panama,591,1975-1977 Encuesta Demográfica Nacional,EDNP75/77,Direct & indirect
+Panama,591,Vital registration 1955-2008,,
+Papua New Guinea,598,1996 Demographic and Health Survey,DHS1996,Direct
+Papua New Guinea,598,Vital registration 1987-1998,,
+Paraguay,600,1979 Encuesta Nacional de Fecundidad,WFS79,Direct
+Paraguay,600,1990 Encuesta Nacional de Demografía y Salud,DHS1990,Direct & indirect
+Paraguay,600,Vital registration 1980-2005,,
+Peru,604,1974-1976 Encuesta Demográfica Nacional,EDNP74/76,Indirect
+Peru,604,1977/1978 Encuesta Nacional de Fecundidad,WFS77/78,Direct
+Peru,604,1986 Encuesta Demográfica y de Salud Familiar,DHS1986,Direct & indirect
+Peru,604,1992 Encuesta Demográfica y de Salud Familiar,DHS1992,Direct & indirect
+Peru,604,1996 Encuesta Demográfica y de Salud Familiar,DHS1996,Direct & indirect
+Peru,604,2000 Encuesta Demográfica y de Salud Familiar,DHS2000,Direct & indirect
+Peru,604,2004-2008 Encuesta Demográfica y de Salud Familiar ENDES Continua,DHS2004-2008,Direct & indirect
+Peru,604,2009 Encuesta Demográfica y de Salud Familiar,DHS2009,Direct
+Peru,604,"Vital registration 1966-1973, 1977-1978, 1980-1992, 1994-2007",,
+Philippines,608,1978 Fertility Survey,PFS78,Direct
+Philippines,608,1993 National Demographic Survey,DHS1993,Direct & indirect
+Philippines,608,1998 National Demographic and Health Survey,DHS1998,Direct & indirect
+Philippines,608,2003 National Demographic and Health Survey,DHS2003,Direct & indirect
+Philippines,608,2008 Demographic and Health Survey,DHS2008,Direct & indirect
+Philippines,608,"Vital registration 1980-1998, 2000, 2002-2005",,
+Poland,616,Vital registration 1959-2009,,
+Portugal,620,Vital registration 1955-2009,,
+Puerto Rico,630,"Vital registration 1959, 1960, 1970, 1975, 1979-2001, 2005",,
+Qatar,634,1998 Family Health Survey,QFHS98,Direct
+Qatar,634,"Vital registration 1981-1983, 1985-1990, 1992-1997, 1999-2009",,
+Republic of Korea,410,1974 National Fertility Survey,KNFS74,Direct & indirect
+Republic of Korea,410,"Vital registration 1980, 1983-2009",,
+Romania,642,"Vital registration 1963, 1969-1978, 1980-2009",,
+Russian Federation,643,Vital registration 1959-2009,,
+Rwanda,646,1970 Enquête démographique,ED70,Direct
+Rwanda,646,1983 Enquête sur la fécondité,WFS83,Direct & indirect
+Rwanda,646,1992 Enquête démographique et de santé,DHS1992,Direct & indirect
+Rwanda,646,2000 Enquête démographique et de santé,DHS2000,Direct & indirect
+Rwanda,646,2005 Enquête démographique et de santé,DHS2005,Direct & indirect
+Rwanda,646,2007/2008 Enquête intermédiaire sur les indicateurs démographique et de santé,IDHS2007/2008,Direct & indirect
+Saudi Arabia,682,1987 Child Health Survey,SACHS87,
+Saudi Arabia,682,1990 CHSS,CHSS90,
+Saudi Arabia,682,1996 Family Health Survey,GFHS1996,
+Senegal,686,1978 Enquête sur la fécondité,WFS78,Direct
+Senegal,686,1986 Enquête démographique et de santé,DHS1986,Direct & indirect
+Senegal,686,1992/1993 Enquête démographique et de santé,DHS1992/1993,Direct & indirect
+Senegal,686,1997 Enquête démographique et de santé,DHS1997,Direct & indirect
+Senegal,686,2005 Enquête démographique et de santé,DHS2005,Direct & indirect
+Senegal,686,2006 Malaria Indicator Survey,MIS2006,Indirect
+Senegal,686,2008/2009 Malaria Indicator Survey,2008-2009MIS,Direct & indirect
+Serbia,688,Vital registration 1998-2009,,
+Sierra Leone,694,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Sierra Leone,694,2005 Multiple Indicator Cluster Survey,MICS2005,Indirect
+Sierra Leone,694,2008 Demographic and Health Survey,2008DHS,Direct & indirect
+Singapore,702,Vital registration 1955-2009,,
+Slovakia,703,Vital registration 1950-2009,,
+Slovenia,705,Vital registration 1982-2009,,
+Somalia,706,1980 Fertility Survey,SFS80,Direct
+Somalia,706,1999 Multiple Indicator Cluster Survey,MICS1999,Indirect
+Somalia,706,2006 Multiple Indicator Cluster Survey,MICS2006,Direct & indirect
+South Africa,710,1987/1989 Demographic and Health Survey,DHS1987/1989,Direct
+South Africa,710,1998 Demographic and Health Survey,DHS1998,Direct & indirect
+South Africa,710,2003/2004 Demographic and Health Survey,DHS2003/2004,Direct
+South Africa,710,Vital registration 1985-2007,,
+Spain,724,Vital registration 1951-2009,,
+Sri Lanka,144,1975 Fertility Survey,1975 Fertility Survey,Direct & indirect
+Sri Lanka,144,1987 Demographic and Health Survey,DHS1987,Direct & indirect
+Sri Lanka,144,1993 Demographic and Health Survey,DHS1993,Direct
+Sri Lanka,144,2006/2007 Demographic and Health Survey,DHS2006-7,Direct
+Sri Lanka,144,Vital registration 1950-2009,,
+Sudan,736,1978/1979 Fertility Survey,WFS78/79,Direct
+Sudan,736,1990 Demographic and Health Survey,DHS1990,Direct & indirect
+Sudan,736,1993 Census,Census93,Indirect
+Sudan,736,1993 Maternal and Child Health Survey,MCH93,Direct
+Sudan,736,2006 Household Health Survey (PAPFAM),SHHS06,Direct
+Sudan,736,1999 Safe Motherhood Survey,SMS99,Direct
+Swaziland,748,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Swaziland,748,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Sweden,752,Vital registration 1951-2009,,
+Switzerland,756,Vital registration 1951-2009,,
+Syrian Arab Republic,760,1978 Fertility Survey,SFS78,Direct & indirect
+Syrian Arab Republic,760,1990 EPI/CDD and Child Mortality Survey,EPI/CDDCMS90,Indirect
+Syrian Arab Republic,760,2001 Family Health Survey,PAPFAM2001,Direct
+Syrian Arab Republic,760,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Syrian Arab Republic,760,"Vital registration 1983-1984, 2001",,
+Tajikistan,762,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Tajikistan,762,2005 Multiple Indicator Cluster Survey,MICS2005,Indirect
+Tajikistan,762,Vital registration 1981-2005,,
+TFYR Macedonia,807,Vital registration 1982-2009,,
+Thailand,764,1974-1976 Survey of Population Change,SOPC74-76,Direct
+Thailand,764,1975 Survey of Fertility,TFS75,Direct & indirect
+Thailand,764,1985-1986 Survey of Population Change,SOPC84-86,Direct
+Thailand,764,1987 Demographic and Health Survey,DHS1987,Direct & indirect
+Thailand,764,1989 Survey of Population Change,SOPC89,Direct
+Thailand,764,1991 Survey of Population Change,SOPC91,Direct
+Thailand,764,2005/2006 Multiple Indicator Cluster Survey,MICS2005/2006,Indirect
+Thailand,764,Vital registration 1955-2007,,
+Timor-Leste,626,2003 Demographic and Health Survey,2003DHS,Direct
+Timor-Leste,626,2004 Census,2004Census,Indirect
+Togo,768,1988 Enquête démographique et de santé,DHS1988,Direct & indirect
+Togo,768,1998 Enquête démographique et de santé,DHS1998,Direct & indirect
+Togo,768,2005 Multiple Indicator Cluster Survey,MICS2005,Indirect
+Trinidad and Tobago,780,1977 Fertility Survey,WFS77,Direct
+Trinidad and Tobago,780,1987 Demographic and Health Survey,DHS1987,Direct & indirect
+Trinidad and Tobago,780,Vital registration 1951-2006,,
+Tunisia,788,1978 Enquête sur la fécondité,WFS78,Direct
+Tunisia,788,1988 Enquête démographique et de santé,DHS1988,Direct & indirect
+Tunisia,788,2001 Family Health Survey,PAPFAM01,Direct
+Tunisia,788,"Vital registration 1975, 1980, 1984, 1987-2000",,
+Turkey,792,1978 Fertility Survey,TFS78,Direct
+Turkey,792,1989 Demographic Survey,TDS89,Indirect
+Turkey,792,1993 Demographic and Health Survey,DHS1993,Direct & indirect
+Turkey,792,1998 Demographic and Health Survey,DHS1998,Direct & indirect
+Turkey,792,2003 Demographic and Health Survey,DHS2003,Direct & indirect
+Turkmenistan,795,2000 Demographic and Health Survey,DHS2000,
+Turkmenistan,795,2006 Multiple Indicator Cluster Survey,MICS2006,
+Turkmenistan,795,Vital registration 1981-2000,,
+Uganda,800,1988 Demographic and Health Survey,DHS1988,Direct & indirect
+Uganda,800,1995 Demographic and Health Survey,DHS1995,Direct & indirect
+Uganda,800,2000/2001 Demographic and Health Survey,DHS2000/2001,Direct & indirect
+Uganda,800,2006 Demographic and Health Survey,DHS2006,Direct & indirect
+Uganda,800,2009 Malaria Indicator Survey,MIS2006,Direct & indirect
+Ukraine,804,2005 Multiple Indicator Cluster Survey,MICS2005,Indirect
+Ukraine,804,2007 Demographic and Health Survey,DHS2007,Direct & indirect
+Ukraine,804,Vital registration 1959-2009,,
+United Arab Emirates,784,1987/1988 Child Health Survey,CHS87/88,
+United Arab Emirates,784,1995 Family Health Survey,GFHS95,
+United Arab Emirates,784,Vital registration 2003,,
+United Kingdom,826,Vital registration 1950-2009,,
+United Republic of Tanzania,834,1988 Census,CENS88,Indirect
+United Republic of Tanzania,834,1992 Demographic and Health Survey,DHS1992,Direct & indirect
+United Republic of Tanzania,834,1996 Demographic and Health Survey,DHS1996,Direct & indirect
+United Republic of Tanzania,834,1999 Reproductive and Child Health Survey,DHS1999,Direct & indirect
+United Republic of Tanzania,834,2004 Demographic and Health Survey,DHS2004,Direct & indirect
+United Republic of Tanzania,834,2007/2008 HIV/AIDS Indicator Survey,2007/2008 AIS,Direct & indirect
+United Republic of Tanzania,834,2010 Demographic and Health Survey,DHS2010,Direct & indirect
+United States of America,840,Vital registration 1950-2008,,
+Uruguay,858,Vital registration 1955-2004,,
+Uzbekistan,860,1996 Demographic and Health Survey,DHS1996,Direct & indirect
+Uzbekistan,860,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Uzbekistan,860,2002 Health Examination Survey,HES2002,Direct
+Uzbekistan,860,2006 Multiple Indicator Cluster Survey,MICS2006,Indirect
+Uzbekistan,860,Vital registration 1981-2007,,
+Venezuela (Bolivarian Republic of),862,1977 Encuesta de Fecundidad,WFS77,Direct
+Venezuela (Bolivarian Republic of),862,1998 Encuesta Nacional de Poblacion y Familia,ENPOFAM98,Direct
+Venezuela (Bolivarian Republic of),862,Vital registration 1955-2007,,
+Viet Nam,704,1994 Intercensal Demographic Survey,VIDS94,Direct
+Viet Nam,704,1997 Demographic and Health Survey,DHS1997,Direct & indirect
+Viet Nam,704,2000 Multiple Indicator Cluster Survey,MICS2000,Indirect
+Viet Nam,704,2002 Demographic and Health Survey,DHS2002,Direct & indirect
+Viet Nam,704,2007 Annual Population Change Survey,PCS2007,Indirect
+Yemen,887,1979 Fertility Survey,YFS79,Direct
+Yemen,887,1991/1992 Demographic and Maternal and Child Health Survey,DHS1991/1992,Direct
+Yemen,887,1997 Demographic and Maternal and Child Health Survey,DHS1997,Direct & indirect
+Yemen,887,2003 Family Health Survey,PAPFAM03,Direct
+Zambia,894,1974 Sample Census,Census74,Indirect
+Zambia,894,1980 Census,Census80,Indirect
+Zambia,894,1992 Demographic and Health Survey,DHS1992,Direct & indirect
+Zambia,894,1996 Demographic and Health Survey,DHS1996,Direct & indirect
+Zambia,894,2001/2002 Demographic and Health Survey,DHS2001/2002,Direct & indirect
+Zambia,894,2006/2007 Demographic and Health Survey,DHS2006/2007,Direct & indirect
+Zimbabwe,716,1982 Census,Census82,Indirect
+Zimbabwe,716,1987 Inter-Censal Demographic Survey,IDS87,Indirect
+Zimbabwe,716,1988 Demographic and Health Survey,DHS1988,Direct & indirect
+Zimbabwe,716,1992 Census,Census92,Indirect
+Zimbabwe,716,1994 Demographic and Health Survey,DHS1994,Direct & indirect
+Zimbabwe,716,1999 Demographic and Health Survey,DHS1999,Direct & indirect
+Zimbabwe,716,2005/2006 Demographic and Health Survey,DHS2005/2006,Direct & indirect
+Zimbabwe,716,"Vital registration 1982, 1986, 1990-1995",,

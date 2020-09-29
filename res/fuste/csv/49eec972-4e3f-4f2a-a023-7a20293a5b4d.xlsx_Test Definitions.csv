@@ -1,0 +1,19 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+8973,Test,8973,Congo Red Stain,Congo Red ST,,"Paraffin blocks or appropriate number of unstained sections slides: PBorUnS
+",,,,Varies,"A pathology/diagnostic report and brief history, patient's age and sex, and pathologist's name, address, and telephone number are required.
+
+Specimen Type: Bone Marrow
+Container/Tube: Bone marrow slides or block
+Specimen Volume: 4 unstained bone marrow slides (cut from 1 block) or 1 bone marrow block
+Additional Information: Indicate bone marrow.
+
+Specimen Type: Body Fluid or Synovial Fluid
+Container/Tube: Lavender top (EDTA)
+Specimen Volume: 3 mL
+Additional Information: Indicate body fluid or synovial fluid.",Bone Marrow: 2 slides/Body Fluid,"Hemolysis	NA
+Thawing	NA
+Lipemia	NA
+Icterus	NA
+Other	NA",An interpretive report will be provided.,Monday through Friday; Varies,3 days,7 days,1,88313,,,,,Rochester
+8973,Specimen,MIXED,Mixed,,,,Ambient,,,,,,,,,,,,,,,,,
+8973,Result,8973,Congo Red ST,Congo Red ST,,,,,,               ,,,,,,,,,,10782-1,,,,

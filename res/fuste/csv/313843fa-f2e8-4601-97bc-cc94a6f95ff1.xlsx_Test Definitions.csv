@@ -1,0 +1,19 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+CSU,Test,CSU,Chyluria Screen,Chyluria Screen,Enzymatic Colorimetric/Electrophoresis/Spectrophotometry (SP),"Urine Container: Urine
+",,,15,mL,"Container/Tube: Plastic, 60-mL urine bottle
+Specimen Volume: 15 mL
+Collection Instructions: 
+1. Collect a first-morning, random urine collection.
+2. Patient should collect specimen prior to eating foods rich in vitamin C or taking vitamin C supplements.
+Additional Information: Indicate patient's age and sex.",15 mL,"Hemolysis	NA
+Thawing	Warm reject; Cold OK
+Lipemia	NA
+Icterus	NA
+Other	NA",No lipoproteins present,Monday through Friday; Continuously,4 days,7 days,,Profile,,,,,Rochester
+CSU,Specimen,URINE,Urine,,,,Frozen,10 days,,,,,,,,,,,,,,,,
+CSU,Result,CHOLU,Cholesterol,Cholesterol,Numeric,,,,,mg/dL,,,,,,,,,,14444-4,Cholesterol:MCnc:Pt:Urine:Qn:,,,
+CSU,Result,TRIGU,Triglycerides,Triglycerides,Numeric,,,,,mg/dL,,,,,,,,,,14450-1,Triglyceride:MCnc:Pt:Urine:Qn:,,,
+CSU,Result,CMTCS,Interpretive Comment,Interpretive Comment,Alphanumeric,,,,, ,,,,,,,,,,59462-2,,,,
+CSU,Billing Component,CSU,,Electrophoretic technique,,,,,,,,,,,,,,1,82664,,,,,
+CSU,Billing Component,CSU,,Triglycerides,,,,,,,,,,,,,,1,84478,,,,,
+CSU,Billing Component,CSU,,"Spectrophotometry,analyte",,,,,,,,,,,,,,1,84311,,,,,

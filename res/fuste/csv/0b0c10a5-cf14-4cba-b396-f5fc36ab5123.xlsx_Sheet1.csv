@@ -1,0 +1,36 @@
+Item,Commonwealth of the Northern Mariana Islands  (IA 98183),U.S. Virgin Islands (IA-98173),Guam (IA-98163),American Samoa (IA-98193),Item,PR Utilities              (IA-97120 /                IA-97220 (Spanish)),PR Construction       (IA-97123 /                          IA-97223 (Spanish)),PR Manufacturing (IA-97130 /               IA-97230 (Spanish)),PR Wholesale        (IA-97142 /                   IA-97242 (Spanish)),PR Retail                   (IA-97144 /                        IA-97244 (Spanish)),Item,PR  Finance               (IA-97152 /                        IA-97252 (Spanish)),PR Accommodation          (IA-97172 /                      IA-97272 (Spanish)),PR Services             (IA-97180 /                          IA-97280 (Spanish)),PR Gen.Schedule               (IA-97190 /                        IA-97290 (Spanish))
+EIN,X,X,X,X,EIN,X,X,X,X,X,EIN,X,X,X,X
+Physical location,X,X,X,X,Physical location,X,X,X,X,X,Physical location,X,X,X,X
+Operational status,X,X,X,X,Operational status,X,X,X,X,X,Operational status,X,X,X,X
+Months in Operation,X,X,X,X,Months in Operation,X,X,X,X,X,Months in Operation,X,X,X,X
+Sales,X,X,X,X,Sales,X,X,X,X,X,Sales,X,X,X,X
+E-commerce sales,X,X,X,X,E-commerce sales,X,X,X,X,X,E-commerce sales,X,X,X,X
+Employment and Payroll,X,X,X,X,Employment and Payroll,X,X,X,X,X,Employment and Payroll,X,X,X,X
+Inventories,X,X,X,X,Inventories,,,X,X,X,Inventories,,,,
+Selected Expenses,X,X,X,X,Selected Expenses,X,X,X,X,X,Selected Expenses,X,X,X,X
+Kind of Business,X,X,X,X,Kind of Business,X,X,X,X,X,Kind of Business,X,X,X,X
+Class of Customer,X,X,X,X,Class of Customer,,,,X,X,Class of Customer,,,,X
+Detail of Sales,X,X,X,X,Detail of Sales,,X,,X,X,Detail of Sales,,X,,X
+Accommodations,X,X,X,X,Accommodations,,,,,,Accommodations,,X,,
+Legal Form of Organization,X,X,X,X,Legal Form of Organization,X,X,X,X,X,Legal Form of Organization,X,X,X,X
+Ownership,X,X,X,X,Ownership,,,,,,Ownership,,,,
+Certification,X,X,X,X,Certification,X,X,X,X,X,Certification,X,X,X,X
+Rental Payments,,,,,Rental Payments,X,X,X,X,X,Rental Payments,X,X,X,
+Support Services,,,,,Support Services,X,,,,,Support Services,,,X,
+Hours worked,,,,,Hours worked,,X,X,,,Hours worked,,,,
+"Assets,Capital Expenditures",X,X,X,X,"Assets,Capital Expenditures",X,X,X,X,X,"Assets,Capital Expenditures",X,X,X,X
+Type of Construction,,,,,Type of Construction,,X,,,,Type of Construction,,,,
+Ownership of Construction,,,,,Ownership of Construction,,X,,,,Ownership of Construction,,,,
+Construction work done,,,,,Construction work done,,X,,,,Construction work done,,,,
+Value of Products Shipped,,,,,Value of Products Shipped,,,X,,,Value of Products Shipped,,,,
+Dsitribution of Shipments,,,,,Distribution of Shipments,,,X,,,Distribution of Shipments,,,,
+Type of Operation,,,,,Type of Operation,,,,X,,Type of Operation,,,,
+Method of Selling,,,,,Method of Selling,,,,X,X,Method of Selling,,,,
+Employment by Primary Function,,,,,Employment by Primary Function,,,,X,,Employment by Primary Function,,,,
+Storage Space,,,,,Storage Space,,,,X,,Storage Space,,,,
+Floor space,,,,,Floor space,,,,,X,Floor space,,,,
+Franchise,,,,,Franchise,,,,,X,Franchise,,,,
+Shopping Center or Mall,,,,,Shopping Center or Mall,,,,,X,Shopping Center or Mall,,,X,
+Receipts from other Sources,,X,X,,Receipts from other Sources,,,,,,Receipts from other Sources,,,,
+PR Tourist Incentive Act,,,,,PR Tourist Incentive Act,,,,,,PR Tourist Incentive Act,,X,,
+Merchandise Sales,,,,,Merchandise Sales,,,,,,Merchandise Sales,,,X,

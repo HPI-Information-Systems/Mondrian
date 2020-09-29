@@ -1,0 +1,30 @@
+Battle ID,Date & Time,Side,Victory,Score,Opp. Score,Opp. ID,Opp. Name,Scenario ID,Front,Start Date,End Date,Name EN,Name FR
+43958109,2014-11-10 06:55:01,AXIS,1,6,5,1503014,Agent Avacado,6749,western,1944-06-06,1944-06-06,Juno Beach,Juno Beach
+43958293,2014-11-10 07:15:35,ALLIES,0,4,6,1503014,Agent Avacado,6749,western,1944-06-06,1944-06-06,Juno Beach,Juno Beach
+44036388,2014-11-15 19:45:22,ALLIES,1,5,2,1670423,jpbattaille,8709,mediterranean,1942-06-12,1942-06-12,Knightsbridge,Knightsbridge
+44036654,2014-11-15 20:03:07,ALLIES,0,3,5,1670423,jpbattaille,12507,western,1945-01-11,1945-01-11,Strasbourg,Strasbourg
+44036908,2014-11-15 20:27:05,ALLIES,0,5,6,780030,keithdone,12505,western,1945-02-17,1945-02-20,Moyland Wood,Bois de Moyland
+44037192,2014-11-15 20:45:25,AXIS,1,6,5,780030,keithdone,12505,western,1945-02-17,1945-02-20,Moyland Wood,Bois de Moyland
+44043596,2014-11-16 06:03:40,ALLIES,0,5,6,1669400,aric44,9579,western,1944-07-18,1944-07-20,Operation Goodwood,Opération Goodwood
+44043939,2014-11-16 06:31:47,ALLIES,0,3,6,1630939,Pero1,9596,western,1944-06-06,1944-06-06,Gold Beach,Gold Beach
+44053460,2014-11-16 20:42:33,AXIS,0,4,6,679827,player679827,9596,western,1944-06-06,1944-06-06,Gold Beach,Gold Beach
+44082361,2014-11-18 20:39:42,AXIS,0,4,6,1553688,Sturmtiger1944,7272,mediterranean,1942-12-01,1942-12-01,Tunisia,Tunisie
+44082696,2014-11-18 21:17:34,ALLIES,0,4,6,749869,Frostberg,7272,mediterranean,1942-12-01,1942-12-01,Tunisia,Tunisie
+44083143,2014-11-18 21:40:59,AXIS,1,6,4,749869,Frostberg,7272,mediterranean,1942-12-01,1942-12-01,Tunisia,Tunisie
+44087746,2014-11-19 04:32:22,ALLIES,1,6,2,1671720,render18,12498,western,1944-07-11,,[Normandy] Bretel Wood,Bois de Bretel
+44088030,2014-11-19 04:55:38,ALLIES,1,7,5,1631362,player1631362,7594,eastern,1943-07-05,1943-07-09,Ponyri,Ponyri
+44088220,2014-11-19 05:18:02,AXIS,0,2,7,1631362,player1631362,7594,eastern,1943-07-05,1943-07-09,Ponyri,Ponyri
+44094432,2014-11-19 18:38:01,ALLIES,1,5,2,1601827,algivari1,7430,mediterranean,1942-05-27,1942-05-27,1st Armoured to the rescue,Engagement blindé
+44094579,2014-11-19 18:48:49,AXIS,1,5,1,1601827,algivari1,7430,mediterranean,1942-05-27,1942-05-27,1st Armoured to the rescue,Engagement blindé
+44094721,2014-11-19 19:03:27,ALLIES,1,6,3,946197,Groka,6155,western,1944-09-19,1944-09-19,Arracourt,Arracourt
+44094914,2014-11-19 19:24:55,ALLIES,0,1,4,1485314,Vidocq 62,6158,western,1944-06-06,1944-06-06,Pegasus Bridge,Pegasus Bridge
+44095288,2014-11-19 19:46:58,AXIS,0,3,5,1671612,player1671612,7430,mediterranean,1942-05-27,1942-05-27,1st Armoured to the rescue,Engagement blindé
+44128170,2014-11-22 06:04:53,ALLIES,1,5,4,1502391,Benaiah3,9597,western,1944-06-06,1944-06-06,Utah Beach,Utah Beach
+44128290,2014-11-22 06:29:19,AXIS,1,5,3,1502391,Benaiah3,9597,western,1944-06-06,1944-06-06,Utah Beach,Utah Beach
+44128490,2014-11-22 06:45:32,ALLIES,1,5,2,1219534,mrpappy,12499,western,1944-06-13,1944-06-13,Carentan,Carentan
+44136630,2014-11-22 20:41:16,AXIS,1,4,1,1328449,rezart2000,6158,western,1944-06-06,1944-06-06,Pegasus Bridge,Pegasus Bridge
+44136916,2014-11-22 20:56:30,ALLIES,1,4,0,1328449,rezart2000,6158,western,1944-06-06,1944-06-06,Pegasus Bridge,Pegasus Bridge
+44140052,2014-11-23 01:01:51,ALLIES,0,4,6,1673295,Eric74,7364,mediterranean,1941-11-25,1941-11-25,Dug in at Sidi Omar,Retranchés à Sidi Omar
+44140386,2014-11-23 01:28:40,AXIS,1,6,4,1673295,Eric74,7364,mediterranean,1941-11-25,1941-11-25,Dug in at Sidi Omar,Retranchés à Sidi Omar
+44140972,2014-11-23 02:19:50,ALLIES,1,5,2,1673295,Eric74,9580,western,1944-06-11,1944-06-12,Carentan Causeway,Chaussée de Carentan
+44141124,2014-11-23 02:35:23,AXIS,0,1,5,1673295,Eric74,9580,western,1944-06-11,1944-06-12,Carentan Causeway,Chaussée de Carentan

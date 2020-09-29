@@ -1,0 +1,16 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+MBL,Test,MBL,"Mannose-Binding Lectin, Serum","Mannose-Binding Lectin, S",Enzyme-Linked Immunosorbent Assay (ELISA),"Serum Gel Tube: SGT
+",,,0.5,mL,"Collection Container/Tube: 
+Preferred: Red top
+Acceptable: Serum gel
+Submission Container/Tube: Plastic vial
+Specimen Volume: 0.5 mL
+Forms: If not ordering electronically, submit a General Request Form (Supply T239) with the specimen.",0.4 mL,"Hemolysis	Mild reject; Gross reject
+Thawing	Warm reject; Cold reject
+Lipemia	Mild OK; Gross reject
+Icterus	Mild OK; Gross OK
+Other	NA","> or =7.8 ng/mL
+This reference range applies only to adults.
+See Cautions for further information regarding the reference range and clinical interpretation.",Tuesday; 9 a.m.,1 day,8 days,1,83520,,,,,Rochester
+MBL,Specimen,SERUM,Serum,,,,Frozen,7 days,,,,,,,,,,,,,,,,
+MBL,Result,MANBL,"Mannose-Binding Lectin, S","Mannose-Binding Lectin, S",Numeric,,,,,ng/mL,,,,,,,,,,30152-3,Mannose-binding protein:MCnc:Pt:Ser:Qn:,,,

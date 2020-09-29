@@ -1,0 +1,145 @@
+Table S1.  Summary of proteins examined experimentally by COMBREX-funded projects.,Table S1.  Summary of proteins examined experimentally by COMBREX-funded projects.,Table S1.  Summary of proteins examined experimentally by COMBREX-funded projects.,Table S1.  Summary of proteins examined experimentally by COMBREX-funded projects.,,,,,,,
+,,,,,,,,,,
+UniProt Acc.,RefSeq Acc.,LocusTag,OrganismName,ClusterAcc,Cluster_Proteins,BlastHits,DUFs,HumanHomologs,Function Tested,Result
+B0VN39,YP_001708422.1,ABSDF3356,Acinetobacter baumannii SDF,CLSK903661,5,5,–,–,"Type IV restriction endonuclease AbaSI, hmC-specific",confirmed
+F0KGN6,YP_004996989.1,BDGL_002721,Acinetobacter calcoaceticus PHEA-2,–,0,6,–,–,"Type IV restriction endonuclease AcaPI, hmC-specific",confirmed
+Q9YDP0,NP_147565.2,APE_0875.1,Aeropyrum pernix K1,CLSK811317,3,1773,–,HhH-GPD; EndIII_4Fe-2S,T•G specific glycosylase,no activity observed
+A1K2B7,YP_931859.1,azo0355,Azoarcus sp. BH72,CLSK2307911,5,11,–,–,"Type IV restriction endonuclease AspBHI, recognizes YSm5CNS",confirmed
+–,–,–,Azoarcus sp. BH72,–,0,0,–,–,"Restriction endonuclease AspBHII, recognizes RGGWCCY",confirmed
+Q73EG5,NP_976721.1,BCE_0393,Bacillus cereus ATCC 10987,CLSK925860,3,426,–,DNA_methylase,DNA methyltransferase M.BceSV,confirmed
+Q72ZR4,NP_980897.1,BCE_4604,Bacillus cereus ATCC 10987,CLSK829720,3,9,–,–,"Restriction endonuclease BceSII, recognizes GGWCC",confirmed
+P25241,NP_977342.1,BCE_1019,Bacillus cereus ATCC 10987,CLSK877962,31,147,–,ResIII; VRR_NUC,"Restriction endonuclease BceSI, cleaves CGAAG(24-25/27-28)",confirmed
+Q73EI9,NP_976697.1,BCE_0369,Bacillus cereus ATCC 10987,CLSK900064,8,9,–,–,"Restriction endonuclease subunit R2.BceSIV, cleaves (7/5)GCAGC(9/11)",confirmed
+Q73EJ0,NP_976696.1,BCE_0368,Bacillus cereus ATCC 10987,CLSK900065,8,50,–,–,"Restriction endonuclease subunit R1.BceSIV, cleaves (7/5)GCAGC(9/11)",confirmed
+Q72WX3,NP_981897.1,BCE_5605,Bacillus cereus ATCC 10987,–,1,5,–,–,"Restriction endonuclease BceSIII, cleaves ACGGC(12/14)",confirmed
+D5DK08,YP_003598746.1,BMD_3563,Bacillus megaterium DSM 319,–,0,5,–,–,"Type IV restriction endonuclease BmeDI, hmC-specific",confirmed
+Q02169,NP_390683.1,BSU28050,Bacillus subtilis subsp. subtilis str. 168,PRK00148,82,1080,–,Maf,Maf phosphohydrolase,confirmed
+Q5LDN4,YP_211705.1,BF2077,Bacteroides fragilis NCTC 9343,CLSK822567,7,8,–,–,DNA methyltransferase modifying CCGG,no activity observed
+Q64UQ9,YP_099304.1,BF2023,Bacteroides fragilis YCH46,CLSK822567,7,8,–,–,DNA methyltransferase modifying CCGG,no activity observed
+Q8A8L8,NP_810062.1,BT_1149,Bacteroides thetaiotaomicron VPI-5482,CLSK822567,7,8,–,–,DNA methyltransferase modifying CCGG,no activity observed
+A6L7D1,YP_001301217.1,BVU_3992,Bacteroides vulgatus ATCC 8482,CLSK822567,7,8,–,–,DNA methyltransferase modifying CCGG,no activity observed
+,,,Bifidobacterium bifidum PRL2010,,,,,,Type IV restriction endonuclease,in progress
+,,,Bifidobacterium bifidum S17,,,,,,Type IV restriction endonuclease,in progress
+Q89SE5,NP_769095.1,blr2455,Bradyrhizobium japonicum USDA 110,PRK06498,73,517,–,–,Isocitrate lyase,confirmed
+B4EJL0,YP_002234131.1,BCAM1520,Burkholderia cenocepacia J2315,CLSK928591,10,36,–,HNH,Type IV restriction endonuclease BceJMcrA,no activity observed
+B4E6M3,YP_002232595.1,BCAL3493,Burkholderia cenocepacia J2315,CLSK900148,33,150,–,ResIII,"Restriction endonuclease BceJI (type III RM), recognizes CACAG",no activity observed
+B4E6M4,YP_002232596.1,BCAL3494,Burkholderia cenocepacia J2315,CLSK904033,22,362,–,–,DNA methyltransferase M.BceJI (type III RM) modifying CACm6AG,confirmed
+B4EK51,YP_002234200.1,BCAM1588,Burkholderia cenocepacia J2315,PRK06498,73,569,–,–,Isocitrate lyase,in progress
+B2T552,YP_001895937.1,Bphyt_2314,Burkholderia phytofirmans PsJN,CLSK878064,58,382,–,–,2-nitropropane dioxygenase,in progress
+B2T9D7,YP_001890410.1,Bphyt_6745,Burkholderia phytofirmans PsJN,CLSK868522,5,623,–,–,2-nitropropane dioxygenase,in progress
+B2TEK6,YP_001887897.1,Bphyt_4144,Burkholderia phytofirmans PsJN,CLSK942171,9,644,–,–,2-nitropropane dioxygenase,in progress
+Q9A7F9,NP_420572.1,CC_1764,Caulobacter crescentus CB15,PRK06498,73,635,–,–,Isocitrate lyase,in progress
+D5EQ08,YP_003549911.1,Caka_2726,Coraliomargarita akajimensis DSM 45221,–,0,21,–,–,Type IV restriction endonuclease CakORF2727P,no activity observed
+,,,Corynebacterium kroppenstedtii DSM 44385,,,,,,Restriction endonuclease/methyltransferase,in progress
+A3U4K6,YP_003714853.1,CA2559_00420,Croceibacter atlanticus HTCC2559,–,1,12,–,–,"Restriction endonuclease CatHI, cleaves CTCTTC(1/4)",confirmed
+Q24MI3,YP_521202.1,DSY4969,Desulfitobacterium hafniense Y51,CLSK450859,4,38,–,–,Trimethylamine (TMA):corrinoid methyltransferase,in progress
+Q6ALL1,YP_065771.1,DP2035,Desulfotalea psychrophila LSv54,–,1,125,–,–,Type IV restriction endonuclease DpsMrrP,no activity observed
+D4IB59,YP_003537162.1,EAM_0061,Erwinia amylovora ATCC 49946,–,0,152,–,–,Type IV restriction endonuclease EamBMcrBCP,no activity observed
+B7LJ74,YP_003162564.1,pEC14_71,Escherichia coli,CLSK861783,37,55,–,–,Autotransporter/cell adhesion protein,in progress
+Q0TKS4,YP_668356.1,ECP_0424,Escherichia coli 536,CLSK908050,25,130,–,–,Autotransporter/cell adhesion protein,in progress
+–,YP_003037476.1,ECBD_3291,Escherichia coli BL21(DE3),CLSK879658,15,176,–,–,Autotransporter/cell adhesion protein,in progress
+A7ZSG4,YP_001464743.1,EcE24377A_3754,Escherichia coli E24377A,CLSK905348,23,1041,–,SBP_bac_3,"ABC­type importer, periplasmic binding protein",in progress
+B1X887,YP_001731131.1,ECDH10B_2348,Escherichia coli str. K-12 substr. DH10B,CLSK880325,20,322,–,–,"ABC­type importer, periplasmic binding protein",in progress
+P77269,NP_417043.1,b2548 (yphF),Escherichia coli str. K-12 substr. MG1655,CLSK880430,35,494,–,–,"ABC­type importer, periplasmic binding protein",in progress
+Q46863,NP_417492.1,b3020 (ygiS),Escherichia coli str. K-12 substr. MG1655,PRK09755,24,3892,–,–,"ABC­type importer, periplasmic binding protein",in progress
+P76042,NP_415826.1,b1310 (ycjN),Escherichia coli str. K-12 substr. MG1655,CLSK880923,37,522,–,–,"ABC­type importer, periplasmic binding protein",in progress
+P0A8M6,NP_416511.4,b2007 (yeeX),Escherichia coli str. K-12 substr. MG1655,PRK05423,126,124,DUF496,–,GAP (GTPase activating protein)-like protein ,in progress
+P46837,NP_417866.4,b3407 (yhgF),Escherichia coli str. K-12 substr. MG1655,CLSK862831,86,2070,–,S1; Tex_N,RNA binding and RNA nuclease,in progress
+P0AAS7,NP_415061.2,b0528 (ybcJ),Escherichia coli str. K-12 substr. MG1655,PRK11507,63,166,–,–,RNA binding and RNA nuclease,in progress
+P77328,NP_415046.4,b0513 (ybbY),Escherichia coli str. K-12 substr. MG1655,PRK11412,44,99,–,Xan_ur_permease,Nucleobase permease,in progress
+Q46817,YP_026186.1,b4464 (ygfQ),Escherichia coli str. K-12 substr. MG1655,CLSK870037,172,1068,–,Xan_ur_permease,Nucleobase permease,in progress
+Q46821,NP_417364.2,b2888 (uacT),Escherichia coli str. K-12 substr. MG1655,CLSK880522,37,1272,–,Xan_ur_permease,Nucleobase permease,in progress
+P31440,NP_418120.2,b3664 (yicO),Escherichia coli str. K-12 substr. MG1655,CLSK2393909,30,1071,–,Xan_ur_permease,Nucleobase permease,in progress
+P0AF52,NP_418488.1,b4064 (yjcD),Escherichia coli str. K-12 substr. MG1655,CLSK870037,172,1070,–,Xan_ur_permease,Nucleobase permease,in progress
+P64614,NP_417705.2,b3238 (yhcN),Escherichia coli str. K-12 substr. MG1655,CLSK880623,99,110,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AB40,NP_415630.1,b1112 (bhsA),Escherichia coli str. K-12 substr. MG1655,CLSK879955,59,189,DUF1471,–,Periplasmic signal transduction protein,in progress
+P39297,NP_418610.4,b4189 (bsmA),Escherichia coli str. K-12 substr. MG1655,CLSK888460,80,78,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AAX6,NP_415327.2,b0806 (mcbA),Escherichia coli str. K-12 substr. MG1655,CLSK879771,39,157,DUF1471,–,Periplasmic signal transduction protein,in progress
+P75694,NP_414863.1,b0329 (yahO),Escherichia coli str. K-12 substr. MG1655,PRK09929,49,53,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AAX3,NP_415323.1,b0802 (ybiJ),Escherichia coli str. K-12 substr. MG1655,PRK10259,53,236,DUF1471,–,Periplasmic signal transduction protein,in progress
+P76177,NP_416121.1,b1604 (ydgH),Escherichia coli str. K-12 substr. MG1655,CLSK880144,87,86,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AF82,NP_418609.4,b4188 (yjfN),Escherichia coli str. K-12 substr. MG1655,CLSK880863,37,66,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AF86,NP_418620.1,b4199 (yjfY),Escherichia coli str. K-12 substr. MG1655,CLSK880864,56,60,DUF1471,–,Periplasmic signal transduction protein,in progress
+P75687,NP_414837.2,b0303 (ykgI),Escherichia coli str. K-12 substr. MG1655,CLSK879629,43,42,DUF1471,–,Periplasmic signal transduction protein,in progress
+P0AGK4,NP_417647.1,b3180 (yhbY),Escherichia coli str. K-12 substr. MG1655,PRK10343,58,486,–,–,rRNA processing,in progress
+P0A8X0,NP_418655.1,b4234 (yjgA),Escherichia coli str. K-12 substr. MG1655,PRK05255,246,287,DUF615,–,rRNA processing,in progress
+P0A8H6,NP_418302.1,b3866 (yihI),Escherichia coli str. K-12 substr. MG1655,PRK05244,137,101,DUF414,–,GAP-like protein,in progress
+P25536,NP_417714.1,b3248 (yhdE),Escherichia coli str. K-12 substr. MG1655,PRK00032,119,1079,–,Maf,Maf phosphohydrolase,confirmed
+P0A729,NP_415605.2,b1087 (yceF),Escherichia coli str. K-12 substr. MG1655,PRK00884,90,1053,–,Maf,Maf phosphohydrolase,in progress
+P0ACJ5,NP_414981.4,b0447 (ybaO),Escherichia coli str. K-12 substr. MG1655,CLSK879671,39,2500,–,–,Transcriptional regulator,in progress
+A6H1V6,YP_001297131.1,FP2274,Flavobacterium psychrophilum JIP02/86,CLSK976121,4,894,–,DNA_methylase,DNA methyltransferase M.FpsJI modifying Cm5CGG,confirmed
+A6H1V5,YP_001297130.1,FP2273,Flavobacterium psychrophilum JIP02/86,CLSK822567,7,8,–,–,"Restriction endonuclease FpsJI, cleaves C/CGG",confirmed
+A8L234,YP_001509600.1,Franean1_5336,Frankia sp. EAN1pec,CLSK2307911,5,11,–,–,"Type IV restriction endonuclease FspEI, recognizes m5CC",confirmed
+D0LTI7,YP_003265775.1,Hoch_1324,Haliangium ochraceum DSM 14365,–,0,108,–,–,Type IV restriction endonuclease HocMrrP,no activity observed
+Q9HNR6,NP_280674.1,VNG1980C,Halobacterium sp. NRC-1,PRK02135,53,35,DUF358,–,Pseudouridine methyltransferase,confirmed
+E4NWR5,YP_004038432.1,Hbor_37800,Halogeometricum borinquense DSM 11551,–,0,114,–,–,Methyltransferase,no activity observed
+O25465,NP_207566.1,HP0773,Helicobacter pylori 26695,CLSK872443,31,557,–,–,2-nitropropane dioxygenase,in progress
+O25838,NP_208032.1,HP1240,Helicobacter pylori 26695,PRK04056,24,65,–,Maf,Maf phosphohydrolase,in progress
+O25046,NP_207065.1,HP0267,Helicobacter pylori 26695,PRK08418,25,156,–,Amidohydro_1,Adenine amidohydrolase,in progress
+O25080,NP_207108.1,HP0310,Helicobacter pylori 26695,CLSK865125,45,444,–,–,Acetyl esterase,confirmed
+O25492,NP_207605.1,HP0812,Helicobacter pylori 26695,CLSK872452,22,89,DUF185,DUF185,Dihydrodipicolinate reductase,in progress
+O25613,NP_207751.1,HP0959,Helicobacter pylori 26695,CLSK872475,8,307,–,NIF3,GTP cyclohydrolase,in progress
+O25483,NP_207596.1,HP0803,Helicobacter pylori 26695,CLSK496218,9,36,–,–,GTP cyclohydrolase,in progress
+O25734,NP_207897.1,HP1106,Helicobacter pylori 26695,CLSK496089,16,15,–,–,Adenylosuccinate lyase,in progress
+O25199,NP_207250.1,HP0452,Helicobacter pylori 26695,CLSK2393104,2,87,–,–,RNA endonuclease,no activity observed
+O25113,NP_207144.1,HP0346,Helicobacter pylori 26695,CLSK496779,6,8,–,–,RNA endonuclease,in progress
+O24961,NP_206949.1,HP0150,Helicobacter pylori 26695,CLSK495886,8,6,–,–,Pyruvate dehydrogenase,in progress
+O25711,NP_207870.1,HP1079,Helicobacter pylori 26695,CLSK510467,5,27,–,–,ATPase/GTPase linked to cation transport,in progress
+O24976,NP_206969.1,HP0170,Helicobacter pylori 26695,CLSK872291,23,22,–,–,Xanthine dehydrogenase,in progress
+O25683,NP_207832.1,HP1042,Helicobacter pylori 26695,CLSK872354,25,30,–,DHHA1; DHH,Phosphoesterase,in progress
+O25681,NP_207827.1,HP1037,Helicobacter pylori 26695,CLSK872355,19,1777,–,Creatinase_N; Peptidase_M24,Aminopeptidase,confirmed
+O26093,NP_208364.1,HP1573,Helicobacter pylori 26695,CLSK872593,8,1452,–,TatD_DNase,DNA exonuclease,no activity observed
+O25427,NP_207521.1,HP0727,Helicobacter pylori 26695,CLSK872423,25,1254,–,Dus,Transcriptional regulator,in progress
+A8YW66,YP_001576608.1,lhv_0031,Lactobacillus helveticus DPC 4571,CLSK903608,7,11,–,–,Type IV restriction endonuclease LheDORF31P,no activity observed
+Q5ZW53,YP_095265.1,lpg1234,Legionella pneumophila,CLSK2307911,5,12,–,–,"Type IV restriction endonuclease LpnPI, recognizes Cm5CDG",confirmed
+Q6LYT7,NP_988020.1,MMP0900,Methanococcus maripaludis S2,CLSK876048,9,253,–,Rhodanese,2-selenouridine formation,confirmed
+Q6LYT8,NP_988019.1,MMP0899,Methanococcus maripaludis S2,CLSK876049,9,74,–,–,2-selenouridine formation,confirmed
+Q8PYE2,NP_632944.1,MM_0920,Methanosarcina mazei Go1,CLSK812024,5,192,–,NUDIX,NUDIX hydrolase,in progress
+B0UKZ8,YP_001768429.1,M446_1490,Methylobacterium sp. 4-46,CLSK886518,5,208,–,–,T•G specific endonuclease,no activity observed
+E8N968,YP_004224384.1,MTES_1540,Microbacterium testaceum StLB037,–,0,5,–,–,"Type IV restriction endonuclease Mte37I, hmC-specific",confirmed
+,,,Microcystis aeruginosa,,,,,,Restriction endonuclease/methyltransferase,in progress
+,,,Microcystis aeruginosa,,,,,,Restriction endonuclease/methyltransferase,in progress
+P96416,NP_214747.1,Rv0233,Mycobacterium tuberculosis H37Rv,PRK08326,42,64,–,Ribonuc_red_sm,Ribonucleotide reductase,in progress
+A1TFU0,YP_956046.1,Mvan_5269,Mycobacterium vanbaalenii PYR-1,CLSK872199,39,781,–,–,2-nitropropane dioxygenase,in progress
+A2BPK4,YP_001008822.1,A9601_04271,Prochlorococcus marinus str. AS9601,CLSK943043,4,219,–,–,T•G specific endonuclease,no activity observed
+D7GHR1,YP_003687087.1,PFREUD_01180,Propionibacterium freudenreichii,CLSK3091083,5,5,–,–,"Type IV restriction endonuclease PfrCI, hmC-specific",confirmed
+Q15VR7,YP_661075.1,Patl_1499,Pseudoalteromonas atlantica T6c,CLSK903661,5,5,–,–,"Type IV restriction endonuclease PatTI, hmC-specific",confirmed
+Q9I4V0,NP_249715.1,PA1024,Pseudomonas aeruginosa PAO1,CLSK2297751,4,525,–,–,2-nitropropane dioxygenase,in progress
+Q9I5R1,NP_249351.1,PA0660,Pseudomonas aeruginosa PAO1,CLSK866021,14,382,–,–,2-nitropropane dioxygenase,in progress
+Q9HX03,NP_252713.1,PA4024,Pseudomonas aeruginosa PAO1,CLSK861917,228,228,–,–,2-nitropropane dioxygenase,in progress
+Q7LX22,NP_560564.1,PAE3199,Pyrobaculum aerophilum str. IM2,CLSK811317,3,1759,–,HhH-GPD; EndIII_4Fe-2S,T•G specific glycosylase,no activity observed
+A3MSP1,YP_001055124.1,Pcal_0221,Pyrobaculum calidifontis JCM 11548,CLSK631190,5,4,–,GTP_cyclohydroI,Involved in formation of archaeosine from preQ0,confirmed
+Q471K6,YP_295771.1,Reut_A1561,Ralstonia eutropha JMP134,CLSK872199,39,311,–,–,2-nitropropane dioxygenase,in progress
+Q46R25,YP_299253.1,Reut_B5061,Ralstonia eutropha JMP134,CLSK878064,58,254,–,–,2-nitropropane dioxygenase,in progress
+Q46V67,YP_297811.1,Reut_B3609,Ralstonia eutropha JMP134,CLSK2309775,8,910,–,–,2-nitropropane dioxygenase,in progress
+Q1LJH5,YP_584970.1,Rmet_2828,Ralstonia metallidurans CH34,CLSK937278,3,42,–,–,Type IV restriction endonuclease RmeAORF2828P,no activity observed
+Q3J3Q8,YP_352477.1,RSP_2415,Rhodobacter sphaeroides 2.4.1,CLSK840964,5,413,DUF407; DUF404,–,Glutathionylspermidine synthase,in progress
+Q219B4,YP_531341.1,RPC_1460,Rhodopseudomonas palustris BisB18,CLSK721183,2,129,–,–,"Restriction endonuclease RpaBI, cleaves CCCGCAG(20/18)",confirmed
+Q6N4G1,NP_948715.1,RPA3376,Rhodopseudomonas palustris CGA009,CLSK359350,2,89,–,–,"Restriction endonuclease RpaI, cleaves GTYGGAG(11/9)",confirmed
+E3H4U6,YP_003982999.1,HMPREF0733_10107,Rothia dentocariosa ATCC 17931,–,0,99,–,–,"Restriction endonuclease/methyltransferase RdeGBI, recognizes CCGCAG",confirmed
+E3H1D0,YP_003983491.1,HMPREF0733_10599,Rothia dentocariosa ATCC 17931,–,0,30,–,–,"Restriction endonuclease RdeGBIII, cleaves R(9/11)TGRYCA(9/11)",confirmed
+E3H3F9,YP_003983855.1,HMPREF0733_10964,Rothia dentocariosa ATCC 17931,–,0,103,–,–,"Restriction endonuclease/methyltransferase RdeGBII, recognizes ACCCAG",confirmed
+A4F7B2,YP_001102862.1,SACE_0591,Saccharopolyspora erythraea NRRL 2338,PRK08326,42,82,–,Ribonuc_red_sm,Ribonucleotide reductase,in progress
+P58627,NP_460159.1,STM1189,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,PRK00884,90,1064,–,Maf,Maf phosphohydrolase,in progress
+A8H6T6,YP_001502808.1,Spea_2956,Shewanella pealeana ATCC 700345,CLSK903661,5,4,–,–,"Type IV restriction endonuclease SpeAI, hmC-specific",confirmed
+A8H9C2,YP_001503694.1,Spea_3849,Shewanella pealeana ATCC 700345,CLSK903608,7,11,–,–,Type IV restriction endonuclease SpeAORF3849P,no activity observed
+F2F0D5,–,SSIL_0822,Solibacillus silvestris StLB046,–,0,5,–,–,"Type IV restriction endonuclease Ssi46I, hmC-specific",confirmed
+D7A4P1,YP_003692558.1,Snov_0606,Starkeya novella DSM 506,–,0,119,–,–,"Restriction endonuclease Sno506I, recognizes GGCCGAG",confirmed
+D1AWC1,YP_003305474.1,Smon_0101,Streptobacillus moniliformis DSM 12112,–,0,7,–,–,"Restriction endonuclease SmoLI, cleaves C/CGG",confirmed
+–,–,Smon_0102,Streptobacillus moniliformis DSM 12112,–,0,745,–,–,DNA methyltransferase M.SmoLIP modifying CCGG,no activity observed
+,,,Streptobacillus moniliformis DSM 12112,,,,,,Multisubunit restriction/modification system,in progress
+Q981C9,NP_341593.1,SSO0016,Sulfolobus solfataricus P2,CLSK883593,11,642,–,–,Archaeosine biosynthesis,confirmed
+Q30Q89,YP_394077.1,Suden_1565,Sulfurimonas denitrificans DSM 1251,CLSK918520,8,963,–,DNA_methylase,"DNA methyltransferase M.SdeAIII, recognizes CCNGG",confirmed
+Q30Q91,YP_394075.1,Suden_1563,Sulfurimonas denitrificans DSM 1251,CLSK942922,3,2,–,–,"Restriction endonuclease SdeAII, cleaves /CCNGG",confirmed
+Q9HJT3,NP_394339.1,Ta0880,Thermoplasma acidophilum DSM 1728,CLSK227765,3,188,–,Pfkb,Ribokinase family sugar kinase,confirmed
+B1YBZ5,YP_001793825.1,Tneu_0431,Thermoproteus neutrophilus V24Sta,CLSK811317,3,1531,–,HhH-GPD; EndIII_4Fe-2S,T•G specific glycosylase,no activity observed
+Q9WYS2,NP_228251.1,TM0441,Thermotoga maritima MSB8,CLSK795163,4,16799,–,adh_short,Short-chain dehydrogenase/reductase,confirmed
+Q9WZ12,NP_228352.1,TM0542,Thermotoga maritima MSB8,CLSK875209,6,1115,–,malic; Malic_M,Malate dehydrogenase,confirmed
+Q9WYS1,NP_228250.1,TM0440,Thermotoga maritima MSB8,CLSK875144,16,15,–,–,Tagaturonate/fructuronate epimerase,confirmed
+Q9X1P2,NP_229356.1,TM1556,Thermotoga maritima MSB8,PRK14363,5,1056,–,Maf,Maf phosphohydrolase,in progress
+D1BQQ9,YP_003311152.1,Vpar_0184,Veillonella parvula DSM 2008,–,0,702,–,–,Type IV restriction endonuclease Vpa2008ORF184P,no activity observed
+Q8D477,NP_763323.1,VV2_1434,Vibrio vulnificus CMCP6,PRK02135,53,47,DUF358,–,Psi methyltransferase,no activity observed
+F0NXA3,YP_004237455.1,Weevi_0153,Weeksella virosa DSM 16922,–,0,102,–,–,"Restriction endonuclease WviI, cleaves CACRAG(21/19)",confirmed
+Q8P4X5,NP_638923.1,XCC3577,Xanthomonas campestris pv. campestris str. ATCC 33913,CLSK903608,7,11,–,–,Type IV restriction endonuclease XcaCORF3577P,no activity observed
+,,,,,,,,,,
+TOTALS,140,,,,3242,67798,8,28,,

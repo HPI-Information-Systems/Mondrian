@@ -1,0 +1,240 @@
+Data file layout for Student Data File,,,,,,,
+"Ohio Achievement Assessments, Graduation Tests, OTELA",,,,,,,
+Includes data fields for the State Standard-based  Alternate Assessment for Students with Disabilities; and English Language Development Tests (OTELA),,,,,,,
+File Name:         Student File Layout  ,,,,,,,
+Record Length:  585,,,,,,,
+,,,,,,,
+Field Position,,Field Length,,Description,Comments/Acceptable values,ALT,OTELA/ELDA
+Start,End,,,,,,
+1,20,20,*,Student Name,"Student name fields in pre-id file has lengthed, but the fields in this file remanin the same.",,
+1,11,11,,     Last Name,alpha or blank,,
+12,19,8,,     First Name,alpha or blank,,
+20,20,1,,     Middle Initial,alpha or blank,,
+21,29,9,,Student ID assigned by district,alpha/numeric or blank assigned by district,,
+30,31,2,,Exam Grade,"GR = Ohio Graduation Tests, 03 - 08 = Achievement Tests. Standards based alternate assessment uses the same code for the regular exam grade it replaces. OTELA: K2=K thru 2, 35=3 thru 5, 68=6 thru 8, 92=9 thru 12)",,
+32,32,1,,Assessment Type,"A = Alternate, R = Regular", , 
+33,37,5,,filler,, , 
+38,45,8,*,Date of Birth,numeric or blank,,
+38,39,2,,     Month,numeric or blank,,
+40,41,2,,     Day,numeric or blank,,
+42,45,4,,     Year,"numeric or blank, CCYY format",,
+46,47,2,,Grade of Student,"01,02,03, 04, 05, 06, 07, 08, 10, 11, 12, 13 = Adult High School, 14 = Proficiency Only,22=Kindergarten",,
+48,48,1,,Gender,"F = female, M = Male, * = Double Gridded, blank = Unknown",,
+49,49,1,,Ethnicity,"1 = American Indian, 2 = Asian/Pacific Islander, 3 = Black/African American, 4 = Hispanic, 5 = White, 6 = Multi-Racial, 7 = Other, * = Multiple Mark, blank = Unknown",,
+50,58,9,,filler, ,,
+59,78,20,,District Name,alpha,,
+79,84,6,,District IRN,numeric  ,,
+85,104,20,,School Name,alpha,,
+105,110,6,,School IRN,numeric,,
+111,118,8,*,Test Administration,(MMDDCCYY),,
+111,112,2,,Month,numeric  (MM),,
+113,114,2,,Day,day (DD) or blank,,
+115,118,4,,Year,numeric (CCYY),,
+119,123,5,,Homeroom ID,"Blank, Alphanumeric",,
+124,125,2,,filler,,,
+126,126,1,,Migrant Student,"Y = Yes, N = No, Blank = Unknown",,New field 07
+126,130,5,*,IEP Identified,alpha or blank,,
+127,127,1,,Writing,"Y = Yes, N = No, Blank = Unknown",,
+128,128,1,,Reading,"Y = Yes, N = No, Blank = Unknown",,
+129,129,1,,Mathematics (Listening for OTELA/ELDA),"Y = Yes, N = No, Blank = Unknown",,
+130,130,1,,Social Studies (Speaking for OTELA/ELDA),"Y = Yes, N = No, Blank = Unknown",,
+131,131,1,,Science,"Y = Yes, N = No, Blank = Unknown",,
+132,132,1,,LEP Identified ,"Y = Yes, N = No, Blank = Unknown",*,*
+133,133,1,,Eng. Limited Identified,"Y = Yes, N = No, Blank = Unknown",no longer used,no longer used
+134,180,47,**,Writing Scores,"
+", , 
+134,145,12,,filler,Teacher name has been moved to the back with class information.,,
+146,147,2,,Writing Performance Level,"11=Advanced, 12=Accelerated, 13=Proficient, 14=Basic, 15=Limited, 99=invalidated (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,
+148,150,3,,Writing Scale Score,"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",No Scale score for Alt,OTELA Writing Scale 0-999
+151,152,2,,Condition - Prompt 1,"Blank if both Prompt 1 and Prompt 2  were scored.
+If Prompt 1 only scored
+  -  recorded in 9.9 implied decimal
+     format.
+If Prompt 1 not scored
+  -  recorded in left-justified
+     alphanumeric format.    
+     Holistic score codes
+       A = Blank paper
+       B = Refusal
+       C = Illegible/Foreign language
+       D = Insufficient text
+       E = Off topic or off task
+       F = Erased or crossed out
+       G = Plagiarism",,
+153,154,2,,Condition - Prompt 2,"Blank if both Prompt 1 and Prompt 2  were scored.
+If Prompt 2 only scored
+  -  recorded in 9.9 implied decimal
+     format.
+If Prompt 2 not scored
+  -  recorded in left-justified
+     alphanumeric format.    
+     Holistic score codes
+       A = Blank paper
+       B = Refusal
+       C = Illegible/Foreign language
+       D = Insufficient text
+       E = Off topic or off task
+       F = Erased or crossed out
+       G = Plagiarism",,
+,,,,Subscale Indicators,,,
+155,157,3,*,Raw score 1,"Standard 1
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 1 for ALT,No Standard subscore for OTELA
+158,158,1,,Indicator 1,"+ = higher, * = at, - = lower than standard",,
+159,161,3,,Raw score 2,"Standard 2
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 2 for ALT,No Standard subscore for OTELA
+162,162,1,,Indicator 2,"+ = higher, * = at, - = lower than standard",,
+163,165,3,,raw score 3,"Standard 3
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 3 for ALT,No Standard subscore for OTELA
+166,166,1,,Indicator 3,"+ = higher, * = at, - = lower than standard",,
+167,169,3,,Raw score 4,"Standard 4
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domian 4 for Alt,No Standard subscore for OTELA
+170,170,1,,Indicator 4,"+ = higher, * = at, - = lower than standard",,
+171,171,1,,filler,,,
+172,174,3,,Total Writing Raw Score,"With implied decimal, all tests other than OGT will end with 0",,
+175,180,6,,filler,,,
+181,228,48,**,Reading Scores,, , 
+181,192,12,,filler,Teacher name has been moved to the back with class information.,,
+193,194,2,,Reading Performance Level,"11=Advanced, 12=Accelerated, 13=Proficient, 14=Basic, 15=Limited, 99=invalidated (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,
+195,197,3,,Reading Scale Score,"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",No Scale score for Alt,OTELA Reading Scale 0-999
+198,217,20,*,Subscale Indicators,,,
+198,200,3,,Raw score 1,"Standard 1
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 1 for ALT,No Standard subscore for OTELA
+201,201,1,,Indicator 1,"+ = higher, * = at, - = lower than standard",,
+202,204,3,,Raw score 2,"Standard 2
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 2 for ALT,No Standard subscore for OTELA
+205,205,1,,Indicator 2,"+ = higher, * = at, - = lower than standard",,
+206,208,3,,Raw Score 3,"Standard 3
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 3 for ALT,No Standard subscore for OTELA
+209,209,1,,Indicator 3,"+ = higher, * = at, - = lower than standard",,
+210,212,3,,Raw Score 4,"Standard 4
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domian 4 for Alt,No Standard subscore for OTELA
+213,213,1,,Indicator 4,"+ = higher, * = at, - = lower than standard",,
+214,216,3,,Raw Score 5,"Standard 5                                           Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",,
+217,217,1,,Indicator 5,"+ = higher, * = at, - = lower than standard",,
+218,218,1,,filler,,,
+219,221,3,,Reading Total Raw Score,"Numeric, blank (if did not attempt)
+Total Raw score for reading
+99v9 - implied decimal",,
+222,228,7,,filler,,,
+229,276,48,**,Mathematics Scores (Listening Scores for OTELA/ELDA),,,
+229,240,12,,filler,Teacher name has been moved to the back with class information.,,
+241,242,2,,Math Performance Level (Listening Performance Level for OTELA/ELDA),"11=Advanced, 12=Accelerated, 13=Proficient, 14=Basic, 15=Limited, 99=invalidated (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,
+243,245,3,,Math Scale Score (Listening Scale Scores for OTELA/ELDA),"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",No Scale score for Alt,OTELA Listening Scale 0-999
+246,265,20,*,Subscale Indicators,,,
+246,248,3,,Raw score 1,"Standard 1
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 1 for ALT,No Standard subscore for OTELA
+249,249,1,,Indicator 1,"+ = higher, * = at, - = lower than standard",,
+250,252,3,,Raw score 2,"Standard 2
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 2 for ALT,no subscore for OTELA
+253,253,1,,Indicator 2,"+ = higher, * = at, - = lower than standard",,
+254,256,3,,Raw Score 3,"Standard 3
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 3 for ALT,No Standard subscore for OTELA
+257,257,1,,Indicator 3,"+ = higher, * = at, - = lower than standard",,
+258,260,3,,Raw Score 4,"Standard 4
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domian 4 for Alt,No Standard subscore for OTELA
+261,261,1,,Indicator 4,"+ = higher, * = at, - = lower than standard",,
+262,264,3,,Raw Score 5,"Standard 5                                           Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",,
+265,265,1,,Indicator 5,"+ = higher, * = at, - = lower than standard",,
+266,266,1,,filler,,,
+267,269,3,,Math Total Raw Score (Listening Total Raw Score for OTELA/ELDA),"Numeric, blank (if did not attempt)
+Total Raw score for reading
+99v9 - implied decimal",,
+270,276,7,,filler,,,
+277,324,48,**,Social Studies Scores (Speaking Scores for OTELA/ELDA),,,
+277,288,12,,filler,Teacher name has been moved to the back with class information.,,
+289,290,2,,SS Performance Level (Speaking Performance Level for OTELA/ELDA),"11=Advanced, 12=Accelerated, 13=Proficient, 14=Basic, 15=Limited, 99=invalidated (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,OTELA Speaking Performance Level
+291,293,3,,Social Studies Scale Score (Speaking Scale Score for OTELA/ELDA),"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",No Scale score for Alt,OTELA Speaking Scale 0-999
+294,313,20,*,Subscale Indicators,,,
+294,296,3,,Raw score 1,"Standard 1
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 1 for ALT,No Standard subscore for OTELA
+297,297,1,,Indicator 1,"+ = higher, * = at, - = lower than standard",,
+298,300,3,,Raw score 2,"Standard 2
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 2 for ALT,No Standard subscore for OTELA
+301,301,1,,Indicator 2,"+ = higher, * = at, - = lower than standard",,
+302,304,3,,Raw Score 3,"Standard 3
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 3 for ALT,No Standard subscore for OTELA
+305,305,1,,Indicator 3,"+ = higher, * = at, - = lower than standard",,
+306,308,3,,Raw Score 4,"Standard 4
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domian 4 for Alt,No Standard subscore for OTELA
+309,309,1,,Indicator 4,"+ = higher, * = at, - = lower than standard",,
+310,312,3,,Raw Score 5,"Standard 5                                           Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",,
+313,313,1,,Indicator 5,"+ = higher, * = at, - = lower than standard",,
+314,314,1,,filler,,,
+315,317,3,,Social Studies Total Raw Score,"Numeric, blank (if did not attempt)
+Total Raw score for reading
+99v9 - implied decimal",,
+318,324,7,,filler,,,
+325,372,48,*,Science Scores (Comprehension Scores for OTELA/ELDA),,,
+325,336,12,,filler,Teacher name has been moved to the back with class information.,,
+337,338,2,,Science Performance Level (Comprehension Performance Level OTELA/ELDA),"11=Advanced, 12=Accelerated, 13=Proficient, 14=Basic, 15=Limited, 99=invalidated (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,OTELA Comprehension Performance Level
+339,341,3,,Science Scale Score (Comprehension Scale Score for OTELA/ELDA),"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",No Scale score for Alt,OTELA Comprehension Scale 0-999
+342,361,20,*,Subscale Indicators,,,
+342,344,3,,Raw score 1,"Standard 1
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 1 for ALT,No Standard subscore for OTELA
+345,345,1,,Indicator 1,"+ = higher, * = at, - = lower than standard",,
+346,348,3,,Raw score 2,"Standard 2
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 2 for ALT,No Standard subscore for OTELA
+349,349,1,,Indicator 2,"+ = higher, * = at, - = lower than standard",,
+350,352,3,,Raw Score 3,"Standard 3
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domain 3 for ALT,No Standard subscore for OTELA
+353,353,1,,Indicator 3,"+ = higher, * = at, - = lower than standard",,
+354,356,3,,Raw Score 4,"Standard 4
+Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",Domian 4 for Alt,No Standard subscore for OTELA
+357,357,1,,Indicator 4,"+ = higher, * = at, - = lower than standard",,
+358,360,3,,Raw Score 5,"Standard 5                                           Numeric - 99.9 - implied decimal
+Ex:  045 = 4.5; 040 = 4.0",,
+361,361,1,,Indicator 5,"+ = higher, * = at, - = lower than standard",,
+362,362,1,,filler,,,
+363,365,3,,Science Total Raw Score,"Numeric, blank (if did not attempt)
+Total Raw score for reading
+99v9 - implied decimal",,
+366,367,2,,OTELA/ELDA Composite Performance Level," (OTELA/ELDA 05=Level 5, 04=Level 4,03=Level 3, 02=Level 2, 01=Level 1, 99=invalidated)",,OTELA Composite Performance Level
+368,370,3,,OTElA/ELDA Composite Scale Score,"alpha/numeric or blank, Range 000-999, DNA = Did Not Attempt, INV = Invalid, blank if test type = A",,OTELA Composite Scale score 0-999
+371,373,3,,filler,filler,,
+374,382,9,,SSID,"State Student Identification Number, start with two alpha, then 7 numberic.",,
+383,383,1,,Writng Accommodation Indicator,"Y = Yes, N = No, for accommodations for IEP and LEP, including special versions.",,
+384,384,1,,Reading Accommodation Indicator,"Y = Yes, N = No, for accommodations for IEP and LEP, including special versions.",,
+385,385,1,,Math Accommodation Indicator (Listening for OTELA/ELDA),"Y = Yes, N = No, for accommodations for IEP and LEP, including special versions.",,
+386,386,1,,Social Studies Accommodation Indicator (Speaking for OTELA/ELDA),"Y = Yes, N = No, for accommodations for IEP and LEP, including special versions.",,
+387,387,1,,Science Accommodation Indicator,"Y = Yes, N = No, for accommodations for IEP and LEP, including special versions.",,
+388,392,5,,filler,,,
+393,402,10,,Writing Class Name,Writing class name or course name,,
+403,407,5,,Writing Session Number,Writing class session number or course session number,,
+408,427,20,,Writing Teacher Name,"Writing teacher name (Last Name, First)",,
+428,437,10,,Readting Class Name,Reading class name or course name,,
+438,442,5,,Reading Session Number,Reading class session number or course session number,,
+443,462,20,,Reading Teacher Name,"Reading teacher name (Last Name, First)",,
+463,472,10,,Math Class Name,Math class name or course name,,
+473,477,5,,Math Session Number,Math class session number or course session number,,
+478,497,20,,Math Teacher Name,"Math teacher name (Last Name, First)",,
+498,507,10,,Social Studies Class Name,Social Studies class name or course name,,
+508,512,5,,Social Studies Session Number,Social Studies class session number or course session number,,
+513,532,20,,Social Studies Teacher Name,"Social Studies teacher name (Last Name, First)",,
+533,542,10,,Science Class Name,Science class name or course name,,
+543,547,5,,Science Session Number,Science class session number or course session number,,
+548,567,20,,Science Teacher Name,"Science teacher name (Last Name, First)",,
+568,583,16,,filler,,,
+584,585,2,,DAS,Data Acquisition Site (Numeric of **),,

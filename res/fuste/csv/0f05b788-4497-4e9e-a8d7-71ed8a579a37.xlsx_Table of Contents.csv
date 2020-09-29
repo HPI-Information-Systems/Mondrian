@@ -1,0 +1,49 @@
+CFTC Swaps Report
+2012-11-30 00:00:00
+Table of Contents
+All Swaps
+1. Gross Notional Outstanding by Cleared Status
+2. Gross Notional Outstanding by Participant Type
+3. Net Notional Outstanding by Cleared Status
+4. Net Notional Outstanding by Participant Type
+5. Transaction Ticket Volume by Cleared Status
+6. Transaction Ticket Volume by Participant Type
+7. Transaction Dollar Volume by Cleared Status
+8. Transaction Dollar Volume by Participant Type
+Swaps by Asset Class
+Interest Rate Swaps
+9a. Gross Notional Outstanding -  Product Type and Cleared Status
+9b. Gross Notional Outstanding - Cleared - Supermajor Currency
+9c. Gross Notional Outstanding - Cleared - Major Currency
+9d. Gross Notional Outstanding - Cleared - Tenor
+10a. Net Notional Outstanding - Product Type and Cleared Status
+10b. Net Notional Outstanding - Cleared - Supermajor Currency
+10c. Net Notional Outstanding - Cleared - Major Currency
+10d. Net Notional Outstanding - Cleared - Tenor
+11a. Transaction Ticket Volume - Product Type and Cleared Status
+11b. Transaction Ticket Volume - Cleared - Supermajor Currency
+11c. Transaction Ticket Volume - Cleared - Major Currency
+11d. Transaction Ticket Volume - Cleared - Tenor
+12a. Transaction Dollar Volume - Product Type and Cleared Status
+12b. Transaction Dollar Volume - Cleared - Supermajor Currency
+12c. Transaction Dollar Volume - Cleared - Major Currency
+12d. Transaction Dollar Volume - Cleared - Tenor
+Credit Default Swaps
+13a. Gross Notional Outstanding - Product and Participant Type
+13b. Gross Notional Outstanding - Product Type and Grade
+14a. Net Notional Outstanding - Product and Participant Type
+14b. Net Notional Outstanding - Product Type and Grade
+15a. Transaction Ticket Volume - Product and Participant Type
+15b. Transaction Ticket Volume - Product Type and Grade
+16a. Transaction Dollar Volume - Product and Participant Type
+16b. Transaction Dollar Volume - Product Type and Grade
+Equity Swaps
+17. Gross Notional Outstanding
+18. Net Notional Outstanding
+19. Transaction Ticket Volume
+20. Transaction Dollar Volume
+Other Commodity Swaps
+21. Gross Notional Outstanding
+22. Net Notional Outstanding
+23. Transaction Ticket Volume
+24. Transaction Dollar Volume

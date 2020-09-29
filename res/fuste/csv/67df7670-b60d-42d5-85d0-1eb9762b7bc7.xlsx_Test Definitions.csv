@@ -1,0 +1,30 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+F17HP,Test,F17HP,"17-Hydroxy Progesterone, Urine","17-Hydroxy Progesterone, U",Radioimmunoassay (RIA),"Urine Container, 24-hour graduated: 24Urine
+",,,5,mL,"10 mL from a 24-hour urine collection. No special preservative required:
+hydrochloric acid and boric acid are acceptable Refrigerate specimen
+during collection. Send specimen frozen in plastic bottle.
+Note:	1. Patient should not be on any Corticosteroid, ACTH, 
+		steroid, estrogen, or gonadotropin medication, if possible, 
+		for at least 48 hours prior to start of urine collection.
+	2. Duration and total volume required.",5 mL,"Specimens other than	Urine
+Anticoagulants other than	NA
+Hemolysis	NA
+Thawing	Warm reject; Cold OK
+Lipemia	NA
+Icteric	NA","Pediatric Reference Ranges:
+Newborns and Infants:
+3 days to 1 year:  Up to 50 ng/24 hrs 
+ 
+Children: 1 - 8 years:  Up to 300 ng/24 hrs
+ 
+Adult Reference Ranges:
+Male:  Up to 2.0 ug/24 hrs.
+ 
+Female: Up to 4.5 ug/24 hrs.
+ 
+Test Performed by: Inter Science Institute
+                                      944 West Hyde Park Blvd.
+                                      Inglewood, CA 90302",Monday through Friday,5-7 days,7-9 days,1,83498,,,,,Inter Science Institute
+F17HP,Specimen,URINE,Urine,,,,Frozen,180 days,,,,,,,,,,,,,,,,
+F17HP,Result,Z0931,"17-Hydroxy Progesterone, U","17-Hydroxy Progesterone, U",Alphanumeric,,,,, ,,,,,,,,,,9616-4,,,,
+F17HP,Result,Z0920,Units of Measure,Units of Measure,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,

@@ -1,0 +1,53 @@
+ATHLETE FIRST,ATHLETE LAST,NATIONALITY,TEAM,LEG,SWIM,T1,BIKE,T2,RUN,TOTAL TIME
+Irina,Abysova,RUS,Team I Russia,1,00:03:51,00:00:23,00:10:34,00:00:24,00:09:12,00:23:58
+Dmitry,Polyanskiy,RUS,Team I Russia,2,00:03:47,00:00:18,00:10:00,00:00:21,00:07:54,00:21:58
+Alexandra,Razarenova,RUS,Team I Russia,3,00:04:14,00:00:19,00:10:32,00:00:25,00:09:27,00:24:29
+Alexander,Bryukhankov,RUS,Team I Russia,4,00:03:52,00:00:20,00:09:58,00:00:23,00:07:53,00:22:00
+Anja,Knapp,GER,Team I Germany,1,00:03:47,00:00:20,00:10:42,00:00:28,00:09:10,00:23:58
+Jonathan,Zipf,GER,Team I Germany,2,00:03:52,00:00:21,00:09:48,00:00:19,00:07:56,00:21:55
+Rebecca,Robisch,GER,Team I Germany,3,00:04:22,00:00:20,00:10:53,00:00:23,00:08:53,00:24:26
+Sebastian,Rank,GER,Team I Germany,4,00:03:55,00:00:21,00:09:55,00:00:21,00:07:37,00:21:46
+Olesia,Marchenko,UKR,Team I Ukraine,1,00:03:50,00:00:20,00:10:42,00:00:27,00:10:16,00:25:07
+Oleksiy,Syutkin,UKR,Team I Ukraine,2,00:04:00,00:00:20,00:10:13,00:00:20,00:08:13,00:22:44
+Oleksandra,Stepanenko,UKR,Team I Ukraine,3,00:04:22,00:00:21,00:11:22,00:00:23,00:09:04,00:25:07
+Rostyslav,Pevtsov,ITU,Team I Ukraine,4,00:04:06,00:00:11,00:10:27,00:00:22,00:07:51,00:22:34
+Carolina,Routier,ESP,Team I Spain,1,00:03:41,00:00:22,00:10:43,00:00:23,00:09:34,00:24:19
+Vicente,Hernandez,ESP,Team I Spain,2,00:04:01,00:00:23,00:10:30,00:00:22,00:07:53,00:22:45
+Tamara,Gomez Garrido,ESP,Team I Spain,3,00:04:25,00:00:24,00:11:07,00:00:28,00:09:00,00:24:54
+Mario,Mola,ESP,Team I Spain,4,00:03:57,00:00:17,00:09:45,00:00:19,00:08:24,00:22:21
+Margit,Vanek,HUN,Team I Hungary,1,00:03:42,00:00:21,00:10:45,00:00:24,00:08:51,00:23:37
+Gabor,Faldum,HUN,Team I Hungary,2,00:04:02,00:00:19,00:09:39,00:00:19,00:08:19,00:22:17
+Eszter,Dudas,HUN,Team I Hungary,3,00:04:22,00:00:20,00:11:05,00:00:26,00:10:09,00:25:54
+Akos,Vanek,HUN,Team I Hungary,4,00:03:56,00:00:19,00:09:58,00:00:22,00:08:06,00:22:17
+Alice,Betto,ITA,Team I Italy,1,00:03:44,00:00:22,00:10:42,00:00:27,00:09:19,00:24:05
+Alessandro,Fabian,ITA,Team I Italy,2,00:03:52,00:00:19,00:09:42,00:00:19,00:07:57,00:21:48
+Annamaria,Mazzetti,ITA,Team I Italy,3,00:04:20,00:00:20,00:10:54,00:00:22,00:08:54,00:24:25
+Davide,Uccellari,ITA,Team I Italy,4,00:03:59,00:00:19,00:09:54,00:00:22,00:08:01,00:22:11
+Rachel,Klamer,NED,Team I Netherlands,1,00:03:45,00:00:21,00:10:38,00:00:22,00:08:55,00:23:37
+Bas,Diederen,NED,Team I Netherlands,2,00:04:02,00:00:19,00:09:41,00:00:20,00:08:28,00:22:28
+Maya,Kingma,NED,Team I Netherlands,3,00:04:10,00:00:21,00:11:05,00:00:27,00:10:29,00:26:04
+Marco,Van Der Stel,NED,Team I Netherlands,4,00:03:47,00:00:18,00:09:48,00:00:22,00:08:22,00:22:14
+Ece,Bakici,TUR,Team I Turkey,1,00:04:00,00:00:25,00:12:33,00:00:25,00:12:26,00:29:23
+Fatih,Azrak,TUR,Team I Turkey,2,00:04:16,00:00:19,00:10:26,00:00:24,00:09:42,00:24:41
+Berrak,Irmak,TUR,Team I Turkey,3,00:05:07,00:00:29,00:12:35,00:00:29,00:11:08,00:29:17
+Melih,Ilker Gucuyener,TUR,Team I Turkey,4,00:04:39,00:00:23,00:11:59,00:00:25,00:09:00,00:26:00
+Jessica,Harrison,FRA,Team I France,1,00:03:46,00:00:22,00:10:34,00:00:21,00:08:57,00:23:37
+Pierre,Le Corre,FRA,Team I France,2,00:03:57,00:00:23,00:09:41,00:00:19,00:08:04,00:22:03
+Emmie,Charayron,FRA,Team I France,3,00:04:40,00:00:20,00:10:47,00:00:22,00:09:31,00:25:16
+Vincent,Luis,FRA,Team I France,4,00:03:45,00:00:19,00:10:02,00:00:20,00:08:21,00:22:26
+Julia,Hauser,AUT,Team I Austria,1,00:04:04,00:00:21,00:11:49,00:00:26,00:09:34,00:25:47
+Andreas,Giglmayr,AUT,Team I Austria,2,00:04:07,00:00:19,00:10:01,00:00:22,00:08:19,00:22:44
+Lydia,Waldmüller,AUT,Team I Austria,3,00:04:26,00:00:21,00:10:55,00:00:29,00:09:41,00:25:22
+Lukas,Hollaus,AUT,Team I Austria,4,00:04:05,00:00:22,00:09:49,00:00:21,00:08:23,00:22:36
+Anna,Burova,RUS,Team II Russia,1,00:03:54,00:00:21,00:10:35,00:00:25,00:09:10,00:23:59
+Vladimir,Turbayevskiy,RUS,Team II Russia,2,00:03:47,00:00:19,00:09:55,00:00:18,00:07:54,00:21:53
+Arina,Shulgina,RUS,Team II Russia,3,00:04:22,00:00:27,00:11:01,00:00:25,00:09:06,00:24:54
+Artem,Parienko,RUS,Team II Russia,4,00:04:05,00:00:20,00:10:00,00:00:23,00:07:58,00:22:20
+Elena Maria,Petrini,ITA,Team II Italy,1,00:03:50,00:00:19,00:10:38,00:00:24,00:09:24,00:24:09
+Luca,Facchinetti,ITA,Team II Italy,2,00:03:55,00:00:23,00:10:20,00:00:22,00:08:36,00:23:11
+Charlotte,Bonin,ITA,Team II Italy,3,00:04:18,00:00:20,00:10:57,00:00:24,00:09:26,00:24:58
+Matthias,Steinwandter,ITA,Team II Italy,4,00:04:00,00:00:18,00:10:30,00:00:24,00:08:02,00:22:48
+Inna,Ryzhykh,UKR,Team II Ukraine,1,00:03:48,00:00:19,00:10:38,00:00:21,00:09:14,00:23:56
+Danylo,Sapunov,UKR,Team II Ukraine,2,00:03:54,00:00:19,00:09:59,00:00:25,00:08:45,00:22:55
+Yuliya,Yelistratova,UKR,Team II Ukraine,3,00:04:30,00:00:21,00:11:14,00:00:22,00:09:01,00:25:04
+Yegor,Martynenko,UKR,Team II Ukraine,4,00:04:03,00:00:18,00:10:21,00:00:23,00:08:27,00:23:07

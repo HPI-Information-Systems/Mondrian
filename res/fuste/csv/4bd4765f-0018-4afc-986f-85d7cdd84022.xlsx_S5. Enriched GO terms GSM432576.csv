@@ -1,0 +1,32 @@
+GO term,Description,Fold change,P-value
+GO:0048311,mitochondrion distribution,15.6,2e-05
+GO:0031261,DNA replication prioritization complex,6.5,0.001
+GO:0016125,sterol metabolic process,5,0.001
+GO:0008202,steroid metabolic process,4.3,0.002
+GO:0005506,iron ion binding,5.2,0.002
+GO:0000724,double-strand break repair via homologous recombination,5,0.003
+GO:0016126,sterol biosynthetic process,4.5,0.004
+GO:0000725,recombinational repair,4.3,0.005
+GO:0030133,transport vesicle,4.3,0.005
+GO:0031570,DNA integrity checkpoint,3.5,0.005
+GO:0006694,steroid biosynthetic process,4.1,0.006
+GO:0000077,DNA damage checkpoint,3.8,0.008
+GO:0042770,signal transduction in response to DNA damage,3.6,0.009
+GO:0015935,small ribosomal subunit,2.8,0.009
+GO:0006302,double-strand break repair,3.6,0.01
+GO:0016023,cytoplasmic membrane-bounded vesicle,2.8,0.013
+GO:0031410,cytoplasmic vesicle,2.8,0.013
+GO:0007051,spindle organization,3.2,0.014
+GO:0006310,DNA recombination,2.4,0.017
+GO:0016879,"ligase activity, forming carbon-nitrogen bonds",2.2,0.02
+GO:0004842,ubiquitin-protein ligase activity,2.5,0.021
+GO:0006270,DNA-dependent DNA replication initiation,2.7,0.025
+GO:0006623,protein targeting to vacuole,2.7,0.025
+GO:0006066,alcohol metabolic process,2.1,0.025
+GO:0000151,ubiquitin ligase complex,2.6,0.028
+GO:0016567,protein ubiquitination,2.1,0.034
+GO:0005657,replication fork,2.4,0.034
+GO:0000075,cell cycle checkpoint,2,0.046
+,,,
+,,,
+,"P-value <0.05, ≥3 selected genes, enrichment ≥2.0",,

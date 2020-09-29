@@ -28,30 +28,23 @@ to_skip = ["jane_tholt__13157__SRP No. 13.xlsx_Study 1 Delv Dth By Location.csv"
 to_include = ["cara_semperger__1463__February_Everything_Master.xlsx_Active Counterparties Jan 1.csv",
               "5e66b83d-3e77-446a-982f-edab5f6a447d.xlsx_Data.csv"]
 
-
-def heuristic(dist, k, T):
-    np.apply_along_axis(lambda row:
-                        np.mean(sorted([x for x in row if 0 < x < T])[:k]), 0, dist)
-
-
 total_cores = multiprocessing.cpu_count()
 n_cores = total_cores
 print("Total cores: ", total_cores, "used cores: ", n_cores)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--a", default=1, help="The desired alpha to experiment")
-parser.add_argument("--b", default=1, help="The desired beta to experiment")
-parser.add_argument("--g", default=1, help="The desired gamma to experiment")
-parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning")
+parser.add_argument("--a", default=1, help="The desired alpha to experiment (default = 1)")
+parser.add_argument("--b", default=1, help="The desired beta to experiment (default = 1)")
+parser.add_argument("--g", default=1, help="The desired gamma to experiment (default = 1)")
+parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning (default = 1)")
 parser.add_argument("--bestradius", default=False, action='store_true', help="To find the best radius")
-parser.add_argument("--static", default=0, help="To manually use a static radius")
+parser.add_argument("--static", default=0, help="To manually use a static radius (default = 0)")
 parser.add_argument("--subset", default=None, help="To just use a data subset")
-parser.add_argument("--baseline", default=False, action='store_true', help="To select the baseline")
-parser.add_argument("--evaluate", default=False, action='store_true', help="To save the evaluation results")
-parser.add_argument("--experiment", default="static", help="The experiment in case it's evaluation only'")
-parser.add_argument("--iteration", default="", help="The iteration in case it's evaluation only'")
-parser.add_argument("--heuristic", default=False, action="store_true", help="Whether or not to do heuristic radius")
-parser.add_argument("--dataset", default="fuste", help="The dataset on which to perform experiments")
+parser.add_argument("--baseline", default=False, action='store_true', help="To select the baseline (default = False)")
+parser.add_argument("--evaluate", default=False, action='store_true', help="To save the evaluation results (default = False)")
+parser.add_argument("--experiment", default="static", help="The experiment in case it's evaluation only (default = 'static')")
+parser.add_argument("--iteration", default="", help="The iteration in case it's evaluation only")
+parser.add_argument("--dataset", default="fuste", help="The dataset on which to perform experiments (default = 'fuste')")
 
 args = parser.parse_args()
 alpha = float(args.a)
@@ -79,16 +72,6 @@ def main():
         Path(result_dir).mkdir(parents=True, exist_ok=True)
 
         evaluations = find_radii(result_dir)
-
-    if args.heuristic:
-        experiment = "heuristic"
-        experiment += str(args.iteration)
-        result_dir = os.path.join("./results/", dataset, hyperparameters, experiment)
-        if subset is not None:
-            result_dir += "subset" + str(subset)
-        Path(result_dir).mkdir(parents=True, exist_ok=True)
-        mult = "heuristic"
-        evaluations = static_radii(mult, result_dir)
 
     if float(args.static) > 0:
         experiment = "static"
@@ -267,7 +250,6 @@ def find_radii(result_dir):
 def process_file(filename, result_dir, radius=None):
     path = csv_dir + filename
 
-    start_time = time.time()
     img = table_as_image(path)
     sample = data[filename]
     return_label_iou = {}
@@ -307,19 +289,6 @@ def process_file(filename, result_dir, radius=None):
             print("Dumped distances into ", distance_path)
 
         if radius is not None:
-            if radius == "heuristic":
-                k = 2  # considering 0 is the 3 nearest
-                T = 5
-
-                k_avg = np.apply_along_axis(lambda row:
-                                            np.mean(sorted([x for x in row if 0 < x < T])[:k]), 0, distances)
-                k_avg[np.isnan(k_avg)] = 0
-                avg = np.mean(k_avg)
-                radius = avg
-                if math.isnan(avg) or avg == 0:
-                    radius = 0.5
-                print(filename, "avg dist", avg, "radius", radius)
-
             exec_time = time.time()
             predicted_labels, _ = clustering(elements_found, distances=distances, radius=radius,
                                              alpha=alpha,

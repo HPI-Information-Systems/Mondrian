@@ -1,0 +1,59 @@
+Table S1. Yeast strains used in this study. ,
+,
+Strain,Relevant Genotype*
+SLJ2039,Mata bar1- mps3Δ::NATMX pURA3-MPS3
+SLJ0844,Mata bar1- kar1Δ17 pURA3-KAR1
+SLJ0894,Mata bar1- cdc31-2 pURA3-CDC31
+SLJ0718,Mata bar1- mps2-1 
+SLJ1558,Mata sfi1-3
+SLJ0907,Mata CDC31-16 pURA3-CDC31
+SLJ4025,Mata mps3Δ::NATMX ura3::mps3Δ75-150-GFP-URA3 htb2::HTB2-mCherry-HYGMX
+SLJ4308,Mata mps3Δ::NATMX ura3::mps3∆TM-GFP-URA3 htb2::HTB2-mCherry-KANMX 
+SLJ4246,Mata mps3Δ::NATMX ura3::mps3Δcc1-GFP-URA3 htb2::HTB2-mCherry-KANMX
+SLJ4248,Mata mps3Δ::NATMX ura3::mps3Δcc2-GFP-URA3 htb2::HTB2-mCherry-KANMX
+SLJ1239,Mata mps3Δ::HIS3 leu2::mps3ΔpQ-GFP-KANMX-LEU2 
+SLJ3428,Mata mps3Δ::NATMX ura3::mps3-2xpQ-GFP-URA3 htb2::HTB2-mCherry-KANMX
+SLJ2571,Mata mps3Δ::NATMX ura3::MPS3-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ2694,Mata mps3Δ::NATMX htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4310,Mata mps3Δ::NATMX ura3::mps3∆TM(Mps2TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4313,Mata mps3Δ::NATMX ura3::mps3∆TM(Ire1TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4320,Mata mps3Δ::NATMX ura3::mps3∆TM(Heh1TM2)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4322,Mata mps3Δ::NATMX ura3::mps3∆TM(Pho8TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4390,Mata mps3Δ::NATMX ura3::mps3∆TM(Nem1TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX  pTRP1-MPS3
+SLJ4420,Mata mps3Δ::NATMX ura3::mps3∆TM(Kar1TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4555,Mata mps3Δ::NATMX ura3::mps3∆TM(Heh1TM1)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4422,Mata mps3Δ::NATMX ura3::mps3∆TM(Prm3TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4560,Mata mps3Δ::NATMX ura3::mps3∆TM(Doa10TM1)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4388,Mata mps3Δ::NATMX ura3::mps3∆TM(Erv41TM2)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4386,Mata mps3Δ::NATMX ura3::mps3∆TM(Kex2TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4384,Mata mps3Δ::NATMX ura3::mps3∆TM(Sso1TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ4592,Mata mps3Δ::NATMX ura3::mps3∆(Pep12TM)-GFP-URA3 htb2::HTB2-mCherry-KANMX pTRP1-MPS3
+SLJ001,Mata
+SLJ995,Mata ura3::GAL-MPS3-URA3
+SLJ1797,Mata ura3::GAL-MPS3-G186K-URA3
+SLJ4859,Mata ura3::GAL-MPS3-URA3 spc110::SPC110-GFP-KANMX pSPC42-mCherry-HIS3 
+SLJ4864,Mata ura3::gal-MPS3-G186K-URA3  spc110::SPC110-GFP-KANMX pSPC42-mCherry-HIS3
+SLJ5097,Mata ura3::GAL-MPS3-URA3 net1::NET1-mCherry-HIS3MX nup49::NUP49-GFP-NATMX
+SLJ5098,Mata ura3::GAL-MPS3-G186K-URA3 net1::NET1-mCherry-HIS3MX nup49::NUP49-GFP-NATMX
+SLJ4963,Mata ura3::GAL-MPS3-URA3  trp1::HDEL-dsRed-TRP1  pLEU2-GFP-PUS1
+SLJ4965,Mata ura3::gal-MPS3-G186K-URA3 trp1::HDEL-dsRed-TRP1  pLEU2-GFP-PUS1
+SLJ5384,Mata htb2::HTB2-mCherry-HYGMX pLEU2-cNLS 
+SLJ5093,Mata ura3::GAL-MPS3-URA3 htb2::HTB2-mCherry-HYGMX pLEU2-cNLS 
+SLJ5094,Mata ura3::GAL-MPS3-G186K-URA3 htb2::HTB2-mCherry-HYGMX pLEU2-cNLS 
+SLJ5138,Mata ura3::GAL-MPS3-3xFLAG-URA3-KANMX 
+SLJ5140,Mata ura3::GAL-MPS3-G186K-3xFLAG-URA3-KANMX 
+SLJ715,Mata spc42-11
+SLJ1740,Mata ndc1Δ::KANMX::ndc1-39-TRP1
+SLJ910,Mata/Mata mps3-1/mps3-1
+SLJ1779,Mata mps3∆::HIS3 leu2::MPS3-LEU2
+SLJ1781,Mata mps3∆::HIS3 leu2::mps3-Y502H-LEU2
+SLJ1783,Mata mps3∆::HIS3 leu2::mps3-Q572LQ573L-LEU2
+SLJ1785,Mata/Mata mps3∆::HIS3/mps3D::HIS3 leu2::mps3-W487A-LEU2/leu2::mps3-W487A-LEU2
+SLJ1787,Mata/Mata mps3∆::HIS3/mps3∆::HIS3 leu2::mps3-A540D-LEU2/leu2::mps3-A540D-LEU2
+SLJ1789,Mata/Mata mps3∆::HIS3/mps3√::HIS3 leu2::2x(mps3-∆SUN2)-LEU2/leu2::2x(mps3-∆SUN2)-LEU2
+SLJ1791,Mata mps3∆::HIS3 leu2::mps3-F592S-LEU2
+SLJ1793,Mata/Mata mps3∆::HIS3/mps3∆::HIS3 leu2::2x(mps3-W477A)-LEU2/leu2::2x(mps3-W477A)-LEU2
+SLJ4259/SLJ5249,Mata pom152Δ::HYGMX mps3Δ::NATMX
+SLJ4260,Mata pom152Δ::HYGMX
+,
+"* pTRP1-MPS3 or pURA3-MPS3 were removed by plating cells to 5-FBA or 5-FOA, respectively, immediately before the experiment",

@@ -1,0 +1,51 @@
+ATHLETE FIRST,ATHLETE LAST,NATIONALITY,START NUMBER,SWIM,T1,BIKE,T2,RUN,POSITION,TOTAL TIME,PROGRAM
+Felipe,Barraza,CHI,6,00:18:01   ,00:01:42   ,01:00:44   ,00:00:57   ,00:30:58   ,1,01:48:58,Elite Men
+Irving,Perez,MEX,1,00:15:23   ,00:01:03   ,01:00:36   ,00:01:00   ,00:30:57   ,2,01:48:59,Elite Men
+Danilo,Pimentel,BRA,9,00:15:19   ,00:01:11   ,01:00:34   ,00:01:01   ,00:31:07   ,3,01:49:12,Elite Men
+Shane,Barrie ,AUS,8,00:17:51   ,00:01:34   ,01:00:47   ,00:01:02   ,00:31:17   ,4,01:49:23,Elite Men
+Jason,Wilson,BAR,2,00:15:15   ,00:01:12   ,01:00:24   ,00:01:11   ,00:31:26   ,5,01:49:28,Elite Men
+Wesley,Matos,BRA,11,00:15:11   ,00:01:11   ,01:00:29   ,00:00:58   ,00:31:55   ,6,01:49:44,Elite Men
+David,Mendoza,MEX,4,00:18:12   ,00:01:21   ,01:00:51   ,00:00:56   ,00:31:39   ,7,01:50:17,Elite Men
+Juan Jose,Andrade Figueroa,ECU,22,00:15:19   ,00:01:09   ,01:00:38   ,00:00:55   ,00:32:41   ,8,01:50:42,Elite Men
+Felipe,Van De Wyngard,CHI,3,00:15:44   ,00:01:11   ,01:00:46   ,00:00:57   ,00:32:37   ,9,01:51:15,Elite Men
+Paulo Roberto,Maciel,BRA,14,00:15:41   ,00:01:15   ,01:00:45   ,00:01:02   ,00:32:45   ,10,01:51:28,Elite Men
+Carlos Enrique,Perez Bolsegui,VEN,15,00:15:41   ,00:01:12   ,01:00:47   ,00:01:01   ,00:33:05   ,11,01:51:46,Elite Men
+Lautaro,Volpe,ARG,33,00:16:09   ,00:01:25   ,01:01:10   ,00:00:59   ,00:32:10   ,12,01:51:53,Elite Men
+Carlos Alfredo,Perez Bolsegui,VEN,16,00:15:27   ,00:01:13   ,01:01:00   ,00:00:59   ,00:33:31   ,13,01:52:10,Elite Men
+Martin,Maluf,ARG,17,00:16:35   ,00:01:29   ,01:00:39   ,00:01:01   ,00:32:35   ,14,01:52:19,Elite Men
+Raphael,Menezes,BRA,21,00:15:57   ,00:01:24   ,01:01:25   ,00:01:07   ,00:33:01   ,15,01:52:54,Elite Men
+Oliver,Martin,URU,18,00:16:09   ,00:01:16   ,01:01:20   ,00:01:04   ,00:33:44   ,16,01:53:33,Elite Men
+Andres,Cabascango,ECU,27,00:16:39   ,00:01:17   ,01:00:47   ,00:01:01   ,00:34:31   ,17,01:54:15,Elite Men
+Rafael,Fonseca,BRA,10,00:15:16   ,00:01:12   ,01:00:34   ,00:00:59   ,00:36:16   ,18,01:54:17,Elite Men
+Miguel Alejandro,Lopez Garcia,VEN,40,00:16:38   ,00:01:24   ,01:00:43   ,00:01:02   ,00:34:32   ,19,01:54:19,Elite Men
+Nicolas ,Saez,CHI,41,00:16:55   ,00:01:11   ,01:00:38   ,00:00:55   ,00:34:52   ,20,01:54:31,Elite Men
+Cristian,Liurgo,ARG,36,00:16:10   ,00:01:19   ,01:01:16   ,00:01:02   ,00:35:30   ,21,01:55:17,Elite Men
+Rodrigo,Sendra,ARG,37,00:17:37   ,00:01:13   ,01:02:06   ,00:01:03   ,00:33:21   ,22,01:55:20,Elite Men
+Gabriel,Zumbado,CRC,20,00:17:35   ,00:01:16   ,01:02:03   ,00:01:02   ,00:33:59   ,24,01:55:55,Elite Men
+Anthony,Mcsweeney,AUS,5,00:15:26   ,00:01:06   ,01:01:08   ,00:01:05   ,00:37:22   ,26,01:56:07,Elite Men
+Rodrigo,Sepulveda,CHI,39,00:19:32   ,00:01:25   ,01:02:50   ,00:01:10   ,00:34:45   ,27,01:56:52,Elite Men
+Yamil,Amuch,ARG,31,00:17:34   ,00:01:18   ,01:02:03   ,00:01:01   ,00:37:30   ,28,01:59:26,Elite Men
+Luiggi,Landivar,ECU,23,00:16:36   ,00:01:19   ,01:07:28   ,00:01:27   ,00:35:06   ,29,02:01:56,Elite Men
+Rachid ,Abdolcadir,ARG,28,00:19:32   ,00:01:25   ,01:07:44   ,00:01:02   ,00:37:40   ,30,02:04:33,Elite Men
+Jose,Salazar,CHI,24,00:16:32   ,00:01:34   ,01:07:47   ,00:01:02   ,00:39:03   ,31,02:05:58,Elite Men
+Luis Alberto,Aguilar Delgado,VEN,25,00:17:47   ,00:01:17   ,01:01:12   ,00:01:09   ,00:34:37,25,01:56:02,Elite Men
+Tomas,Olavarria,CHI,19,00:16:35   ,00:01:18   ,01:00:49   ,00:01:09   ,00:35:43,23,01:55:04,Elite Men
+Chris,Regis,GRN,29,00:19:06   ,00:01:48   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Men
+Diego,Moreno,CHI,32,00:19:55   ,00:01:31   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Men
+Jason,Britton,CAN,35,00:18:16   ,00:01:31   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Men
+Joscar Jesus,Duque Mu&#241;oz,VEN,34,00:17:32   ,00:01:22   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Men
+Gaspar,Riveros,CHI,7,00:15:42   ,00:01:10   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Men
+Michelle,Flipo,MEX,56,00:16:58   ,00:01:12   ,01:05:23   ,00:01:03   ,00:36:13   ,1,02:00:49,Elite Women
+Lydia,Waldmüller,AUT,54,00:17:00   ,00:01:09   ,01:05:22   ,00:01:02   ,00:37:13   ,2,02:01:46,Elite Women
+Elizabeth,Bravo,ECU,52,00:17:07   ,00:01:14   ,01:07:50   ,00:01:02   ,00:36:38   ,3,02:03:51,Elite Women
+Daria,Pletikapa,CRO,55,00:16:58   ,00:01:12   ,01:05:22   ,00:01:03   ,00:39:29   ,4,02:04:04,Elite Women
+Paola,Diaz,MEX,51,00:17:04   ,00:01:18   ,01:07:50   ,00:01:02   ,00:36:51   ,5,02:04:05,Elite Women
+Maria Eugenia,Barrera,MEX,57,00:17:29   ,00:01:27   ,01:07:15   ,00:01:01   ,00:37:09   ,6,02:04:21,Elite Women
+Anahi,Leon,MEX,53,00:17:01   ,00:01:20   ,01:07:51   ,00:01:03   ,00:37:30   ,7,02:04:45,Elite Women
+Valentina ,Carvallo,CHI,60,00:18:15   ,00:01:14   ,01:06:44   ,00:01:01   ,00:38:19   ,8,02:05:33,Elite Women
+Valeria,Piedra,ECU,67,00:18:00   ,00:01:21   ,01:10:21   ,00:01:06   ,00:39:52   ,9,02:10:40,Elite Women
+Florencia,Giavelli,CHI,62,00:17:41   ,00:01:22   ,01:10:39   ,00:01:12   ,00:41:51   ,10,02:12:45,Elite Women
+Carolina,Galvao,BRA,64,00:17:51   ,00:01:22   ,01:10:27   ,00:01:07   ,00:42:30   ,11,02:13:17,Elite Women
+Maira Alejandra,Vargas,COL,58,00:18:15   ,00:01:18   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Women
+Maria Paz,Contador,CHI,66,00:20:05   ,00:01:23   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Women
+Karina,Navarrete,ECU,68,00:18:30   ,00:01:27   ,00:00:00,00:00:00,00:00:00,DNF,00:00:00,Elite Women

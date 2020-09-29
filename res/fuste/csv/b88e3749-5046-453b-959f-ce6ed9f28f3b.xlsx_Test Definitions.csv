@@ -1,0 +1,4 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+FC9S,Test,FC9S,Factor IX Mut Scrn Gene Sequencing,Factor IX Mut Scrn Gene Sequencing,"DNA Sequencing Analysis by Polymerase Chain Reaction (PCR)
+(PCR is utilized pursuant to a license agreement with Roche Molecular Systems, Inc.)",,,,,,"Only orderable as a reflex at order entry for test FIXMS/84209 Hemophilia B, Factor IX Gene Mutation Screening.",,,"Only orderable as a reflex at order entry for test FIXMS/84209 Hemophilia B, Factor IX Gene Mutation Screening.",Monday through Friday; 2 p.m.,2 days,4 days,20,,,,,,Rochester
+FC9S,Specimen,VARIES,Varies,,,,See instructions,,,,,,,,,,,,,,,,,

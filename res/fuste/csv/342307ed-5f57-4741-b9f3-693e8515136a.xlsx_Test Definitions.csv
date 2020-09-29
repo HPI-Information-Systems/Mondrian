@@ -1,0 +1,14 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+PINW,Test,PINW,"Pinworm Exam, Perianal","Pinworm Exam, Perianal",Microscopic,"SWUBE kit: SWUBE
+",,,,Varies,"Specimen Type: Perianal
+Container/Tube: SWUBE disposable paddle (Falcon) (Supply T300) or similar method of collection
+Specimen Volume: Entire specimen
+Collection Instructions: See Pinworm Collection Instructions in Special Instructions.
+Forms: If not ordering electronically, submit a Microbiology Request Form (Supply T244) with the specimen.",,"Hemolysis	NA
+Thawing	NA
+Lipemia	NA
+Icterus	NA
+Other	NA",Negative (reported as positive or negative),Monday through Friday; Varies,1 day,4 days,1,87172,,,,,Rochester
+PINW,Specimen,VARIES,Varies,,,,Ambient,7 days,,,,,,,,,,,,,,,,
+PINW,Order Question,Q00M0048,Specimen Source,,Plain Text,,,,,,,,,,,,,,,,,,,
+PINW,Result,PINW,"Pinworm Exam, Perianal","Pinworm Exam, Perianal",Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,

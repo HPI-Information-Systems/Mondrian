@@ -1,0 +1,29 @@
+QSS - Questionnaire Matrix,QSS - Questionnaire Matrix,QSS - Questionnaire Matrix,QSS - Questionnaire Matrix,QSS - Questionnaire Matrix
+,,,,
+Form Type,NAICS,Type of respondent,Tax Status,Content
+QSS‑0(A),"72111, 72112",Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑0(E) ,"72111, 72112",Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑1(A),"51, 54, 5611, 5612, 56131, 56132, 5614, 5615, 5616, 5617, 5619, 562",Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑1(E) ,"51, 54, 5611, 5612, 56131, 56132, 5614, 5615, 5616, 5617, 5619, 562",Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑2(A),622,Company respondents,Taxable and Tax-Exempt,"Revenue, expenses, inpatient and discharge days"
+QSS‑2(E) ,622,Employer Identification Number (EIN) respondents,Taxable and Tax-Exempt,"Revenue, expenses, inpatient and discharge days"
+QSS‑3(A),"61, 621, 623, 624",Company respondents,Taxable and Tax-Exempt,"Revenue, expenses"
+QSS‑3(A),"7111, 7113, 712, 7139, 813",Company respondents,Tax-Exempt,"Revenue, expenses"
+QSS‑3(E) ,"61, 621, 623, 624",Employer Identification Number (EIN) respondents,Taxable and Tax-Exempt,"Revenue, expenses"
+QSS‑3(E) ,"7111, 7113, 712, 7139, 813",Employer Identification Number (EIN) respondents,Tax-Exempt,"Revenue, expenses"
+QSS‑4(A),"22, 48, 49, 53, 7113, 7114, 7115, 712, 7132, 7139, 811, 812",Company respondents,Taxable,Revenue
+QSS‑4(E) ,"22, 48, 49, 53, 7113, 7114, 7115, 712, 7132, 7139, 811, 812",Employer Identification Number (EIN) respondents,Taxable,Revenue
+QSS4F(A),"521, 5232, 524",Company respondents,Taxable,Revenue
+QSS4F(E),"521, 5232, 524",Employer Identification Number (EIN) respondents,Taxable,Revenue
+QSS‑5(A),"7111, 7112, 7131",Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑5(E) ,"7111, 7112, 7131",Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑6(A)  ,522,Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑6(E) ,522,Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑7(A) ,5231,Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑7(E) ,5231,Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑8(A) ,5239,Company respondents,Taxable,"Revenue, source of revenue"
+QSS‑8(E) ,5239,Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"
+QSS‑9(A),"72119, 7212, 7213",Company respondents,Taxable,Revenue
+QSS‑9(E) ,"72119, 7212, 7213",Employer Identification Number (EIN) respondents,Taxable,Revenue
+QSS1P(A),56133,Company respondents,Taxable,"Revenue, source of revenue"
+QSS1P(E),56133,Employer Identification Number (EIN) respondents,Taxable,"Revenue, source of revenue"

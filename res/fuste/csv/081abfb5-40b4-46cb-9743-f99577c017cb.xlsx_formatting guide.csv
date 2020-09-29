@@ -1,0 +1,14 @@
+Voucher Request Formatting Guide for blank spreadsheets*,,,,,
+,,,,,
+Column,Width,Alignment,Number Formatting,Notes,Pos'n in a text (ASCII) file**
+A - HEAB school code,3,,,HEAB assigned 3-digit school code.,1-3
+B - school transaction codes and/or voucher numbers,12,,,"If your school uses internal transaction codes or voucher numbers, use this column.  Alignment and formatting are not important for HEAB purposes.",4-15
+C - Student SSN,9,,Custom: 000000000,"Custom formatting must be set in order for SSNs that start with zero to keep the leading zero.  Also, NO DASHES OR DIVIDERS OF ANY KIND!",16-24
+D - Disbursement/Program Code,3,RIGHT,,"10=WHEG UW, 15=WHEG Tech, 20=TIP, 30=TG, 35=Aviation TG, 45=Handicapped, 50=Indian Grant, 55=Tribal WHEG, 60=MRG, 90=AES***",26-27
+E - Term Code,2,RIGHT,,"1=Fall Term, 2=Spring Term, 3=third trimester, 4=supplemental term",28-29
+F - Request Amount,20,RIGHT,Custom: 000000,"WHOLE DOLLAR AMOUNTS ONLY
+You MUST key in the cents as zeroes with NO DECIMAL",44-49
+G - Student Name,29,LEFT,,"As this is not a key field, it doesn't matter if the name is entered last name first or first name first.",50-79
+,,,,"*If using this template for hand-keyed submissions, the file MUST be saved as ""formatted text space delimited"".  You must CHANGE THE FILE TYPE WHEN SAVING; simply typing in the "".prn"" extension will give you an Excel spreadsheet with a name like ""v1110821.prn.xls""",
+,,,,**These line positions and the number formatting can be used by your programmer to produce a simple text file for the bulk of your requests.,
+,,,,"***For the forgiveable loan programs (Minority Teacher [65], Nursing [80], Teacher of theVisually Impaired [75]), ALL voucher requests MUST originate with the Program Coordinator or they will NOT be run!",

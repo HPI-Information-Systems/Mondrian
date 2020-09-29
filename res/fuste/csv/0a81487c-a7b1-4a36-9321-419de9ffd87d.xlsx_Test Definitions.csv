@@ -1,0 +1,11 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+DSP,Test,DSP,"Disopyramide, Serum","Disopyramide, S",Immunoassay,"Plain, Red-Top Tube: Red
+",,,1,mL,"Container/Tube: Red top
+Specimen Volume: 1 mL",0.4 mL,"Hemolysis	Mild OK; Gross reject
+Thawing	Warm OK; Cold OK
+Lipemia	Mild OK; Gross reject
+Icterus	Mild OK; Gross reject
+Other	NA","Therapeutic: 2.0-5.0 mcg/mL
+Toxic: > or =7.0 mcg/mL",Monday through Sunday; Varies,Same day/1 day,1 day,1,80299,,,,,Rochester
+DSP,Specimen,SRED,Serum Red,,,,Refrigerated,14 days,,,,,,,,,,,,,,,,
+DSP,Result,8220,"Disopyramide, S","Disopyramide, S",Numeric,,,,,mcg/mL,,,,,,,,,,3576-6,Disopyramide:MCnc:Pt:Ser/Plas:Qn:,,,

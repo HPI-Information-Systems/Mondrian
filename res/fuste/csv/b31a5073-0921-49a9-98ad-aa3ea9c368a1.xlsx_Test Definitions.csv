@@ -1,0 +1,26 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+HTLVI,Test,HTLVI,"Human T-Cell Lymphotropic Virus Types I and II (HTLV-I/-II) Antibody Screen with Confirmation, Serum","HTLV-I/-II Ab Screen, S","HTLVI/9539: Enzyme Immunoassay (EIA)
+HTLVL/83277: Line Immunoassay (LIA)","Serum Gel Tube: SGT
+",,,1,mL,"Collection Container/Tube: Serum gel	
+Submission Container/Tube: Plastic vial
+Specimen Volume: 1 mL",0.6 mL,"Hemolysis	Mild reject; Gross reject
+Thawing	Warm reject; Cold OK
+Lipemia	Mild reject; Gross reject
+Icterus	NA
+Other	NA",Negative,"HTLV-I/-II Antibody Screen: Monday through Friday; varies
+HTLV-I/-II Antibody Co",2 days,5 days,1,86687,,,,,Rochester
+HTLVI,Specimen,SST,Serum SST,,,,Frozen,,,,,,,,,,,,,,,,,
+HTLVI,Result,9539,"HTLV-I/-II Ab Screen, S","HTLV-I/-II Ab Screen, S",Alphanumeric,,,,, ,,,,,,,,,,29901-6,,,,
+HTLVI,Reflex Test,HTLVL,"Human T-Cell Lymphotropic Virus Types I and II (HTLV-I/-II) Antibody Confirmation, Serum","HTLV-I/-II Ab Confirmation, S",Line Immunoassay (LIA),"Serum Gel Tube: SGT
+",,,0.5,mL,"Collection Container/Tube: Serum gel	
+Submission Container/Tube: Plastic vial
+Specimen Volume: 0.5 mL",0.2 mL,"Hemolysis	Mild OK; Gross OK
+Thawing	Warm reject; Cold OK
+Lipemia	Mild OK; Gross OK
+Icterus	NA
+Other	NA","Negative
+This confirmatory assay should be ordered only on specimens that are reactive by an anti-HTLV-I/-II screening immunoassay.",Wednesday; 3 p.m.,5 days,9 days,1,86689,,,No,Yes,
+HTLVL,Specimen,SST,Serum SST,,,,Frozen,,,,,,,,,,,,,,,,,
+HTLVL,Result,83277,"HTLV-I/-II Ab Confirmation, S","HTLV-I/-II Ab Confirmation, S",Alphanumeric,,,,, ,,,,,,,,,,22362-8,,,,
+HTLVL,Result,23898,HTLV-I/-II Bands,HTLV-I/-II Bands,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+HTLVL,Result,23899,HTLV-I/-II Discrimination,HTLV-I/-II Discrimination,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,

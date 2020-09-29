@@ -1,0 +1,22 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+WHT,Test,WHT,"Wheat, IgE","Wheat, IgE",Fluorescence Enzyme Immunoassay (FEIA),"Serum Gel Tube: SGT
+",,,0.5,mL,"Container/Tube:
+Preferred: Red top
+Acceptable: Serum gel
+Specimen Volume: 0.5 mL for each 5 allergens requested
+Additional Information: Designate specific allergens from the list in Allergens-IgE Antibodies in Special Instructions.
+Forms: If not ordering electronically, submit an Allergen Request Form (Supply T236) with the specimen.",For 1 allergen: 0.3 mL/For more ,"Hemolysis	Mild OK; Gross OK
+Thawing	Warm reject; Cold OK
+Lipemia	Mild OK; Gross OK
+Icterus	NA
+Other	NA","Class	IgE kU/L	Interpretation
+0	<0.35	Negative
+1	0.35-0.69	Equivocal
+2	0.70-3.49	Positive
+3	3.50-17.4	Positive
+4	17.5-49.9	Strongly positive
+5	50.0-99.9	Strongly positive
+6	> or =100	Strongly positive
+Reference values apply to all ages.","Monday through Friday; 9 a.m. - 8 p.m., Saturday; 8 a.m. - 3 p.m.",Same day/1 day,3 days,1,86003,,,,,Rochester
+WHT,Specimen,SERUM,Serum,,,,Refrigerated,14 days,,,,,,,,,,,,,,,,
+WHT,Result,WHT,"Wheat, IgE","Wheat, IgE",Numeric,,,,,kU/L,,,,,,,,,,6276-0,Triticum aestivum Ab.IgE:ACnc:Pt:Ser:Qn:,,,

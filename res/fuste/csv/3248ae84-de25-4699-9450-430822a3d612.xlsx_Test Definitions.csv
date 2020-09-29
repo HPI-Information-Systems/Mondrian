@@ -1,0 +1,16 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+CLZ,Test,CLZ,"Clozapine, Serum","Clozapine, S",Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS),"Plain, Red-Top Tube: Red
+",,,1,mL,"Container/Tube: Red top
+Specimen Volume: 1 mL",0.6 mL,"Hemolysis	Mild OK; Gross OK
+Thawing	Warm OK; Cold OK
+Lipemia	Mild OK; Gross OK
+Icterus	NA
+Other	Serum gel tube","CLOZAPINE
+Therapeutic range: >350 ng/mL
+
+CLOZAPINE + NORCLOZAPINE
+Therapeutic range: >450 ng/mL",Monday through Friday,3 days,4 days,1,80299,,,,,New England
+CLZ,Specimen,SRED,Serum Red,,,,Refrigerated,14 days,,,,,,,,,,,,,,,,
+CLZ,Result,33840,Clozapine,Clozapine,Numeric,,,,,ng/mL,,,,,,,,,,6896-5,Clozapine:MCnc:Pt:Ser/Plas:Qn:,,,
+CLZ,Result,33841,Norclozapine,Norclozapine,Numeric,,,,,ng/mL,,,,,,,,,,10992-6,Norclozapine:MCnc:Pt:Ser/Plas:Qn:,,,
+CLZ,Result,33842,Clozapine+Norclozapine Total,Clozapine+Norclozapine Total,Numeric,,,,,ng/mL,,,,,,,,,,12375-2,Clozapine+Norclozapine:MCnc:Pt:Ser/Plas:Qn:,,,

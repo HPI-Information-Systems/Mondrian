@@ -1,0 +1,130 @@
+Expression profiles of signalling pathways components encoding genes during adult heart organogenesis,,,,,,,
+Symbol,Gene Name,Signal,SAM 5%,Profile,FC,Cluster,Function comments
+Dpp pathway,,,,,,,
+    dpp,decapentaplegic,-,No,,,,ligand - TGFß homolog
+    tkv,thickveins,-,No,,,,Dpp receptor
+    sax,saxophone,+/-,No,,,,Dpp receptor
+    put,punt,+,No,,,,Dpp receptor
+    Mad,Mothers against dpp,+/-,No,,,,Smad1 homolog
+    Med,Medea,+,No,,,,Smad4 homolog
+    Smox,Smad on X,+/-,No,,,,Smad2-3 homolog
+    Dad,Daughters against dpp,+,No,,,,Smad family - Dpp signal inhibitor
+    brk,brinker,+,Yes,up­,2.3832250272259627,10,transcription factor that negatively regulates Dpp target genes
+EGF receptor signaling,,,,,,,
+    argos,argos,-,No,,,,ligand
+    grk,gurken,+,No,,,,ligand
+    spi,spitz,+,Yes,up­,2.479775845744,6,ligand
+    vn,vein,+,No,,,,ligand (weak)
+    Egfr,Epidermal growth factor receptor,-,No,,,,EGF receptor
+    pnt,pointed,+/-,No,,,,a target of EGF signaling
+    ed,echinoid,+,Yes,up­,3.85327147528,8,antagonist of EGF signaling
+    rho,rhomboid,+,Yes,up­,1.64154257842,,required for the production or processing of Spitz
+    ru,roughoid,-,No,,,,acts with Rhomboid
+    S,Star,-,No,,,,acts with Rhomboid
+FGF receptor signaling,,,,,,,
+    pyr,pyramus,+,Yes,up­,2.249155145752656,6,ligand for Heartless
+    ths,thisbe,+,Yes,up­,3.5491827561512,7,ligand for Heartless - closely linked to Pyr
+    bnl,branchless,+,Yes,up­,4.9589797979,9,ligand for Breathless
+    htl,heartless,+,No,,,,FGF receptor - mesodermal development
+    btl,breathless,-,No,,,,FGF receptor - tracheal development
+    sty,sprouty,+,Yes,up­,2.126732614167541,9,antagonist of FGF signaling
+    stumps,stumps,+,Yes,down¯,3.495442997,13,signal transduction protein
+    Cbl,Cbl,+,No,,,,physically interacts with Sprouty
+Hedgehog pathway,,,,,,,
+    hh,hedgehog,-,No,,,,signaling molecule - morphogen
+    smo,smoothened,+/-,No,,,,a receptor for Hedgehog
+    ptc,patched,+,No,,,,a receptor for Hedgehog
+    fu,fused,+/-,No,,,,cytoplasmic component of Hedgehog signaling
+    Su(fu),Suppressor of fused,+,Yes,up­,1.6859147543375,,antagonist of Hedgehog signaling
+    shf,shifted,+,Yes,up­,7.9279541823449,6,required for Hh stability and for lipid-modified Hh diffusion
+    disp,dispatched,-,No,,,,patched family protein regulating Hedgehog release
+    ci,cubitus interruptus,+,No,,,,mediates Hedgehog signaling
+    cos,costa,+,Yes,up­,1.6158694186767077,,a cytoplasmic anchor for ci
+    nej,nejire,+/-,No,,,,coactivator of ci
+Insulin receptor signaling & TOR pathways,,,,,,,
+    chico,chico,+/-,No,,,,insulin receptor substrate family
+    InR,Insulin-like receptor,-,No,,,,insukin receptor
+    Akt1,Akt1,+,No,,,,protein kinase B (PKB) 
+    Pi3K92E,Pi3K92E,+,No,,,,also known as Dp110
+    melt,melted,-,No,,,,modulator of the insulin/PI3K signaling pathway 
+    Pten,Pten,+/-,No,,,,lipid and protein phosphatase acting in insulin pathway
+    Tor,Target of rapamycin,+,No,,,,pivotal member of the TOR pathway
+    RpS6,Ribosomal protein S6,+,No,,,,RPS6 phosphorylation is correlated with regulation of mRNA translation
+    S6k,RPS6-p70-protein kinase,+,No,,,,targets Ribosomal protein S6 - target of TOR pathway
+    Tsc1,Tsc1,-,No,,,,kinase binding
+    scyl,scylla,+,No,,,,downstream of Akt1 and upstream of Tsc to regulate growth
+    chrb,charybde,+,Yes,down¯,2.5791838899828368,13,downstream of Akt1 and upstream of Tsc to regulate growth
+    foxo,"forkhead box, sub-group O",+/-,Yes,down¯,1.4967552532644,,transcription factor - a target of the insulin pathway 
+    gig,gigas,+,No,,,,a modifier of the insulin pathway
+    Thor,Thor,+,Yes,down¯,2.299661299637,4,messenger RNA 5' cap binding protein 
+JAK/STAT signaling pathway,,,,,,,
+    os,outstretched,+/-,No,,,,a cytokine - also known as unpaired
+    dome,domeless,+,No,,,,a cytokine receptor
+    hop,hopscotch,+/-,No,,,,Drosophila's Janus kinase (D-JAK)
+    Stat92E,Stat92E,+,Yes,down¯,1.9879938219158,3,Signal-transducer and activator of transcription protein at 92E (D-STAT)
+    Stam,Stam,+,Yes,down¯,2.4238288591941,3,Signal transducing adaptor molecule
+JNK pathway,,,,,,,
+    egr,eiger,+,Yes,down¯,4.627552813177,4,a TNF superfamily ligand 
+    bsk,basket,+,No,,,,Jun N-terminal kinase (JNK)
+    hep,hemipterous,+/-,No,,,,a kinase (MapKK/JunKK)
+    Jra,Jun-related antigen,+,No,,,,D-Jun - transcription factor - basic leucine zipper
+    kay,kayak,-,No,,,,D-Fos - transcription factor - basic leucine zipper 
+    chm,chameau,+,No,,,,recruited by DJun and DFos 
+    puc,puckered,+/-,No,,,,JNK specific phosphatase
+    msn,misshapen,+,No,,,,SPS1 family kinase - functions upstream of Basket
+    Tak1,TGF-b activated kinase 1,-,No,,,,induces JNK signaling activity
+    wgn,wengen,+,Yes,up­,2.9853895564416,9,required for Eiger Signaling
+    Traf1,TNF-receptor-associated factor 1,+,Yes,down¯,1.491738722196655,,Traf domain protein - regulator of JNK pathway
+Notch pathway,,,,,,,
+    Dl,Delta,+,Yes,up­,2.2234338156479,9,Notch ligand
+    Ser,Serrate,-,No,,,,Notch ligand
+    N,Notch,+,No,,,,transmembrane receptor
+    O-fut1,O-fucosyltransferase 1,+/-,Yes,down¯,1.5542977879373,,essential for the physical interaction of Notch with its ligand Delta 
+    numb,numb,+,Yes,down¯,2.1,3,an antagonist of the Notch signaling pathway
+    H,Hairless,+,No,,,,a major antagonist of the Notch signaling pathway
+    Su(H),Suppressor of Hairless,+,Yes,down¯,1.982979744242,4,transcription factor - physically interacts with Notch
+    mam,mastermind,+,Yes,up­,3.2664581357413285,8,a transcriptional activator for Notch signaling with Su(H)
+    neur,neuralized,+,Yes,up­,2.723351689592,8,modulates the Notch signal at the receptor/ligand level
+    dx,deltex,+/-,No,,,,binds to the cytoplasmic domain of Notch that frees Su(H)
+    Su(dx),Suppressor of deltex,+,Yes,up­,1.69285353232898,,regulator of the Notch pathway
+    fng,fringe,+/-,No,,,,antagonist by targeting extracellular domain of Notch
+    Psn,Presenilin,+,Yes,down¯,2.423153464528,4,transmembrane protein involved in proteolysis of Notch
+    nct,nicastrin,+,Yes,down¯,2.2235569933863,3,"component of a proteolytic complex, along with Presenilin"
+    fred,friend of echinoid,-,No,,,,interacts with the Notch pathway
+    E(spl),Enhancer of split,ND,,,,,transcription factor - target of Notch pathway
+Toll pathway,,,,,,,
+    spz,spatzle,-,No,,,,Toll ligand - secreted
+    Tl,Toll,+,Yes,up­,2.1963587664276,8,transmembrane receptor
+    Myd88,Myd88,+,Yes,down¯,1.975788165982,3,an adapter protein in the signal transduction pathway
+    tub,tube,+/-,No,,,,cofactor with pelle to activate Dorsal 
+    pll,pelle,+,No,,,,S/T kinase - signal transduction protein
+    cact,cactus,+,Yes,up­,2.58163776665,11,IkappaB homolog - regulates the nuclear transport of Dorsal
+    Dif,Dorsal-related immunity factor,+,Yes,up­,6.4975262174792,10,transcription factor - NFkappaB/rel homolog
+    dl,dorsal,+,Yes,up­,2.52136441764,9,transcription factor - NFkappaB/rel homolog
+Torso pathway,,,,,,,
+    trk,trunk,+,Yes,down¯,2.366715513337,4,Torso ligand - secreted
+    tor,torso,-,No,,,,transmembrane receptor tyrosine kinase
+    cic,capicua,+,Yes,down¯,2.3712749395495387,3,transcription factor
+    tsl,torso-like,+/-,No,,,,localized determinant for activation of Torso
+PDGF-VEGF pathway,,,,,,,
+    Pvf1,PDGF- and VEGF-related factor 1,+,No,,,,ligand for Pvr
+    Pvf2,PDGF- and VEGF-related factor 2,+,Yes,up­,3.167474134231,6,ligand for Pvr
+    Pvf3,PDGF- and VEGF-related factor 3,-,No,,,,ligand for Pvr
+    Pvr,PDGF- and VEGF-receptor related,+,Yes,up­,1.9553616159793017,9,Ig C-2 type domain receptor tyrosine kinase
+Wnt pathway,,,,,,,
+    wg,wingless,+,No,,,,ligand - Wnt family
+    Wnt2,Wnt oncogene analog 2,-,No,,,,ligand - Wnt homolog - male reproductive tract/testis morphogenesis
+    Wnt4,Wnt oncogene analog 4,+,Yes,up­,5.968358354843,7,ligand - TGF-B homolog - mesodermal - a Wingless antagonist
+    fz,frizzled,+,Yes,up­,2.587625427593405,8,transmembrane receptor for Wingless
+    fz2,frizzled 2,+,No,,,,transmembrane receptor for Wingless
+    fz3,frizzled 3,-,No,,,,transmembrane receptor - antagonizes Wingless signal
+    dally,division abnormally delayed,+,Yes,up­,3.2965461142746,7,membrane bound glypican related proteoglycan
+    dlp,dally-like,+,Yes,up­,2.5138752861737976,11,membrane bound glypican related proteoglycan 
+    dsh,dishevelled,+,No,,,,a major component in the Wingless pathway
+    Axn,Axin,-,No,,,,binds to beta-catenin to inhibit Wnt signaling
+    arm,armadillo,+,No,,,,beta catenin homolog -signal transduction protein
+    pan,pangolin,-,No,,,,dTCF - transcription factor - acts to transduce the Wingless signal
+    pygo,pygopus,+/-,No,,,,acts downstream of or at the level of Pangolin in Wingless signaling
+    lgs,legless,+,No,,,,permits ß-catenin to activate Wnt target genes
+    nkd,naked cuticle,+,Yes,down¯,1.9222797556822715,3,inducible antagonist for the Wnt signal Wingless
+    lin,lines,ND,,,,,acting downstream or in parallel to Armadillo

@@ -1,0 +1,845 @@
+Table Number,Table Name,Code,Shortened Description
+Table 1.0,E/M Codes for Emergency Department Encounters,99281,"Emergency department visit, new or established patient"
+Table 1.0,E/M Codes for Emergency Department Encounters,99282,"Emergency department visit, new or established patient"
+Table 1.0,E/M Codes for Emergency Department Encounters,99283,"Emergency department visit, new or established patient"
+Table 1.0,E/M Codes for Emergency Department Encounters,99284,"Emergency department visit, new or established patient"
+Table 1.0,E/M Codes for Emergency Department Encounters,99285,"Emergency department visit, new or established patient"
+Table 1.0,E/M Codes for Emergency Department Encounters,99291,"Critical care, evaluation and management"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.00,"AMI ANTEROLATERAL,UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.01,"AMI ANTEROLATERAL, INIT"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.10,"AMI ANTERIOR WALL,UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.11,"AMI ANTERIOR WALL, INIT"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.20,"AMI INFEROLATERAL,UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.21,"AMI INFEROLATERAL, INIT"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.30,"AMI INFEROPOST, UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.31,"AMI INFEROPOST, INITIAL"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.40,"AMI INFERIOR WALL,UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.41,"AMI INFERIOR WALL, INIT"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.50,"AMI LATERAL NEC, UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.51,"AMI LATERAL NEC, INITIAL"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.60,"TRUE POST INFARCT,UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.61,"TRUE POST INFARCT, INIT"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.70,"SUBENDO INFARCT, UNSPEC"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.71,"SUBENDO INFARCT, INITIAL"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.80,"AMI NEC, UNSPECIFIED"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.81,"AMI NEC, INITIAL"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.90,"AMI NOS, UNSPECIFIED"
+Table 1.1 ,Acute Myocardial Infarction (AMI) Diagnosis Codes,410.91,"AMI NOS, INITIAL"
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",411.1,INTERMED CORONARY SYND
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",411.89,AC ISCHEMIC HRT DIS NEC
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",413.0,ANGINA DECUBITUS
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",413.1,PRINZMETAL ANGINA
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",413.9,ANGINA PECTORIS NEC/NOS
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",786.51,PRECORDIAL PAIN
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",786.52,PAINFUL RESPIRATION
+Table 1.1a,"Chest Pain, Angina, Acute Coronary Syndrome Codes",786.59,CHEST PAIN NEC
+Table 6.0,Surgery Procedure Codes,21454,Open treatment of mandibular fracture with external fixation
+Table 6.0,Surgery Procedure Codes,21461,Open treatment of mandibular fracture; without interdental fixation
+Table 6.0,Surgery Procedure Codes,21462,With interdental fixation
+Table 6.0,Surgery Procedure Codes,21465,Open treatment of mandibular condylar fracture
+Table 6.0,Surgery Procedure Codes,21470,"Open treatment of complicated mandibular fracture by multiple surgical approaches including internal fixation, interdental fixation, and/or wiring of dentures or splints"
+Table 6.0,Surgery Procedure Codes,22206,"Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (eg, pedicle/vertebral body subtraction); thoracic"
+Table 6.0,Surgery Procedure Codes,22207,Lumbar
+Table 6.0,Surgery Procedure Codes,22208,Each additional vertebral segment
+Table 6.0,Surgery Procedure Codes,27235,"Percutaneous skeletal fixation of femoral fracture, proximal end, neck"
+Table 6.0,Surgery Procedure Codes,27269,"Open treatment of femoral fracture, proximal end, head, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,27440,"Arthroplasty, knee, tibial plateau;"
+Table 6.0,Surgery Procedure Codes,27441,With debridement and partial synovectomy
+Table 6.0,Surgery Procedure Codes,27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;"
+Table 6.0,Surgery Procedure Codes,27443,With debridement and partial synovectomy
+Table 6.0,Surgery Procedure Codes,27446,"Arthroplasty, knee, condyle and plateau; medial OR lateral compartment"
+Table 6.0,Surgery Procedure Codes,27702,With implant (total ankle)
+Table 6.0,Surgery Procedure Codes,27758,"Open treatment of tibial shaft fracture (with or without fibular fracture), with plate/screws, with or without cerclage"
+Table 6.0,Surgery Procedure Codes,27759,"Treatment of tibial shaft fracture (with or without fibular fracture) by intramedullary implant, with or without interlocking screws and/or cerclage"
+Table 6.0,Surgery Procedure Codes,28293,Resection of joint with implant
+Table 6.0,Surgery Procedure Codes,28415,"Open treatment of calcaneal fracture, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28420,With primary iliac or other autogenous bone graft (includes obtaining graft)
+Table 6.0,Surgery Procedure Codes,28445,"Open treatment of talus fracture, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28465,"Open treatment of tarsal bone fracture (except talus and calcaneus) includes internal fixation, when performed, each"
+Table 6.0,Surgery Procedure Codes,28485,"Open treatment of metatarsal fracture, includes internal fixation, when performed, each"
+Table 6.0,Surgery Procedure Codes,28505,"Open treatment of fracture, great toe, phalanx or phalanges, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28525,"Open treatment of fracture, phalanx or phalanges, other than great toe, includes internal fixation, when performed, each"
+Table 6.0,Surgery Procedure Codes,28531,"Open treatment of sesamoid fracture, with or without internal fixation"
+Table 6.0,Surgery Procedure Codes,28555,"Open treatment of tarsal bone dislocation, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28585,"Open treatment of talotarsal joint dislocation, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28615,"Open treatment of tarsometatarsal joint dislocations, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28645,"Open treatment of metatarsophalangeal joint dislocation, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28675,"Open treatment of interphalangeal joint dislocation, includes internal fixation, when performed"
+Table 6.0,Surgery Procedure Codes,28705,Arthrodesis; pantalar
+Table 6.0,Surgery Procedure Codes,28715,Triple
+Table 6.0,Surgery Procedure Codes,28725,Subtalar 
+Table 6.0,Surgery Procedure Codes,28730,"Arthrodesis, midtarsal or tarsometatarsal, multiple or transverse;"
+Table 6.0,Surgery Procedure Codes,28735,"With osteotomy (eg, flatfoot correction)"
+Table 6.0,Surgery Procedure Codes,28737,"Arthrodesis, with tendon lengthening and advancement, midtarsal, tarsal navicular-cuneiform (eg, Miller type procedure)"
+Table 6.0,Surgery Procedure Codes,33206,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial
+Table 6.0,Surgery Procedure Codes,33207,ventricular
+Table 6.0,Surgery Procedure Codes,33208,atrial and ventricular
+Table 6.0,Surgery Procedure Codes,33212,Insertion of pacemaker pulse generator only; with existing single lead
+Table 6.0,Surgery Procedure Codes,33213,with existing dual leads
+Table 6.0,Surgery Procedure Codes,33214,"Upgrade of implanted pacemaker system, conversion of single chamber system  to dual chamber system (includes removal of previously placed pulse generator, testing of existing lead, insertion of new lead, insertion of new pulse generator)"
+Table 6.0,Surgery Procedure Codes,33215,Repositioning of previously implanted transvenous pacemaker or pacing cardioverter-defibrillator (right atrial or right ventricular) electrode
+Table 6.0,Surgery Procedure Codes,33222,Revision or relocation of skin pocket for pacemaker
+Table 6.0,Surgery Procedure Codes,33223,Revision of skin pocket for cardioverter-defibrillator
+Table 6.0,Surgery Procedure Codes,33227,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; single lead system
+Table 6.0,Surgery Procedure Codes,33228,dual lead system
+Table 6.0,Surgery Procedure Codes,33229,multiple lead system
+Table 6.0,Surgery Procedure Codes,33230,with existing dual leads
+Table 6.0,Surgery Procedure Codes,33231,with existing multiple leads
+Table 6.0,Surgery Procedure Codes,33233,Removal of permanent pacemaker pulse generator only
+Table 6.0,Surgery Procedure Codes,33240,Insertion of pacing cardioverter-defibrillator pulse generator only; with existing single lead
+Table 6.0,Surgery Procedure Codes,33241,Removal of pacing cardioverter-defibrillator pulse generator only;
+Table 6.0,Surgery Procedure Codes,33244,By transvenous extraction
+Table 6.0,Surgery Procedure Codes,33249,"Insertion or replacement of permanent pacing cardioverter-defibrilator system with transvenous lead(s), single or dual chamber;"
+Table 6.0,Surgery Procedure Codes,33262,Removal of pacing cardioverter-defibrillator pulse generator with replacement of pacing cardioverter-defibrillator pulse generator; single lead system
+Table 6.0,Surgery Procedure Codes,33263,dual lead system
+Table 6.0,Surgery Procedure Codes,33264,multiple lead system
+Table 6.0,Surgery Procedure Codes,36830,"Nonautogenous graft (eg, biological collagen, thermoplastic graft)"
+Table 6.0,Surgery Procedure Codes,43130,"Diverticulectomy of hypopharynx or esophagus, with or without myotomy; cervical approach"
+Table 6.0,Surgery Procedure Codes,43246,With directed placement of percutaneous gastrostomy tube
+Table 6.0,Surgery Procedure Codes,43832,"With construction of gastric tube (eg, Janeway procedure)"
+Table 6.0,Surgery Procedure Codes,54400,Insertion of penile prosthesis; non-inflatable (semi-rigid)
+Table 6.0,Surgery Procedure Codes,54401,Inflatable (self-contained)
+Table 6.0,Surgery Procedure Codes,54405,"Insertion of multi-component, inflatable penile prosthesis, including placement of pump, cylinders, and reservoir"
+Table 6.0,Surgery Procedure Codes,54408,"Repair of component(s) of a multi-component, inflatable penile prosthesis"
+Table 6.0,Surgery Procedure Codes,54410,"Removal and replacement of all component(s) of a multi-component, inflatable penile prosthesis at the same operative session"
+Table 6.0,Surgery Procedure Codes,54416,Removal and replacement of non-inflatable (semi-rigid) or inflatable (self-contained) penile prosthesis at the same operative session
+Table 6.0,Surgery Procedure Codes,55700,"Biopsy, prostate; needle or punch, single or multiple, any approach"
+Table 6.0,Surgery Procedure Codes,55705,"Incisional, any approach"
+Table 6.0,Surgery Procedure Codes,57288,"Sling operation for stress incontinence (eg, fascia or synthetic)"
+Table 6.0,Surgery Procedure Codes,57423,"Paravaginal defect repair (including repair of cystocele, if performed), laparoscopic approach"
+Table 6.0,Surgery Procedure Codes,58260,"Vaginal hysterectomy, for uterus 250 g or less;"
+Table 6.0,Surgery Procedure Codes,58262,"With removal of tube(s), and/or ovary(s)"
+Table 6.0,Surgery Procedure Codes,58263,"With removal of tube(s), and/or ovary(s), with repair of enterocele  "
+Table 6.0,Surgery Procedure Codes,58270,With repair of enterocele
+Table 6.0,Surgery Procedure Codes,58290,"Vaginal hysterectomy, for uterus greater than 250 g; "
+Table 6.0,Surgery Procedure Codes,58291,With removal of tube(s) and/or ovary(s)
+Table 6.0,Surgery Procedure Codes,58292,"With removal of tube(s) and/or ovary(s), with repair of enterocele"
+Table 6.0,Surgery Procedure Codes,58293,"With colpo-urethrocystopexy (Marshall-Marchetti-Kranz type, Pereyro type) with or without endoscopic control"
+Table 6.0,Surgery Procedure Codes,58294,With repair of enterocele
+Table 6.0,Surgery Procedure Codes,58550,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less;"
+Table 6.0,Surgery Procedure Codes,58552,With removal of tube(s) and/or ovary(s)
+Table 6.0,Surgery Procedure Codes,58553,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g;"
+Table 6.0,Surgery Procedure Codes,58554,With removal of tube(s) and/or ovary(s)
+Table 6.0,Surgery Procedure Codes,58570,"Laparoscopy, surgical, with total hysterectomy for uterus 250 g or less;"
+Table 6.0,Surgery Procedure Codes,58571,With removal of tube(s) and/or ovary(s)
+Table 6.0,Surgery Procedure Codes,58572,"Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g;"
+Table 6.0,Surgery Procedure Codes,58573,With removal of tube(s) and/or ovary(s)
+Table 6.0,Surgery Procedure Codes,62230,"Replacement or revision of cerebrospinal fluid shunt, obstructed valve, or distal catheter in shunt system"
+Table 6.0,Surgery Procedure Codes,62360,Implantation or replacement of device for intrathecal or epidural drug infusion; subcutaneous reservoir
+Table 6.0,Surgery Procedure Codes,62361,Non-programmable pump
+Table 6.0,Surgery Procedure Codes,62362,"Programmable pump, including preparation of pump, with or without programming"
+Table 6.0,Surgery Procedure Codes,63001,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equine, without facetectomy, foraminotomy or discectomy, (eg, spinal stenosis), 1 or 2 vertebral segments; cervical"
+Table 6.0,Surgery Procedure Codes,63003,Thoracic
+Table 6.0,Surgery Procedure Codes,63005,"Lumbar, except for spondylolisthesis"
+Table 6.0,Surgery Procedure Codes,63011,Sacral
+Table 6.0,Surgery Procedure Codes,63012,"Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve roots for spondylolisthesis, lumbar (Gill type procedure)"
+Table 6.0,Surgery Procedure Codes,63015,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy, (eg, spinal stenosis), more than 2 vertebral segments; cervical"
+Table 6.0,Surgery Procedure Codes,63016,Thoracic
+Table 6.0,Surgery Procedure Codes,63017,Lumbar
+Table 6.0,Surgery Procedure Codes,63020,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, cervical"
+Table 6.0,Surgery Procedure Codes,63030,"1 interspace, lumbar "
+Table 6.0,Surgery Procedure Codes,63040,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; cervical"
+Table 6.0,Surgery Procedure Codes,63042,Lumbar  
+Table 6.0,Surgery Procedure Codes,63045,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root(s), [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical"
+Table 6.0,Surgery Procedure Codes,63046,Thoracic
+Table 6.0,Surgery Procedure Codes,63047,Lumbar
+Table 6.0,Surgery Procedure Codes,63056,"Lumbar (including transfacet, or lateral extraforaminal approach) (eg, far lateral herniated intervertebral disc)"
+Table 6.0,Surgery Procedure Codes,63075,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace"
+Table 6.1,Cardiac and Vascular Codes,33206,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial
+Table 6.1,Cardiac and Vascular Codes,33207,ventricular
+Table 6.1,Cardiac and Vascular Codes,33208,atrial and ventricular
+Table 6.1,Cardiac and Vascular Codes,33212,Insertion of pacemaker pulse generator only; with existing single lead
+Table 6.1,Cardiac and Vascular Codes,33213,with existing dual leads
+Table 6.1,Cardiac and Vascular Codes,33214,"Upgrade of implanted pacemaker system, conversion of single chamber system  to dual chamber system (includes removal of previously placed pulse generator, testing of existing lead, insertion of new lead, insertion of new pulse generator)"
+Table 6.1,Cardiac and Vascular Codes,33215,Repositioning of previously implanted transvenous pacemaker or pacing cardioverter-defibrillator (right atrial or right ventricular) electrode
+Table 6.1,Cardiac and Vascular Codes,33222,Revision or relocation of skin pocket for pacemaker
+Table 6.1,Cardiac and Vascular Codes,33223,Revision of skin pocket for cardioverter-defibrillator
+Table 6.1,Cardiac and Vascular Codes,33227,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; single lead system
+Table 6.1,Cardiac and Vascular Codes,33228,dual lead system
+Table 6.1,Cardiac and Vascular Codes,33229,multiple lead system
+Table 6.1,Cardiac and Vascular Codes,33230,with existing dual leads
+Table 6.1,Cardiac and Vascular Codes,33231,with existing multiple leads
+Table 6.1,Cardiac and Vascular Codes,33233,Removal of permanent pacemaker pulse generator only
+Table 6.1,Cardiac and Vascular Codes,33240,Insertion of pacing cardioverter-defibrillator pulse generator only; with existing single lead
+Table 6.1,Cardiac and Vascular Codes,33241,Removal of pacing cardioverter-defibrillator pulse generator only;
+Table 6.1,Cardiac and Vascular Codes,33244,By transvenous extraction
+Table 6.1,Cardiac and Vascular Codes,33249,"Insertion or replacement of permanent pacing cardioverter-defibrilator system with transvenous lead(s), single or dual chamber;"
+Table 6.1,Cardiac and Vascular Codes,33262,Removal of pacing cardioverter-defibrillator pulse generator with replacement of pacing cardioverter-defibrillator pulse generator; single lead system
+Table 6.1,Cardiac and Vascular Codes,33263,dual lead system
+Table 6.1,Cardiac and Vascular Codes,33264,multiple lead system
+Table 6.1,Cardiac and Vascular Codes,36830,"Nonautogenous graft (eg, biological collagen, thermoplastic graft)"
+Table 6.2,Orthopedic Codes,22206,"Osteotomy of spine, posterior or posterolateral approach, 3 columns,1 vertebral segment (eg, pedicle/vertebral body subtraction); thoracic"
+Table 6.2,Orthopedic Codes,22207,Lumbar
+Table 6.2,Orthopedic Codes,22208,Each additional vertebral segment
+Table 6.2,Orthopedic Codes,27235,"Percutaneous skeletal fixation of femoral fracture, proximal end, neck"
+Table 6.2,Orthopedic Codes,27269,"Open treatment of femoral fracture, proximal end, head, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,27440,"Arthroplasty, knee, tibial plateau;"
+Table 6.2,Orthopedic Codes,27441,With debridement and partial synovectomy
+Table 6.2,Orthopedic Codes,27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;"
+Table 6.2,Orthopedic Codes,27443,With debridement and partial synovectomy
+Table 6.2,Orthopedic Codes,27446,"Arthroplasty, knee, condyle and plateau; medial OR lateral compartment"
+Table 6.2,Orthopedic Codes,27702,With implant (total ankle)
+Table 6.2,Orthopedic Codes,27758,"Open treatment of tibial shaft fracture (with or without fibular fracture), with plate/screws, with or without cerclage"
+Table 6.2,Orthopedic Codes,27759,"Treatment of tibial shaft fracture (with or without fibular fracture) by intramedullary implant, with or without interlocking screws and/or cerclage"
+Table 6.2,Orthopedic Codes,28293,Resection of joint with implant
+Table 6.2,Orthopedic Codes,28415,"Open treatment of calcaneal fracture, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28420,With primary iliac or other autogenous bone graft (includes obtaining graft)
+Table 6.2,Orthopedic Codes,28445,"Open treatment of talus fracture, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28465,"Open treatment of tarsal bone fracture (except talus and calcaneus) includes internal fixation, when performed, each"
+Table 6.2,Orthopedic Codes,28485,"Open treatment of metatarsal fracture, includes internal fixation, when performed, each"
+Table 6.2,Orthopedic Codes,28505,"Open treatment of fracture, great toe, phalanx or phalanges, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28525,"Open treatment of fracture, phalanx or phalanges, other than great toe, includes internal fixation, when performed, each"
+Table 6.2,Orthopedic Codes,28531,"Open treatment of sesamoid fracture, with or without internal fixation"
+Table 6.2,Orthopedic Codes,28555,"Open treatment of tarsal bone dislocation, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28585,"Open treatment of talotarsal joint dislocation, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28615,"Open treatment of tarsometatarsal joint dislocation, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28645,"Open treatment of metatarsophalangeal joint dislocation, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28675,"Open treatment of interphalangeal joint dislocation, includes internal fixation, when performed"
+Table 6.2,Orthopedic Codes,28705,Arthrodesis; pantalar
+Table 6.2,Orthopedic Codes,28715,Triple
+Table 6.2,Orthopedic Codes,28725,Subtalar 
+Table 6.2,Orthopedic Codes,28730,"Arthrodesis, midtarsal or tarsometatarsal, multiple or transverse;"
+Table 6.2,Orthopedic Codes,28735,"With osteotomy (eg, flatfoot correction)"
+Table 6.2,Orthopedic Codes,28737,"Arthrodesis, with tendon lengthening and advancement, midtarsal, tarsal navicular-cuneiform (eg, Miller type procedure)"
+Table 6.3,"Genitourinary - Biopsy, prostate",55700,"Biopsy, prostate; needle or punch, single or multiple, any approach"
+Table 6.3,"Genitourinary - Biopsy, prostate",55705,"Incisional, any approach"
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54400,Insertion of penile prosthesis; non-inflatable (semi-rigid)
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54401,Inflatable (self-contained)
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54405,"Insertion of multi-component, inflatable penile prosthesis, including placement of pump, cylinders, and reservoir"
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54408,"Repair of component(s) of a multi-component, inflatable penile prosthesis"
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54410,"Removal and replacement of all component(s) of a multi-component, inflatable penile prosthesis at the same operative session"
+Table 6.3a,"Genitourinary - Penile prosthesis insertion, removal, revision",54416,Removal and replacement of non-inflatable (semi-rigid) or inflatable (self-contained) penile prosthesis at the same operative session
+Table 6.4,Gastric/Biliary - PEG placement,43246,With directed placement of percutaneous gastrostomy tube
+Table 6.4,Gastric/Biliary - PEG placement,43832,"With construction of gastric tube (eg, Janeway procedure)"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58260,"Vaginal hysterectomy, for uterus 250 g or less;"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58262,"With removal of tube(s), and/or ovary(s)"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58263,"With removal of tube(s), and/or ovary(s), with repair of enterocele  "
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58270,With repair of enterocele
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58290,"Vaginal hysterectomy, for uterus greater than 250 g; "
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58291,With removal of tube(s) and/or ovary(s)
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58292,"With removal of tube(s) and/or ovary(s), with repair of enterocele"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58293,"With colpo-urethrocystopexy (Marshall-Marchetti-Kranz type, Pereyro type) with or without endoscopic control"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58294,With repair of enterocele
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58550,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less;"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58552,With removal of tube(s) and/or ovary(s)
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58553,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g;"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58554,With removal of tube(s) and/or ovary(s)
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58570,"Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less;"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58571,With removal of tube(s) and/or ovary(s)
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58572,"Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g;"
+Table 6.5,"Gynecological - LAVH, Vaginal Hysterectomy",58573,With removal of tube(s) and/or ovary(s)
+Table 6.5a,Gynecological - Pubovaginal sling,57288,"Sling operation for stress incontinence (eg, fascia or synthetic)"
+Table 6.5a,Gynecological - Pubovaginal sling,57423,"Paravaginal defect repair (including repair of cystocele, if performed), laparoscopic approach"
+Table 6.6,Head and Neck,21454,Open treatment of mandibular fracture with external fixation
+Table 6.6,Head and Neck,21461,Open treatment of mandibular fracture; without interdental fixation
+Table 6.6,Head and Neck,21462,With interdental fixation
+Table 6.6,Head and Neck,21465,Open treatment of mandibular condylar fracture
+Table 6.6,Head and Neck,21470,"Open treatment of complicated mandibular fracture by multiple surgical approaches including internal fixation, interdental fixation, and/or wiring of dentures or splints"
+Table 6.6,Head and Neck,43130,"Diverticulectomy of hypopharynx or esophagus, with or without myotomy; cervical approach"
+Table 6.7,Neurological,62230,"Replacement or revision of cerebrospinal fluid shunt, obstructed valve, or distal catheter in shunt system"
+Table 6.7,Neurological,62360,Implantation or replacement of device for intrathecal or epidural drug infusion; subcutaneous reservoir
+Table 6.7,Neurological,62361,Non-programmable pump
+Table 6.7,Neurological,62362,"Programmable pump, including preparation of pump, with or without programming"
+Table 6.7,Neurological,63001,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equine, without facetectomy, foraminotomy or discectomy, (eg, spinal stenosis), 1 or 2 vertebral segments; cervical"
+Table 6.7,Neurological,63003,Thoracic
+Table 6.7,Neurological,63005,"Lumbar, except for spondylolisthesis"
+Table 6.7,Neurological,63011,Sacral
+Table 6.7,Neurological,63012,"Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve roots for spondylolisthesis, lumbar (Gill type procedure)"
+Table 6.7,Neurological,63015,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy, (eg, spinal stenosis), more than 2 vertebral segments; cervical"
+Table 6.7,Neurological,63016,Thoracic
+Table 6.7,Neurological,63017,Lumbar
+Table 6.7,Neurological,63020,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, cervical"
+Table 6.7,Neurological,63030,"1 interspace, lumbar "
+Table 6.7,Neurological,63040,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; cervical"
+Table 6.7,Neurological,63042,Lumbar  
+Table 6.7,Neurological,63045,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root(s), [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical"
+Table 6.7,Neurological,63046,Thoracic
+Table 6.7,Neurological,63047,Lumbar
+Table 6.7,Neurological,63056,"Lumbar (including transfacet, or lateral extraforaminal approach) (eg, far lateral herniated intervertebral disc)"
+Table 6.7,Neurological,63075,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace"
+Table 7.01,Mental Disorders,290.0,SENILE DEMENTIA UNCOMP
+Table 7.01,Mental Disorders,290.10,PRESENILE DEMENTIA
+Table 7.01,Mental Disorders,290.11,PRESENILE DELIRIUM
+Table 7.01,Mental Disorders,290.12,PRESENILE DELUSION
+Table 7.01,Mental Disorders,290.13,PRESENILE DEPRESSION
+Table 7.01,Mental Disorders,290.20,SENILE DELUSION
+Table 7.01,Mental Disorders,290.21,SENILE DEPRESSIVE
+Table 7.01,Mental Disorders,290.3,SENILE DELIRIUM
+Table 7.01,Mental Disorders,290.40,"VASCULAR DEMENTIA,UNCOMP"
+Table 7.01,Mental Disorders,290.41,VASC DEMENTIA W DELIRIUM
+Table 7.01,Mental Disorders,290.42,VASC DEMENTIA W DELUSION
+Table 7.01,Mental Disorders,290.43,VASC DEMENTIA W DEPRESSN
+Table 7.01,Mental Disorders,290.8,SENILE PSYCHOSIS NEC
+Table 7.01,Mental Disorders,290.9,SENILE PSYCHOT COND NOS
+Table 7.01,Mental Disorders,291.0,DELIRIUM TREMENS
+Table 7.01,Mental Disorders,291.1,ALCOHOL AMNESTIC DISORDR
+Table 7.01,Mental Disorders,291.2,ALCOHOL PERSIST DEMENTIA
+Table 7.01,Mental Disorders,291.3,ALCOH PSY DIS W HALLUCIN
+Table 7.01,Mental Disorders,291.4,PATHOLOGIC ALCOHOL INTOX
+Table 7.01,Mental Disorders,291.5,ALCOH PSYCH DIS W DELUS
+Table 7.01,Mental Disorders,291.81,ALCOHOL WITHDRAWAL
+Table 7.01,Mental Disorders,291.82,ALCOH INDUCE SLEEP DISOR
+Table 7.01,Mental Disorders,291.89,ALCOHOL MENTAL DISOR NEC
+Table 7.01,Mental Disorders,291.9,ALCOHOL MENTAL DISOR NOS
+Table 7.01,Mental Disorders,292.0,DRUG WITHDRAWAL
+Table 7.01,Mental Disorders,292.11,DRUG PSYCH DISOR W DELUS
+Table 7.01,Mental Disorders,292.12,DRUG PSY DIS W HALLUCIN
+Table 7.01,Mental Disorders,292.2,PATHOLOGIC DRUG INTOX
+Table 7.01,Mental Disorders,292.81,DRUG-INDUCED DELIRIUM
+Table 7.01,Mental Disorders,292.82,DRUG PERSISTING DEMENTIA
+Table 7.01,Mental Disorders,292.83,DRUG PERSIST AMNESTC DIS
+Table 7.01,Mental Disorders,292.84,DRUG-INDUCED MOOD DISORD
+Table 7.01,Mental Disorders,292.85,DRUG INDUCED SLEEP DISOR
+Table 7.01,Mental Disorders,292.89,DRUG MENTAL DISORDER NEC
+Table 7.01,Mental Disorders,292.9,DRUG MENTAL DISORDER NOS
+Table 7.01,Mental Disorders,293.0,DELIRIUM D/T OTHER COND
+Table 7.01,Mental Disorders,293.1,SUBACUTE DELIRIUM
+Table 7.01,Mental Disorders,293.81,PSY DIS W DELUS OTH DIS
+Table 7.01,Mental Disorders,293.82,PSY DIS W HALLUC OTH DIS
+Table 7.01,Mental Disorders,293.83,MOOD DISORDER OTHER DIS
+Table 7.01,Mental Disorders,293.84,ANXIETY DISORDER OTH DIS
+Table 7.01,Mental Disorders,293.89,TRANSIENT MENTAL DIS NEC
+Table 7.01,Mental Disorders,293.9,TRANSIENT MENTAL DIS NOS
+Table 7.01,Mental Disorders,294.0,AMNESTIC DISORD OTH DIS
+Table 7.01,Mental Disorders,294.10,DEMENTIA W/O BEHAV DIST
+Table 7.01,Mental Disorders,294.11,DEMENTIA W BEHAVIOR DIST
+Table 7.01,Mental Disorders,294.20,DEMEN NOS W/O BEHV DSTRB
+Table 7.01,Mental Disorders,294.21,DEMEN NOS W BEHV DSTRB
+Table 7.01,Mental Disorders,294.8,MENTAL DISOR NEC OTH DIS
+Table 7.01,Mental Disorders,294.9,MENTAL DISOR NOS OTH DIS
+Table 7.01,Mental Disorders,295.00,SIMPL SCHIZOPHREN-UNSPEC
+Table 7.01,Mental Disorders,295.01,SIMPL SCHIZOPHREN-SUBCHR
+Table 7.01,Mental Disorders,295.02,SIMPLE SCHIZOPHREN-CHR
+Table 7.01,Mental Disorders,295.03,SIMP SCHIZ-SUBCHR/EXACER
+Table 7.01,Mental Disorders,295.04,SIMPL SCHIZO-CHR/EXACERB
+Table 7.01,Mental Disorders,295.05,SIMPL SCHIZOPHREN-REMISS
+Table 7.01,Mental Disorders,295.10,HEBEPHRENIA-UNSPEC
+Table 7.01,Mental Disorders,295.11,HEBEPHRENIA-SUBCHRONIC
+Table 7.01,Mental Disorders,295.12,HEBEPHRENIA-CHRONIC
+Table 7.01,Mental Disorders,295.13,HEBEPHREN-SUBCHR/EXACERB
+Table 7.01,Mental Disorders,295.14,HEBEPHRENIA-CHR/EXACERB
+Table 7.01,Mental Disorders,295.15,HEBEPHRENIA-REMISSION
+Table 7.01,Mental Disorders,295.20,CATATONIA-UNSPEC
+Table 7.01,Mental Disorders,295.21,CATATONIA-SUBCHRONIC
+Table 7.01,Mental Disorders,295.22,CATATONIA-CHRONIC
+Table 7.01,Mental Disorders,295.23,CATATONIA-SUBCHR/EXACERB
+Table 7.01,Mental Disorders,295.24,CATATONIA-CHR/EXACERB
+Table 7.01,Mental Disorders,295.25,CATATONIA-REMISSION
+Table 7.01,Mental Disorders,295.30,PARANOID SCHIZO-UNSPEC
+Table 7.01,Mental Disorders,295.31,PARANOID SCHIZO-SUBCHR
+Table 7.01,Mental Disorders,295.32,PARANOID SCHIZO-CHRONIC
+Table 7.01,Mental Disorders,295.33,PARAN SCHIZO-SUBCHR/EXAC
+Table 7.01,Mental Disorders,295.34,PARAN SCHIZO-CHR/EXACERB
+Table 7.01,Mental Disorders,295.35,PARANOID SCHIZO-REMISS
+Table 7.01,Mental Disorders,295.40,SCHIZOPHRENIFORM DIS NOS
+Table 7.01,Mental Disorders,295.41,SCHIZOPHRENIC DIS-SUBCHR
+Table 7.01,Mental Disorders,295.42,SCHIZOPHREN DIS-CHRONIC
+Table 7.01,Mental Disorders,295.43,SCHIZO DIS-SUBCHR/EXACER
+Table 7.01,Mental Disorders,295.44,SCHIZOPHR DIS-CHR/EXACER
+Table 7.01,Mental Disorders,295.45,SCHIZOPHRENIC DIS-REMISS
+Table 7.01,Mental Disorders,295.50,LATENT SCHIZOPHREN-UNSP
+Table 7.01,Mental Disorders,295.51,LAT SCHIZOPHREN-SUBCHR
+Table 7.01,Mental Disorders,295.52,LATENT SCHIZOPHREN-CHR
+Table 7.01,Mental Disorders,295.53,LAT SCHIZO-SUBCHR/EXACER
+Table 7.01,Mental Disorders,295.54,LATENT SCHIZO-CHR/EXACER
+Table 7.01,Mental Disorders,295.55,LAT SCHIZOPHREN-REMISS
+Table 7.01,Mental Disorders,295.60,SCHIZOPHR DIS RESID NOS
+Table 7.01,Mental Disorders,295.61,SCHIZOPH DIS RESID-SUBCH
+Table 7.01,Mental Disorders,295.62,SCHIZOPHR DIS RESID-CHR
+Table 7.01,Mental Disorders,295.63,SCHIZO RESID SUBCHR/EXAC
+Table 7.01,Mental Disorders,295.64,SCHIZOPH RESID-CHRO/EXAC
+Table 7.01,Mental Disorders,295.65,SCHIZOPH DIS RESID-REMIS
+Table 7.01,Mental Disorders,295.70,SCHIZOAFFECTIVE DIS NOS
+Table 7.01,Mental Disorders,295.71,SCHIZOAFFECTV DIS-SUBCHR
+Table 7.01,Mental Disorders,295.72,SCHIZOAFFECTIVE DIS-CHR
+Table 7.01,Mental Disorders,295.73,SCHIZOAFF DIS-SUBCH/EXAC
+Table 7.01,Mental Disorders,295.74,SCHIZOAFFTV DIS-CHR/EXAC
+Table 7.01,Mental Disorders,295.75,SCHIZOAFFECTVE DIS-REMIS
+Table 7.01,Mental Disorders,295.80,SCHIZOPHRENIA NEC-UNSPEC
+Table 7.01,Mental Disorders,295.81,SCHIZOPHRENIA NEC-SUBCHR
+Table 7.01,Mental Disorders,295.82,SCHIZOPHRENIA NEC-CHR
+Table 7.01,Mental Disorders,295.83,SCHIZO NEC-SUBCHR/EXACER
+Table 7.01,Mental Disorders,295.84,SCHIZO NEC-CHR/EXACERB
+Table 7.01,Mental Disorders,295.85,SCHIZOPHRENIA NEC-REMISS
+Table 7.01,Mental Disorders,295.90,SCHIZOPHRENIA NOS-UNSPEC
+Table 7.01,Mental Disorders,295.91,SCHIZOPHRENIA NOS-SUBCHR
+Table 7.01,Mental Disorders,295.92,SCHIZOPHRENIA NOS-CHR
+Table 7.01,Mental Disorders,295.93,SCHIZO NOS-SUBCHR/EXACER
+Table 7.01,Mental Disorders,295.94,SCHIZO NOS-CHR/EXACERB
+Table 7.01,Mental Disorders,295.95,SCHIZOPHRENIA NOS-REMISS
+Table 7.01,Mental Disorders,296.00,BIPOL I SINGLE MANIC NOS
+Table 7.01,Mental Disorders,296.01,BIPOL I SINGLE MANC-MILD
+Table 7.01,Mental Disorders,296.02,BIPOL I SINGLE MANIC-MOD
+Table 7.01,Mental Disorders,296.03,BIPOL I SING-SEV W/O PSY
+Table 7.01,Mental Disorders,296.04,BIPO I SIN MAN-SEV W PSY
+Table 7.01,Mental Disorders,296.05,BIPOL I SING MAN REM NOS
+Table 7.01,Mental Disorders,296.06,BIPOL I SINGLE MANIC REM
+Table 7.01,Mental Disorders,296.10,RECUR MANIC DIS-UNSPEC
+Table 7.01,Mental Disorders,296.11,RECUR MANIC DIS-MILD
+Table 7.01,Mental Disorders,296.12,RECUR MANIC DIS-MOD
+Table 7.01,Mental Disorders,296.13,RECUR MANIC DIS-SEVERE
+Table 7.01,Mental Disorders,296.14,RECUR MANIC-SEV W PSYCHO
+Table 7.01,Mental Disorders,296.15,RECUR MANIC-PART REMISS
+Table 7.01,Mental Disorders,296.16,RECUR MANIC-FULL REMISS
+Table 7.01,Mental Disorders,296.20,DEPRESS PSYCHOSIS-UNSPEC
+Table 7.01,Mental Disorders,296.21,DEPRESS PSYCHOSIS-MILD
+Table 7.01,Mental Disorders,296.22,DEPRESSIVE PSYCHOSIS-MOD
+Table 7.01,Mental Disorders,296.23,DEPRESS PSYCHOSIS-SEVERE
+Table 7.01,Mental Disorders,296.24,DEPR PSYCHOS-SEV W PSYCH
+Table 7.01,Mental Disorders,296.25,DEPR PSYCHOS-PART REMISS
+Table 7.01,Mental Disorders,296.26,DEPR PSYCHOS-FULL REMISS
+Table 7.01,Mental Disorders,296.30,RECURR DEPR PSYCHOS-UNSP
+Table 7.01,Mental Disorders,296.31,RECURR DEPR PSYCHOS-MILD
+Table 7.01,Mental Disorders,296.32,RECURR DEPR PSYCHOS-MOD
+Table 7.01,Mental Disorders,296.33,RECUR DEPR PSYCH-SEVERE
+Table 7.01,Mental Disorders,296.34,REC DEPR PSYCH-PSYCHOTIC
+Table 7.01,Mental Disorders,296.35,RECUR DEPR PSYC-PART REM
+Table 7.01,Mental Disorders,296.36,RECUR DEPR PSYC-FULL REM
+Table 7.01,Mental Disorders,296.40,BIPOL I CURRNT MANIC NOS
+Table 7.01,Mental Disorders,296.41,BIPOL I CURNT MANIC-MILD
+Table 7.01,Mental Disorders,296.42,BIPOL I CURRNT MANIC-MOD
+Table 7.01,Mental Disorders,296.43,BIPOL I MANC-SEV W/O PSY
+Table 7.01,Mental Disorders,296.44,BIPOL I MANIC-SEV W PSY
+Table 7.01,Mental Disorders,296.45,BIPOL I CUR MAN PART REM
+Table 7.01,Mental Disorders,296.46,BIPOL I CUR MAN FULL REM
+Table 7.01,Mental Disorders,296.50,BIPOL I CUR DEPRES NOS
+Table 7.01,Mental Disorders,296.51,BIPOL I CUR DEPRESS-MILD
+Table 7.01,Mental Disorders,296.52,BIPOL I CUR DEPRESS-MOD
+Table 7.01,Mental Disorders,296.53,BIPOL I CURR DEP W/O PSY
+Table 7.01,Mental Disorders,296.54,BIPOL I CURRNT DEP W PSY
+Table 7.01,Mental Disorders,296.55,BIPOL I CUR DEP REM NOS
+Table 7.01,Mental Disorders,296.56,BIPOL I CURRNT DEP REMIS
+Table 7.01,Mental Disorders,296.60,BIPOL I CURRNT MIXED NOS
+Table 7.01,Mental Disorders,296.61,BIPOL I CURRNT MIX-MILD
+Table 7.01,Mental Disorders,296.62,BIPOL I CURRNT MIXED-MOD
+Table 7.01,Mental Disorders,296.63,BIPOL I CUR MIX W/O PSY
+Table 7.01,Mental Disorders,296.64,BIPOL I CUR MIXED W PSY
+Table 7.01,Mental Disorders,296.65,BIPOL I CUR MIX-PART REM
+Table 7.01,Mental Disorders,296.66,BIPOL I CUR MIXED REMISS
+Table 7.01,Mental Disorders,296.7,BIPOLOR I CURRENT NOS
+Table 7.01,Mental Disorders,296.80,BIPOLAR DISORDER NOS
+Table 7.01,Mental Disorders,296.81,ATYPICAL MANIC DISORDER
+Table 7.01,Mental Disorders,296.82,ATYPICAL DEPRESSIVE DIS
+Table 7.01,Mental Disorders,296.89,BIPOLAR DISORDER NEC
+Table 7.01,Mental Disorders,296.90,EPISODIC MOOD DISORD NOS
+Table 7.01,Mental Disorders,296.99,EPISODIC MOOD DISORD NEC
+Table 7.01,Mental Disorders,297.0,"PARANOID STATE, SIMPLE"
+Table 7.01,Mental Disorders,297.1,DELUSIONAL DISORDER
+Table 7.01,Mental Disorders,297.2,PARAPHRENIA
+Table 7.01,Mental Disorders,297.3,SHARED PSYCHOTIC DISORD
+Table 7.01,Mental Disorders,297.8,PARANOID STATES NEC
+Table 7.01,Mental Disorders,297.9,PARANOID STATE NOS
+Table 7.01,Mental Disorders,298.0,REACT DEPRESS PSYCHOSIS
+Table 7.01,Mental Disorders,298.1,EXCITATIV TYPE PSYCHOSIS
+Table 7.01,Mental Disorders,298.2,REACTIVE CONFUSION
+Table 7.01,Mental Disorders,298.3,ACUTE PARANOID REACTION
+Table 7.01,Mental Disorders,298.4,PSYCHOGEN PARANOID PSYCH
+Table 7.01,Mental Disorders,298.8,REACT PSYCHOSIS NEC/NOS
+Table 7.01,Mental Disorders,298.9,PSYCHOSIS NOS
+Table 7.01,Mental Disorders,299.00,AUTISTIC DISORD-CURRENT
+Table 7.01,Mental Disorders,299.01,AUTISTIC DISORD-RESIDUAL
+Table 7.01,Mental Disorders,299.10,CHILDHD DISINTEGR-ACTIVE
+Table 7.01,Mental Disorders,299.11,CHILDHD DISINTEGR-RESID
+Table 7.01,Mental Disorders,299.80,PERVASV DEV DIS-CUR NEC
+Table 7.01,Mental Disorders,299.81,PERVASV DEV DIS-RES NEC
+Table 7.01,Mental Disorders,299.90,PERVASV DEV DIS-CUR NOS
+Table 7.01,Mental Disorders,299.91,PERVASV DEV DIS-RES NOS
+Table 7.01,Mental Disorders,300.00,ANXIETY STATE NOS
+Table 7.01,Mental Disorders,300.01,PANIC DIS W/O AGORPHOBIA
+Table 7.01,Mental Disorders,300.02,GENERALIZED ANXIETY DIS
+Table 7.01,Mental Disorders,300.09,ANXIETY STATE NEC
+Table 7.01,Mental Disorders,300.10,HYSTERIA NOS
+Table 7.01,Mental Disorders,300.11,CONVERSION DISORDER
+Table 7.01,Mental Disorders,300.12,DISSOCIATIVE AMNESIA
+Table 7.01,Mental Disorders,300.13,DISSOCIATIVE FUGUE
+Table 7.01,Mental Disorders,300.14,DISSOCIATVE IDENTITY DIS
+Table 7.01,Mental Disorders,300.15,DISSOCIATIVE REACT NOS
+Table 7.01,Mental Disorders,300.16,FACTITIOUS DIS W SYMPTOM
+Table 7.01,Mental Disorders,300.19,FACTITIOUS ILL NEC/NOS
+Table 7.01,Mental Disorders,300.20,PHOBIA NOS
+Table 7.01,Mental Disorders,300.21,AGORAPHOBIA W PANIC DIS
+Table 7.01,Mental Disorders,300.22,AGORAPHOBIA W/O PANIC
+Table 7.01,Mental Disorders,300.23,SOCIAL PHOBIA
+Table 7.01,Mental Disorders,300.29,ISOLATED/SPEC PHOBIA NEC
+Table 7.01,Mental Disorders,300.3,OBSESSIVE-COMPULSIVE DIS
+Table 7.01,Mental Disorders,300.4,DYSTHYMIC DISORDER
+Table 7.01,Mental Disorders,300.5,NEURASTHENIA
+Table 7.01,Mental Disorders,300.6,DEPERSONALIZATION DISORD
+Table 7.01,Mental Disorders,300.7,HYPOCHONDRIASIS
+Table 7.01,Mental Disorders,300.81,SOMATIZATION DISORDER
+Table 7.01,Mental Disorders,300.82,UNDIFF SOMATOFORM DISRDR
+Table 7.01,Mental Disorders,300.89,SOMATOFORM DISORDERS NEC
+Table 7.01,Mental Disorders,300.9,NONPSYCHOTIC DISORD NOS
+Table 7.01,Mental Disorders,301.0,PARANOID PERSONALITY
+Table 7.01,Mental Disorders,301.10,AFFECTIV PERSONALITY NOS
+Table 7.01,Mental Disorders,301.11,CHRONIC HYPOMANIC PERSON
+Table 7.01,Mental Disorders,301.12,CHR DEPRESSIVE PERSON
+Table 7.01,Mental Disorders,301.13,CYCLOTHYMIC DISORDER
+Table 7.01,Mental Disorders,301.20,SCHIZOID PERSONALITY NOS
+Table 7.01,Mental Disorders,301.21,INTROVERTED PERSONALITY
+Table 7.01,Mental Disorders,301.22,SCHIZOTYPAL PERSON DIS
+Table 7.01,Mental Disorders,301.3,EXPLOSIVE PERSONALITY
+Table 7.01,Mental Disorders,301.4,OBSESSIVE-COMPULSIVE DIS
+Table 7.01,Mental Disorders,301.50,HISTRIONIC PERSON NOS
+Table 7.01,Mental Disorders,301.51,CHR FACTITIOUS ILLNESS
+Table 7.01,Mental Disorders,301.59,HISTRIONIC PERSON NEC
+Table 7.01,Mental Disorders,301.6,DEPENDENT PERSONALITY
+Table 7.01,Mental Disorders,301.7,ANTISOCIAL PERSONALITY
+Table 7.01,Mental Disorders,301.81,NARCISSISTIC PERSONALITY
+Table 7.01,Mental Disorders,301.82,AVOIDANT PERSONALITY DIS
+Table 7.01,Mental Disorders,301.83,BORDERLINE PERSONALITY
+Table 7.01,Mental Disorders,301.84,PASSIVE-AGGRESSIV PERSON
+Table 7.01,Mental Disorders,301.89,PERSONALITY DISORDER NEC
+Table 7.01,Mental Disorders,301.9,PERSONALITY DISORDER NOS
+Table 7.01,Mental Disorders,302.0,EGO-DYSTONIC SEX ORIENT
+Table 7.01,Mental Disorders,302.1,ZOOPHILIA
+Table 7.01,Mental Disorders,302.2,PEDOPHILIA
+Table 7.01,Mental Disorders,302.3,TRANSVESTIC FETISHISM
+Table 7.01,Mental Disorders,302.4,EXHIBITIONISM
+Table 7.01,Mental Disorders,302.50,TRANS-SEXUALISM NOS
+Table 7.01,Mental Disorders,302.51,"TRANS-SEXUALISM, ASEXUAL"
+Table 7.01,Mental Disorders,302.52,"TRANS-SEXUAL, HOMOSEXUAL"
+Table 7.01,Mental Disorders,302.53,"TRANS-SEX, HETEROSEXUAL"
+Table 7.01,Mental Disorders,302.6,GENDR IDENTITY DIS-CHILD
+Table 7.01,Mental Disorders,302.70,PSYCHOSEXUAL DYSFUNC NOS
+Table 7.01,Mental Disorders,302.71,HYPOACTIVE SEX DESIRE
+Table 7.01,Mental Disorders,302.72,INHIBITED SEX EXCITEMENT
+Table 7.01,Mental Disorders,302.73,FEMALE ORGASMIC DISORDER
+Table 7.01,Mental Disorders,302.74,MALE ORGASMIC DISORDER
+Table 7.01,Mental Disorders,302.75,PREMATURE EJACULATION
+Table 7.01,Mental Disorders,302.76,"DYSPAREUNIA, PSYCHOGENIC"
+Table 7.01,Mental Disorders,302.79,PSYCHOSEXUAL DYSFUNC NEC
+Table 7.01,Mental Disorders,302.81,FETISHISM
+Table 7.01,Mental Disorders,302.82,VOYEURISM
+Table 7.01,Mental Disorders,302.83,SEXUAL MASOCHISM
+Table 7.01,Mental Disorders,302.84,SEXUAL SADISM
+Table 7.01,Mental Disorders,302.85,"GEND IDEN DIS, ADOL/ADULT"
+Table 7.01,Mental Disorders,302.89,PSYCHOSEXUAL DIS NEC
+Table 7.01,Mental Disorders,302.9,PSYCHOSEXUAL DIS NOS
+Table 7.01,Mental Disorders,303.00,Ac alcohol intox-unspec
+Table 7.01,Mental Disorders,303.01,Ac alcohol intox-contin
+Table 7.01,Mental Disorders,303.02,Ac alcohol intox-episod
+Table 7.01,Mental Disorders,303.03,Ac alcohol intox-remiss
+Table 7.01,Mental Disorders,303.90,Alcoh dep NEC/NOS-unspec
+Table 7.01,Mental Disorders,303.91,Alcoh dep NEC/NOS-contin
+Table 7.01,Mental Disorders,303.92,Alcoh dep NEC/NOS-episod
+Table 7.01,Mental Disorders,303.93,Alcoh dep NEC/NOS-remiss
+Table 7.01,Mental Disorders,304.00,Opioid dependence-unspec
+Table 7.01,Mental Disorders,304.01,Opioid dependence-contin
+Table 7.01,Mental Disorders,304.02,Opioid dependence-episod
+Table 7.01,Mental Disorders,304.03,Opioid dependence-remiss
+Table 7.01,Mental Disorders,304.10,"Sed,hyp,anxiolyt dep-NOS"
+Table 7.01,Mental Disorders,304.11,"Sed,hyp,anxiolyt dep-con"
+Table 7.01,Mental Disorders,304.12,"Sed,hyp,anxiolyt dep-epi"
+Table 7.01,Mental Disorders,304.13,"Sed,hyp,anxiolyt dep-rem"
+Table 7.01,Mental Disorders,304.20,Cocaine depend-unspec
+Table 7.01,Mental Disorders,304.21,Cocaine depend-contin
+Table 7.01,Mental Disorders,304.22,Cocaine depend-episodic
+Table 7.01,Mental Disorders,304.23,Cocaine depend-remiss
+Table 7.01,Mental Disorders,304.30,Cannabis depend-unspec
+Table 7.01,Mental Disorders,304.31,Cannabis depend-contin
+Table 7.01,Mental Disorders,304.32,Cannabis depend-episodic
+Table 7.01,Mental Disorders,304.33,Cannabis depend-remiss
+Table 7.01,Mental Disorders,304.40,Amphetamin depend-unspec
+Table 7.01,Mental Disorders,304.41,Amphetamin depend-contin
+Table 7.01,Mental Disorders,304.42,Amphetamin depend-episod
+Table 7.01,Mental Disorders,304.43,Amphetamin depend-remiss
+Table 7.01,Mental Disorders,304.50,Hallucinogen dep-unspec
+Table 7.01,Mental Disorders,304.51,Hallucinogen dep-contin
+Table 7.01,Mental Disorders,304.52,Hallucinogen dep-episod
+Table 7.01,Mental Disorders,304.53,Hallucinogen dep-remiss
+Table 7.01,Mental Disorders,304.60,Drug depend NEC-unspec
+Table 7.01,Mental Disorders,304.61,Drug depend NEC-contin
+Table 7.01,Mental Disorders,304.62,Drug depend NEC-episodic
+Table 7.01,Mental Disorders,304.63,Drug depend NEC-in rem
+Table 7.01,Mental Disorders,304.70,Opioid/other dep-unspec
+Table 7.01,Mental Disorders,304.71,Opioid/other dep-contin
+Table 7.01,Mental Disorders,304.72,Opioid/other dep-episod
+Table 7.01,Mental Disorders,304.73,Opioid/other dep-remiss
+Table 7.01,Mental Disorders,304.80,Comb drug dep NEC-unspec
+Table 7.01,Mental Disorders,304.81,Comb drug dep NEC-contin
+Table 7.01,Mental Disorders,304.82,Comb drug dep NEC-episod
+Table 7.01,Mental Disorders,304.83,Comb drug dep NEC-remiss
+Table 7.01,Mental Disorders,304.90,Drug depend NOS-unspec
+Table 7.01,Mental Disorders,304.91,Drug depend NOS-contin
+Table 7.01,Mental Disorders,304.92,Drug depend NOS-episodic
+Table 7.01,Mental Disorders,304.93,Drug depend NOS-remiss
+Table 7.01,Mental Disorders,305.00,Alcohol abuse-unspec
+Table 7.01,Mental Disorders,305.01,Alcohol abuse-continuous
+Table 7.01,Mental Disorders,305.02,Alcohol abuse-episodic
+Table 7.01,Mental Disorders,305.03,Alcohol abuse-in remiss
+Table 7.01,Mental Disorders,305.1,Tobacco use disorder
+Table 7.01,Mental Disorders,305.20,Cannabis abuse-unspec
+Table 7.01,Mental Disorders,305.21,Cannabis abuse-contin
+Table 7.01,Mental Disorders,305.22,Cannabis abuse-episodic
+Table 7.01,Mental Disorders,305.23,Cannabis abuse-in remiss
+Table 7.01,Mental Disorders,305.30,Hallucinog abuse-unspec
+Table 7.01,Mental Disorders,305.31,Hallucinog abuse-contin
+Table 7.01,Mental Disorders,305.32,Hallucinog abuse-episod
+Table 7.01,Mental Disorders,305.33,Hallucinog abuse-remiss
+Table 7.01,Mental Disorders,305.40,"Sed,hyp,anxiolytc ab-NOS"
+Table 7.01,Mental Disorders,305.41,"Sed,hyp,anxiolytc ab-con"
+Table 7.01,Mental Disorders,305.42,"Sed,hyp,anxiolytc ab-epi"
+Table 7.01,Mental Disorders,305.43,"Sed,hyp,anxiolytc ab-rem"
+Table 7.01,Mental Disorders,305.50,Opioid abuse-unspec
+Table 7.01,Mental Disorders,305.51,Opioid abuse-continuous
+Table 7.01,Mental Disorders,305.52,Opioid abuse-episodic
+Table 7.01,Mental Disorders,305.53,Opioid abuse-in remiss
+Table 7.01,Mental Disorders,305.60,Cocaine abuse-unspec
+Table 7.01,Mental Disorders,305.61,Cocaine abuse-continuous
+Table 7.01,Mental Disorders,305.62,Cocaine abuse-episodic
+Table 7.01,Mental Disorders,305.63,Cocaine abuse-in remiss
+Table 7.01,Mental Disorders,305.70,Amphetamine abuse-unspec
+Table 7.01,Mental Disorders,305.71,Amphetamine abuse-contin
+Table 7.01,Mental Disorders,305.72,Amphetamine abuse-episod
+Table 7.01,Mental Disorders,305.73,Amphetamine abuse-remiss
+Table 7.01,Mental Disorders,305.80,Antidepress abuse-unspec
+Table 7.01,Mental Disorders,305.81,Antidepress abuse-contin
+Table 7.01,Mental Disorders,305.82,Antidepress abuse-episod
+Table 7.01,Mental Disorders,305.83,Antidepress abuse-remiss
+Table 7.01,Mental Disorders,305.90,Drug abuse NEC-unspec
+Table 7.01,Mental Disorders,305.91,Drug abuse NEC-contin
+Table 7.01,Mental Disorders,305.92,Drug abuse NEC-episodic
+Table 7.01,Mental Disorders,305.93,Drug abuse NEC-in remiss
+Table 7.01,Mental Disorders,306.0,PSYCHOGEN MUSCULSKEL DIS
+Table 7.01,Mental Disorders,306.1,PSYCHOGENIC RESPIR DIS
+Table 7.01,Mental Disorders,306.2,PSYCHOGEN CARDIOVASC DIS
+Table 7.01,Mental Disorders,306.3,PSYCHOGENIC SKIN DISEASE
+Table 7.01,Mental Disorders,306.4,PSYCHOGENIC GI DISEASE
+Table 7.01,Mental Disorders,306.50,PSYCHOGENIC GU DIS NOS
+Table 7.01,Mental Disorders,306.51,PSYCHOGENIC VAGINISMUS
+Table 7.01,Mental Disorders,306.52,PSYCHOGENIC DYSMENORRHEA
+Table 7.01,Mental Disorders,306.53,PSYCHOGENIC DYSURIA
+Table 7.01,Mental Disorders,306.59,PSYCHOGENIC GU DIS NEC
+Table 7.01,Mental Disorders,306.6,PSYCHOGEN ENDOCRINE DIS
+Table 7.01,Mental Disorders,306.7,PSYCHOGENIC SENSORY DIS
+Table 7.01,Mental Disorders,306.8,PSYCHOGENIC DISORDER NEC
+Table 7.01,Mental Disorders,306.9,PSYCHOGENIC DISORDER NOS
+Table 7.01,Mental Disorders,307.0,ADULT ONSET FLNCY DISORD
+Table 7.01,Mental Disorders,307.1,ANOREXIA NERVOSA
+Table 7.01,Mental Disorders,307.20,TIC DISORDER NOS
+Table 7.01,Mental Disorders,307.21,TRANSIENT TIC DISORDER
+Table 7.01,Mental Disorders,307.22,CHR MOTOR/VOCAL TIC DIS
+Table 7.01,Mental Disorders,307.23,TOURETTE'S DISORDER
+Table 7.01,Mental Disorders,307.3,STEREOTYPIC MOVEMENT DIS
+Table 7.01,Mental Disorders,307.40,NONORGANIC SLEEP DIS NOS
+Table 7.01,Mental Disorders,307.41,TRANSIENT INSOMNIA
+Table 7.01,Mental Disorders,307.42,PERSISTENT INSOMNIA
+Table 7.01,Mental Disorders,307.43,TRANSIENT HYPERSOMNIA
+Table 7.01,Mental Disorders,307.44,PERSISTENT HYPERSOMNIA
+Table 7.01,Mental Disorders,307.45,NONORGANIC CIRCADIAN RHY
+Table 7.01,Mental Disorders,307.46,SLEEP AROUSAL DISORDER
+Table 7.01,Mental Disorders,307.47,SLEEP STAGE DYSFUNC NEC
+Table 7.01,Mental Disorders,307.48,REPETIT SLEEP INTRUSION
+Table 7.01,Mental Disorders,307.49,NONORGANIC SLEEP DIS NEC
+Table 7.01,Mental Disorders,307.50,EATING DISORDER NOS
+Table 7.01,Mental Disorders,307.51,BULIMIA NERVOSA
+Table 7.01,Mental Disorders,307.52,PICA
+Table 7.01,Mental Disorders,307.53,RUMINATION DISORDER
+Table 7.01,Mental Disorders,307.54,PSYCHOGENIC VOMITING
+Table 7.01,Mental Disorders,307.59,EATING DISORDER NEC
+Table 7.01,Mental Disorders,307.6,ENURESIS
+Table 7.01,Mental Disorders,307.7,ENCOPRESIS
+Table 7.01,Mental Disorders,307.80,PSYCHOGENIC PAIN NOS
+Table 7.01,Mental Disorders,307.81,TENSION HEADACHE
+Table 7.01,Mental Disorders,307.89,PSYCHOGENIC PAIN NEC
+Table 7.01,Mental Disorders,307.9,SPECIAL SYMPTOM NEC/NOS
+Table 7.01,Mental Disorders,308.0,"STRESS REACT, EMOTIONAL"
+Table 7.01,Mental Disorders,308.1,"STRESS REACTION, FUGUE"
+Table 7.01,Mental Disorders,308.2,"STRESS REACT, PSYCHOMOT"
+Table 7.01,Mental Disorders,308.3,ACUTE STRESS REACT NEC
+Table 7.01,Mental Disorders,308.4,"STRESS REACT, MIXED DIS"
+Table 7.01,Mental Disorders,308.9,ACUTE STRESS REACT NOS
+Table 7.01,Mental Disorders,309.0,ADJUSTMNT DIS W DEPRESSN
+Table 7.01,Mental Disorders,309.1,PROLONG DEPRESSIVE REACT
+Table 7.01,Mental Disorders,309.21,SEPARATION ANXIETY
+Table 7.01,Mental Disorders,309.22,EMANCIPATION DISORDER
+Table 7.01,Mental Disorders,309.23,ACADEMIC/WORK INHIBITION
+Table 7.01,Mental Disorders,309.24,ADJUSTMENT DIS W ANXIETY
+Table 7.01,Mental Disorders,309.28,ADJUST DIS W ANXIETY/DEP
+Table 7.01,Mental Disorders,309.29,ADJ REACT-EMOTION NEC
+Table 7.01,Mental Disorders,309.3,ADJUST DISOR/DIS CONDUCT
+Table 7.01,Mental Disorders,309.4,ADJ DIS-EMOTION/CONDUCT
+Table 7.01,Mental Disorders,309.81,POSTTRAUMATIC STRESS DIS
+Table 7.01,Mental Disorders,309.82,ADJUST REACT-PHYS SYMPT
+Table 7.01,Mental Disorders,309.83,ADJUST REACT-WITHDRAWAL
+Table 7.01,Mental Disorders,309.89,ADJUSTMENT REACTION NEC
+Table 7.01,Mental Disorders,309.9,ADJUSTMENT REACTION NOS
+Table 7.01,Mental Disorders,310.0,FRONTAL LOBE SYNDROME
+Table 7.01,Mental Disorders,310.1,PERSONALITY CHG OTH DIS
+Table 7.01,Mental Disorders,310.2,POSTCONCUSSION SYNDROME
+Table 7.01,Mental Disorders,310.81,PSEUDOBULBAR AFFECT
+Table 7.01,Mental Disorders,310.89,NONPSYCH MNTL DISORD NED
+Table 7.01,Mental Disorders,310.9,NONPSYCHOT BRAIN SYN NOS
+Table 7.01,Mental Disorders,311,DEPRESSIVE DISORDER NEC
+Table 7.01,Mental Disorders,312.00,UNSOCIAL AGGRESS-UNSPEC
+Table 7.01,Mental Disorders,312.01,UNSOCIAL AGGRESSION-MILD
+Table 7.01,Mental Disorders,312.02,UNSOCIAL AGGRESSION-MOD
+Table 7.01,Mental Disorders,312.03,UNSOCIAL AGGRESS-SEVERE
+Table 7.01,Mental Disorders,312.10,UNSOCIAL UNAGGRESS-UNSP
+Table 7.01,Mental Disorders,312.11,UNSOCIAL UNAGGRESS-MILD
+Table 7.01,Mental Disorders,312.12,UNSOCIAL UNAGGRESS-MOD
+Table 7.01,Mental Disorders,312.13,UNSOCIAL UNAGGR-SEVERE
+Table 7.01,Mental Disorders,312.20,SOCIAL CONDUCT DIS-UNSP
+Table 7.01,Mental Disorders,312.21,SOCIAL CONDUCT DIS-MILD
+Table 7.01,Mental Disorders,312.22,SOCIAL CONDUCT DIS-MOD
+Table 7.01,Mental Disorders,312.23,SOCIAL CONDUCT DIS-SEV
+Table 7.01,Mental Disorders,312.30,IMPULSE CONTROL DIS NOS
+Table 7.01,Mental Disorders,312.31,PATHOLOGICAL GAMBLING
+Table 7.01,Mental Disorders,312.32,KLEPTOMANIA
+Table 7.01,Mental Disorders,312.33,PYROMANIA
+Table 7.01,Mental Disorders,312.34,INTERMITT EXPLOSIVE DIS
+Table 7.01,Mental Disorders,312.35,ISOLATED EXPLOSIVE DIS
+Table 7.01,Mental Disorders,312.39,IMPULSE CONTROL DIS NEC
+Table 7.01,Mental Disorders,312.4,MIX DIS CONDUCT/EMOTION
+Table 7.01,Mental Disorders,312.81,CNDCT DSRDR CHLDHD ONST
+Table 7.01,Mental Disorders,312.82,CNDCT DSRDR ADLSCNT ONST
+Table 7.01,Mental Disorders,312.89,OTHER CONDUCT DISORDER
+Table 7.01,Mental Disorders,312.9,CONDUCT DISTURBANCE NOS
+Table 7.01,Mental Disorders,313.0,OVERANXIOUS DISORDER
+Table 7.01,Mental Disorders,313.1,MISERY & UNHAPPINESS DIS
+Table 7.01,Mental Disorders,313.21,SHYNESS DISORDER-CHILD
+Table 7.01,Mental Disorders,313.22,INTROVERTED DIS-CHILD
+Table 7.01,Mental Disorders,313.23,SELECTIVE MUTISM
+Table 7.01,Mental Disorders,313.3,RELATIONSHIP PROBLEMS
+Table 7.01,Mental Disorders,313.81,OPPOSITION DEFIANT DISOR
+Table 7.01,Mental Disorders,313.82,IDENTITY DISORDER
+Table 7.01,Mental Disorders,313.83,ACADEMIC UNDERACHIEVMENT
+Table 7.01,Mental Disorders,313.89,EMOTIONAL DIS CHILD NEC
+Table 7.01,Mental Disorders,313.9,EMOTIONAL DIS CHILD NOS
+Table 7.01,Mental Disorders,314.00,ATTN DEFIC NONHYPERACT
+Table 7.01,Mental Disorders,314.01,ATTN DEFICIT W HYPERACT
+Table 7.01,Mental Disorders,314.1,HYPERKINET W DEVEL DELAY
+Table 7.01,Mental Disorders,314.2,HYPERKINETIC CONDUCT DIS
+Table 7.01,Mental Disorders,314.8,OTHER HYPERKINETIC SYND
+Table 7.01,Mental Disorders,314.9,HYPERKINETIC SYND NOS
+Table 7.01,Mental Disorders,315.00,READING DISORDER NOS
+Table 7.01,Mental Disorders,315.01,ALEXIA
+Table 7.01,Mental Disorders,315.02,DEVELOPMENTAL DYSLEXIA
+Table 7.01,Mental Disorders,315.09,READING DISORDER NEC
+Table 7.01,Mental Disorders,315.1,MATHEMATICS DISORDER
+Table 7.01,Mental Disorders,315.2,OTH LEARNING DIFFICULTY
+Table 7.01,Mental Disorders,315.31,EXPRESSIVE LANGUAGE DIS
+Table 7.01,Mental Disorders,315.32,RECP-EXPRES LANGUAGE DIS
+Table 7.01,Mental Disorders,315.34,SPEECH DEL D/T HEAR LOSS
+Table 7.01,Mental Disorders,315.35,CHLDHD ONSET FLNCY DISOR
+Table 7.01,Mental Disorders,315.39,SPEECH/LANGUAGE DIS NEC
+Table 7.01,Mental Disorders,315.4,DEVEL COORDINATION DIS
+Table 7.01,Mental Disorders,315.5,MIXED DEVELOPMENT DIS
+Table 7.01,Mental Disorders,315.8,DEVELOPMENT DELAYS NEC
+Table 7.01,Mental Disorders,315.9,DEVELOPMENT DELAY NOS
+Table 7.01,Mental Disorders,316,PSYCHIC FACTOR W OTH DIS
+Table 7.01,Mental Disorders,317,MILD MENTAL RETARDATION
+Table 7.01,Mental Disorders,318.0,MOD MENTAL RETARDATION
+Table 7.01,Mental Disorders,318.1,SEVERE MENTAL RETARDAT
+Table 7.01,Mental Disorders,318.2,PROFOUND MENTAL RETARDAT
+Table 7.01,Mental Disorders,319,MENTAL RETARDATION NOS
+Table 8.0,Ischemic and Hemorrhagic Stroke,430,SUBARACHNOID HEMORRHAGE 
+Table 8.0,Ischemic and Hemorrhagic Stroke,431,INTRACEREBRAL HEMORRHAGE 
+Table 8.0,Ischemic and Hemorrhagic Stroke,432.9,INTRACRANIAL HEMORR NOS 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.01,OCL BSLR ART W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.10,OCL CRTD ART WO INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.11,OCL CRTD ART W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.21,OCL VRTB ART W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.31,OCL MLT BI ART W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.81,OCL SPCF ART W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,433.91,OCL ART NOS W INFCT
+Table 8.0,Ischemic and Hemorrhagic Stroke,434.00,CRBL THRMBS WO INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,434.01,CRBL THRMBS W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,434.11,CRBL EMBLSM W INFRCT 
+Table 8.0,Ischemic and Hemorrhagic Stroke,434.91,CRBL ART OCL NOS W INFRC 
+Table 8.0,Ischemic and Hemorrhagic Stroke,436,CVA 
+Table 9.0,Long Bone Fracture,812.00,FX END HUMERUS NOS-CL
+Table 9.0,Long Bone Fracture,812.01,FX SURG NCK HUMERUS-CLOS
+Table 9.0,Long Bone Fracture,812.02,FX ANATOM NCK HUMERUS-CL
+Table 9.0,Long Bone Fracture,812.09,FX UPPER HUMERUS NEC-CL
+Table 9.0,Long Bone Fracture,812.10,FX UPPER HUMERUS NOS-OPN
+Table 9.0,Long Bone Fracture,812.11,FX SURG NECK HUMERUS-OPN
+Table 9.0,Long Bone Fracture,812.12,FX ANAT NECK HUMERUS-OPN
+Table 9.0,Long Bone Fracture,812.19,FX UPPER HUMERUS NEC-OPN
+Table 9.0,Long Bone Fracture,812.20,FX HUMERUS NOS-CLOSED
+Table 9.0,Long Bone Fracture,812.21,FX HUMERUS SHAFT-CLOSED
+Table 9.0,Long Bone Fracture,812.30,FX HUMERUS NOS-OPEN
+Table 9.0,Long Bone Fracture,812.31,FX HUMERUS SHAFT-OPEN
+Table 9.0,Long Bone Fracture,812.40,FX LOWER HUMERUS NOS-CL
+Table 9.0,Long Bone Fracture,812.41,SUPRCONDYL FX HUMERUS-CL
+Table 9.0,Long Bone Fracture,812.49,FX LOWER HUMERUS NEC-CL
+Table 9.0,Long Bone Fracture,812.50,FX LOWER HUMER NOS-OPEN
+Table 9.0,Long Bone Fracture,812.51,SUPRACONDYL FX HUMER-OPN
+Table 9.0,Long Bone Fracture,812.59,FX LOWER HUMER NEC-OPN
+Table 9.0,Long Bone Fracture,813.00,FX UPPER FOREARM NOS-CL
+Table 9.0,Long Bone Fracture,813.03,MONTEGGIA’S FX-CLOSED
+Table 9.0,Long Bone Fracture,813.04,FX UPPER ULNA NEC/NOS-CL
+Table 9.0,Long Bone Fracture,813.05,FX RADIUS HEAD-CLOSED
+Table 9.0,Long Bone Fracture,813.06,FX RADIUS NECK-CLOSED
+Table 9.0,Long Bone Fracture,813.07,FX UP RADIUS NEC/NOS-CL
+Table 9.0,Long Bone Fracture,813.08,FX UP RADIUS W ULNA-CLOS
+Table 9.0,Long Bone Fracture,813.10,FX UPPER FOREARM NOS-OPN
+Table 9.0,Long Bone Fracture,813.13,MONTEGGIA’S FX-OPEN
+Table 9.0,Long Bone Fracture,813.14,FX UP ULNA NEC/NOS-OPEN
+Table 9.0,Long Bone Fracture,813.16,FX RADIUS NECK-OPEN
+Table 9.0,Long Bone Fracture,813.17,FX UP RADIUS NEC/NOS-OPN
+Table 9.0,Long Bone Fracture,813.18,FX UP RADIUS W ULNA-OPEN
+Table 9.0,Long Bone Fracture,813.20,FX SHAFT FOREARM NOS-CL
+Table 9.0,Long Bone Fracture,813.21,FX RADIUS SHAFT-CLOSED
+Table 9.0,Long Bone Fracture,813.22,FX ULNA SHAFT-CLOSED
+Table 9.0,Long Bone Fracture,813.23,FX SHAFT RAD W ULNA-CLOS
+Table 9.0,Long Bone Fracture,813.30,FX SHAFT FOREARM NOS-OPN
+Table 9.0,Long Bone Fracture,813.31,FX RADIUS SHAFT-OPE N
+Table 9.0,Long Bone Fracture,813.32,FX ULNA SHAFT-OPEN
+Table 9.0,Long Bone Fracture,813.33,FX SHAFT RAD W  ULNA-OPEN
+Table 9.0,Long Bone Fracture,813.40,FX LOWER FOREARM NOS-CL
+Table 9.0,Long Bone Fracture,813.41,COLLES’ FRACTURE-CLOSED
+Table 9.0,Long Bone Fracture,813.42,FX DISTAL RADIUS NEC-CL
+Table 9.0,Long Bone Fracture,813.43,FX  DISTAL ULNA-CLOSED
+Table 9.0,Long Bone Fracture,813.44,FX LOW RADIUS W ULNA-CL
+Table 9.0,Long Bone Fracture,813.45,TORUS FX  RADIUS-CL/ALONE
+Table 9.0,Long Bone Fracture,813.46,TORUS FX ULNA-CLOSED
+Table 9.0,Long Bone Fracture,813.47,TORUS FX RADIUS/ULNA-CLO
+Table 9.0,Long Bone Fracture,813.50,FX LOWER FOREARM NOS-OPN
+Table 9.0,Long Bone Fracture,813.51,COLLES’ FRACTURE-OPEN
+Table 9.0,Long Bone Fracture,813.52,FX DISTAL RADIUS NEC-OPN
+Table 9.0,Long Bone Fracture,813.53,FX DISTAL ULNA-OPEN
+Table 9.0,Long Bone Fracture,813.54,FX LOW RADIUS W ULNA-OPN
+Table 9.0,Long Bone Fracture,813.80,FX FOREARM NOS-CLOSED
+Table 9.0,Long Bone Fracture,813.81,FX RADIUS NOS-CLOSED
+Table 9.0,Long Bone Fracture,813.82,FRACTURE ULNA NOS-CLOSED
+Table 9.0,Long Bone Fracture,813.83,FX RADIUS W ULNA NOS-CL
+Table 9.0,Long Bone Fracture,813.90,FX FOREARM NOS-OPEN
+Table 9.0,Long Bone Fracture,813.91,FRACTURE RADIUS NOS-OPEN
+Table 9.0,Long Bone Fracture,813.92,FRACTURE ULNA NOS-OPEN
+Table 9.0,Long Bone Fracture,813.93,FX RADIUS W ULNA NOS-OPN
+Table 9.0,Long Bone Fracture,821.00,FX FEMUR NOS-CLOSED
+Table 9.0,Long Bone Fracture,821.01,FX FEMUR SHAFT-CLOSED
+Table 9.0,Long Bone Fracture,821.10,FX FEMUR NOS-OPEN
+Table 9.0,Long Bone Fracture,821.11,FX FEMUR SHAFT-OPEN
+Table 9.0,Long Bone Fracture,821.20,FX LOW END FEMUR NOS-CL
+Table 9.0,Long Bone Fracture,821.22,FX LOW FEMUR EPIPHY-CLOS
+Table 9.0,Long Bone Fracture,821.23,SUPRACONDYL FX FEMUR-CL
+Table 9.0,Long Bone Fracture,821.29,FX LOW END FEMUR NEC-CL
+Table 9.0,Long Bone Fracture,821.30,FX LOW END FEMUR NOS-OPN
+Table 9.0,Long Bone Fracture,821.33,SUPRACONDYL FX FEMUR-OPN
+Table 9.0,Long Bone Fracture,821.39,FX LOW END FEMUR NEC-OPN
+Table 9.0,Long Bone Fracture,823.00,FX UPPER END TIBIA-CLOSE
+Table 9.0,Long Bone Fracture,823.01,FX UPPER END FIBULA-CLOS
+Table 9.0,Long Bone Fracture,823.02,FX UP TIBIA W FIBULA-CL
+Table 9.0,Long Bone Fracture,823.10,FX UPPER END TIBIA-OPEN
+Table 9.0,Long Bone Fracture,823.11,FX UPPER END FIBULA-OPEN
+Table 9.0,Long Bone Fracture,823.12,FX UP TIBIA W FIBULA-OPN
+Table 9.0,Long Bone Fracture,823.20,FX SHAFT TIBIA-CLOSED
+Table 9.0,Long Bone Fracture,823.21,FX SHAFT FIBULA-CLOSED
+Table 9.0,Long Bone Fracture,823.22,FX SHAFT FIB W TIB-CLOS
+Table 9.0,Long Bone Fracture,823.30,FX TIBIA SHAFT-OPEN
+Table 9.0,Long Bone Fracture,823.31,FX FIBULA SHAFT-OPEN
+Table 9.0,Long Bone Fracture,823.32,FX SHAFT TIBIA W FIB-OPN
+Table 9.0,Long Bone Fracture,823.40,TORUS FRACTURE OF TIBIA
+Table 9.0,Long Bone Fracture,823.41,TORUS FRACTURE OF FIBULA
+Table 9.0,Long Bone Fracture,823.42,TORUS FX TIBIA/FIBULA
+Table 9.0,Long Bone Fracture,823.80,FX TIBIA NOS-CLOSED
+Table 9.0,Long Bone Fracture,823.81,FX FIBULA NOS-CLOSED
+Table 9.0,Long Bone Fracture,823.82,FX TIBIA W FIBULA NOS-CL
+Table 9.0,Long Bone Fracture,823.90,FX TIBIA NOS-OPEN
+Table 9.0,Long Bone Fracture,823.91,FX FIBULA NOS-OPEN
+Table 9.0,Long Bone Fracture,823.92,FX TIBIA W FIB NOS-OPEN
+Table 9.0,Long Bone Fracture,827.0,FX LOWER LIMB NEC-CLOSED
+Table 9.0,Long Bone Fracture,827.1,FX LOWER LIMB NEC-OPEN

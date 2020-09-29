@@ -1,0 +1,19 @@
+,,,,,,,,
+,Primary tissue,Case/Controls,Population,Number of individuals,Sex ratio (m/f),Age (m+/-SD)  [range],Genotype platform,Expression platform
+,Blood,Controls,Dutch,414,226/188,,Hap370 *,Human HT-12v3
+,Blood,ALS,Dutch,324,196/128,,Hap370 *,Human HT-12v3
+,Blood,UC,Dutch,49,23/26,,610-Quad *,Human HT-12v3
+,Blood,COPD,Dutch,453,450/3,,610-Quad *,Human HT-12v3
+,Total samples of blood,,Total:,1240,895/345,,,
+,,,,,,,,
+,Liver,Obesity,Dutch,74,21/53,44.2+/-9.6 [17-67],Omni1-Quad,Human HT-12v3
+,Muscle,Obesity,Dutch,62,20/42,44.02+/-10.10 [17-67],Omni1-Quad,Human HT-12v3
+,Subcutaneous Adipose,Obesity,Dutch,83,22/61,43.95+/-9.54 [17-67],Omni1-Quad,Human HT-12v3
+,Visceral Adipose,Obesity,Dutch,77,21/56,43.72+/-9.72 [17-67],Omni1-Quad,Human HT-12v3
+,Total samples of non-blood tissues,,Total:,85,23/62,43.93+/-9.59 [17-67],,
+,,,,,,,,
+,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.,*: Only the SNPs present on each of these platforms (i.e. HumanHap300 content) were initially used. Other SNPs were subsequently imputed.
+,ALS: Amyotophic Lateral Sclerosis patients ,,,,,,,
+,UC: Ulcerative Colitis patients,,,,,,,
+,COPD: Chronic Obstructive Pulmonary Disease patients,,,,,,,
+,NA: Not available,,,,,,,

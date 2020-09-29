@@ -1,0 +1,27 @@
+Product,Product,Cleared**,Uncleared,TOTAL
+Swap*,Basis,480,,480
+Swap*,FRA,10114,,10114
+Swap*,Exotic,,,
+Swap*,Inflation,,,
+Swap*,IRS- Plain Vanilla,25209,,25209
+Swap*,OIS,1250,,1250
+Swap*,VNS,<100,,<100
+Swap*,Zero Coupon,<100,,<100
+,,,,
+With Optionality,Callable Swap,,,
+With Optionality,Cap/Floor,,,
+With Optionality,Debt Option,,,
+With Optionality,Exotic Option,,,
+With Optionality,Swaption,,,
+,,,,
+Cross-Currency,Exotic,,,
+Cross-Currency,Swap,,,
+,,,,
+TOTAL,TOTAL,37053,N/A***,37053
+"Estimated swap transaction volumes, week ending November 30, by product type and tenor (in number of transactions), all participant types and currencies.","Estimated swap transaction volumes, week ending November 30, by product type and tenor (in number of transactions), all participant types and currencies.","Estimated swap transaction volumes, week ending November 30, by product type and tenor (in number of transactions), all participant types and currencies.","Estimated swap transaction volumes, week ending November 30, by product type and tenor (in number of transactions), all participant types and currencies.","Estimated swap transaction volumes, week ending November 30, by product type and tenor (in number of transactions), all participant types and currencies."
+Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown.
+*See Data Dictionary for product descriptions.,*See Data Dictionary for product descriptions.,*See Data Dictionary for product descriptions.,*See Data Dictionary for product descriptions.,*See Data Dictionary for product descriptions.
+**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.
+***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.
+Note: Transaction volumes currently include house and client trades by FCMs in the interest rate asset class.,Note: Transaction volumes currently include house and client trades by FCMs in the interest rate asset class.,Note: Transaction volumes currently include house and client trades by FCMs in the interest rate asset class.,Note: Transaction volumes currently include house and client trades by FCMs in the interest rate asset class.,Note: Transaction volumes currently include house and client trades by FCMs in the interest rate asset class.
+The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.

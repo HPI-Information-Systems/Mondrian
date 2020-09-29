@@ -1,0 +1,69 @@
+ATHLETE FIRST,ATHLETE LAST,NATIONALITY,TEAM,LEG,SWIM,T1,BIKE,T2,RUN,TOTAL TIME
+Emma,Moffatt,AUS,Team I Australia,,00:03:43,00:00:52,00:10:45,00:00:18,00:04:48,00:20:23
+Courtney,Atkinson,AUS,Team I Australia,,00:03:53,00:00:48,00:10:10,00:00:17,00:04:31,00:19:39
+Emma,Snowsill,AUS,Team I Australia,,00:04:10,00:00:51,00:11:00,00:00:21,00:04:50,00:21:12
+Brad,Kahlefeldt,AUS,Team I Australia,,00:03:57,00:00:46,00:10:31,00:00:16,00:04:29,00:19:59
+Annabel,Luxford,AUS,Team II Australia,,00:03:40,00:00:55,00:10:49,00:00:21,00:05:06,00:20:48
+Gareth,Halverson,AUS,Team II Australia,,00:04:03,00:00:52,00:10:26,00:00:18,00:04:33,00:20:12
+Erin,Densham,AUS,Team II Australia,,00:04:18,00:00:52,00:00:00,00:00:00,00:00:00,00:00:00
+Dan,Wilson,AUS,Team II Australia,,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00
+Lauren,Groves,CAN,Team I Canada,,00:03:43,00:00:54,00:10:48,00:00:21,00:04:51,00:20:34
+Brent,Mcmahon,CAN,Team I Canada,,00:03:56,00:00:47,00:10:10,00:00:17,00:04:21,00:19:31
+Kathy,Tremblay,CAN,Team I Canada,,00:04:25,00:00:54,00:11:03,00:00:22,00:05:03,00:21:47
+Simon,Whitfield,CAN,Team I Canada,,00:03:57,00:00:48,00:10:11,00:00:17,00:04:36,00:19:49
+Paula,Findlay,CAN,Team Ii Canada,,00:03:42,00:00:55,00:10:46,00:00:19,00:04:56,00:20:36
+Kyle,Jones,CAN,Team Ii Canada,,00:03:56,00:00:49,00:10:06,00:00:19,00:04:28,00:19:38
+Marianne,Hogan,CAN,Team Ii Canada,,00:04:25,00:00:50,00:11:34,00:00:20,00:05:11,00:22:20
+Andrew,Mccartney,CAN,Team Ii Canada,,00:03:47,00:00:47,00:10:31,00:00:19,00:04:44,00:20:08
+Kyla,Coates,CAN,Team Iii Canada,,00:03:45,00:00:55,00:10:59,00:00:20,00:05:11,00:21:08
+Connor,Hammond,CAN,Team Iii Canada,,00:03:57,00:00:51,00:11:04,00:00:20,00:05:10,00:21:22
+Sarah-Anne,Brault,CAN,Team Iii Canada,,00:04:35,00:00:57,00:11:24,00:00:20,00:05:11,00:22:27
+Jeffrey,Phillips,CAN,Team Iii Canada,,00:04:09,00:00:51,00:11:08,00:00:16,00:04:57,00:21:21
+Daniela,Chmet,ITA,Team I Italy,,00:03:39,00:00:51,00:11:56,00:00:21,00:05:27,00:22:13
+Alessandro,Fabian,ITA,Team I Italy,,00:03:54,00:00:47,00:10:02,00:00:18,00:04:26,00:19:27
+Annamaria,Mazzetti,ITA,Team I Italy,,00:04:35,00:00:58,00:11:42,00:00:19,00:05:13,00:22:47
+Alberto,Alessandroni,ITA,Team I Italy,,00:04:04,00:00:48,00:10:22,00:00:19,00:04:48,00:20:21
+Mariko,Adachi,JPN,Team I Japan,,00:03:40,00:00:56,00:11:42,00:00:21,00:05:18,00:21:55
+Ryosuke,Yamamoto,JPN,Team I Japan,,00:04:03,00:00:52,00:10:09,00:00:19,00:04:25,00:19:48
+Ai,Ueda,JPN,Team I Japan,,00:04:42,00:00:54,00:11:36,00:00:21,00:05:01,00:22:34
+Yuichi,Hosoda,JPN,Team I Japan,,00:04:05,00:00:48,00:10:33,00:00:21,00:04:43,00:20:30
+Anahi,Leon,MEX,Team I Mexico,,00:03:42,00:00:54,00:11:48,00:00:24,00:05:07,00:21:53
+Francisco,Serrano,MEX,Team I Mexico,,00:04:07,00:00:48,00:10:09,00:00:19,00:04:25,00:19:48
+Dunia,Gomez,MEX,Team I Mexico,,00:04:41,00:00:57,00:11:37,00:00:18,00:05:15,00:22:48
+Crisanto,Grajales,MEX,Team I Mexico,,00:04:05,00:00:47,00:11:02,00:00:20,00:04:34,00:20:48
+Rocio,Enriquez,MEX,Team Ii Mexico,,00:03:46,00:00:53,00:11:48,00:00:25,00:06:05,00:22:55
+Arturo,Garza,MEX,Team Ii Mexico,,00:04:05,00:00:50,00:10:26,00:00:20,00:04:40,00:20:21
+Claudia,Ruiz,MEX,Team Ii Mexico,,00:04:31,00:00:58,00:12:57,00:00:24,00:05:40,00:24:30
+Rodrigo,Gonzalez,MEX,Team Ii Mexico,,00:04:24,00:00:49,00:11:01,00:00:17,00:04:46,00:21:17
+Andrea,Hewitt,NZL,Team I New Zealand,,00:03:42,00:00:55,00:10:44,00:00:15,00:04:48,00:20:22
+Kris,Gemmell,NZL,Team I New Zealand,,00:04:05,00:00:49,00:10:09,00:00:16,00:04:23,00:19:42
+Samantha,Warriner,NZL,Team I New Zealand,,00:04:47,00:01:02,00:11:25,00:00:17,00:05:29,00:23:00
+Bevan,Docherty,NZL,Team I New Zealand,,00:04:09,00:00:50,00:10:08,00:00:14,00:04:47,00:20:08
+Kate,Mcilroy,NZL,Team II New Zealand,,00:03:49,00:00:55,00:10:53,00:00:21,00:05:01,00:20:56
+Clark,Ellice,NZL,Team II New Zealand,,00:04:06,00:00:51,00:10:18,00:00:14,00:04:32,00:20:01
+Rebecca,Spence,NZL,Team II New Zealand,,00:04:22,00:00:53,00:11:13,00:00:24,00:05:33,00:22:25
+Ryan,Sissons,NZL,Team II New Zealand,,00:04:08,00:00:49,00:10:44,00:00:13,00:05:01,00:20:55
+Olga,Dmitrieva,RUS,Team I Russia,,00:03:33,00:00:55,00:11:11,00:00:23,00:05:22,00:21:21
+Ivan,Vasiliev,RUS,Team I Russia,,00:03:47,00:00:50,00:10:10,00:00:21,00:04:44,00:19:52
+Anastasiya,Polyanskaya,RUS,Team I Russia,,00:04:24,00:00:56,00:11:46,00:00:17,00:05:20,00:22:43
+Artem,Parienko,RUS,Team I Russia,,00:04:07,00:00:49,00:10:06,00:00:20,00:04:27,00:19:49
+Magali,Di Marco Messmer,SUI,Team I Switzerland,,00:03:41,00:00:53,00:10:47,00:00:18,00:04:58,00:20:35
+Ruedi,Wild,SUI,Team I Switzerland,,00:04:01,00:00:49,00:10:01,00:00:16,00:04:33,00:19:40
+Daniela,Ryf,SUI,Team I Switzerland,,00:04:19,00:00:51,00:10:33,00:00:18,00:04:59,00:21:00
+Lukas,Salvisberg,SUI,Team I Switzerland,,00:03:55,00:00:50,00:10:28,00:00:16,00:04:20,00:19:49
+Yuliya,Yelistratova,UKR,Team I Ukraine,,00:03:34,00:00:52,00:11:12,00:00:23,00:05:00,00:20:59
+Andriy,Glushchenko,UKR,Team I Ukraine,,00:03:52,00:00:48,00:10:30,00:00:22,00:04:28,00:20:00
+Olesya,Prystayko,UKR,Team I Ukraine,,00:04:42,00:00:53,00:11:47,00:00:20,00:04:57,00:22:39
+Danylo,Sapunov,UKR,Team I Ukraine,,00:04:04,00:00:49,00:10:19,00:00:20,00:04:43,00:20:15
+Laura,Bennett,USA,Team I United States,,00:03:21,00:00:53,00:11:08,00:00:19,00:05:02,00:20:41
+Jarrod,Shoemaker,USA,Team I United States,,00:03:52,00:00:50,00:10:32,00:00:17,00:04:27,00:19:58
+Sarah,Haskins,USA,Team I United States,,00:04:18,00:00:56,00:10:57,00:00:22,00:05:01,00:21:34
+Matthew,Reed,USA,Team I United States,,00:03:57,00:00:46,00:10:08,00:00:19,00:04:39,00:19:49
+Mary Beth,Ellis,USA,Team II United States,,00:03:37,00:00:56,00:11:02,00:00:26,00:05:22,00:21:21
+Kevin,Collington,USA,Team II United States,,00:04:11,00:00:54,00:10:34,00:00:20,00:04:36,00:20:35
+Kathryn,Ross,USA,Team II United States,,00:04:42,00:01:00,00:11:49,00:00:21,00:05:31,00:23:23
+Gregory,Billington,USA,Team II United States,,00:04:18,00:00:55,00:10:57,00:00:20,00:04:49,00:21:19
+Jennifer,Howland,USA,Team Iii Usa,,00:03:50,00:00:55,00:12:25,00:00:19,00:05:33,00:23:01
+Ben,Kanute,USA,Team Iii Usa,,00:03:57,00:00:53,00:10:33,00:00:21,00:05:01,00:20:45
+Jessica,Clay,USA,Team Iii Usa,,00:04:47,00:01:04,00:13:00,00:00:19,00:06:11,00:25:21
+Lukas,Verzbicas,USA,Team Iii Usa,,00:04:22,00:00:52,00:11:08,00:00:19,00:04:46,00:21:27

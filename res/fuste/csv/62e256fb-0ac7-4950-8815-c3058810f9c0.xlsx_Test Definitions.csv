@@ -1,0 +1,37 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+FAPPN,Test,FAPPN,Atypical Pneumonia DNA Panel Qual,Atypical Pneumonia DNA Panel Qual,Real-Time PCR,,,,,,"Submit only 1 of the following:
+ 
+Note: Source is required.
+ 
+Bronchial Lavage/Bronchial Wash:
+Collect 1 mL in a sterile container with a leak-proof cap.
+Ship refrigerate.
+ 
+Sputum:
+Collect 1 mL in a sputum collection kit or a sterile, plastic container with
+a leak-proof cap.
+Ship refrigerate.
+ 
+Throat or Nasopharyngeal Swab:
+Collect in 3 mL M4 media or V-C-M medium (green-cap) tube or equivalent (UTM).
+Ship refrigerate.",0.35 mL,"Specimens other than	Bronchial lavage, bronchial wash, sputum, nasopharyngeal swab, throat swab
+Anticoagulants other than	NA
+Hemolysis	NA
+Thawing	Warm OK; Cold OK
+Lipemia	NA
+Icteric	NA","Reference Range: Not detected
+ 
+Test Performed By:  Focus Diagnostics, Inc.
+                                       5785 Corporate Avenue
+                                       Cypress, CA  90630-4750",Monday through Sunday,1-3 days,3-5 days,,Profile,,,,,"Focus Diagnositics, Inc."
+FAPPN,Specimen,VARIES,Varies,,,,Refrigerated,14 days,,,,,,,,,,,,,,,,
+FAPPN,Order Question,Z2488,Source,,Plain Text,,,,,,,,,,,,,,,,,,,
+FAPPN,Result,Z2488,Source,Source,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FAPPN,Result,Z2410,M. Pneumoniae DNA,M. Pneumoniae DNA,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FAPPN,Result,Z2411,Legionella Species,Legionella Species,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FAPPN,Result,Z2412,Legionella Pneumophila,Legionella Pneumophila,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FAPPN,Result,Z2409,Chlamydophila Pneumoniae,Chlamydophila Pneumoniae,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FAPPN,Billing Component,FAPPN,,"amplified probe technique, each organism",,,,,,,,,,,,,,1,87798,,,,,
+FAPPN,Billing Component,FAPPN,,"Legionella pneumophila, amplified probe technique",,,,,,,,,,,,,,1,87541,,,,,
+FAPPN,Billing Component,FAPPN,,"Mycoplasma Pneumoniae DNA, Qual",,,,,,,,,,,,,,1,87581,,,,,
+FAPPN,Billing Component,FAPPN,,"Chlamydophila Pneumoniae DNA, Qual",,,,,,,,,,,,,,1,87486,,,,,

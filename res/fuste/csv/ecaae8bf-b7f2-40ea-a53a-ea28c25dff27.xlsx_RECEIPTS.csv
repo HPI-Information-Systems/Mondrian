@@ -1,0 +1,31 @@
+Date,Deposit Sequence,Tender,Contributor Type,F_Name,L_Name,Address,City,State,Zip,Occupation,Employer,Principal_Officer,Contributor_ID,Amount
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Orlando,Albani,51 Como Road,Hyde Park,MA,02136-1904,Retired,,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Linda,Baldwin-Lyons,70 Richland Road,Norwood,MA,02062,,,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Paul,Bogue,118 Fletcher Street,Roslindale,MA,02131,Retired,,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Sandy,Calixte,109 Hazelton Street,Mattapan,MA,02126,Investigaator,Dept. of Industrial Accident,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Ralph,Caulfield,One Adrienne Drive,Canton,MA,02021,Police Officer,City of Boston,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Ann,Dwyer,1790 Columbia Road,South Boston,MA,02127,Secretary,BRA,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Emily,Esdale,77 Davison St.,Hyde Park,MA,02136,,,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Edna,Hall,105 Colorado St.,Mattapan,MA,02126,Retired,,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Keith,Hershenson,52 Emmonsdale Road,West Roxbury,MA,02132,Constable,Keith Hershenson,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,William,Holland,108 Mt. Vernon Street,West Roxbury,MA,02132,Advisor,City  of Boston,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Ann,Horgan,81 Huntington Road,Milton,MA,02186,"Adm. Secretary, Inspectional Services",City of Boston,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Political,,Iron Workers District Council of New England,PO Box 96,South Boston,MA,02127,"Jay Hurley, signator","Thomas Gunning, Secretary/Treasurer",,0,500
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Christian,Leimkuehler,96 Waldeck Road,Milton,MA,02186,Contracts Manager,Raytheon,,0,500
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Vivian,Leonard,259 Fairmount Ave.,Hyde Park,MA,02136,"Director, Human Resources",City of Boston,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Sandra,Marchocki Kervin,6 Kristin Ct.,Hyde Park,MA,02136,Retired,,,0,100
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Thomas,McDonough,83 Danny Road,Hyde Park,MA,02136,Manager,City of Boston,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Richard,McMillan,88 Arlington Street,Hyde Park,MA,02136,Plumbing Inspector,City of Boston,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Susan,McMorrow,260 Corey St.,West Roxbury,MA,02132,Executive Secretary,City of Boston,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Elizabeth,McNichols,14 Malverna Road,Roslindale,MA,02131,Manager,Spring Street Cafe,,0,500
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Michael,Meehan,3 Fox Hunt Lane,Winchester,MA,01890,Finance,Meehan Financial Services LLC,,0,250
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Michael,Norton,65 Telegraph St.,Souoth Boston,MA,02127,Sales,d/b/a Norton Associates,,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Karen,OUConnell,59 DeForest St.,Hyde Park,MA,02136,Lawyer / Executive Director,"Hyde Park Main Streets, Inc.",,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Kathleen,Pedersen,200 Corey St.,West Roxbury,MA,02132,,,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Clare,Reilly,23 St. John St.,Jamaica Plain,MA,02130,Exec. Dir.,Women's Lunch Place,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,John,Roberto,243 Princeton Street,East Boston,MA,02128,Vendor,Spinelli Ravioli,,0,250
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Kevin,Ruane,45 Farwell Ave.,Hyde Park,MA,02136-4003,Parking Enforcement Officer,"BTD, City of Boston",,0,25
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Kathleen,Spring,183 King Street,Groveland,MA,01834,Engineer,Edwards & Kelcey,,0,250
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Kevin,Sullivan,13 Hilton Street,Hyde Park,MA,02136,Concessionaire,TD BankNorth Garden,,0,50
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Robert,Vanasse,38 Lincoln Circle East Ext.,Andover,MA,01810-2947,Engineer,Vanasse & Associates,,0,500
+2006-04-18 00:00:00,04-18-2006-01,CHECK,Individual,Carter,Wilkie,990 South Street,Roslindale,MA,02131-2314,Communications,Bank of America,,0,50

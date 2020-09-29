@@ -1,0 +1,51 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+FLALA,Test,FLALA,"Limulus Amebocyte Lysate (LAL) Assay, Quantitative","Limulus Amebocyte Lysate Assay, QN",Chromogenic Assay,"Plastic container: PlCont
+",,,5,mL,"5 mL aqueous solution used in patient management. Send solution
+frozen in non-pyrogenic, plastic container.
+NOTE: 1. Submit name of aqueous solution, and the diluent if applicable.
+                 2. Body fluids are not acceptable.
+                 3. Glass vials are not acceptable.",3 mL,"Specimens Other Than:		Water or dialysis solution	
+Anticoagulants Other Than:
+Hemolysis:
+Thawing:
+Lipemia:","LEVEL DETECTED   	INTERPRETATION
+<0.05 EU/mL                        None Detected (Negative)
+   0.25 EU/mL                	 USP acceptable limits for
+                                          	injectable or irrigation water.
+   0.50 EU/mL                 	USP acceptable limits for
+                                 	inhalatory water.
+   2.00 EU/mL                 	Acceptable upper limit for
+                                 	Hemodialysis reuse water.
+                
+The LAL is used as a quantitative test to detect gram-
+negative endotoxin in aqueous solutions used in patient
+management. The LAL assay is not recommended for serum or
+plasma samples due to the presence of inhibitory factors. It
+is essential to maintain specimen sterility and prevent
+false positive results from exogenous gram negative
+bacteria.
+
+Test Performed by: Focus Diagnostics, Inc.
+                                      5785 Corporate Ave.
+                                      Cypress, CA 90630-4750",Monday through Friday,1 - 4 days,3 - 6 days,,Profile,,,,,"Focus Diagnostics, Inc."
+FLALA,Specimen,VARIES,Varies,,,,Frozen,,,,,,,,,,,,,,,,,
+FLALA,Component,FLAL,Limulus Lysate Assay,Limulus Lysate Assay,"Chromogenic Assay Only orderable as part of profile #57193 Limulus Amebocyte Lysate Assay, QN","Plastic container: PlCont
+",,,5,mL,"5 mL aqueous solution used in patient management. Send solution 
+frozen in non-pyrogenic, plastic container.
+Only orderable as part of profile #57193 ""Limulus Amebocyte  Lysate
+Assay, QN""",3 mL,"Specimens other than	Water, dialysis solution
+Anticoagulants other than	NA
+Hemolysis	NA
+Thawing	NA
+Lipemia	NA
+Icteric	NA",,,,,,,,,Yes,No,
+FLAL,Specimen,VARIES,Varies,,,,Frozen,,,,,,,,,,,,,,,,,
+FLAL,Order Question,Z0830,Specimen Type,,Plain Text,,,,,,,,,,,,,,,,,,,
+FLAL,Result,Z0830,Specimen Type,Specimen Type,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FLAL,Result,Z0831,Diluent,Diluent,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FLAL,Result,Z0832,Pharmacopeia Endotoxin Limit,Pharmacopeia Endotoxin Limit,Alphanumeric,,,,, ,,,,,,,,,,In Process,,,,
+FLAL,Result,Z0819,Limulus Lysate,Limulus Lysate,Alphanumeric,,,,,EU/mL,,,,,,,,,,In Process,,,,
+FLALA,Component,FLAL4,Limulus Lysate,Limulus Lysate,"Only orderable as part of a profile. For further information see #57193 Limulus Amebocyte Lysate Assay, QN",,,,,,"Only orderable as part of profile #57193 Limulus Amebocyte Lysate
+Assay, QN",,,,,,,,,,,No,No,
+FLAL4,Specimen,VARIES,Varies,,,,Frozen,,,,,,,,,,,,,,,,,
+FLAL4,Result,Z2442,Limulus Lysate,Limulus Lysate,Numeric,,,,,EU/mL,,,,,,,,,,In Process,,,,

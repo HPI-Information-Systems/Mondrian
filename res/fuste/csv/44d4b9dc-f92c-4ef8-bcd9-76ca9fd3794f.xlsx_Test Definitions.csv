@@ -1,0 +1,143 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+FCAH4,Test,FCAH4,"CAH Pediatric Profile 4:  3B-HSD Deficiency Screen (Androsten-
+edione, Cortisol, DHEA, 17-OH-Pregnenolone, 17-OH-Proges-
+terone)",CAH Profile 4,"Radioimmunoassay (RIA)
+High Performance Liquid Chromatography/Tandem Mass
+Spectrometry (LC-MS/MS)","Serum Gel Tube: SGT
+",,,1.5,mL,"Draw blood in a plain, red-top tube(s) or a serum gel tube(s).
+Separate within one hour and send 1.5 mL of serum frozen in plastic 
+vial. Specimens drawn in serum gel tube(s) must be poured off into 
+a plastic screw cap vial before freezing.","0.8 mL
+Note:  	Minimum volume do","Specimens other than	Serum
+Anticoagulants other than	NA
+Hemolysis	NA
+Thawing	Warm reject; Cold reject
+Lipemia	NA
+Icteric	NA","Androstenedione
+     Units:  ng/dL 
+Age              				Range
+Premature (26-28w) Day 4    		63-935
+Premature (31-35w) Day 4    		50-449
+Full Term (1-7 days)          	         <10-279
+           
+Levels decrease rapidly to <52 ng/dL after one week.
+ 
+1m-11m                       			<10-37
+ 
+Androstenedione gradually decreases during the first six
+months to prepubertal levels.
+           
+Prepubertal Children         	           <10-17
+Adult Males                         		44-186
+Adult Females                   		28-230
+Females Postmenopausal      	           <10-93
+ 
+Females
+Tanner Stages                 Age (years)       Range 
+	     1	     		 <9.2	    	<10-17
+	     2	  		9.2-13.7	<10-72
+	     3			10.0-14.4	  50-170
+	     4			10.7-15.6	  47-208
+	     5			11.8-18.6 	  50-224
+Males
+Tanner Stages               Age (years)          Range
+	     1	      		 <9.8   	    	 <10-17	
+	     2	  		   9.8-14.5	 <10-33	
+	     3			10.7-15.4 	  17-72	
+	     4			11.8-16.2 	  15-115	
+	     5			12.8-17.3 	  33-192
+ 
+Cortisol
+     Units:  ug/dL
+Age			Range
+Premature (26-28w) Day 4     			1.0 - 11
+Premature (31-35w) Day 4     			2.5 -   9.1 
+Full Term Day 3                       		1.7 - 14
+Full Term Day 7                           	2.0 - 11
+ 
+31d - 11m			2.8 - 23 
+12m - 15y (8:00 AM)			3 .0 - 21
+ 
+Adults 
+   8:00 AM                   			8.0 - 19 
+   4:00 PM                   			4.0 - 11
+ 
+Dehydroepiandrosterone (DHEA)
+     Units:  ng/dL
+Age	Range
+1-5 yrs                                               <68
+6-7 yrs                                               <111
+8-10 yrs                                             <186
+11-12 yrs                                           <202
+13-14 yrs                                           <319
+15-16 yrs                                           39-481
+17-19 yrs                                           40-491
+20-49 yrs                                           31-701
+> or = 50 yrs                                     21-402        
+ 
+17-OH Pregnenolone
+      Units:  ng/dL
+Age		Range                              
+Premature (26-28w) Day 4        	375 - 3559
+Premature (31-35w) Day 4            64 - 2380
+3 Days                                       10 - 829
+1 - 5m                               		  36 - 763
+6 - 11m                          		  42 - 540
+12 - 23m		  14 - 207
+24m  - 5y 		  10 - 103
+6 - 9y		  10 - 186
+Pubertal              		  44 - 235
+Adults                                         53 - 357
+ 
+17-Alpha-Hydroxyprogesterone
+     Units:  ng/dL    
+ Age	       Range            
+Premature (26-28w) Day 4             124 - 841
+Premature (31-35w) Day 4               26 - 568
+ 
+(if no age submitted):
+Full-Term Day 3                               <78     
+ 
+Males: Levels increase after the first week to peak values
+ranging from 40 - 200 between 30 and 60 days. Values then
+decline to a prepubertal value of <91 before one year.
+ 
+      Prepubertal              		           <91     
+     Adult Males                    	             27 - 199
+Females
+      1 - 11m		          13 - 106
+      Prepubertal              			<91
+Adult Females
+      Follicular                     		          15 - 70
+      Luteal                             		          35 - 290
+ 
+Females
+Tanner Stages               Age (years)	  Range
+	     1	     		 <9.2	    	 <83
+	     2	  		9.2-13.7	11-98
+	     3			10.0-14.4	11-155
+	     4			10.7-15.6	18-230
+	     5			11.8-18.6 	20-265
+Males
+Tanner Stages               Age (years)          Range
+	     1	      		 <9.8   	    	     <91
+	     2	  		   9.8-14.5	     <116
+	     3			10.7-15.4 	   10-138
+ 	     4			11.8-16.2 	   29-180
+           5                       12.8-17.3              24-175
+ 
+ 
+Test Performed BY:  Esoterix Endocrinology
+                      	        4301 Lost Hills Rd
+                                Calabasas Hills, CA 91301","Monday, Tuesday, Thursday",3-6 days,5 - 10 days,,Profile,,,,,Esoterix Endocrinology
+FCAH4,Specimen,SERUM,Serum,,,,Frozen,30 days,,,,,,,,,,,,,,,,
+FCAH4,Result,Z1885,Cortisol,Cortisol,Alphanumeric,,,,,ug/dL,,,,,,,,,,In Process,,,,
+FCAH4,Result,Z1887,Dehydroepiandrosterone (DHEA),Dehydroepiandrosterone (DHEA),Alphanumeric,,,,,ng/dL,,,,,,,,,,In Process,,,,
+FCAH4,Result,Z1891,17-OH Pregnenolone,17-OH Pregnenolone,Alphanumeric,,,,,ng/dL,,,,,,,,,,In Process,,,,
+FCAH4,Result,Z1896,17-Alpha-Hydroxyprogesterone,17-Alpha-Hydroxyprogesterone,Alphanumeric,,,,,ng/dL,,,,,,,,,,In Process,,,,
+FCAH4,Result,Z1900,Androstenedione,Androstenedione,Alphanumeric,,,,,ng/dL,,,,,,,,,,In Process,,,,
+FCAH4,Billing Component,FCAH4,,"17-OH_Progesterone, S",,,,,,,,,,,,,,1,83498,,,,,
+FCAH4,Billing Component,FCAH4,,"17-OH-Pregnenolone, S",,,,,,,,,,,,,,1,84143,,,,,
+FCAH4,Billing Component,FCAH4,,"DHEA, S",,,,,,,,,,,,,,1,82626,,,,,
+FCAH4,Billing Component,FCAH4,,"Cortisol, S",,,,,,,,,,,,,,1,82533,,,,,
+FCAH4,Billing Component,FCAH4,,"Androstenedione, S",,,,,,,,,,,,,,1,82157,,,,,

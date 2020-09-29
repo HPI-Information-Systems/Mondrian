@@ -1,0 +1,59 @@
+,p-value,Fold change,Direction,Gene,Description,Gene Ontology Biological Process,Gene Ontology Molecular Function,Gene Ontology Cellular Component
+1.0,0.7001559,3.2505915,down,lin-61,MBT domatin protein,"positive regulation of growth rate, negative regulation of vulval development, regulation of transcription",,nucleus
+2.0,0.7935362,2.8830338,down,fbxa-106,F-box A protein,,,
+3.0,0.7935362,2.7231565,down,bath-29,BTB and MATH domain containing,Lipid storage,protein binding,
+4.0,0.7935362,2.5308583,down,"F45D11.14, F45D11.15, F45D11.16",Gene of unknown function,,,
+5.0,0.7935362,1.9601347,down,C33G8.3,Gene of unknown function,,,
+6.0,0.38141,1.5732635,down,C10B5.1,Aldehyde dehydrogenase,metabolic process,oxidoreductase activity,
+7.0,0.0015870944,9.147046,up,C18D4.6,Gene of unknown function,,,
+8.0,0.0022859578,6.9657073,up,F15D4.5,Gene of unknown function,,,
+9.0,9.733294e-05,5.142892,up,ccb-1,Beta subunit of a voltage-gated calcium channel,"calcium ion transport, oviposition, locomotion",voltage-gated calcium channel activity,presynaptic active zone
+10.0,0.00089237234,4.184065,up,Y55F3AM.11,Gene of unknown function,,,integral to membrane
+11.0,0.0061595235,3.6537123,up,spe-15,unconventional myosin,"spermatogenesis, spermatid development, embryonic development ending in birth or egg hatching, organelle localization","nucleotide binding, motor activity, actin binding, ATP binding",myosin complex
+12.0,0.0010343692,3.4846394,up,dmd-9,DM (Doublesex/MAB-3) Domain family,"regulation of transcription, DNA-dependent, sex differentiation","DNA binding, transcription factor activity",nucleus
+13.0,0.0022762553,3.4731832,up,C33C12.3,glucosylceramidase,"carbohydrate metabolic process, sphingolipid metabolic process, lysosome organization","catalytic activity, glucosylceramidase activity, cation binding",lysosome
+14.0,0.0063586826,3.3244894,up,H14E04.3,Gene of unknown function,,,integral to membrane
+15.0,0.000522413,3.0885665,up,W06A11.4,Gene of unknown function,,,
+16.0,0.009334495,3.0555065,up,dhcr-7,,,,integral to membrane
+17.0,0.009121367,2.9620695,up,"Y116F11B.10, Y48G1BM.5, Y54G2A.21",7-DEHYDROCHOLESTEROL REDUCTASE,,,
+18.0,0.0023324457,2.94313,up,R09A1.2,Kelch-like protein 13-homologue,,protein binding,
+19.0,0.008681681,2.724524,up,fkb-8,FKBP-type peptidylprolyl isomerase,"protein folding, proteolysis","DNA binding, peptidyl-prolyl cis-trans isomerase activity, serine-type peptidase activity, zinc ion binding, isomerase activity","intracellular, nucleus, membrane"
+20.0,0.001618935,2.7069523,up,C33C12.4,Gene of unknown function,embryonic development ending in birth or egg hatching,,integral to membrane
+21.0,0.0038428036,2.5510974,up,T04D3.8,Gene of unknown function,,,
+22.0,0.009081997,2.545098,up,"W06A11.4, ZC204.14",Gene of unknown function,,,
+23.0,0.0026950736,2.441621,up,ZK849.5,Putative membrane protein,,,integral to membrane
+24.0,0.0064923153,2.3516371,up,ceh-91,Protein with a THAP or THAP-like domain,"reproduction, regulation of transcription, DNA-dependent, hermaphrodite genitalia development","DNA binding, transcription factor activity, sequence-specific DNA binding",nucleus
+25.0,0.0033151635,2.2750905,up,Y54G2A.4,Gene of unknown function,,,integral to membrane
+26.0,0.0027550915,2.259372,up,Y73B3A.11,Gene of unknown function,,,
+27.0,0.003781585,2.1155171,up,C27C7.1,Gene of unknown function,,,
+28.0,0.0024701976,2.0462863,up,fmo-5,Flavin-containing MonoOxygenase family,"metabolic process, oxidation reduction","catalytic activity, monooxygenase activity, flavin-containing monooxygenase activity, oxidoreductase activity, FAD binding, NADP or NADPH binding","microsome, intrinsic to endoplasmic reticulum membrane"
+29.0,0.0012450471,2.0306454,up,K08C9.7,Ubiquitin-40S ribosomal protein S27a,,,
+30.0,0.0026923744,2.0277486,up,K08A2.4,Gene of unknown function,,,
+31.0,0.0076981722,2.0111644,up,Y37E3.13,Immunoglobulin domain protein,,protein binding,
+32.0,5.1051124e-05,1.9935561,up,srr-2,"Serpentine Receptor, class R",,,integral to membrane
+33.0,0.0030437754,1.9810165,up,nstp-6,Nucleotide Sugar TransPorter family,"transport, carbohydrate transport, nucleotide-sugar transport","nucleotide-sugar transmembrane transporter activity, sugar:hydrogen symporter activity","Golgi membrane, membrane, integral to membrane"
+34.0,0.0032953818,1.9677877,up,W04C9.5,Small GTPase,"nematode larval development, small GTPase mediated signal transduction, protein transport","nucleotide binding, GTP binding",intracellular
+35.0,0.005447356,1.9657733,up,gst-20,Glutathione S-Transferase,,,
+36.0,0.00067773013,1.9578252,up,Y94H6A.4,Glutathione peroxidase,"response to oxidative stress, oxidation reduction","peroxidase activity, glutathione peroxidase activity, oxidoreductase activity",integral to membrane
+37.0,0.0016905314,1.9559358,up,F21A9.2,zinc finger protein,,zinc ion binding,intracellular
+38.0,0.008670599,1.9479418,up,ubc-15,E2 ubiquitin-conjugating enzyme,"post-translational protein modification, regulation of protein metabolic process",small conjugating protein ligase activity,
+39.0,0.0065733255,1.9193393,up,dyb-1,DYstroBrevin homolog,"synaptic transmission, cholinergic, establishment of synaptic specificity at neuromuscular junction, acetylcholine transport, negative regulation of locomotion, positive regulation of locomotion, muscle maintenance","acetylcholine transmembrane transporter activity, calcium ion binding, protein binding, zinc ion binding metal","cytoplasm, dystrophin-associated glycoprotein complex"
+40.0,0.0053601507,1.9042379,up,Y66D12A.11,Gene of unknown function,,,integral to membrane
+41.0,0.0022121018,1.8883581,up,K08A2.4,lin-8 (synMuvA) paralog,,,
+42.0,0.0007025943,1.8813465,up,"Y76G2A.2, C06A5.10",,Lipid storage,,integral to membrane
+43.0,0.0023619735,1.859794,up,npp-8,Nuclear Pore complex Protein,"nucleocytoplasmic transport, nucleus organization, embryonic development ending in birth or egg hatching, hermaphrodite genitalia development","protein binding, structural constituent of nuclear pore",nuclear pore
+44.0,0.0051571876,1.8488874,up,bath-45,BTB and MATH domain containing,,protein binding,
+45.0,0.0018890677,1.8395125,up,gale-1,UDP-GALactose 4-Epimerase,"carbohydrate metabolic process, galactose metabolic process, metabolic process, cellular metabolic process","catalytic activity, UDP-glucose 4-epimerase activity, protein binding, isomerase activity, racemase and epimerase activity, acting on carbohydrates and derivatives, coenzyme binding",
+46.0,0.0071675773,1.818813,up,Y54F10BM.9,Gene of unknown function,,,
+47.0,0.007353181,1.7495075,up,"clec-48,           clec-49",C-type LECtin,,binding,
+48.0,0.00643211,1.7336142,up,K06B9.4,Gene of unknown function,meiotic chromosome segregation,,
+49.0,0.007197275,1.6957242,up,H05C05.2,Gene of unknown function,,"protein binding, SPK domain",
+50.0,0.007376509,1.6953583,up,Y39B6A.1,Gene of unknown function,,protein binding,
+51.0,0.003944105,1.633725,up,Y22D7AL.9,Tetratricopeptide,,binding,
+52.0,0.00406983,1.6152847,up,lin-17,"Frizzled-homologue, Wnt receptor","morphogenesis of an epithelium, signal transduction, cell surface receptor linked signal transduction, G-protein coupled receptor protein signaling pathway, multicellular organismal development, gonad development, regulation of asymmetric cell division, regulation of asymmetric cell division, polarity specification of anterior/posterior axis, polarity specification of proximal/distal axis, Wnt receptor signaling pathway, regulation of cell migration, negative regulation of vulval development, hermaphrodite genitalia development, regulation of cell fate specification, tail tip morphogenesis, asymmetric protein localization involved in cell fate determination, establishment of anatomical structure orientation","signal transducer activity, receptor activity, transmembrane receptor activity, non-G-protein coupled 7TM receptor activity, G-protein coupled receptor activity",integral to membrane
+53.0,0.0007511127,1.6044188,up,ceh-44,Homeobox,"transcription, regulation of transcription, DNA-dependent, transport, intra-Golgi vesicle-mediated transport","DNA binding, transcription factor activity, transcription regulator activity, sequence-specific DNA binding","nucleus, Golgi apparatus, integral to Golgi membrane"
+54.0,0.0036893967,1.57657,up,F08A8.5,"alpha-1,2-fucosyltransferase",carbohydrate metabolic process,"galactoside 2-alpha-L-fucosyltransferase activity,  transferase activity, transferring glycosyl groups","Golgi apparatus, membrane"
+55.0,0.009049534,1.5553223,up,spe-6,defective SPErmatogenesis,protein amino acid phosphorylation,"protein serine/threonine kinase activity, ATP binding",
+56.0,0.0070150136,1.518933,up,C03B8.3,Gene of unknown function,,,integral to membrane
+57.0,0.0024690193,1.5142115,up,T28F2.2,Gene of unknown function,positive regulation of growth rate,,
+58.0,0.00447184,1.5087491,up,haf-4,lysosomal peptide ABC transporter,"lipid metabolic process, transport, embryonic development ending in birth or egg hatching, positive regulation of growth rate","nucleotide binding, transporter activity, nucleoside-triphosphatase activity, ATPase activity, coupled to transmembrane movement of substances",integral to membrane

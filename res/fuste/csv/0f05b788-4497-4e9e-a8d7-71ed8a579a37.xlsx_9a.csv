@@ -1,0 +1,26 @@
+Product,Product,Cleared**,Uncleared,TOTAL
+Swap*,Basis,7626327,15979446,23605773
+Swap*,FRA,35120681,23928761,59049442
+Swap*,Exotic,,3677667,3677667
+Swap*,Inflation,,2597632,2597632
+Swap*,IRS- Plain Vanilla,112540721,102218873,214759593
+Swap*,OIS,20944262,18850156,39794419
+Swap*,VNS,"<10,000",,"<10,000"
+Swap*,Zero Coupon,223240,,223240
+,,,,
+With Optionality,Callable Swap,,842478,842478
+With Optionality,Cap/Floor,,10707802,10707802
+With Optionality,Debt Option,,662920,662920
+With Optionality,Exotic Option,,1442855,1442855
+With Optionality,Swaption,,28768759,28768759
+,,,,
+Cross-Currency,Exotic,,93614,93614
+Cross-Currency,Swap,,16613715,16613715
+,,,,
+TOTAL,TOTAL,176455231,226384678,402839910
+"Estimated gross notional amount outstanding, November 30 weekly snapshot, by product type and tenor (millions of USD), all participant types and currencies. Data are adjusted for double-counting of cleared trades to show a single exposure for each trade.","Estimated gross notional amount outstanding, November 30 weekly snapshot, by product type and tenor (millions of USD), all participant types and currencies. Data are adjusted for double-counting of cleared trades to show a single exposure for each trade.","Estimated gross notional amount outstanding, November 30 weekly snapshot, by product type and tenor (millions of USD), all participant types and currencies. Data are adjusted for double-counting of cleared trades to show a single exposure for each trade.","Estimated gross notional amount outstanding, November 30 weekly snapshot, by product type and tenor (millions of USD), all participant types and currencies. Data are adjusted for double-counting of cleared trades to show a single exposure for each trade.","Estimated gross notional amount outstanding, November 30 weekly snapshot, by product type and tenor (millions of USD), all participant types and currencies. Data are adjusted for double-counting of cleared trades to show a single exposure for each trade."
+Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown. See Explanatory Notes for more detail.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown. See Explanatory Notes for more detail.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown. See Explanatory Notes for more detail.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown. See Explanatory Notes for more detail.,Total(s) may be less than total shown for this asset class in the All Swaps reports and/or other CFTC Swaps Report tables if products were excluded from this table that (a) presented disclosure risk or (b) did not belong in the categories shown. See Explanatory Notes for more detail.
+*See Data Dictionary for product descriptions and Explanatory Notes for data sources.,*See Data Dictionary for product descriptions and Explanatory Notes for data sources.,*See Data Dictionary for product descriptions and Explanatory Notes for data sources.,*See Data Dictionary for product descriptions and Explanatory Notes for data sources.,*See Data Dictionary for product descriptions and Explanatory Notes for data sources.
+**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.,**See Explanatory Notes for cleared and uncleared descriptions.
+***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.,***N/A indicates that data are not currently available.
+The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.,The Commission requests feedback on the format and content of this CFTC Swaps Report table. Submit comments to swapsreport@cftc.gov.
