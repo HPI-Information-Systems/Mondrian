@@ -9,7 +9,7 @@ If using a local (or virtual) environment, install dependencies with
 Alternatively, if using a conda distribution, use:
 `conda env create --file mondrian.yml`
 
-##Basic script
+## Basic script
 The basic.py script can be used to detect region boundaries in two csv files and compare their layout similarity.
 From the command line, type:
 
@@ -22,7 +22,7 @@ For the full list of parameters, type:
 
 `python3 basic.py --help`
 
-##Experiment scripts
+## Experiment scripts
 
 The region_detection.py scripts can be used to run the experiments on the multiregion detection components.
 The template_recognition.py scripts can be used to run the experiments on the multiregion detection components.
