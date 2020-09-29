@@ -268,7 +268,6 @@ def process_file(filename, result_dir, radius=None):
     if args.baseline:
         predicted_labels = [idx for idx, e in enumerate(elements_found)]
         list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time=0)]
-        print("List radii", list_radii)
 
     elif not args.baseline:
         file_width = max([e["bot_rx"][0] for e in elements_found]) + 1
@@ -318,6 +317,7 @@ def process_file(filename, result_dir, radius=None):
 
     best_overall = -1
     largest_radius = -1
+    print("Len list radii", len(list_radii))
     for dict in list_radii:
         overall = dict["overall"]
 
