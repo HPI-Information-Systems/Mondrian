@@ -14,8 +14,8 @@ from pathlib import Path
 from joblib import Parallel, delayed
 from sklearn.metrics import pairwise_distances
 
-from mondrian_sigmod.mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU
-from mondrian_sigmod.mondrian.distances import rectangle_as_array, parallel_distance
+from .mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU
+from .mondrian.distances import rectangle_as_array, parallel_distance
 from .mondrian.visualization import table_as_image, find_table_elements
 
 import numpy as np

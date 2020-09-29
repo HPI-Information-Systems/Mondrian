@@ -64,7 +64,7 @@ def main():
     parser.add_argument("--g", default=1, help="The desired gamma to experiment")
     parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning")
     parser.add_argument("--r", default=None, help="The desired radius for the experiment")
-    parser.add_argument("--experiment", default="best-radius", help="The experiment to pick clustering results from'")
+    parser.add_argument("--experiment", default="static", help="The experiment to pick clustering results from'")
     parser.add_argument("--dataset", default="fuse", help="The dataset on which to perform experiments")
     parser.add_argument("--allthresholds", default=False, help="Do not skip computation for thresholds below 0.7")
     parser.add_argument("--rthreshold", default=0.75, help="The threshold for region similarity")
@@ -90,11 +90,11 @@ def main():
     # dir = "res/files"
     file_dir = f"res/files/{DATASET}/"
 
-    annotations_regions = f"res/{DATASET}_target_regions.json"
+    annotations_regions = f"res/{DATASET}/annotations/annotations_elements.json"
     target_regions = json.load(open(annotations_regions, "r"))
     region_files = [k for k in target_regions if k not in to_skip]
 
-    annotations_templates = f"res/{DATASET}_target_templates.json"
+    annotations_templates = f"res/{DATASET}/annotations/annotations_templates.json"
     target_templates = json.load(open(annotations_templates, "r"))
     target_templates = {k: [f for f in v if f in region_files] for k, v in target_templates.items() if len([f for f in v if f in region_files]) != 0}
 
