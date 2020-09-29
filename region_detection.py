@@ -41,7 +41,7 @@ parser.add_argument("--bestradius", default=False, action='store_true', help="To
 parser.add_argument("--static", default=0, help="To manually use a static radius (default = 0)")
 parser.add_argument("--subset", default=None, help="To just use a data subset")
 parser.add_argument("--baseline", default=False, action='store_true', help="To select the baseline (default = False)")
-parser.add_argument("--evaluate", default=False, action='store_true', help="To save the evaluation results (default = False)")
+parser.add_argument("--evaluate", default=False, action='store_true', help="To show the evaluation results (default = False)")
 parser.add_argument("--experiment", default="static", help="The experiment in case it's evaluation only (default = 'static')")
 parser.add_argument("--iteration", default="", help="The iteration in case it's evaluation only")
 parser.add_argument("--dataset", default="fuste", help="The dataset on which to perform experiments (default = 'fuste')")
