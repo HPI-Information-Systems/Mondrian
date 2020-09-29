@@ -14,9 +14,9 @@ from pathlib import Path
 from joblib import Parallel, delayed
 from sklearn.metrics import pairwise_distances
 
-from .mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU
-from .mondrian.distances import rectangle_as_array, parallel_distance
-from .mondrian.visualization import table_as_image, find_table_elements
+from mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU
+from mondrian.distances import rectangle_as_array, parallel_distance
+from mondrian.visualization import table_as_image, find_table_elements
 
 import numpy as np
 import pickle
@@ -51,7 +51,7 @@ parser.add_argument("--evaluate", default=False, action='store_true', help="To s
 parser.add_argument("--experiment", default="static", help="The experiment in case it's evaluation only'")
 parser.add_argument("--iteration", default="", help="The iteration in case it's evaluation only'")
 parser.add_argument("--heuristic", default=False, action="store_true", help="Whether or not to do heuristic radius")
-parser.add_argument("--dataset", default="fuse", help="The dataset on which to perform experiments")
+parser.add_argument("--dataset", default="fuste", help="The dataset on which to perform experiments")
 
 args = parser.parse_args()
 alpha = float(args.a)
