@@ -22,11 +22,21 @@ For the full list of parameters, type:
 
 `python3 basic.py --help`
 
-## Experiment scripts
+## Multiregion detection experiment
 
 The region_detection.py scripts can be used to run the experiments on the multiregion detection components.
+It requires the input datasets of csv files to be stored in a folder named "./res/{dataset-name}/csv" and their annotations in the folder "./res/{dataset-name}/annotations".
+The dataset name can be specified as a command line argument.
+
+`python3 basic.py --baseline --evaluate`
+
+
+For the full list of parameters, type:
+`python3 basic.py --help`
+
+## Template inference experiment
 The template_recognition.py scripts can be used to run the experiments on the multiregion detection components.
-They both require the input datasets of csv files to be stored in a folder named "./res/{dataset-name}/csv" and their annotations in the folder "./res/{dataset-name}/annotations".
+
 The region_detection.py script requires the annotated regions to be in a file named "annotations_elements.json" inside the annotation folder, while the template_recognition.py script requires additionally a file named "annotations_templates.json".
 
 The output of the scripts will be produced in a "result" folder where the script are launched.

@@ -105,17 +105,17 @@ def main():
 
             label_iou_path = os.path.join(result_dir, "label_iou_scores.pckl")
             pickle.dump(dict_label_iou, open(label_iou_path, "wb"))
-            print("% NEW! Clusters with IoU >50", label_iou_50)
-            print("% NEW! Clusters with IoU >80", label_iou_80)
-            print("% NEW! Clusters with IoU >100", label_iou_100)
+            print("Clusters with IoU >50", label_iou_50)
+            print("Clusters with IoU >80", label_iou_80)
+            print("%Clusters with IoU >100", label_iou_100)
 
         except:
             experiment = args.experiment
             iteration = args.iteration
 
-            if experiment == "baseline":
+            if experiment == "baseline" or args.baseline:
                 result_dir = os.path.join("./", "results/", dataset, "connected_components")
-            elif "elvis" in experiment:
+            elif "koci" in experiment:
                 result_dir = os.path.join("./", "results/", dataset, experiment, iteration)
             else:
                 result_dir = os.path.join("./", "results/", dataset, hyperparameters, experiment, iteration)
