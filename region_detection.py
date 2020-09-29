@@ -317,7 +317,6 @@ def process_file(filename, result_dir, radius=None):
 
     best_overall = -1
     largest_radius = -1
-    print("Len list radii", len(list_radii))
     for dict in list_radii:
         overall = dict["overall"]
 
