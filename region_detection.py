@@ -199,7 +199,7 @@ def main():
 def baseline_results(result_dir):
     execution_time = time.time()
 
-    print("Baseline")
+    print("Experimenting with the baseline")
 
     evaluations = Parallel(n_jobs=n_cores)(delayed(process_file)(
         file, result_dir
@@ -214,7 +214,7 @@ def static_radii(mult, result_dir):
     execution_time = time.time()
 
     print("Partitioning", partitioning, "Alpha", alpha, "Beta", beta, "Gamma ", gamma)
-    print("\tMultiplier ", mult)
+    print("\tRadius ", mult)
 
     evaluations = Parallel(n_jobs=n_cores)(delayed(process_file)(
         filename=file, result_dir=result_dir, radius=mult
@@ -268,6 +268,8 @@ def process_file(filename, result_dir, radius=None):
     if args.baseline:
         predicted_labels = [idx for idx, e in enumerate(elements_found)]
         list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time=0)]
+
+    print("List radii")
 
 
     elif not args.baseline:
