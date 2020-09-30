@@ -88,7 +88,7 @@ def main():
     iteration = args.iteration
     overwrite = args.overwrite
     # dir = "res/files"
-    file_dir = f"res/files/{DATASET}/"
+    file_dir = f"res/{DATASET}/csv/"
 
     annotations_regions = f"res/{DATASET}/annotations/annotations_elements.json"
     target_regions = json.load(open(annotations_regions, "r"))
