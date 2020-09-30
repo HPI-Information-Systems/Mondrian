@@ -24,11 +24,18 @@ For the full list of parameters, type:
 
 ## Multiregion detection experiment
 
-The region_detection.py scripts can be used to run the experiments on the multiregion detection components.
+The region_detection.py scripts can be used to run the experiments on the multiregion detection component of Mondrian.
 It requires the input datasets of csv files to be stored in a folder named "./res/{dataset-name}/csv" and their annotations in the folder "./res/{dataset-name}/annotations".
 The dataset name can be specified as a command line argument.
+An additional argument allows to execute the evaluation of the results and print the results.
+
+The script allows different configurations to be tested, selecting them with command line arguments.
+To run region detection using the connected component baseline and see the evaluation results, run:
 
 `python3 basic.py --baseline --evaluate`
+
+To test using a static radius R, run:
+`python3 basic.py --static R --evaluate`
 
 
 For the full list of parameters, type:

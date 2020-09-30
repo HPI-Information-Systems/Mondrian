@@ -261,6 +261,7 @@ def process_file(filename, result_dir, radius=None):
             elements_found = pickle.load(open(pckl_dir + filename + "_partitions.pckl", "rb"))
         except:
             elements_found, _, _ = find_table_elements(img, partitioning)
+            Path(pckl_dir).mkdir(parents=True, exist_ok=True)
             pickle.dump(elements_found, open(pckl_dir + filename + "_partitions.pckl", "wb"))
     else:
         elements_found, _, _ = find_table_elements(img, partitioning=False)
