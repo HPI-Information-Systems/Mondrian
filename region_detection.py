@@ -97,7 +97,7 @@ def main():
         try:
             if evaluations:
                 print("Evaluation phase")
-            dict_label_iou = [x[3] for x in evaluations]
+            dict_label_iou = [x[2] for x in evaluations]
             dict_label_iou = reduce(lambda a, b: dict(a, **b), dict_label_iou)
             label_iou_50 = len([x for x in dict_label_iou if dict_label_iou[x] > 0.5]) / len(dict_label_iou)
             label_iou_80 = len([x for x in dict_label_iou if dict_label_iou[x] > 0.8]) / len(dict_label_iou)
@@ -110,7 +110,6 @@ def main():
             print("%Clusters with IoU >100", label_iou_100)
 
         except Exception as e:
-            print(e)
             experiment = args.experiment
             iteration = args.iteration
 
