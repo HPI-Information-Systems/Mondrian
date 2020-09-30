@@ -36,7 +36,7 @@ OVERWRITE = "yes"
 SUBSET_START = 0
 SUBSET_END = None
 
-result_dir = f"../multiregion-detection/results/"
+result_dir = f"./results/"
 
 to_skip = ["jane_tholt__13157__SRP No. 13.xlsx_Study 1 Delv Dth By Location.csv",
            "holden_salisbury__12317__UAMPS-Int_Ext.xlsx_UAMPS.csv",
