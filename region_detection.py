@@ -229,7 +229,6 @@ def static_radii(mult, result_dir):
 
 def find_radii(result_dir):
     csv_path = os.path.join(result_dir, "optimal_radii.csv")
-    print("Writing first row")
     with open(csv_path, 'w') as fd:
         writer = csv.writer(fd, quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["filename", "optimal_radius", "max_optimal_radius"])

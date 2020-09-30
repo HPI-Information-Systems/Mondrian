@@ -59,15 +59,15 @@ def assess_pair(m, n, allthresholds = False):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--a", default=1, help="The desired alpha to experiment")
-    parser.add_argument("--b", default=1, help="The desired beta to experiment")
-    parser.add_argument("--g", default=1, help="The desired gamma to experiment")
-    parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning")
-    parser.add_argument("--r", default=None, help="The desired radius for the experiment")
-    parser.add_argument("--experiment", default="static", help="The experiment to pick clustering results from'")
     parser.add_argument("--dataset", default="fuste", help="The dataset on which to perform experiments")
-    parser.add_argument("--allthresholds", default=False, help="Do not skip computation for thresholds below 0.7")
-    parser.add_argument("--rthreshold", default=0.75, help="The threshold for region similarity")
+    parser.add_argument("--a", default=1, help="The desired alpha to experiment (default = 1)")
+    parser.add_argument("--b", default=1, help="The desired beta to experiment (default = 1)")
+    parser.add_argument("--g", default=1, help="The desired gamma to experiment (default = 1)")
+    parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning (default = 1)")
+    parser.add_argument("--experiment", default="static", help="The experiment to pick clustering results from (default = 'static')")
+    parser.add_argument("--r", default=None, help="The desired radius for a static radius experiment")
+    parser.add_argument("--allthresholds", default=False, help="Do not skip computation for thresholds below 0.7 (default= False)")
+    parser.add_argument("--rthreshold", default=0.75, help="The threshold for region similarity (default = 0.75)")
     parser.add_argument("--thresholdlist", nargs="*", type=float, default=list(np.arange(0.7, 1, 0.1)),
                         help="A list of thresholds for file similarity")
     parser.add_argument("--iteration", default=0, help="The iteration of the experiment for time calculation")

@@ -1,4 +1,4 @@
-# mondrian_sigmod
+# Detecting Complex Multiregion Layouts with Mondrian
 Mondrian repository for SIGMOD 2021 submission
 
 ## Setup
@@ -32,23 +32,42 @@ An additional argument allows to execute the evaluation of the results and print
 The script allows different configurations to be tested, selecting them with command line arguments.
 To run region detection using the connected component baseline and see the evaluation results, run:
 
+`python3 region_detection.py --baseline --evaluate`
+
+To test using a static radius R, run:
+
+`python3 region_detection.py --static R --evaluate`
+
+To test using a dynamic, optimal radius, run:
+
+`python3 region_detection.py --dynamic --evaluate`
+
+For the full list of parameters, type:
+
+`python3 region_detection.py --help`
+
+## Template inference experiment
+The template_recognition.py scripts can be used to run the experiments on the multiregion inference component of Mondrian.
+
+Like the region_detection.py script, this requires the target regions to be in a file named "annotations_elements.json" inside the annotation folder as well as the gold standard templates file named "annotations_templates.json".
+Additionally, it requires results produced from the multiregion detection script.
+The input files are read from the "res/{dataset-name}/csv" folder and the output of the scripts are read/written to the "result" folder.
+The dataset name can be specified as a command line argument.
+
+The script allows different configurations to be tested, selecting them with command line arguments.
+To run region detection using the connected component baseline and see the evaluation results, run:
+
 `python3 basic.py --baseline --evaluate`
 
 To test using a static radius R, run:
+
 `python3 basic.py --static R --evaluate`
 
 To test using a dynamic, optimal radius, run:
+
 `python3 basic.py --dynamic --evaluate`
 
-
 For the full list of parameters, type:
+
 `python3 basic.py --help`
-
-## Template inference experiment
-The template_recognition.py scripts can be used to run the experiments on the multiregion detection components.
-
-The region_detection.py script requires the annotated regions to be in a file named "annotations_elements.json" inside the annotation folder, while the template_recognition.py script requires additionally a file named "annotations_templates.json".
-
-The output of the scripts will be produced in a "result" folder where the script are launched.
-To correcly launch the template_recognition.py script, there need to be results produced from the multiregion detection script.
 
