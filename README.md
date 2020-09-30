@@ -27,6 +27,7 @@ For the full list of parameters, type:
 The region_detection.py scripts can be used to run the experiments on the multiregion detection component of Mondrian.
 It requires the input datasets of csv files to be stored in a folder named "./res/{dataset-name}/csv" and their annotations in the folder "./res/{dataset-name}/annotations".
 The dataset name can be specified as a command line argument.
+The alpha, beta, gamma hyperparameters can be configured with command line parameters.
 An additional argument allows to execute the evaluation of the results and print the results.
 
 The script allows different configurations to be tested, selecting them with command line arguments.
@@ -53,21 +54,22 @@ Like the region_detection.py script, this requires the target regions to be in a
 Additionally, it requires results produced from the multiregion detection script.
 The input files are read from the "res/{dataset-name}/csv" folder and the output of the scripts are read/written to the "result" folder.
 The dataset name can be specified as a command line argument.
+The script allows to set the desired hyperparameters for the multiregion detection as well as the thresholds for region and template similarity.
 
-The script allows different configurations to be tested, selecting them with command line arguments.
-To run region detection using the connected component baseline and see the evaluation results, run:
+Following the same names used in the region_detection.py script, the script must be run with an --experiment parameter to select the corresponding results computed by the multiregion detection stage.
+To run template inference using the connected component baseline run:
 
-`python3 basic.py --baseline --evaluate`
+`python3 template_search.py --experiment baseline`
 
 To test using a static radius R, run:
 
-`python3 basic.py --static R --evaluate`
+`python3 template_search.py --experiment static --r R --evaluate`
 
 To test using a dynamic, optimal radius, run:
 
-`python3 basic.py --dynamic --evaluate`
+`python3 template_search.py --experiment dynamic`
 
 For the full list of parameters, type:
 
-`python3 basic.py --help`
+`python3 template_search.py --help`
 
