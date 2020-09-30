@@ -37,6 +37,9 @@ To run region detection using the connected component baseline and see the evalu
 To test using a static radius R, run:
 `python3 basic.py --static R --evaluate`
 
+To test using a dynamic, optimal radius, run:
+`python3 basic.py --dynamic --evaluate`
+
 
 For the full list of parameters, type:
 `python3 basic.py --help`

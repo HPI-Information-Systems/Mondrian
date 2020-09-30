@@ -37,7 +37,7 @@ parser.add_argument("--a", default=1, help="The desired alpha to experiment (def
 parser.add_argument("--b", default=1, help="The desired beta to experiment (default = 1)")
 parser.add_argument("--g", default=1, help="The desired gamma to experiment (default = 1)")
 parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning (default = 1)")
-parser.add_argument("--bestradius", default=False, action='store_true', help="To find the best radius")
+parser.add_argument("--dynamic", default=False, action='store_true', help="To use an automatically detected optimal radius")
 parser.add_argument("--static", default=0, help="To manually use a static radius (default = 0)")
 parser.add_argument("--subset", default=None, help="To just use a data subset")
 parser.add_argument("--baseline", default=False, action='store_true', help="To select the baseline (default = False)")
@@ -64,8 +64,8 @@ with open(f'res/{dataset}/annotations/annotations_elements.json') as json_file:
 
 
 def main():
-    if args.bestradius:
-        experiment = "best-radius"
+    if args.dynamic:
+        experiment = "dynamic"
         result_dir = os.path.join("./results/", dataset, hyperparameters, experiment)
         if subset is not None:
             result_dir += "subset" + str(subset)
@@ -121,6 +121,7 @@ def main():
                 result_dir = os.path.join("./", "results/", dataset, hyperparameters, experiment, iteration)
             if subset is not None:
                 result_dir += "subset" + str(subset)
+            Path(result_dir).mkdir(parents=True, exist_ok=True)
 
             evaluations = Parallel(n_jobs=n_cores)(delayed(evaluate_file)(f, csv_dir, result_dir)
                                                    for f in list(data)[:subset] if f not in to_skip)
@@ -286,7 +287,6 @@ def process_file(filename, result_dir, radius=None):
             distance_path = os.path.join("./results/", dataset, hyperparameters, "distances", filename + "_distances.pckl")
             Path(os.path.split(distance_path)[0]).mkdir(parents=True, exist_ok=True)
             pickle.dump(distances, open(distance_path, "wb"))
-            print("Dumped distances into ", distance_path)
 
         if radius is not None:
             exec_time = time.time()
@@ -297,7 +297,7 @@ def process_file(filename, result_dir, radius=None):
             exec_time -= time.time()
             list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time)]
 
-        elif args.bestradius:
+        elif args.dynamic:
             iterations = np.arange(0.1, 2.1, 0.1)
             iterations = np.append(iterations, np.arange(3, 11, 1))
             iterations = np.append(iterations, np.arange(20, 110, 10))
@@ -314,7 +314,7 @@ def process_file(filename, result_dir, radius=None):
                                                   for idx, clustering_results in enumerate(list_prediction))
 
         else:
-            raise BaseException("No radius nor bestradius specified")
+            raise BaseException("No static radius nor dynamic radius specified")
 
     best_overall = -1
     largest_radius = -1
@@ -359,7 +359,7 @@ def process_file(filename, result_dir, radius=None):
     pickle.dump([best_predicted_cluster_edges, target_cluster_edges, best_time], open(file_path, "wb"))
     pickle.dump([best_predicted_labels, target_labels], open(file_path_labels, "wb"))
 
-    if args.bestradius:
+    if args.dynamic:
         csv_path = os.path.join(result_dir, "optimal_radii.csv")
         with open(csv_path, 'a') as fd:
             writer = csv.writer(fd, quoting=csv.QUOTE_MINIMAL)
