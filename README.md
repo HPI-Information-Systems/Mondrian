@@ -1,5 +1,5 @@
-# Detecting Complex Multiregion Layouts with Mondrian
-Mondrian repository for SIGMOD 2021 submission
+# Detecting Multiregion Templates with Mondrian
+Code repository associated with the paper "Detecting Layout Templates in Complex Multiregion Files" submitted to the 2021 SIGMOD Conference.
 
 ## Setup
 
@@ -48,9 +48,9 @@ For the full list of parameters, type:
 `python3 region_detection.py --help`
 
 ## Template inference experiment
-The template_recognition.py scripts can be used to run the experiments on the multiregion inference component of Mondrian.
+The template_recognition.py script can be used to run the experiments on the multiregion inference component of Mondrian.
 
-Like the region_detection.py script, this requires the target regions to be in a file named "annotations_elements.json" inside the annotation folder as well as the gold standard templates file named "annotations_templates.json".
+Like region_detection.py, this script requires the target regions to be in a file named "annotations_elements.json" inside the annotation folder as well as the gold standard templates file named "annotations_templates.json".
 Additionally, it requires results produced from the multiregion detection script.
 The input files are read from the "res/{dataset-name}/csv" folder and the output of the scripts are read/written to the "result" folder.
 The dataset name can be specified as a command line argument.
