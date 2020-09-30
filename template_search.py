@@ -21,7 +21,7 @@ from sklearn.metrics import normalized_mutual_info_score, adjusted_mutual_info_s
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.filterwarnings("ignore", category=VisibleDeprecationWarning)
 import argparse
-from pathos.multiprocessing import ProcessingPool as Pool
+from multiprocessing import Pool
 
 from mondrian.model.spreadsheet import Spreadsheet
 from mondrian.clustering import iou_labels
