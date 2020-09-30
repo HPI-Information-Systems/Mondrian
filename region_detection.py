@@ -123,6 +123,7 @@ def main():
                 result_dir += "subset" + str(subset)
             Path(result_dir).mkdir(parents=True, exist_ok=True)
 
+            print("Looking for results in", result_dir)
             evaluations = Parallel(n_jobs=n_cores)(delayed(evaluate_file)(f, csv_dir, result_dir)
                                                    for f in list(data)[:subset] if f not in to_skip)
             print("Finished having evaluations")
