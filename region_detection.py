@@ -109,7 +109,8 @@ def main():
             print("Clusters with IoU >80", label_iou_80)
             print("%Clusters with IoU >100", label_iou_100)
 
-        except:
+        except Exception as e:
+            print(e)
             experiment = args.experiment
             iteration = args.iteration
 
