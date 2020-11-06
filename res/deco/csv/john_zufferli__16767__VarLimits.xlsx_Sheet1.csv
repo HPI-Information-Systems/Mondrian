@@ -1,0 +1,172 @@
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,VaR Portfolio,Commodity,Trader,Book,Instrument,Location,Tenor,Liquidity (volume/day),Best Risk Mitigator
+,Canada Gas,,,,,,,,
+,,NG,Mike Cowan,IM-CanadaWest,Physical Gas for Daily Index,AECO,Day,0.2 bcf/day,
+,,NG,Mike Cowan,IM-CanadaWest,Physical Day Gas,AECO,Day,2 bcf/day,
+,,NG,Mike Cowan,IM-CanadaWest,Physical Fixed Price ROM,AECO,Rest of Month,400 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,NG,Mike Cowan,IM-CanadaWest,Physical Gas for Monthly Index Prompt month,AECO,Prompt Month,600 contracts/day,
+,,NG,Mike Cowan,IM-CanadaWest,Physical Fixed Price Prompt month,AECO,Prompt Month,600 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,,,,,,,,
+,,NG,Mike Cowan,IM-CanadaWest,Physical Fixed Price Prompt month + 1,AECO,Prompt Month+1,400 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,NG,Mike Cowan,IM-CanadaWest,Physical Basis Prompt month,AECO,Prompt Month,500 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Mike Cowan,IM-CanadaWest,Physical Basis Prompt month + 1,AECO,Prompt Month+1,400 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Mike Cowan,IM-CanadaWest,Financial Fixed vs Daily ROM,AECO,Rest of Month,400 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,NG,Mike Cowan,IM-CanadaWest,Financial Fixed vs Daily Prompt month,AECO,Prompt Month,600 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,NG,Mike Cowan,IM-CanadaWest,Financial Fixed vs Daily Prompt month + 1,AECO,Prompt Month+1,400 contracts/day,Dawn/Chicago/Malin/Rockies/HEHub Fixed Price/NYMEX
+,,NG,Mike Cowan,IM-CanadaWest,Financial Daily Basis Prompt month,AECO,Prompt Month,500 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Mike Cowan,IM-CanadaWest,Financial Daily Basis Prompt month + 1,AECO,Prompt Month+1,400 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Mike Cowan,IM-CanadaWest,Financial Daily for Monthly Index,AECO,Prompt Month,200 contracts/day,
+,,,,,,,,,
+,,NG,Chad Clark,IM-Canada BC,Physical Day Gas,SUMAS,Day,0.2 bcf/day,
+,,NG,Chad Clark,IM-Canada BC,Physical Gas for Daily Index,SUMAS,Day,0.05 bcf/day,
+,,NG,Chad Clark,IM-Canada BC,Physical Fixed Price ROM,SUMAS,Rest of Month,150 contracts/day,Malin/Rockies/AECO/Socal/HEHub Fixed Price/NYMEX
+,,NG,Chad Clark,IM-Canada BC,Physical Gas for Monthly Index Prompt month,SUMAS,Prompt Month,200 contracts/day,
+,,NG,Chad Clark,IM-Canada BC,Physical Fixed Price Prompt month,SUMAS,Prompt Month,200 contracts/day,Malin/Rockies/AECO/Socal/HEHub Fixed Price/NYMEX
+,,NG,Chad Clark,IM-Canada BC,Physical Basis Prompt month,SUMAS,Prompt Month,200 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chad Clark,IM-Canada BC,Financial Fixed vs Daily ROM,SUMAS,Rest of Month,150 contracts/day,Malin/Rockies/AECO/Socal/HEHub Fixed Price/NYMEX
+,,NG,Chad Clark,IM-Canada BC,Financial Fixed vs Daily Prompt month,SUMAS,Prompt Month,100 contracts/day,Malin/Rockies/AECO/Socal/HEHub Fixed Price/NYMEX
+,,NG,Chad Clark,IM-Canada BC,Financial Monthly Basis Prompt month ,SUMAS,Prompt Month,200 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chad Clark,IM-Canada BC,Financial Daily Basis Prompt month,SUMAS,Prompt Month,200 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chad Clark,IM-Canada BC,Financial Daily for Monthly Index,SUMAS,Prompt Month,100 contracts/day,
+,,,,,,,,,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Monthly Index Prompt month + 1,SUMAS,Prompt Month+1,30 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Balance of Season Index,SUMAS,Balance of Season,100 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Prompt Winter Index,SUMAS,Winter,150 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Prompt Summer Index,SUMAS,Summer,200 contractsd/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Prompt Winter + 1 Index,SUMAS,Winter+1,75 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Physical Prompt Summer + 1 Index,SUMAS,Summer+1,100 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Monthly Basis Prompt month + 1,SUMAS,Prompt Month+1,150 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Balance of Season Basis,SUMAS,Balance of Season,300 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Prompt Winter Basis,SUMAS,Winter,600 contacts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Prompt Summer Basis,SUMAS,Summer,900 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Prompt Winter + 1 Basis,SUMAS,Winter+1,300 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Financial Prompt Summer + 1 Basis,SUMAS,Summer+1,450 contracts/day,Malin/Rockies/AECO/Socal Basis
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Prompt Month,100 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Prompt Month+1,100 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Balance of Season,100 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Winter,150 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Summer,200 contractsd/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Calendar,350 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Winter+1,150 contracts/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Summer+1,200 contractsd/day,
+,,NG,Chris Dorland,FT-Cand-EGSC-BC,Swap,NYMEX,Calendar+1,350 contracts/day,
+,,,,,,,,,
+,,,,,,,,,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Monthly Index Prompt month + 1,AECO,Prompt Month+1,150 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Balance of Season Index,AECO,Balance of Season,400 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Winter Index,AECO,Winter,400 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Summer Index,AECO,Summer,600 contacts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Calendar Index,AECO,Calendar,500 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Winter + 1 Index,AECO,Winter+1,200 contractsd/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Summer + 1 Index,AECO,Summer+1,300 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Physical Prompt Calendar + 1 Index,AECO,Calendar+1,250 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Monthly Basis Prompt month,AECO,Prompt Month,150 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Monthly Basis Prompt month + 1,AECO,Prompt Month+1,150 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Balance of Season Basis,AECO,Balance of Season,300 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Winter Basis,AECO,Winter,600 contacts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Summer Basis,AECO,Summer,900 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Calendar Basis,AECO,Calendar,500 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Winter + 1 Basis,AECO,Winter+1,300 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Summer + 1 Basis,AECO,Summer+1,450 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Financial Prompt Calendar + 1 Basis,AECO,Calendar+1,250 contracts/day,Dawn/Chicago/Malin/Rockies Basis
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Prompt Month,100 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Prompt Month+1,100 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Balance of Season,100 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Winter,150 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Summer,200 contractsd/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Calendar,350 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Winter+1,150 contracts/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Summer+1,200 contractsd/day,
+,,NG,Chris Lambie,FT-Cand-EGSC-AB,Swap,NYMEX,Calendar+1,350 contracts/day,
+,,,,,,,,,
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Prompt,60 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Prompt+1,60 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Balance of Season,90 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Winter,150 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Summer,210 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Winter+1,75 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,NG,Lon Draper,FT-Cand-EGSC-OP,Straddle,AECO,Summer+1,105 contracts/day,AECO Basis/Nymex Options/Nymex Price
+,,,,,,,,,
+,,,,,,,,,
+,Canada Power,,,,,,,,
+,,Power,Cooper Richey,AB-HRLY,"Swap, Forward",PPoA,Hourly Swap,"2,000 MWh",Mid-C Power
+,,Power,Cooper Richey,AB-ST,"Swap, Forward",PPoA,Next Day Swap,"10,000 MWh",Mid-C Power
+,,Power,Cooper Richey,AB-ST/AB-PWR-ST-GD,"Swap, Forward",PPoA,Rest Of Month Swap,"50,000 MWh",Mid-C Power/AECO Fixed Price
+,,Power,Cooper Richey,AB-LT/AB-PWR-LT-GD,"Swap, Forward",PPoA,Prompt month Swap,"100,000 MWh",Mid-C Power/AECO Fixed Price
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,Prompt month +1 Swap,"100,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,Rest of Quarter,"50,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,"Q1, Q2, Q3, Q4","100,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,Rest of Year,"200,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,Prompt Calendar,"400,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,Cooper Richey,"AB-LT/AB-PWR-LT-GD,AB-PWR-LT-BAS,AB-PWR-LT-PR","Swap, Forward",PPoA,Prompt Calendar +1,"200,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,,,,,,,,
+,,,,,,,,,
+,,Power,Garrett Tripp,ON-HRLY,"Swap, Forward",IMO,Hourly Swap,"2,000 MWh","Northeast, Midwest Power"
+,,Power,Garrett Tripp,ON-ST,"Swap, Forward",IMO,Next Day Swap,"10,000 MWh","Northeast, Midwest Power"
+,,Power,Garrett Tripp,ON-ST/ON-PWR-ST-GD,"Swap, Forward",IMO,Rest Of Month Swap,"50,000 MWh","Northeast, Midwest Power/Dawn Fixed Price"
+,,Power,Garrett Tripp,ON-ST/ON-PWR-ST-GD,"Swap, Forward",IMO,Prompt month Swap,"100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,Prompt month +1 Swap,"100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,Rest of Quarter,"50,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,"Q1, Q2, Q3, Q4","100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,Rest of Year,"200,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,Prompt Calendar,"400,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,Garrett Tripp,"ON-ST/ON-PWR-LT-GD,ON-PWR-LT-BAS,ON-PWR-LT-PR","Swap, Forward",IMO,Prompt Calendar +1,"200,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,,,,,,,,
+,,,,,,,,,
+,Canada Management,,,,,,,,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily ROM,AECO,Rest of Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily Prompt month,AECO,Prompt Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily Prompt month + 1,AECO,Prompt Month+1,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Monthly Basis Prompt month,AECO,Prompt Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Monthly Basis Prompt month + 1,AECO,Prompt Month+1,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Balance of Season Basis,AECO,Balance of Season,200 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Winter Basis,AECO,Winter,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Summer Basis,AECO,Summer,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Calendar Basis,AECO,Calendar,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Winter + 1 Basis,AECO,Winter+1,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Summer + 1 Basis,AECO,Summer+1,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Calendar + 1 Basis,AECO,Calendar+1,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily ROM,DAWN,Rest of Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily Prompt month,DAWN,Prompt Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-GD,Financial Fixed vs Daily Prompt month + 1,DAWN,Prompt Month+1,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Monthly Basis Prompt month,DAWN,Prompt Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Monthly Basis Prompt month + 1,DAWN,Prompt Month+1,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Balance of Season Basis,DAWN,Balance of Season,200 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Winter Basis,DAWN,Winter,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Summer Basis,DAWN,Summer,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Calendar Basis,DAWN,Calendar,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Winter + 1 Basis,DAWN,Winter+1,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Summer + 1 Basis,DAWN,Summer+1,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-BAS,Financial Prompt Calendar + 1 Basis,DAWN,Calendar+1,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Prompt Month,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Prompt Month+1,100 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Balance of Season,200 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Winter,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Summer,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Calendar,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Winter+1,300 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Summer+1,400 contracts/day,
+,,NG,John Zufferli,CAND MGMT-PR,Swap,NYMEX,Calendar+1,300 contracts/day,
+,,,,,,,,,
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Hourly Swap,"2,000 MWh",Mid-C Power
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Next Day Swap,"10,000 MWh",Mid-C Power
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Rest Of Month Swap,"50,000 MWh",Mid-C Power/AECO Fixed Price
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Prompt month Swap,"100,000 MWh",Mid-C Power/AECO Fixed Price
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Prompt month +1 Swap,"100,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Rest of Quarter,"50,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,"Q1, Q2, Q3, Q4","100,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Rest of Year,"200,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Prompt Calendar,"400,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",PPoA,Prompt Calendar +1,"200,000 MWh","Mid-C Power/AECO Fixed Price, AECO Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Hourly Swap,"2,000 MWh","Northeast, Midwest Power"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Next Day Swap,"10,000 MWh","Northeast, Midwest Power"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Rest Of Month Swap,"50,000 MWh","Northeast, Midwest Power/Dawn Fixed Price"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Prompt month Swap,"100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Prompt month +1 Swap,"100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Rest of Quarter,"50,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,"Q1, Q2, Q3, Q4","100,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Rest of Year,"200,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Prompt Calendar,"400,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"
+,,Power,John Zufferli,CAND MGMT-PWR,"Swap, Forward",IMO,Prompt Calendar +1,"200,000 MWh","Northeast, Midwest Power/Dawn Fixed Price, Dawn Basis, NYMEX"

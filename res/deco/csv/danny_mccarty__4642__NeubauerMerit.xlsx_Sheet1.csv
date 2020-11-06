@@ -1,0 +1,62 @@
+LastName,FirstName,Status,HIRE DATE,Supervisor,DEPARTMENT,Job Group Description,Pay Scale,Previous Salary,Date of last Salary Inc,Salary Last Chg %,"Current
+Annual Salary",Budgeted Merit (3.75%),Proposed Merit (3.75%),New Annual Salary,Lump Sum,Supervisor Proposed Merit/Lump Sum,Supervisor Proposed Merit/Lump Sum,MD Adjusted,MD Adjusted,Final,Final,,
+LastName,FirstName,Status,HIRE DATE,Supervisor,DEPARTMENT,Job Group Description,Pay Scale,Previous Salary,Date of last Salary Inc,Salary Last Chg %,"Current
+Annual Salary",Budgeted Merit (3.75%),Proposed Merit (3.75%),New Annual Salary,Lump Sum,Merit,Lump Sum,Merit,Lump Sum,Merit ,Lump Sum,,PROPOSED SUPERVISOR SALARY
+Stage,Michael,FRE,1981-08-17 00:00:00,"Dushinske, John",South Power - Business Development 0179,Director,ML03,110154.48,2001-01-31 00:00:00,8.94,120000.48,4500.018,4500.018,124500.49799999999,,4500.018,,,,,,0.0375,124500.49799999999
+Wilkinson,Charles,FRE,1980-01-07 00:00:00,"Dushinske, John",North Power - Bus Dev,Director,ML03,108004,2001-06-30 00:00:00,2.5,110704,4151.4,4151.4,114855.4,,4151.4,,,,,,0.0375,114855.4
+Gracey,Rosemary,FRN,1979-09-25 00:00:00,"Dushinske, John",North Power - Bus Dev,Sr. Admin. Support,CP10,34944,2001-01-31 00:00:00,3.75,36254,1359.5249999999999,1359.525,37613.525,,1359.5249999999999,,,,,,0.0375,37613.525
+Semin,Frank,FRE,1988-09-12 00:00:00,"Fowler, William",Midwest Marketing,Director,ML03,93600,2001-01-31 00:00:00,3.75,97110,3641.625,3641.625,100751.625,,4369.95,,,,,,0.045,101479.95
+Stevens,Robert,FRE,1980-12-16 00:00:00,"Fowler, William",Midwest Marketing,Director,ML03,111116,2001-06-30 00:00:00,2.25,113616,4260.599999999999,4260.6,117876.6,,4260.599999999999,,,,,,0.0375,117876.6
+Hook,Connie,FRN,1978-02-20 00:00:00,"Fowler, William",Midwest Marketing,Sr. Admin. Support,CP10,32333,2001-06-30 00:00:00,8.25,35000,1312.5,1312.5,36312.5,,1312.5,,,,,,0.0375,36312.5
+Barker,Courtney,FRE,2000-08-21 00:00:00,"McGowan, Michael",ETS COMM Business Services,Junior Specialist,CP11,33000,2001-01-31 00:00:00,4,34320,1287,1287,35607,,2745.6,,,,,,0.08,37065.6
+Glatte,Horst,FRE,1985-09-16 00:00:00,"McGowan, Michael",Facilities,Junior Specialist,CP12,42480.96,2001-01-31 00:00:00,4.71,44480.96,1668.0359999999998,1668.0359999999998,46148.996,,1334.4288,,,,,,0.03,45815.3888
+Brennan,Lorna,FRE,1979-08-27 00:00:00,"McGowan, Michael",ETS COMM Business Services,Manager,CP19,87600,2001-01-31 00:00:00,3.75,90885,3408.1875,3408.1875,94293.1875,,1817.7,,,,,,0.02,92702.7
+Fruge,Richard,FRE,1981-11-02 00:00:00,"McGowan, Michael",Facilities,Manager,ML01,52284,2001-01-31 00:00:00,4.78,54784,2054.4,2054.4,56838.4,,1917.4400000000003,,,,,,0.035,56701.44
+McCoy,Julie,FRN,1992-08-18 00:00:00,"McGowan, Michael",ETS COMM Business Services,Senior Assistant,SAS3,40560,2001-01-31 00:00:00,4.26,42288,1585.8,1585.8,43873.8,,1585.8,,,,,,0.0375,43873.8
+Sova,Gary,FRE,1979-09-17 00:00:00,"McGowan, Michael",Facilities,Specialist,CP15,53784,2001-01-31 00:00:00,4.24,56064,2102.4,2102.4,58166.4,,2102.4,,,,,,0.0375,58166.4
+Riskowski,Timothy,FRN,1981-06-10 00:00:00,"McGowan, Michael",Facilities,Technical Support,CP08,27387.96,2001-01-31 00:00:00,4.24,28547.96,1070.5484999999999,1070.5484999999999,29618.5085,,1070.5484999999999,,,,,,0.0375,29618.5085
+Neville,Susan,FRE,1980-09-29 00:00:00,"Miller, Kent",Storage Services,Director,ML03,110400,2001-01-31 00:00:00,4.98,115900,4346.25,4346.25,120246.25,,4346.25,,,,,,0.0375,120246.25
+Williams,Jo,FRE,1979-01-15 00:00:00,"Miller, Kent",Pricing & Structuring,Director,ML03,124212,2001-01-31 00:00:00,3.75,128870,4832.625,4832.625,133702.625,,4832.625,,,,,,0.0375,133702.625
+Dushinske,John,FRE,1980-05-27 00:00:00,"Neubauer, David",North Power - Bus Dev,Director,CP22,125700,2001-01-31 00:00:00,3.75,130414,4890.525,4890.525,135304.525,,4890.525,,,,,,0.0375,135304.525
+Fowler,William,FRE,1988-05-16 00:00:00,"Neubauer, David",Midwest Marketing,Director,ML04,145000,2001-01-31 00:00:00,3.45,150000,5625,5625,155625,,3000,,,,,,0.02,153000
+Cappiello,Deborah,FRN,1990-11-12 00:00:00,"Neubauer, David",ETS COMM Business Development & Marketin,Senior Assistant,SAS3,40392,2001-01-31 00:00:00,6.19,42892,1608.45,1608.45,44500.45,,1608.45,,,,,,0.0375,44500.45
+McGowan,Michael,FRE,1970-06-15 00:00:00,"Neubauer, David",ETS COMM Business Services,Vice President,EP5D,174480,2001-01-31 00:00:00,2.06,178080,6678,6678,184758,,3561.6,,,,,,0.02,181641.6
+Miller,Kent,FRE,1981-03-16 00:00:00,"Neubauer, David",Storage Services,Vice President,EP5B,138000,2001-01-31 00:00:00,3.75,143175,5369.0625,5369.0625,148544.0625,,5369.0625,,,,,,0.0375,148544.0625
+Roobaert,Preston,FRE,2001-05-29 00:00:00,"Neville, Susan",Storage Services,Manager,CP19,,,,100000,3750,3750,103750,,3750,,,,,,0.0375,103750
+Ramirez,Maria,FRN,1996-01-01 00:00:00,"Neville, Susan",Storage Services,Senior Assistant,SAS3,32040,2001-01-31 00:00:00,12.36,36000,1350,1350,37350,,1350,,,,,,0.0375,37350
+Cabrera,Reyna,FRE,1992-02-06 00:00:00,"Neville, Susan",Storage Services,Senior Specialist,CP17,66919,2001-06-30 00:00:00,2.99,68919,2584.4625,2584.4625,71503.4625,,2584.4625,,,,,,0.0375,71503.4625
+Thomas,Steven,FRE,1980-01-07 00:00:00,"Neville, Susan",Storage Services,Senior Specialist,CP19,91020,2001-05-15 00:00:00,2.18,93000,3487.5,3487.5,96487.5,,3487.5,,,,,,0.0375,96487.5
+Threet,Nina,FRE,1994-04-25 00:00:00,"Neville, Susan",Storage Services,Senior Specialist,CP17,65652,2001-01-31 00:00:00,6.09,69652,2611.95,2611.95,72263.95,,2611.95,,,,,,0.0375,72263.95
+Lagerstrom,Karen,FRE,1979-07-09 00:00:00,"Semin, Frank",Midwest Marketing,Manager,CP19,80000,2001-06-30 00:00:00,6.25,85000,3187.5,3187.5,88187.5,,3187.5,,,,,,0.0375,88187.5
+Bollinger,Joni,FRE,1981-04-06 00:00:00,"Semin, Frank",Midwest Marketing,Senior Specialist,CP17,72144,2001-01-31 00:00:00,3.75,74849,2806.8375,2806.8375,77655.8375,,2806.8375,,,,,,0.0375,77655.8375
+Sebesta,Christine,FRE,1981-11-16 00:00:00,"Semin, Frank",Midwest Marketing,Senior Specialist,CP17,76008,2001-01-31 00:00:00,3.75,78858,2957.1749999999997,2957.1749999999997,81815.175,,2957.1749999999997,,,,,,0.0375,81815.175
+Lantefield,Laura,FRE,1984-01-03 00:00:00,"Semin, Frank",Midwest Marketing,Specialist,CP15,50400,2001-01-31 00:00:00,6,53424,2003.3999999999999,2003.4,55427.4,,1068.48,,,,,,0.02,54492.48
+Andersen,Patricia,PRN,1995-10-11 00:00:00,"Sova, Gary",Facilities,Admin. Support,CP06,14301,2001-01-31 00:00:00,3,14730,552.375,552.375,15282.375,,869.0699999999999,,,,,,0.059,15599.07
+Batko,Kathryn,PRN,1968-02-12 00:00:00,"Sova, Gary",Facilities,Admin. Support,CP06,12052,2001-01-31 00:00:00,7.33,12936,485.09999999999997,485.1,13421.1,,1358.28,,,,,,0.105,14294.28
+Herber,Stephen,FRE,1991-06-21 00:00:00,"Stage, Michael",South Power - Business Development 0179,Director,ML03,100908,2001-01-31 00:00:00,3.75,104692,3925.95,3925.95,108617.95,,3925.95,,,,,,0.0375,108617.95
+Burleson,Robert,FRE,1981-07-13 00:00:00,"Stage, Michael",South Power - Business Development 0060,Manager,CP19,90426,2001-01-31 00:00:00,3.75,93817,3518.1375,3518.1375,97335.1375,,3518.1375,,,,,,0.0375,97335.1375
+McCarran,Penelope,FRE,1985-03-21 00:00:00,"Stage, Michael",South Power - Business Development 0179,Manager,CP19,86040,2001-01-31 00:00:00,3.75,89267,3347.5125,3347.5125,92614.5125,,3347.5125,,,,,,0.0375,92614.5125
+Weller,Stephen,FRE,1981-08-10 00:00:00,"Stage, Michael",South Power - Business Development 0179,Manager,CP19,90000,2001-01-31 00:00:00,3.75,93375,3501.5625,3501.5625,96876.5625,,3501.5625,,,,,,0.0375,96876.5625
+Wehring,Linda,FRN,1987-08-10 00:00:00,"Stage, Michael",South Power - Business Development 0060,Senior Assistant,SAS3,38700,2001-01-31 00:00:00,3.75,40151,1505.6625,1505.6625,41656.6625,,1505.6625,,,,,,0.0375,41656.6625
+Valley,Lisa,FRE,1982-06-21 00:00:00,"Stevens, Robert",Midwest Marketing,Junior Specialist,CP13,45500,2001-06-30 00:00:00,9.89,50000,1875,1875,51875,,2500,,,,,,0.05,52500
+Berg,Vicki,FRE,2001-01-01 00:00:00,"Stevens, Robert",Midwest Marketing,Manager,CP19,,,,85000,3187.5,3187.5,88187.5,,3187.5,,,,,,0.0375,88187.5
+Johanson,Timothy,FRE,1999-12-01 00:00:00,"Stevens, Robert",Midwest Marketing,Manager,CP19,90000,2001-01-31 00:00:00,3.75,93375,3501.5625,3501.5625,96876.5625,,3501.5625,,,,,,0.0375,96876.5625
+Barry,Michael,FRE,1999-09-01 00:00:00,"Stevens, Robert",Midwest Marketing,Specialist,CP14,55692,2001-01-31 00:00:00,3,57362,2151.075,2151.075,59513.075,,2151.075,,,,,,0.0375,59513.075
+Halpin,Thomas,FRE,1997-09-29 00:00:00,"Wilkinson, Charles",North Power - Bus Dev,Manager,CP19,86600,2001-06-30 00:00:00,3.93,90000,3375,3375,93375,,4500,,,,,,0.05,94500
+Oldenhuis,Frank,FRE,1982-09-01 00:00:00,"Wilkinson, Charles",North Power - Bus Dev,Manager,CP19,96000,2001-01-31 00:00:00,3.75,99600,3735,3735,103335,,1992,,,,,,0.02,101592
+Penkava,Loren,FRE,1980-07-25 00:00:00,"Wilkinson, Charles",North Power - Bus Dev,Manager,CP20,102708,2001-01-31 00:00:00,1.95,104708,3926.5499999999997,3926.55,108634.55,,1570.62,,,,,,0.015,106278.62
+Bowers,Janet,FRE,1977-08-01 00:00:00,"Wilkinson, Charles",North Power - Bus Dev,Senior Specialist,CP17,78720,2001-01-31 00:00:00,3.75,81672,3062.7,3062.7,84734.7,,3062.7,,,,,,0.0375,84734.7
+Bolks,Sean,FRE,2000-06-01 00:00:00,"Williams, Jo",Pricing & Structuring,Director,CP21,99999.96,2001-01-31 00:00:00,3.75,103749.96,3890.6235,3890.6235,107640.58350000001,,3890.6235,,,,,,0.0375,107640.58350000001
+Mercaldo,Vernon,FRE,1989-11-06 00:00:00,"Williams, Jo",Pricing & Structuring,Manager,CP19,86160,2001-06-30 00:00:00,5.04,90500,3393.75,3393.75,93893.75,,8597.5,,,,,,0.095,99097.5
+Pavlou,Larry,FRE,1998-12-01 00:00:00,"Williams, Jo",Pricing & Structuring,Manager,CP19,93420,2001-01-31 00:00:00,3.75,96923,3634.6124999999997,3634.6124999999997,100557.6125,,3634.6124999999997,,,,,,0.0375,100557.6125
+Pritchard,John,FRE,2001-03-01 00:00:00,"Williams, Jo",Pricing & Structuring,Manager,CP19,,,,90000,3375,3375,93375,,6840,,,,,,0.076,96840
+Paladino,Ranelle,FRE,2000-06-01 00:00:00,"Williams, Jo",Pricing & Structuring,Senior Specialist,CP17,67925.04,2001-08-31 00:00:00,7.36,72925,2734.6875,2734.6875,75659.6875,,2734.6875,,,,,,0.0375,75659.6875
+Riehm,Richard,FRE,2001-07-16 00:00:00,"Williams, Jo",Pricing & Structuring,Senior Specialist,CP19,,,,100000,3750,3750,103750,,2750,,,,,,0.0275,102750
+,,,,,,,,,,,,,,,,,,,,,,,
+50,,,,,,,,,,,4077870.36,,,4230790.498500001,0,152879.38379999995,0,0,0,0,0,,
+,,,,,,,,,,,,Total Pool $s,152920,,,152879.38379999995,152879.38379999995,0,0,0,0,,
+,,,,,,,,,,,,Proposed Merit & Lump Sum,152920.13849999997,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,152920.1385,,,,,,,,,,,,
+,,,,,,,,,,,,0.0375,,,,,,,,,,,
+,,,,,,,,,,,,0.03749996603619346,,,,,,,,,,,

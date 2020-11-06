@@ -1,0 +1,37 @@
+DESERT POWER PLANT,DESERT POWER PLANT,DESERT POWER PLANT,DESERT POWER PLANT,DESERT POWER PLANT,DESERT POWER PLANT
+ESTIMATED GAS NEEDS,ESTIMATED GAS NEEDS,ESTIMATED GAS NEEDS,ESTIMATED GAS NEEDS,ESTIMATED GAS NEEDS,ESTIMATED GAS NEEDS
+(mmbtu),(mmbtu),(mmbtu),(mmbtu),(mmbtu),(mmbtu)
+Date,Estimated Maximum Daily Rate Required,Estimated Total Volume Required,Nomination,Estimated Actual,Cumulative Imbalance
+,,,,,
+"12 Aug 01, Sun",3000,1500,0,453.1,1778.9
+,,,,,
+"13 Aug 01, Mon",3000,1500,0,0,1778.9
+,,,, ,
+"14 Aug 01, Tue",3000,1500,0,579.46,1199.44
+,,,, ,
+"15 Aug 01, Wed",3000,1500,0,1158.04,41.40000000000009
+,,,, ,
+"16 Aug 01, Thur",3000,1500,1200,0,1241.4
+,,,,,
+"17 Aug 01, Fri",3000,1500,0,0,1241.4
+,,,,,
+"18 Aug 01, Sat",3000,1500,0,0,1241.4
+,,,,,
+"19 Aug 01, Sun",3000,1500,0,0,1241.4
+,,,,,
+"20 Aug 01, Mon",3000,1500,0,0,1241.4
+,,,,,
+"21 Aug 01, Tue",3000,1500,0,0,1241.4
+,,,,,
+"22 Aug 01, Wed",3000,1500,0,0,1241.4
+,,,,,
+"23 Aug 01,Thur",3000,1500,4000,0,5241.4
+,,,,,
+NOTE:, Gas total for 12 Aug 01 is cumulative value for 10 Aug through 12 Aug 2001,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+NOTE:,These are projections only based on plant start-up.  Actual may vary significantly ,,,,
+,(probably downward) depending on how start-up progresses.  Desert Power ,,,,
+,will coordinate intraday needs directly with Questar Gas Control as per prior instructions,,,,

@@ -1,0 +1,26 @@
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+MARKET_PRODUCT_ID,ENGLISH_SHORT_DESC,ENRON_CONTACT_USER_ID,COUNTRY_NAME,RISK BOOK,PRODUCT_CATEGORY_DESC,DEAL_TYPE_DESC,LOCATION_NAME,INDEX_DESC,REFERENCE_PERIOD_BEGIN_DTM,REFERENCE_PERIOD_END_DTM,,,New Risk Book Global ID #
+35729,CAN Gas Basis    GD/D Dawn               Apr-Oct02       USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Basis,,Dawn GD/D NXL1,2002-04-01 00:00:00,2002-10-31 00:00:00,,,166844
+35728,CAN Gas Basis    GD/D Dawn               Nov01-Mar02     USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Basis,,Dawn GD/D NXL1,2001-11-01 00:00:00,2002-03-31 00:00:00,,,166844
+38331,"CAN Gas Phy      Chippawa, TCPL          09Jan02         USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Chippawa, TCPL",,2002-01-09 20:59:48,2002-01-09 20:59:48,,,166844
+29720,CAN Gas Phy      Dawn                    09-31Jan02      USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-01-09 20:59:48,2002-01-31 20:59:48,,,166844
+29602,CAN Gas Phy      Dawn                    09Jan02         USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-01-09 20:59:48,2002-01-09 20:59:48,,,166844
+29605,CAN Gas Phy      Dawn                    10-31Jan02      USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-01-10 20:59:48,2002-01-31 20:59:48,,,166844
+29603,CAN Gas Phy      Dawn                    10Jan02         USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-01-10 20:59:48,2002-01-10 20:59:48,,,166844
+36443,CAN Gas Phy      Dawn                    Feb02           USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-02-01 20:59:48,2002-02-28 20:59:48,,,166844
+36444,CAN Gas Phy      Dawn                    Mar02           USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Dawn, Ont. - Union Gas (Location)",,2002-03-01 20:59:48,2002-03-31 20:59:48,,,166844
+36733,"CAN Gas Phy      Iroquois, TCPL          09Jan02         USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Iroquois, TCPL",,2002-01-09 20:59:48,2002-01-09 20:59:48,,,166844
+29606,"CAN Gas Phy      Niagara, TCPL           09Jan02         USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Niagara, TCPL (Location)",,2002-01-09 20:59:48,2002-01-09 20:59:48,,,166844
+29607,"CAN Gas Phy      Niagara, TCPL           10Jan02         USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Niagara, TCPL (Location)",,2002-01-10 20:59:48,2002-01-10 20:59:48,,,166844
+36529,"CAN Gas Phy      Niagara, TCPL           Feb02           USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Niagara, TCPL (Location)",,2002-02-01 20:59:48,2002-02-28 20:59:48,,,166844
+36530,"CAN Gas Phy      Niagara, TCPL           Mar02           USD/MM",Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Niagara, TCPL (Location)",,2002-03-01 20:59:48,2002-03-31 20:59:48,,,166844
+36844,CAN Gas Phy      Parkway                 09Jan02         USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Forward,"Parkway, Ont. - Union Gas",,2002-01-09 20:59:48,2002-01-09 20:59:48,,,166844
+62613,CAN Gas PhyBasis Dawn                    Feb02           USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Index Forward,"Dawn, Ont. - Union Gas (Location)",NYMEX L1 (CAN Nat Gas),2002-02-01 21:00:00,2002-02-28 21:00:00,,,166844
+62615,CAN Gas PhyBasis Dawn                    Mar02           USD/MM,Geoff Storey,Canada,FB-Cent2,Physical,Index Forward,"Dawn, Ont. - Union Gas (Location)",NYMEX L1 (CAN Nat Gas),2002-03-01 21:00:00,2002-03-31 21:00:00,,,166844
+29755,CAN Gas Swap     GD/D Dawn               09-31Jan02      USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,"Dawn, Ontario GD/D",2002-01-09 20:59:48,2002-01-31 20:59:48,,,166844
+29554,CAN Gas Swap     GD/D Dawn               10-31Jan02      USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,"Dawn, Ontario GD/D",2002-01-10 20:59:48,2002-01-31 20:59:48,,,166844
+36516,CAN Gas Swap     GD/D Dawn               Feb02           USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,"Dawn, Ontario GD/D",2002-02-01 20:59:48,2002-02-28 20:59:48,,,166844
+36517,CAN Gas Swap     GD/D Dawn               Mar02           USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,"Dawn, Ontario GD/D",2002-03-01 20:59:48,2002-03-31 20:59:48,,,166844
+36518,CAN Gas Swap     GD/D Niagara            Feb02           USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,Niagara GD/D,2002-02-01 20:59:48,2002-02-28 20:59:48,,,166844
+36519,CAN Gas Swap     GD/D Niagara            Mar02           USD/MM,Geoff Storey,Canada,FB-Cent2,Financial,Swap,,Niagara GD/D,2002-03-01 20:59:48,2002-03-31 20:59:48,,,166844

@@ -1,0 +1,32 @@
+DESERT SKY,DESERT SKY,DESERT SKY,DESERT SKY,DESERT SKY,DESERT SKY,DESERT SKY,DESERT SKY
+SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME,SIGNIFICANT WTG DOWN TIME
+Month:,April '02,,,,"Reason: F=fault, U=unscheduled maint. S= scheduled maint. C=curtail O=other.","Reason: F=fault, U=unscheduled maint. S= scheduled maint. C=curtail O=other.","Reason: F=fault, U=unscheduled maint. S= scheduled maint. C=curtail O=other."
+WTG #,Date off,Time off,Date on ,Time on,Hrs.,Reason,Comments
+105,2002-04-01 00:00:00,0000,2002-04-02 00:00:00,1300,37,F,3K1 coil shorted in hub.
+31,2002-04-01 00:00:00,0700,2002-04-02 00:00:00,1730,34.5,F,Axis 3 lost zero/safety chain
+43,2002-04-01 00:00:00,1700,2002-04-02 00:00:00,1200,19,F,Motor protection top box
+4,2002-04-01 00:00:00,0000,2002-04-02 00:00:00,1130,35.5,F,Motor protection top box/ratio gen to rotor speed
+70,2002-04-01 00:00:00,0000,2002-04-05 00:00:00,1500,111,F,Top generator fan motor shaft broke.
+100,2002-04-01 00:00:00,1430,2002-04-03 00:00:00,0930,43,F,MS-3 failed
+35,2002-04-02 00:00:00,2300,2002-04-03 00:00:00,1600,17,F,Axis 3 lost zero.
+69,2002-04-03 00:00:00,1630,2002-04-04 00:00:00,0930,17,F,Feedback CCU.  Loose U/V coil microswitch
+89,2002-04-03 00:00:00,1600,2002-04-04 00:00:00,1000,18,F,Mains failure.  High impedance on L1.
+92,2002-04-03 00:00:00,1600,2002-04-04 00:00:00,1030,18.5,F,Lost commissioning due to defective SEG K-5 relay
+70,2002-04-05 00:00:00,1500,2002-04-22 00:00:00,1200,405,F,Replaced bad VEM generator
+89,2002-04-07 00:00:00,1730,2002-04-09 00:00:00,1200,42.5,F,VEM front fan motor went phase to phase
+100,2002-04-07 00:00:00,0400,2002-04-08 00:00:00,1500,35,F,MS-3 failed
+62,2002-04-08 00:00:00,0400,2002-04-09 00:00:00,800,28,F,MS-3 failed
+40,2002-04-08 00:00:00,1500,2002-04-09 00:00:00,1300,22,F,MS-3 failed
+107,2002-04-14 00:00:00,1430,2002-04-15 00:00:00,830,18,F,Lost commissioning due to defective SEG K-5 relay
+34,2002-04-14 00:00:00,1130,2002-04-15 00:00:00,1530,28,F,No activity can bus CCU
+106,2002-04-14 00:00:00,1300,2002-04-15 00:00:00,1500,26,F,Lost commissioning due to defective SEG K-5 relay
+77,2002-04-11 00:00:00,2100,2002-04-17 00:00:00,930,132.5,F,Replaced bad VEM generator
+121,2002-04-18 00:00:00,1400,2002-04-22 00:00:00,1700,99,F,Replaced front VEM fan motor (bad bearing)
+67,2002-04-01 00:00:00,0000,2002-04-29 00:00:00,200,674,F,Tower cables burned.  Replaced cables
+105,2002-04-29 00:00:00,2200,2002-04-30 00:00:00,1700,19,F,3K2 contacts defective in hub.
+59,2002-04-28 00:00:00,2030,2002-04-30 00:00:00,1300,40.5,F,Blade closeout fell out and broke both limitswitches
+53,2002-04-13 00:00:00,0800,2002-04-15 00:00:00,1630,56.5,O,Engineering was repairing some instrumentation
+53,2002-04-27 00:00:00,1200,2002-04-29 00:00:00,1815,54.25,O,Engineering was repairing some instrumentation
+39,2002-04-27 00:00:00,0200,2002-04-29 00:00:00,1200,58,F,SEG had bad CSC HUR
+62,2002-04-14 00:00:00,0430,2002-04-16 00:00:00,1330,57,F,Replaced broken Loher generator j-box mounting bolts 
+107,2002-04-14 00:00:00,1730,2002-04-15 00:00:00,1030,17,F,Lost commissioning due to defective SEG K-5 relay

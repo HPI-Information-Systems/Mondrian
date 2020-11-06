@@ -1,0 +1,19 @@
+,,,,,,,,
+Pricing Model for Bermudan Deal,,,,,,,,
+,,,,,,,,
+,Valuation Date,2018-08-14 00:00:00,,,,,,
+,,,Strike,Maturity,Exercise Restriction,Exercise Frequency (times per year),Years to Maturity,Years to first Exercise
+,,,,,,,,
+,"Enron long 5-year put, Bermudan exercise",,56.125,2004-06-29 00:00:00,2000-06-30 00:00:00,2,-14.124572210814511,-18.12183436002738
+,,,,,,,,
+,LJM long 2.5 year put,Low Strike,56.125,2002-01-14 00:00:00,,,-16.580424366872005,
+,Enron long 2.5 year put,High Strike,65,2002-01-14 00:00:00,,,-16.580424366872005,
+,,,,,,,,
+,LJM long call,Low Strike,65,,,,-16.580424366872005,
+,Enron long call,High Strike,81,,,,-16.580424366872005,
+,,,,,,,,
+,,Quantity,Price,Volatility,Dividend,Interest rate,Steps,Do Risk (Yes=1)
+,,5393258,31,1.05,0,0.06408222994161437,301,0
+,,,,,,,,
+,Option value per share,,,,,,,
+,Option value ,,,,,,,

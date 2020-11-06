@@ -1,0 +1,40 @@
+"ETS Planned And Unplanned Outages - November 1, 2001 Through December 31, 2001",,,,,,,,,,,,,,,,,,,,
+NNG & TW REGIONS  - Sorted By Region/Location,,,,,,,,,,,,,,,,,,,,
+"The information provided is tentative and may be changed without further notice.  Northern Natural Gas, Transwestern Pipeline and Florida Gas Transmission are not responsible for any reliance on this information.",,,,,,,,,,,,,,,,,,,,
+"Data Extracted November 13, 2001",,,,,,,,,,,,Est. Flow,Est. Vol.,,Act.,Act. ,Act.,,,
+No.,ID#,Region,Location,Units,Title,EstStart,EstComp,Duration,Line,Proj. Mgr,W.O. #,Affected,Affected,DescOfWork,Start,Compl.,Flow Aff.,P/U,Pub,Ver
+,,,,,,,,,,,,(Mmcfd),,,,,mmcf/d,,,
+,,,,,,,,,,,,,,,,,,,,
+1,17756,ALB,ARTESIA,AGAVE I/C,HOT TAP,2001-11-27 08:00:00,2001-11-27 17:00:00,0.4,,OPS,        ,0,0,"Doing a hot tap on the 24"" loop line. Max pressure at needed during the work is 712#.",,,0,P,N,N
+2,17090,ALB,STATION 2,MAINLINE,RED ROCK TIE-IN,2001-11-12 08:00:00,2001-11-15 16:00:00,3.3,,OPS,        ,130,433.3,New block and side valve assemblies for new compressor and scrubbers will be installed on the suction side main and loop lines at each station. The tie-in will entail isolating a line segment within the plant yard.,,,0,P,N,N
+3,17091,ALB,STATION 2,LOOP LINE,RED ROCK TIE-IN,2001-11-15 08:00:00,2001-11-19 16:00:00,4.3,,OPS,        ,130,563.3,New block and side valve assemblies for new compressor and scrubbers will be installed on the sucton side main and loop lines at each station. The tie-in will entail isolating a line segment within the plant yard.,,,0,P,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,17740,AMA,BEAVER 5,4,ELMWOOD PLANT,2001-10-17 11:00:00,2001-11-18 16:00:00,32.2,,OPS,        ,0,0,"Unit down due to Elmwood Plant commoned southeast 24"" and 8"". Unit will not be able to buck high discharge pressure. Unit will be down as long as Elmwood Plant is operating this way.(Station down until further Notice).",2001-10-17 11:00:00,,0,U,N,N
+2,17768,AMA,P3,GRAY CO. I/C,GRAY CO. TIE-IN,2001-11-29 08:00:00,2001-12-01 16:00:00,2.3,,OPS,        ,200,466.7,There will be an outage at P3 to do the tie-ins for the Gray Co. I/C. They need to move and tie-in the I/C.,,,0,P,N,N
+3,17723,AMA,PAMPA,A LINE,A LINE LEAKS,2001-11-26 07:00:00,2001-11-30 16:00:00,4.4,TXG89001,OPS,        ,0,0,Repair three leaks on A line.  This will necessitate shutting in OneOK's Cargray plant (2.2 m 2/d) as well as Skellytown TBS (50 mcf/d) and Crawford Plant Fuel which is used only as an emergency back up.,,,0,P,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,17497,BEA,BUSHTON,CONTROLLER #5,CHECK VALVE,2001-11-14 08:00:00,2001-11-14 13:00:00,0.2,BURDETT,OPS,        ,130,27.1,Remove check valve flapper from controller 5 check valve. (This outage and this date has been approved).,,,0,P,N,N
+2,17155,BEA,CUNNINGHAM,6,OVERHAUL,2001-10-08 08:00:00,2001-11-14 16:00:00,37.3,,OPS,        ,0,0,Major overhaul on MEP 12 cylinder  power and compressor ends based on analysis and run hours.  Unit will be disassembled and inspected and returned to OEM standards. (This outage will decrease the total injection & withdrawal rate by 100mmcfd).,2001-10-08 08:00:00,,0,P,N,N
+3,17332,BEA,CUNNINGHAM,ALL,ELEC SWITCH GEAR,2001-11-12 07:00:00,2001-11-16 16:00:00,4.4,,OPS,        ,0,0,Week of 11/12-16 all electrics will not be available.  11/12 & 13 dual fuels are available.  11/14 dual fuels are not available from 8:00 to 16:00  11/15 - 12 noon all units and plants should be available. Electric test switch gear and 4000 volt motors.,,,0,P,N,N
+4,18093,BEA,CUNNINGHAM,ALL,INSTALL PLC,2001-11-26 08:00:00,2001-11-30 16:00:00,4.3,,OPS,        ,0,0,Install computer software and wire in new PLC. 11/26 - travel/installation of software. 11/27 - debug PLC  start rewire  11/28 - debugging/rewiring  11/29 - debugging new wiring  cycle valves  11/30 - tie up loose ends and back to normal operation.,,,0,P,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,18097,DES,GALENA,1 2,BATTERY CHARGER CHANGE OUT,2001-12-01 08:00:00,2001-12-01 16:00:00,0.3,,OPS,        ,0,0,They are changing out the battery charger. The Station will need to be down and by-passed during this outage.,,,0,P,N,N
+2,18107,DES,OGDEN,CARROLL BL,CARROLL BL,2001-11-14 07:00:00,2001-11-14 15:30:00,0.3,,OPS,        ,0,0,Stopple fitting inspection  Carroll BL MP 22.68.,,,0,P,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,17480,LIB,HUGOTON,17,MAINTENANCE,2001-12-06 08:00:00,2001-12-06 14:00:00,0.3,,OPS,        ,3,0.8,Service and maintenance.  7800 HP,,,0,P,N,N
+2,17699,LIB,MULLINVILLE,26,TESTING & MAINTENANCE,2001-09-24 08:00:00,2001-11-15 16:00:00,52.3,,OPS,        ,0,0,Compressor testing and maintenance due to excessive vibration.  11475 HP (Update 10/15/01)  Hickham Industries is doing some analysis on the unit this week to give us a better a plan of attack..,2001-09-24 08:00:00,,0,U,N,N
+3,18084,LIB,MULLINVILLE,26,SUCTION VALVE,2001-11-13 07:30:00,2001-11-15 16:00:00,2.4,,OPS,        ,65,154.4,Remove suction valve and install rebuilt suction valve.  11475 HP,,,0,P,N,N
+4,17824,LIB,STEVENS 4,1,CHECK VALVES,2001-11-28 08:00:00,2001-11-28 16:00:00,0.3,,OPS,        ,7,2.3,Repairing leaks on the valves.,,,0,P,N,N
+5,17827,LIB,STEVENS 4,2,CHECK VALVES,2001-11-29 08:00:00,2001-11-29 16:00:00,0.3,,OPS,        ,7,2.3,Repairing check valve leaks.,,,0,P,N,N
+6,18059,LIB,STEVENS 7,3,MP2,2001-12-12 09:00:00,2001-12-14 16:00:00,2.3,,OPS,        ,4,9.2,MP2 Tasks.,,,0,P,N,N
+7,17544,LIB,SUBLETTE,26,OVERHAULING UNIT,2001-09-20 12:00:00,2001-12-21 16:00:00,92.2,,OPS,        ,0,0,Overhaul on the unit. They need to replace the power turbine. Will put on other units to cover loss in volumes. Some of the gas will be sent towards Holcomb.,2001-09-20 12:00:00,,0,U,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,17227,MID,PLAINVIEW,1,STARTER,2001-11-26 08:00:00,2001-12-03 16:00:00,7.3,,OPS,        ,0,0,Install new starter and controls.  9100 HP,,,0,P,N,N
+2,17226,MID,SEMINOLE,1,STARTER,2001-11-05 08:00:00,2001-11-19 16:00:00,14.3,,OPS,        ,0,0,Install new starter and new controls.  9100 HP,2001-11-05 08:00:00,,0,P,N,N
+3,18104,MID,WT 2,ALL,REPLACE VALVE,2001-11-27 08:00:00,2001-11-28 08:00:00,1,,OPS,        ,300,300,"Replace filter separator inlet valve 16"".  13 500 HP",,,0,P,N,N
+,,,,,,,,,,,,,,,,,,,,
+1,17667,MIN,CHATFIELD,1,REPLACE COUPLING,2001-10-06 07:00:00,2001-11-30 07:00:00,55,,OPS,        ,0,0,Replacement of coupling on the electric motor/compressor.  1250 HP (waiting for parts to return  the ETA after they get the parts is 3 days).,2001-10-06 07:00:00,,0,P,N,N
+2,16151,MIN,CHATFIELD,1,ESD,2001-11-30 10:00:00,2001-11-30 11:00:00,0,,OPS,        ,0,0,They will do the ESD after they replace the coupling.,,,0,P,N,N
+3,17684,MIN,FARMINGTON,HASTINGS MM,HASTINGS MM,2001-11-28 08:00:00,2001-11-28 16:00:00,0.3,MNB90101,453,C.014887,0,0,"Install custody transfer meter station to facilitate sale of downstream facilities to Minnegasco.  An outage will be required on the 3"" tie over line to install the meter piping.",,,0,P,N,N
+4,17682,MIN,FARMINGTON,HASTINGS TO,HASTINGS TO CONN,2001-12-04 08:00:00,2001-12-04 16:00:00,0.3,MNB85802,453,C.014886,0,0,"Install pipe risers with valves on the 6"" Hastings branch line at the end of the NNG owned segment and the beginning of the Minnegasco owned segment.",,,0,P,N,N
+5,17683,MIN,FARMINGTON,HASTINGS TO,HASTINGS TO CONN,2001-12-06 08:00:00,2001-12-06 16:00:00,0.3,MNB85801,453,C.014886,0,0,"Install pipe risers with valves on the 4"" Hastings branch line at the end of the NNG owned segment and the beginning of the Minnegasco owned segment.  Service to the existing Hastings TBS will be coordinated with LDC.",,,0,P,N,N

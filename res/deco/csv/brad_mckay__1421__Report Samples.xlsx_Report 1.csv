@@ -1,0 +1,30 @@
+,Summary of EOL Trades,,,,,
+,,,,,,
+Report 1,Summary For Each Product,Start Date,2000-11-01 00:00:00,WA Prices = (Sum of (Buy vol*Buy price) for customer)/ Total Buy Volume,,
+,US Gas Basis CNG APP  Jan-Mar01 USD/MM,End Date,2000-11-21 00:00:00,WA Prices = (Sum of (sell vol*sell price) for customer)/ Total Sell Volume,,
+,Customer,ENA Sale Volume,ENA Buy Volume,Net Position,ENA WA Buy Price,ENA WA Sale Price
+,"AEP Energy Services, Inc.",-15000,10000,-5000,-0.45375,0.45916666666666667
+,BNP Paribas,-5000,10000,5000,-0.49,0.42
+,BP Amoco Corporation,-35000,5000,-30000,-0.51,0.45
+,"El Paso Merchant Energy - Gas, L.P.",-10000,15000,5000,-0.37,0.45
+,Engage Energy Canada L.P.,,,0,,
+,"Enron Energy Services, Inc.",,,0,,
+,"Koch Energy Trading, Inc.",,,0,,
+,"Reliant Energy Services, Inc.",,,0,,
+,"Select Energy, Inc.",,,0,,
+,Sempra Energy Trading Corp.,,,0,,
+,"Southern Company Energy Marketing, L.P.",,,0,,
+,Texaco Natural Gas Inc.,,,0,,
+,"Tractebel Energy Marketing, Inc.",,,0,,
+,Utilicorp United Inc.,,,0,,
+,Williams Energy Marketing & Trading Company,,,0,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Report 2,,,,,,

@@ -1,0 +1,225 @@
+,,Y=Both Credit and Legal already approve; DW/PS = Weekes Provisional; WB/MT = Bradford/Taylor to look at,,,,,,
+,,Name,S&P,E-Rating,Credit and Legal,Country,Notional Limit,Industry
+,1.0,Fortum Power and Heat Oy,NR,4,Y,Finland,,Energy
+,2.0,Heidelberger Zement AG,NR,3,Y,Germany,,Energy
+,3.0,Den Norske Stats Oljeselskap A/S,AA+,1,Y,Norway,,Energy
+,4.0,Norsk Hydro Produksjon ASA,NR,3,Y,Norway,,Energy
+,5.0,Statkraft SF,,,Y,Norway,,Energy
+,6.0,Birka Energi AB,BBB+,4,Y,Sweden,,Energy
+,7.0,Sydkraft AB,NR,2,Y,Sweden,,Energy
+,8.0,Vattenfall AB,NR,2,Y,Sweden,,Energy
+,9.0,British Energy Generation Limited,NR,4,Y,UK,,Energy
+,10.0,British Telecommunications plc,AA+,1,Y,UK,,Telecom
+,11.0,Cable and Wireless plc,NR,3,Y,UK,,Telecom
+,12.0,Centrica plc,NR,3,Y,UK,,Energy
+,13.0,London Electricity plc,A+,3,Y,UK,,Energy
+,14.0,Midlands Electricity plc,A-,3,Y,UK,,Energy
+,15.0,National Grid Company plc,AA+,1,Y,UK,,Energy
+,16.0,National Power plc,A-,3,Y,UK,,Energy
+,17.0,Northern Electric plc,NR,3,Y,UK,,Energy
+,18.0,Northumbrian Water Group Limited,A,2,Y,UK,,Energy
+,19.0,Norweb plc,NR,2,Y,UK,,Energy
+,20.0,PowerGen UK plc,A,2,Y,UK,,Energy
+,21.0,Scottish and Southern Energy plc,NR,2,Y,UK,,Energy
+,22.0,Scottish Power UK plc,A,2,Y,UK,,Energy
+,23.0,Seeboard plc,BBB+,3,Y,UK,,Energy
+,24.0,South Wales Electricity plc,A-,3,Y,UK,,Energy
+,25.0,South Western Electricity plc,A-,3,Y,UK,,Energy
+,26.0,United Utilities plc,A,3,Y,UK,,Energy
+,27.0,Vodafone Airtouch plc,A,2,Y,UK,,Telecom
+,28.0,Yorkshire Electricity Group plc,BBB+,4,Y,UK,,Energy
+,29.0,AGL Resources Inc.,BBB+,3,Y,US,,Energy
+,30.0,AT & T,AA-,2,Y,US,,Telecom
+,31.0,Baltimore Gas and Electric Company,A+,3,Y,US,,Energy
+,32.0,Bell Atlantic Corp,A+,4,Y,US,,Telecom
+,33.0,BellSouth Corp.,AAA,2,Y,US,,Telecom
+,34.0,Burlington Resources Inc.,A-,3,Y,US,,Energy
+,35.0,Carolina Power & Light Company,A,3,Y,US,,Energy
+,36.0,Central Illinois Light Company,BBB-,2,Y,US,,Energy
+,37.0,Central Maine Power Company,A-,3,Y,US,,Energy
+,38.0,Central Power and Light Company,A,3,Y,US,,Energy
+,39.0,Cinergy Corp.,BBB+,5,Y,US,,Energy
+,40.0,Cisco Systems Inc,A-,3,Y,US,,Telecom
+,41.0,Citizens Utilities Company,A+,2,Y,US,,Energy
+,42.0,Constellation Energy Group,A,3,Y,US,,Energy
+,43.0,Cox Communications Inc,BBB+,4,Y,US,,Telecom
+,44.0,"Dayton Power and Light Company, The",BBB+,2,Y,US,,Energy
+,45.0,DPL Incorporated,BBB+,4,Y,US,,Energy
+,46.0,DQE Inc,BBB+,4,Y,US,,Energy
+,47.0,IDACORP Inc.,A,2,Y,US,,Energy
+,48.0,Idaho Power Company,A+,2,Y,US,,Energy
+,49.0,Lucent Technologies,A,3,Y,US,,Telecom
+,50.0,MCI World Com,A-,3,Y,US,,Telecom
+,51.0,New Jersey Natural Gas Company,A,3,Y,US,,Energy
+,52.0,Niagara Mohawk Power Corporation,BBB,5,Y,US,,Energy
+,53.0,Pennzoil-Quaker State Company,BBB-,5,Y,US,,Energy
+,54.0,Piedmont Natural Gas Co,A,3,Y,US,,Energy
+,55.0,San Diego Gas & Electric Company,AA-,2,Y,US,,Energy
+,56.0,Sierra Pacific Power Company,BBB+,4,Y,US,,Energy
+,57.0,Texas-New Mexico Power Company,BBB-,5,Y,US,,Energy
+,58.0,The Peoples Gas Light & Coke Company,AA-,2,Y,US,,Energy
+,59.0,Washington Gas Light Company,AA-,3,Y,US,,Energy
+,60.0,Wisconsin Electric Power Company,AA+,2,Y,US,,Energy
+,61.0,Wisconsin Gas Company,AA-,2,Y,US,,Energy
+,62.0,Wisconsin Power And Light Company,AA-,2,Y,US,,Energy
+,63.0,3Com,BBB,,WB,US,,Network Communications
+,64.0,Air Products & Chemicals Inc.,A,,WB,US,,Chemicals
+,65.0,Alltel Corp.,A,,WB,US,,Telecoms
+,66.0,Ameritech Corp.,AA,,WB,US,,Telecoms
+,67.0,Analog Devices Inc.,BBB+,,WB,US,,Semiconductors
+,68.0,Applied Materials Inc.,A-,,WB,US,,"Scientific, Photo, Control Equip."
+,69.0,Automatic Data Processing Inc.,AAA,,WB,US,,Computer and Data Services
+,70.0,Avery Dennison Corp.,A,,WB,US,,Chemicals
+,71.0,B.F. Goodrich Co.,A -,,WB,US,,Aerospace
+,72.0,Boeing Co.,AA -,,WB,US,,Aerospace
+,73.0,Cabot Corp.,BBB +,,WB,US,,Chemicals
+,74.0,CBS Corp.,BBB-,,WB,US,,Entertainment
+,75.0,CenturyTel Inc.,BBB+,,WB,US,,Telecoms
+,76.0,Ceridian Corp.,BBB,,WB,US,,Computer and Data Services
+,77.0,CK Witco Corp,BBB,,WB,US,,Chemicals
+,78.0,"Clear Channel Communications, Inc.",BBB-,,WB,US,,Entertainment
+,79.0,Coltec Industries Inc.,A -,,WB,US,,Aerospace
+,80.0,Comdisco Inc.,BBB +,,WB,US,,Computer and Data Services
+,81.0,Computer Associates International Inc.,BBB +,,WB,US,,Computer Software
+,82.0,Computer Sciences Corp.,A,,WB,US,,Computer and Data Services
+,83.0,Cooper Industries Inc.,A -,,WB,US,,"Electronics, Electrical Equipment"
+,84.0,Cordant Technologies Inc.,BBB,,WB,US,,Aerospace
+,85.0,Cytec Industries Inc.,BBB,,WB,US,,Chemicals
+,86.0,Dell Computer Corp.,BBB +,,WB,US,,"Computers, Office Equipment"
+,87.0,Dow Chemical Co. (The),A,,WB,US,,Chemicals
+,88.0,DuPont (E.I.) De Nemours & Co.,AA -,,WB,US,,Chemicals
+,89.0,Eastman Chemical Co.,BBB +,,WB,US,,Chemicals
+,90.0,Eastman Kodak,A+,,WB,US,,"Scientific, Photo, Control Equip."
+,91.0,Eaton Corp.,A,,WB,US,,"Electronics, Electrical Equipment"
+,92.0,Ecolab Inc.,A,,WB,US,,Chemicals
+,93.0,Electronic Data Systems Corp.,A +,,WB,US,,Computer and Data Services
+,94.0,Emerson Electric Co.,AA -,,WB,US,,"Electronics, Electrical Equipment"
+,95.0,Engelhard Corp.,A -,,WB,US,,Chemicals
+,96.0,Equifax Inc.,A -,,WB,US,,Computer and Data Services
+,97.0,Ferro Corp.,BBB +,,WB,US,,Chemicals
+,98.0,First Data Corp.,A,,WB,US,,Computer and Data Services
+,99.0,FMC Corp.,BBB -,,WB,US,,Chemicals
+,100.0,General Dynamics Corp.,A,,WB,US,,Aerospace
+,101.0,General Electric Co.,AAA,,WB,US,,"Electronics, Electrical Equipment"
+,102.0,Geon Co.,BBB,,WB,US,,Chemicals
+,103.0,Great Lakes Chemical Corp.,A,,WB,US,,Chemicals
+,104.0,GTE Corp.,A+,,WB,US,,Telecoms
+,105.0,Harman International Industries Inc.,BBB -,,WB,US,,"Electronics, Electrical Equipment"
+,106.0,Harris Corp.,BBB,,WB,US,,"Electronics, Electrical Equipment"
+,107.0,Hercules Inc.,BBB -,,WB,US,,Chemicals
+,108.0,Hewlett-Packard Co.,AA -,,WB,US,,"Computers, Office Equipment"
+,109.0,Honeywell International Inc.,A,,WB,US,,"Electronics, Electrical Equipment"
+,110.0,Hubbell Inc.,AA -,,WB,US,,"Electronics, Electrical Equipment"
+,111.0,IMC Global Inc.,BBB,,WB,US,,Chemicals
+,112.0,Intel Corp.,A+,,WB,US,,Semiconductors
+,113.0,International Business Machines Corp.,A +,,WB,US,,"Computers, Office Equipment"
+,114.0,Lexmark International Inc.,BBB -,,WB,US,,Computer Peripherals
+,115.0,Litton Industries Inc.,BBB,,WB,US,,"Electronics, Electrical Equipment"
+,116.0,Lockheed Martin Corp.,BBB -,,WB,US,,Aerospace
+,117.0,Lubrizol Corp.,A +,,WB,US,,Chemicals
+,118.0,Lucent Technologies Inc.,A,,WB,US,,"Electronics, Electrical Equipment"
+,119.0,Maytag Corp.,A -,,WB,US,,"Electronics, Electrical Equipment"
+,120.0,MediaOne Group Inc.,BBB,,WB,US,,Telecoms
+,121.0,Millennium Chemicals Inc.,BBB -,,WB,US,,Chemicals
+,122.0,Minnesota Mining & Mfg.,AA,,WB,US,,"Scientific, Photo, Control Equip."
+,123.0,Monsanto Co.,A,,WB,US,,Chemicals
+,124.0,Morton International Inc.,A -,,WB,US,,Chemicals
+,125.0,Motorola Inc.,A +,,WB,US,,"Electronics, Electrical Equipment"
+,126.0,National Service Industries Inc.,A,,WB,US,,"Electronics, Electrical Equipment"
+,127.0,Olin Corp.,BBB,,WB,US,,Chemicals
+,128.0,Oracle Corp.,A -,,WB,US,,Computer Software
+,129.0,PE Corp.,A-,,WB,US,,"Scientific, Photo, Control Equip."
+,130.0,Pentair Inc.,BBB,,WB,US,,"Electronics, Electrical Equipment"
+,131.0,Pitney Bowes Inc.,AA,,WB,US,,"Computers, Office Equipment"
+,132.0,PPG Industries Inc.,A,,WB,US,,Chemicals
+,133.0,Praxair Inc.,BBB +,,WB,US,,Chemicals
+,134.0,Raychem Corp.,A -,,WB,US,,"Electronics, Electrical Equipment"
+,135.0,Raytheon Co.,BBB -,,WB,US,,Aerospace
+,136.0,Rockwell International Corp.,A +,,WB,US,,"Electronics, Electrical Equipment"
+,137.0,Rohm & Haas Co.,A -,,WB,US,,Chemicals
+,138.0,RPM Inc.,BBB,,WB,US,,Chemicals
+,139.0,SBC Communications Inc.,AA,,WB,US,,Telecoms
+,140.0,Science Applications International Corp.,A -,,WB,US,,Computer and Data Services
+,141.0,Seagate Technology Inc.,BBB,,WB,US,,Computer Peripherals
+,142.0,Sherwin-Williams Co.,A,,WB,US,,Chemicals
+,143.0,Solectron Corp.,BBB,,WB,US,,"Electronics, Electrical Equipment"
+,144.0,Solutia Inc.,BBB,,WB,US,,Chemicals
+,145.0,Sprint Corp.,BBB+,,WB,US,,Telecoms
+,146.0,Sun Microsystems Inc.,BBB +,,WB,US,,"Computers, Office Equipment"
+,147.0,Sundstrand Corp.,A +,,WB,US,,Aerospace
+,148.0,Telephone & Data Systems Inc.,BBB,,WB,US,,Telecoms
+,149.0,Texas Instruments Inc.,A,,WB,US,,Semiconductors
+,150.0,Textron Inc.,A,,WB,US,,Aerospace
+,151.0,Thomas & Betts Corp.,BBB,,WB,US,,"Electronics, Electrical Equipment"
+,152.0,Time Warner Inc.,BBB,,WB,US,,Entertainment
+,153.0,Union Carbide Corp.,BBB,,WB,US,,Chemicals
+,154.0,United Technologies Corp.,A +,,WB,US,,Aerospace
+,155.0,US West Communications Inc.,A,,WB,US,,Telecoms
+,156.0,USA Networks Inc.,BBB-,,WB,US,,Entertainment
+,157.0,Valspar Corp.,BBB +,,WB,US,,Chemicals
+,158.0,Viacom Inc.,BBB-,,WB,US,,Entertainment
+,159.0,Walt Disney,A,,WB,US,,Entertainment
+,160.0,Whirlpool Corp.,BBB +,,WB,US,,"Electronics, Electrical Equipment"
+,161.0,Xerox Corp.,A,,WB,US,,"Computers, Office Equipment"
+,162.0,Espoon Sahko Oy,,4,DW,Finland,,Energy
+,163.0,Helsingin Energia,,4,DW,Finland,,Energy
+,164.0,Outokumpu OYJ,,4,DW,Finland,,Energy
+,165.0,Stora Enso OYJ,BBB+,4,DW,Finland,,Energy
+,166.0,Turku Energia Oy,,4,DW,Finland,,Energy
+,167.0,UPM-Kymmene Oyj,BBB+,5,DW,Finland,,Energy
+,168.0,BASF Aktiengesellschaft,,3,DW,Germany,,Energy
+,169.0,Bayerngas GmbH,,4,DW,Germany,,Energy
+,170.0,Hamburgische Electricitats-Werke AG,,3,DW,Germany,,Energy
+,171.0,Ruhrgas AG,,5,DW,Germany,,Energy
+,172.0,Rwe Aktiengesellschaft,,3,DW,Germany,,Energy
+,173.0,RWE Energie AG,,3,DW,Germany,,Energy
+,174.0,Stadtwerke Dusseldorf AG,,3,DW,Germany,,Energy
+,175.0,Stadtwerke Hannover AG,,4,DW,Germany,,Energy
+,176.0,Stadtwerke Munchen GmbH,,3,DW,Germany,,Energy
+,177.0,Veba Oil Supply and Trading GmbH,,5,DW,Germany,,Energy
+,178.0,Haugaland Kraft AS,NR,5,DW,Norway,,Energy
+,179.0,Helgeland Kraftlag A/L,NR,4,DW,Norway,,Energy
+,180.0,Nordhordland Kraftlag DA,NR,4,DW,Norway,,Energy
+,181.0,Oppland Energi Produksjon AS,NR,5,DW,Norway,,Energy
+,182.0,Oslo Energi Produksjon AS,NR,3,DW,Norway,,Energy
+,183.0,Salten Kraftsamband AS,NR,4,DW,Norway,,Energy
+,184.0,Sogn og Fjordane Energiverk AS,NR,4,DW,Norway,,Energy
+,185.0,Sunnhordland Kraftlag AS,NR,3,DW,Norway,,Energy
+,186.0,TronderEnergi ANS,NR,4,DW,Norway,,Energy
+,187.0,Tussa Energi A/S,NR,5,DW,Norway,,Energy
+,188.0,Varanger Kraft AS,NR,3,DW,Norway,,Energy
+,189.0,Vestfold Kraft Energi AS,NR,4,DW,Norway,,Energy
+,190.0,Goteborg Energi AB,NR,4,DW,Sweden,,Energy
+,191.0,Graningeverkens A/B,NR,3,DW,Sweden,,Energy
+,192.0,Helsingborg Energi AB,NR,4,DW,Sweden,,Energy
+,193.0,Lund Eastern Energi AB,NR,5,DW,Sweden,,Energy
+,194.0,Mo och Domsjo AB,BBB+,4,DW,Sweden,,Energy
+,195.0,Molndal Energi AB,NR,5,DW,Sweden,,Energy
+,196.0,Skelleftea Kraft AB,NR,3,DW,Sweden,,Energy
+,197.0,Telge Energi AB,NR,5,DW,Sweden,,Energy
+,198.0,Uppsala Energi AB,NR,3,DW,Sweden,,Energy
+,199.0,Vasteras Energi & Vatten AB,NR,4,DW,Sweden,,Energy
+,200.0,ABB Energy Ventures Jersey Ltd,,2,DW,UK,,Energy
+,201.0,Amerada Hess Gas Limited,N.R.,4,DW,UK,,Energy
+,202.0,ARCO British Limited,,5,DW,UK,,Energy
+,203.0,BP Amoco p.l.c.,AA+,1,DW,UK,,Energy
+,204.0,BP Gas Marketing Limited,,3,DW,UK,,Energy
+,205.0,British Energy plc,A-,3,DW,UK,,Energy
+,206.0,British Gas plc,A,3,DW,UK,,Energy
+,207.0,British Gas Trading Limited,A,3,DW,UK,,Energy
+,208.0,Chevron UK Ltd,,2,DW,UK,,Energy
+,209.0,Credit Suisse Financial Products,AA,2,DW,UK,,Financial
+,210.0,DuPont (UK) Ltd.,,3,DW,UK,,Energy
+,211.0,Enterprise Oil plc,BBB+,4,DW,UK,,Energy
+,212.0,Esso Exploration & Production UK Ltd,,3,DW,UK,,Energy
+,213.0,Hess Energy Trading Company (UK) Limited,,4,DW,UK,,Energy
+,214.0,Magnox Electric plc,,1,DW,UK,,Energy
+,215.0,Mobil Gas Marketing (UK) Limited,,4,DW,UK,,Energy
+,216.0,Norsk Hydro (UK) Limited,,4,DW,UK,,Energy
+,217.0,RWE Energy Trading Limited,,5,DW,UK,,Energy
+,218.0,Shell Gas Direct Limited,,3,DW,UK,,Energy
+,219.0,Southern Electric Gas Ltd.,,2,DW,UK,,Energy
+,220.0,Texaco Limited,,3,DW,UK,,Energy
+,221.0,Texaco Oil Trading Limited,,4,DW,UK,,Energy
+,222.0,The BOC Group PLC,,2,DW,UK,,Energy
+,223.0,Total Gas Marketing Limited,,2,DW,UK,,Energy

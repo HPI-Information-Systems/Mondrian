@@ -1,0 +1,42 @@
+,,,,,,,,,,,,,,,,,,
+,,,To:,,"Ken Lay, Jeff Skilling",,,,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements
+,,,Copy to:,,Distribution,,,,,,Bus Unit Office,,Enron Corp.,,Enron Corp.,,,
+,,,,,,,,,,,of Chairman,,President,,Chairman,,,Finance Committe Chairman
+,,,From:,,Global Risk Management Operations,,,,,Daily Loss,100% of VaR,,125% of VaR,,150% of VaR,,, 
+,,,,,,,,,,Cumulative 5-day Loss,125% of VaR,,150% of VaR,,175% of VaR,,,
+,,,Date:,,2000-12-13 00:00:00,,,,,"NOP, M/G, VaR",105% of VaR,,110% of VaR,,,,,Aggregate VaR > 115% Aggregate VaR Limit
+,,,,,,,,,,,,,,,,,,
+,,,Re:,,"Limit Violations and Notifications for December 12, 2000",,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,,P/L RESULTS,P/L RESULTS,P/L RESULTS,,,
+,,,,,,,,,,Violation/,,,,,,,,
+,Occurrence,,,,,,VaR,NOP or M/G,Type,Notification,Number,,QTD,,YTD,,,
+,Date,,Business Unit,,Commodity Group,,Limit,Limit,Violation,Amount,YTD,,P/L,,P/L,,,Explanation
+,,,,,,,($MMs),,,($MMs),,,($MMs),,($MMs),,,
+Board of Directors Level,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+1,2000-12-12 00:00:00,,Enron North America,,Gas Trading,,110,,Daily Loss,-500,23,,388,,1099.6,,,"The loss was due to West basis positions, and fixed price length"
+,,,,,,,,,,,,,,,,,, 
+2,2000-12-12 00:00:00,,Enron North America,,Cross Commodity Trading,,5,,Daily Loss,-11.32,6,,17,,28,,,The loss was due to downward price movements on long January Nymex and December Gas Daily positions
+,,,,,,,,,,,,,,,,,,
+3,2000-12-12 00:00:00,,Enron Energy Services,,Gas and Power Trading,,7,,Daily Loss,-26,24,,-85,,183,,,"The loss was attributable to decreases in CA South Peak, Palo Verde Peak, Cinergy Peak, Entergy Peak, NY Zone J Peak, and West Hub Peak prices."
+,,,,,,,,,,,,,,,,,,
+4,2000-12-12 00:00:00,,Enron North America,,Power Trading,,50,,Daily Loss,-95,6,,44,,535,,,"East Power was long in multiple regions (Cinergy, Entergy, PJM, New England) and power prices dropped significantly in nearly every month."
+,,,,,,,,,,,,,,,,,,
+5,2000-12-12 00:00:00,,Enron ,,Total Trading,,140,,Daily Loss,-630.334,5,,560,,2648,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+RAC COMMENTS:,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Distribution:,,Rick Buy,,,,,,,,,,,,,,,
+,,,Ted Murphy,,,,,,,,,,,,,,,
+,,,Cassandra Schultz,,,,,,,,,,,,,,,
+,,,David Port,,,,,,,,,,,,,,,

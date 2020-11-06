@@ -1,0 +1,101 @@
+,,"ROFR:  Any contract executed prior to March 27, 2000 with term of one year or longer.  (Grandfathered ""GF'd"")",,,,,,,,,,,
+,,"ROFR:  Any contract executed after March 27, 2000 with term of one year or longer at max rate.",,,,,,,,,,,
+,,"Notice:  Term of 2 years or less, 6 months prior to termination date.",,,,,,,,,,,
+,,"Notice:  Term greater than 2 years, 1 year prior to termination date.",,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,ROFR,,ROFR,
+Area,Total,Receipt,Delivery,Volume,Ctrc #,Shipper,Start,Term Date,Term,Criteria,ROFR,TRIGGER,Notes:
+,,,,,,,,,,,,,
+,,IG,BL,25000,24924,ENA,1996-09-01 00:00:00,2004-01-31 00:00:00,7+ years,GF'd,yes,2003-01-31 00:00:00,
+,,IG,BL,100000,24925,WESCO,1996-09-01 00:00:00,2004-01-31 00:00:00,7+ years,GF'd,yes,2003-01-31 00:00:00,
+,,IG,BL,30000,24927,Phillips,1996-09-01 00:00:00,2006-01-31 00:00:00,9+ years,GF'd,yes,2005-01-31 00:00:00,
+,,IG,BL,15000,25067,BRT,1996-09-01 00:00:00,2001-11-30 00:00:00,5+ years,GF'd,yes,Expired,
+,,IG,BL,10000,25397,PNM,1998-04-01 00:00:00,2003-03-31 00:00:00,5 years,GF'd,yes,2002-03-31 00:00:00,
+,,IG,BL,85000,26044,Pan Alb,1998-04-01 00:00:00,2003-10-31 00:00:00,5+ years,GF'd,yes,2002-10-31 00:00:00,
+,,IG,BL,59000,26436,Pan Alb,1998-11-01 00:00:00,2003-10-31 00:00:00,5 years,GF'd,yes,2002-10-31 00:00:00,
+,,IG,BL,30000,27342,Sempra,2001-01-01 00:00:00,2001-12-31 00:00:00,1 year,per ctrc,yes,2001-06-30 00:00:00,
+IG to BL,376000,IG,BL,22000,27370,BP Energy,2001-01-01 00:00:00,2001-12-31 00:00:00,1 year,per ctrc,yes,2001-06-30 00:00:00,
+,,S.IG,BL,12500,24669,Utes,1996-09-01 00:00:00,2006-01-31 00:00:00,9+ years,GF'd,yes,2005-01-31 00:00:00,
+,,S.IG,BL,125000,27047,Red Cedar,2000-02-01 00:00:00,2005-12-31 00:00:00,5+ years,not max,no,,"*See Shipper Options tab.  (MAXDTQ increases to 150,000/d 1/1/2002.)"
+,,S.IG,BL,13500,27344,Texaco,2001-01-01 00:00:00,2002-12-31 00:00:00,2 years,not max,no,,
+S.IG to BL,172200,S.IG,BL,21200,27371,BP Energy,2001-02-01 00:00:00,2001-12-31 00:00:00,0 year,less than year,no,,
+,,BL,EOT,20000,24809,PG&E,1996-12-01 00:00:00,2001-11-30 00:00:00,5 years,GF'd,yes,Expired,
+BL to EOT,100000,BL,EOT,80000,25025,BRT,1996-12-01 00:00:00,2006-11-30 00:00:00,10 years,GF'd,yes,2005-11-30 00:00:00,"(MAXDTQ reduces to 60,000/d on 12/1/2004.)"
+,,EOT,EOT,35714,24198,Sid,1995-06-01 00:00:00,2002-11-30 00:00:00,6+years,GF'd,yes,2001-11-30 00:00:00,*See Shipper Options tab.  (Furthest possible term date shown.)
+,,EOT,EOT,1000,24754,E New Mex,1996-03-01 00:00:00,2001-04-30 00:00:00,5+ years,GF'd,yes,Expired,
+,,EOT,EOT,15000,24690,Continental,1996-04-01 00:00:00,2001-03-31 00:00:00,5 years,GF'd,yes,Expired,
+,,EOT,EOT,various,24194,PNM,1996-10-01 00:00:00,2001-09-30 00:00:00,5 years,GF'd,yes,Expired,"(40,000/d Nov-Feb, 25,000/d Mar-Apr, 10,000/d May-Sept)"
+,,EOT,EOT,40000,26606,Agave**,1998-11-01 00:00:00,2003-10-31 00:00:00,5 years,GF'd,yes,2002-10-31 00:00:00,*See Shipper Options tab.  (**26606 is Adm Ctrc for 26490)
+,,EOT,EOT,8000,26740,ENA,1999-06-01 00:00:00,2007-01-31 00:00:00,7+ years,GF'd,yes,2006-02-01 00:00:00,
+,,EOT,EOT,1613,27104,New Mex,2000-02-01 00:00:00,2005-01-31 00:00:00,5 years,GF'd,yes,2004-02-01 00:00:00,
+,,EOT,EOT,400000,27161,USGT,2000-04-01 00:00:00,2003-03-31 00:00:00,1+ year,per ctrc,no,,
+,,EOT,EOT,20000,27291,Duke,2000-08-01 00:00:00,2002-07-31 00:00:00,2 years,not max,no,,
+,,EOT,EOT,6000,27400,Agave,2000-11-09 00:00:00,2001-05-31 00:00:00,0 year,less than year,no,,
+,,EOT,EOT,1400,27420,WTG Gas,2000-12-01 00:00:00,2001-11-30 00:00:00,1 year,not max,no,,
+,,EOT,EOT,20000,27349,Duke,2001-01-01 00:00:00,2005-12-31 00:00:00,5 years,not max,no,,
+,,EOT,EOT,20000,27579,Duke,2001-05-01 00:00:00,2002-05-31 00:00:00,1+ year,not max,no,,
+,,EOT,EOT,2000,?,Sid/Bass,2001-06-01 00:00:00,2002-05-31 00:00:00,1 year,not max,no,,
+EOT to EOT,580727,EOT,EOT,10000,27377,Agave,2001-03-01 00:00:00,2002-02-28 00:00:00,1 year,not max,no,,
+,,IG,EOT,32000,24568,Emerald,1996-12-01 00:00:00,2001-12-31 00:00:00,5+ years,GF'd,yes,Expired,
+IG to EOT,40000,IG,EOT,8000,24654,ENA,1996-12-01 00:00:00,2001-12-31 00:00:00,5+ years,GF'd,yes,Expired,
+,,BL,TH,200000,20715,SoCal,1992-03-01 00:00:00,2005-10-31 00:00:00,13+ years,GF'd,yes,2004-10-31 00:00:00,Year to year evergreen.  Terminate 730 days notice.
+,,BL,TH,25000,20834,Citizens,1992-03-01 00:00:00,2007-02-28 00:00:00,15 years,GF'd,yes,2006-02-28 00:00:00,Year to year evergreen.  Terminate 730 days notice.
+,,BL,TH,20000,20835,Conoco,1992-03-01 00:00:00,2002-02-28 00:00:00,10 years,GF'd,yes,Expired,Year to year evergreen.  Terminate 365 days notice.
+,,BL,TH,150000,21175,PG&E,1992-03-16 00:00:00,2007-03-31 00:00:00,15 years,GF'd,yes,2006-03-31 00:00:00,Year to year evergreen.  Terminate 365 days notice.
+,,BL,TH,1346,21372,Navajo,1993-02-01 00:00:00,2003-12-31 00:00:00,9+ years,GF'd,yes,2002-12-31 00:00:00,Month to month evergreen. Terminate 30 days notice.
+,,BL,TH,20000,25923,Texaco,1998-03-01 00:00:00,2007-02-28 00:00:00,9 years,GF'd,yes,2006-02-28 00:00:00,
+,,BL,TH,25000,26371,Duke,1998-11-01 00:00:00,2007-03-31 00:00:00,8 years,GF'd,yes,2006-03-31 00:00:00,
+BL to TH,466346,BL,TH,25000,26677,EP Energy,1999-04-01 00:00:00,2007-03-31 00:00:00,8 years,GF'd,yes,2006-03-31 00:00:00,
+,,BL,WOT,10000,24670,SMUD,1997-03-01 00:00:00,2007-03-31 00:00:00,10+ years,GF'd,yes,2006-03-31 00:00:00,*See Shipper Options tab.
+,,BL,WOT,25000,25700,BP Energy,1998-01-01 00:00:00,2002-12-31 00:00:00,5 years,GF'd,yes,2001-12-31 00:00:00,
+,,BL,WOT,8600,26125,Engage,1998-06-01 00:00:00,2003-05-31 00:00:00,5 years,GF'd,yes,2002-05-31 00:00:00,
+,,BL,WOT,20000,26960,TXU,2000-04-01 00:00:00,2004-03-31 00:00:00,4 years,max rate,yes,2003-03-31 00:00:00,
+,,BL,WOT,25000,26719,Southern,2000-05-01 00:00:00,2005-04-30 00:00:00,5 years,per ctrc,no,,
+,,BL,WOT,3500,26813,NNS,2000-05-01 00:00:00,2008-02-28 00:00:00,8 years,per ctrc,no,,
+,,BL,WOT,21500,26816,Sempra,2000-05-01 00:00:00,2005-04-30 00:00:00,5 years,per ctrc,no,,
+BL to WOT,153600,BL,WOT,40000,26884,EP Energy,2000-05-01 00:00:00,2005-10-31 00:00:00,5+ years,GF'd,yes,2004-10-31 00:00:00,
+,,EOT,WOT,306000,8255,SoCal,1989-10-01 00:00:00,2005-10-31 00:00:00,16+ years,GF'd,yes,2004-10-31 00:00:00,Year to year evergreen.  Terminate 730 days notice.
+,,EOT,WOT,40000,25841,PG&E,1998-02-01 00:00:00,2002-10-31 00:00:00,4+ years,GF'd,yes,2001-10-31 00:00:00,
+,,EOT,WOT,70000,26490,Agave**,1998-11-01 00:00:00,2003-10-31 00:00:00,5 years,GF'd,yes,2002-10-31 00:00:00,*See Shipper Options tab.  (**26606 is Adm Ctrc for 26490)
+,,EOT,WOT,21000,26511,PG&E,1998-11-01 00:00:00,2002-10-31 00:00:00,4 years,GF'd,yes,2001-10-31 00:00:00,
+,,EOT,WOT,8000,26683,APS,1999-03-01 00:00:00,2002-03-31 00:00:00,1 year,1 yr ext at max,yes,2001-09-30 00:00:00,
+,,EOT,WOT,40000,26758,Duke,2000-05-01 00:00:00,2005-04-30 00:00:00,5 years,GF'd,yes,2004-04-30 00:00:00,
+,,EOT,WOT,10000,26819,Reliant,2000-05-01 00:00:00,2005-04-30 00:00:00,5 years,GF'd,yes,2004-04-30 00:00:00,
+,,EOT,WOT,14000,27252,SWG,2000-11-01 00:00:00,2010-10-31 00:00:00,10 years,not max,no,,"(Seasonal, each year for Nov - Mar)"
+,,EOT,WOT,49000,27293,Sempra,2000-11-01 00:00:00,2001-10-31 00:00:00,1 year,not max,no,,
+,,EOT,WOT,20000,27340,Oneok,2001-02-01 00:00:00,2002-01-31 00:00:00,1 year,max rate,yes,2001-07-31 00:00:00,
+,,EOT,WOT,3000,22037,SWG,1993-02-01 00:00:00,1994-01-31 00:00:00,1 year,FTS-2,no,,
+,,EOT,WOT,400,26635,Mercado,1999-01-01 00:00:00,2001-12-31 00:00:00,2 years,max rate,yes,Expired,
+EOT to WOT,581400,EOT,WOT,14000,27334,APS,2001-04-01 00:00:00,2001-10-31 00:00:00,0 year,less than year,no,,
+IG/BL to WOT,90000,IG/BL,WOT,90000,25071,BP Energy,1996-12-01 00:00:00,2008-11-30 00:00:00,12 years,GF'd,yes,2007-11-30 00:00:00,"*See Shipper Options tab. (60,000/d from IG, 90,000/d from BL)"
+,,TH,WOT,10000,20747,Conoco,1992-03-01 00:00:00,2002-02-28 00:00:00,10 years,GF'd,yes,Expired,Month to month evergreen. Terminate 365 days notice.
+,,TH,WOT,10000,20748,Conoco,1992-03-01 00:00:00,2002-02-28 00:00:00,10 years,GF'd,yes,Expired,Month to month evergreen. Terminate 365 days notice.
+,,TH,WOT,25000,20822,Citizens,1992-03-01 00:00:00,2007-02-28 00:00:00,15 years,GF'd,yes,2006-02-28 00:00:00,Year to year evergreen.  Terminate 730 days notice.
+,,TH,WOT,150000,21165,PG&E,1992-03-16 00:00:00,2007-03-31 00:00:00,15 years,GF'd,yes,2006-03-31 00:00:00,Year to year evergreen.  Terminate 365 days notice.
+,,TH,WOT,20000,25924,Texaco,1998-03-01 00:00:00,2007-02-28 00:00:00,9 years,GF'd,yes,2006-02-28 00:00:00,
+,,TH,WOT,25000,26372,Duke,1998-11-01 00:00:00,2007-03-31 00:00:00,8 years,GF'd,yes,2006-03-31 00:00:00,
+TH to WOT,265000,TH,WOT,25000,26678,EP Energy,1999-04-01 00:00:00,2007-03-31 00:00:00,8 years,GF'd,yes,2006-03-31 00:00:00,
+WOT to WOT,1300,WOT,WOT,1300,27583,NNS,2001-05-01 00:00:00,2002-03-31 00:00:00,0 year,less than year,no,,Same mainline capacity as ctrc # 26813
+,Total,Unsubscribed,,,,,,,,,,,
+WOT,1090000,0,,,,,,,,,,,
+SJ (BL to TH),849946,54,,,,,,,,,,,
+IG,476000,0,,,,,,,,,,,
+S.IG,172200,32800,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,FUTURE START DATES:,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,BL,TH,32500,27534,Mavrix,2002-01-01 00:00:00,2003-12-31 00:00:00,2 years,max rate,yes,2003-06-30 00:00:00,
+,,BL,WOT,13500,27457,Dynegy,2001-12-01 00:00:00,2001-12-31 00:00:00,0 year,less than year,no,,
+,,BL,WOT,27500,27454,Reliant,2002-01-01 00:00:00,2002-12-31 00:00:00,1 year,neg. rate,no,,
+,,BL,WOT,20000,27566,Conoco,2002-03-01 00:00:00,2007-03-31 00:00:00,5+ years,max rate,yes,2006-03-31 00:00:00,
+,,BL,WOT,21500,27456,Dynegy,2002-11-01 00:00:00,2002-12-31 00:00:00,0 year,less than year,no,,
+,,BL,WOT,14000,27458,Calpine,2003-01-01 00:00:00,2005-12-31 00:00:00,3 years,neg. rate,no,,
+,,BL,WOT,35000,27504,Sempra,2004-01-01 00:00:00,2005-12-31 00:00:00,2 years,neg. rate,no,,
+,,EOT,WOT,21500,27352,Sempra,2001-11-01 00:00:00,2002-10-31 00:00:00,1 year,not max,no,,
+,,EOT,WOT,27500,27581,Mavrix***,2001-11-01 00:00:00,2001-11-30 00:00:00,0 year,less than year,no,***Same seasonal Ctrc,
+,,EOT,WOT,14000,27581,Mavrix***,2001-12-01 00:00:00,2001-12-31 00:00:00,0 year,less than year,no,***Same seasonal Ctrc,
+,,EOT,WOT,14000,27581,Mavrix***,2002-04-01 00:00:00,2002-10-31 00:00:00,0 year,less than year,no,***Same seasonal Ctrc,
+,,EOT,WOT,14000,27581,Mavrix***,2003-04-01 00:00:00,2003-10-31 00:00:00,0 year,less than year,no,***Same seasonal Ctrc,
+,,IG,WOT,35000,27453,Dynegy,2003-01-01 00:00:00,2003-12-31 00:00:00,1 year,neg. rate,no,,

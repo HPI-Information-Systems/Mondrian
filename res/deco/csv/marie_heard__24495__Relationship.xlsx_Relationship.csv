@@ -1,0 +1,44 @@
+Counterparty,Parent,Enron Entity,Fin. MTM,Phy. MTM,Sales,Purchases,Net Del.,Net Phys.,Net Exp.,Max Exp.,In Coll.,Exposure
+Amoco Chemical Company,BP p.l.c.,"LOA, Inc.",0,0,-4110,0,-4110,-4110,0,0,,0
+Amoco Production Company,BP p.l.c.,Enron Reserve Acquisition Corp.,0,334307,602356,-3034280,-2431924,-2097617,0,936663,,0
+Arco Aluminum Inc,BP p.l.c.,Enron Metals & Commodity Limited,0,9847,364583,0,364583,374430,374430,374430,,374430
+BP Amoco Chemical Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,32097,785505,0,785505,817602,817602,817602,,817602
+BP Amoco Chemical Company,BP p.l.c.,Enron North America Corp.,-185319,0,0,0,0,0,0,0,,0
+BP Amoco Oil Company,BP p.l.c.,"Enron Gas Liquids, Inc.",0,-167934,3765221,-182175,3583046,3415112,3415112,3765221,,3415112
+BP Amoco Oil Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,35701,1585877,0,1585877,1621578,1621578,1621578,,1621578
+BP Amoco Oil Company,BP p.l.c.,Enron North America Corp.,-1407598,0,0,0,0,0,0,0,,0
+BP Canada Energy Company,BP p.l.c.,Enron Canada Corp.,0,-1893952,33087052,-26806768,6280284,4386332,4386332,33087052,,4386332
+BP Canada Energy Company,BP p.l.c.,Enron North America Corp.,0,-592688,1304754,-2415082,-1110328,-1703016,0,1304754,,0
+BP Canada Energy Marketing Corp.,BP p.l.c.,Enron North America Corp.,0,-134792,4274896,-5669073,-1394177,-1528969,0,4274896,,0
+BP Chemicals Inc.,BP p.l.c.,"Enron Gas Liquids, Inc.",0,0,-14429,0,-14429,-14429,0,0,,0
+BP Chemicals Inc.,BP p.l.c.,Enron North America Corp.,39856,0,0,0,0,0,39856,39856,,39856
+BP Chemicals Ltd.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,-296791,0,0,0,0,0,0,0,,0
+BP Chemicals Ltd.,BP p.l.c.,Enron Gas & Petrochemicals Trading Limited,0,44997,0,0,0,44997,44997,44997,,44997
+BP Chemicals Trading Ltd,BP p.l.c.,Enron Gas & Petrochemicals Trading Limited,0,103166,0,0,0,103166,103166,103166,,103166
+BP Corporation North America Inc.,BP p.l.c.,Enron Canada Corp.,1547,0,0,0,0,0,1547,1547,,1547
+BP Corporation North America Inc.,BP p.l.c.,"Enron Gas Liquids, Inc.",0,160734,0,0,0,160734,160734,160734,,160734
+BP Corporation North America Inc.,BP p.l.c.,Enron North America Corp.,50319725,146345,-135034,-562823,-697857,-551512,50319725,50466070,30400000,19919725
+BP Energy Company,BP p.l.c.,"Enron Energy Services, Inc.",0,0,580,0,580,580,580,580,,580
+BP Energy Company,BP p.l.c.,Enron North America Corp.,0,20855,19621808,-13419226,6202582,6223437,6223437,19642663,,6223437
+BP Energy Company,BP p.l.c.,"Enron Power Marketing, Inc.",0,47801309,158582255,-131728012,26854243,74655552,74655552,206383564,,74655552
+BP Energy Company,BP p.l.c.,"LOA, Inc.",0,0,-234122,0,-234122,-234122,0,0,,0
+BP Exploration & Oil Inc.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,-255106,0,0,0,0,0,0,0,,0
+BP Exploration & Oil Inc.,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,-382687,2275629,0,2275629,1892942,1892942,2275629,,1892942
+BP Exploration & Oil Inc.,BP p.l.c.,Enron North America Corp.,-2693099,0,0,0,0,0,0,0,,0
+BP Gas Marketing Limited,BP p.l.c.,Enron Capital & Trade Resources Limited,0,-18140864,11318137,-11376821,-58684,-18199548,0,11318137,,0
+BP International Ltd,BP p.l.c.,Enron Capital & Trade Resources International Corp.,0,-743889,0,0,0,-743889,0,0,,0
+BP Oil Espana SA,BP p.l.c.,"Enron Holdings 1, S.L.",0,81036,0,0,0,81036,81036,81036,,81036
+BP Oil International Limited,BP p.l.c.,Enron Capital & Trade Resources International Corp.,552129,204305,325284,-268349,56935,261240,813369,1081718,,813369
+BP Oil International Limited,BP p.l.c.,Enron Capital & Trade Resources Limited,0,-5718210,0,0,0,-5718210,0,0,,0
+BP Oil International Limited,BP p.l.c.,Enron Credit Limited,-231917,0,0,0,0,0,0,0,,0
+BP Oil International Limited,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,0,21285,0,21285,21285,21285,21285,,21285
+BP Oil International Limited,BP p.l.c.,Enron North America Corp.,-74046,0,0,0,0,0,0,0,,0
+BP Oil Refineria de Castellon,BP p.l.c.,"Enron Holdings 1, S.L.",0,0,14924268,0,14924268,14924268,14924268,14924268,,14924268
+BP Oil Supply Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,0,6521,0,6521,6521,6521,6521,,6521
+BP Oil Supply Company,BP p.l.c.,Enron North America Corp.,3055035,511571,0,0,0,511571,3566606,3566606,,3566606
+BP Oil Supply Company,BP p.l.c.,Enron Reserve Acquisition Corp.,0,4823438,67913050,-91846110,-23933060,-19109622,0,72736488,,0
+BP Shipping Limited,BP p.l.c.,Enron Capital & Trade Resources International Corp.,-30564,0,462,0,462,462,462,462,,462
+BP Shipping Limited,BP p.l.c.,"Enron Liquid Fuels, Inc.",0,0,-863578,1846,-861732,-861732,0,0,,0
+BP Singapore Pte. Ltd.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,551561,0,0,0,0,0,551561,551561,,551561
+BP Singapore Pte. Ltd.,BP p.l.c.,Enron Capital & Trade Resources Singapore Pte Ltd.,0,689977,13583134,-5578677,8004457,8694434,8694434,14273111,,8694434
+"Castrol Industrial North America, Inc.",BP p.l.c.,"Enron Energy Services, Inc.",0,100288,-12923,0,-12923,87365,87365,100288,,87365

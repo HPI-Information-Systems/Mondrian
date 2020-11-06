@@ -1,0 +1,80 @@
+CONFIDENTIAL,,,,,,,,,,,
+Transwestern Pipeline and PG&E Samples and Analytical Results,,,,,,,,,,,
+,,,,,,,,,,,
+Date ,Sample ID,,Volume Drained,,Comments,,,,PGE PCB,TW PCB,Location of sample point
+,,,,,,,,,,,Filter Scrubbers Downstream of
+2001-12-12 00:00:00,SLX-TW,12-12-01-L,0,,No liquid for sample,,,,,,Solexol Plant
+,,,,,,,,,,,TW's Filter Scrubber at TW/PG&E 
+2001-12-12 00:00:00,PGE-TW2,12-12-01-L,0,,No liquid for sample,,,,,,Metering Station
+,,,,,,,,,,,PG&E's Seperator at PG&E's
+2001-12-12 00:00:00,PGE-Top3,12-12-01-L,0,,No liquid for sample,,,,,,Compressor Station 1000 gal tank
+,,,,,,,,,,,Directly off PG&Es seperator
+2001-12-12 00:00:00,PGE-Top4,12-12-01-L,0,,No liquid for sample,,,,,,At PG&Es Compressor station
+,,,,,,,,,,,PG&E's Line A TCS
+2001-12-12 00:00:00,PGE-A6,12-12-01-L,,,No sample taken per PG&E,,,,,,Downstream Scrubber
+,,,,,,,,,,,PG&E's Line B TCS
+2001-12-12 00:00:00,PGE-B6,12-12-01-L,,,No sample taken per PG&E,,,,,,Downstream Scrubber
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-84.10A,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line A"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-63.26A,12-12-01-L,8 oz,,,,,,,2 PPM,"PG&E's 36"" Line A"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-63.26B,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-26.15A,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line A"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-26.15B,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-15.33A,12-12-01-L,8 oz,,,,,,,2 PPM,"PG&E's 36"" Line A"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE 10.84A,12-12-01-L,8 oz,,,,,,,2 PPM,"PG&E's 36"" Line A"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE 10.47B,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE 8.58A,12-12-01-L,,,No sample taken per PG&E,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE- 0.55B,12-12-01-L,0,,No liquid for sample,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-TW4,12-12-01-L,0,,No liquid for sample,,,,,,"TW 20"" 1st Siphon"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-TW5,12-12-01-L,0,,No liquid for sample,,,,,,"TW 20"" 2nd siphon"
+,,,,,,,,,,,
+2001-12-12 00:00:00,PGE-TW6,12-12-01-L,0,,No liquid for sample,,,,,,"TW 20"" 3rd Siphon"
+,,,,,,,,,,,Filter Scrubbers Downstream of
+,SLX-TW,,,,,,,,,,Solexol Plant
+,,,,,,,,,,,TW's Filter Scrubber at TW/PG&E 
+,PGE-TW2,,,,,,,,,,Metering Station
+,,,,,,,,,,,PG&E's Seperator at PG&E's
+,PGE-Top3,,,,,,,,,,Compressor Station 1000 gal tank
+,,,,,,,,,,,Directly off PG&Es seperator
+,PGE-Top4,,,,,,,,,,At PG&Es Compressor station
+,,,,,,,,,,,PG&E's Line A TCS
+,PGE-A6,,,,,,,,,,Downstream Scrubber
+,,,,,,,,,,,PG&E's Line B TCS
+,PGE-B6,,,,,,,,,,Downstream Scrubber
+,,,,,,,,,,,
+,PGE-84.10A,,,,,,,,,,"PG&Es 36"" Line A"
+,,,,,,,,,,,
+,PGE-63.26A,,,,,,,,,,"PG&Es 36"" Line A"
+,,,,,,,,,,,
+,PGE-63.26B,,,,,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+,PGE-26.15A,,,,,,,,,,"PG&Es 36"" Line A"
+,,,,,,,,,,,
+,PGE-26.15B,,,,,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+,PGE-15.33A,,,,,,,,,,"PG&Es 36"" Line A"
+,,,,,,,,,,,
+,PGE 10.84A,,,,,,,,,,"PG&Es 36"" Line A"
+,,,,,,,,,,,
+,PGE 10.47B,,,,,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+,PGE 8.58A,,,,,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+,PGE- 0.55B,,,,,,,,,,"PG&E's 36"" Line B"
+,,,,,,,,,,,
+,PGE-TW4,,,,,,,,,,"TW 20"" 1st Siphon"
+,,,,,,,,,,,
+,PGE-TW5,,,,,,,,,,"TW 20"" 2nd siphon"
+,,,,,,,,,,,
+,PGE-TW6,,,,,,,,,,"TW 20"" 3rd Siphon"

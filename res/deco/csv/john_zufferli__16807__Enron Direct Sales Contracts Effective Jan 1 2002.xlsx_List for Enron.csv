@@ -1,0 +1,35 @@
+Begin Date,End Date,Contract No,Qty MAX,Source Company Contract Submitter,Source Name,Sink Company Contract Submitter,Sink Name,Contract Name
+,,,,,,,,
+2002-01-01 07:00:00,2003-01-01 07:00:00,1947,10,Enron Canada Power Corp,ECP- ECPC FM Sell,Chevron Canada Resources,CH1A SR #2,ECPC-Chevron Cal02
+2002-01-01 07:00:00,2002-06-30 06:00:00,934,4,Enron Canada Power Corp,ECP- ECPC FM Sell,Lethbridge Iron Works Co. Ltd,LI1L LIW SR#1,Leth_iron_jan-jun02
+2001-10-10 06:00:00,2007-01-01 07:00:00,1421,2.5,Enron Canada Power Corp,ECP- ECPC FM Sell,Suncor Energy Marketing Inc,SR1A SCEM SR#1,Suncor_07_Revised
+,,,,,,,,
+2002-01-01 07:00:00,2002-04-01 07:00:00,1963,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef847 Q1of02 5MW Flat
+2002-01-02 15:00:00,2002-04-01 07:00:00,1964,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef848 Q1of02 5MW 6x16 NERC
+2002-01-02 15:00:00,2002-04-01 07:00:00,1976,10,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef941 Q1of02 10MW 6x16 NERC
+2002-01-02 15:00:00,2002-05-27 06:00:00,1951,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 1
+2002-01-02 15:00:00,2002-05-27 06:00:00,1957,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 1
+2002-01-02 15:00:00,2002-05-27 06:00:00,1967,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 1
+2002-01-01 07:00:00,2003-01-01 07:00:00,1950,25,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef224 Cal02 25MW Flat
+2002-01-01 07:00:00,2003-01-01 07:00:00,1965,25,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef851 Cal02 25MW Flat
+2002-01-01 07:00:00,2003-01-01 07:00:00,1966,25,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef906 Cal02 25MW Flat
+2002-01-01 07:00:00,2003-01-01 07:00:00,1973,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef916 Cal02 5MW Flat
+2002-01-01 07:00:00,2003-01-01 07:00:00,1974,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef938 Cal02 5MW Flat
+2002-01-01 07:00:00,2003-01-01 07:00:00,1975,15,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef939 Cal02 15MW Flat
+2001-02-01 07:00:00,2004-01-01 07:00:00,260,25,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,ECPC-EES-3YEARPart2
+2001-02-01 07:00:00,2003-01-01 07:00:00,259,25,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,ECPC-EES-2YEARPart2
+2002-05-28 14:00:00,2002-07-04 06:00:00,1952,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 2
+2002-05-28 14:00:00,2002-07-04 06:00:00,1958,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 2
+2002-05-28 14:00:00,2002-07-04 06:00:00,1968,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 2
+2002-07-05 14:00:00,2002-09-02 06:00:00,1953,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 3
+2002-07-05 14:00:00,2002-09-02 06:00:00,1959,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 3
+2002-07-05 14:00:00,2002-09-02 06:00:00,1969,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 3
+2002-09-03 14:00:00,2002-11-28 07:00:00,1954,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 4
+2002-09-03 14:00:00,2002-11-28 07:00:00,1960,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 4
+2002-09-03 14:00:00,2002-11-28 07:00:00,1970,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 4
+2002-11-29 15:00:00,2002-12-25 07:00:00,1955,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 5
+2002-11-29 15:00:00,2002-12-25 07:00:00,1961,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 5
+2002-11-29 15:00:00,2002-12-25 07:00:00,1971,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 5
+2002-12-26 15:00:00,2003-01-01 07:00:00,1956,35,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef839 Cal02 35MW 6x16 NERC Part 6
+2002-12-26 15:00:00,2003-01-01 07:00:00,1962,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef840 Cal02 5MW 6x16 NERC Part 6
+2002-12-26 15:00:00,2003-01-01 07:00:00,1972,5,Enron Canada Power Corp,ECP- ECPC FM Sell,"Encore Energy Solutions, L.P",EA1U EESA R#4,Enron BRef908 Cal02 5MW 6x16 NERC Part 6

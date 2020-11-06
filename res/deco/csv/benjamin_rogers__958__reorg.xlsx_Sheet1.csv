@@ -1,0 +1,18 @@
+Database Reorgs,Database Reorgs,Database Reorgs,Database Reorgs,Database Reorgs,Database Reorgs
+Databases,Current file size (GB),Actualsegment Size (GB),Future size,Space saved,Estimated time
+casp,21,10,16,5,2
+cprp,19,4,12,7,2
+dcfp,50,2,10,40,2
+ermtp,276,38,50,226,8
+erpp,8,1,5,3,1
+kmnap,45,7,12,33,4
+gblp,14,6,9,5,2
+pwrp1,65,14,30,35,3
+pwrp2,65,14,30,35,3
+rmsp,179,28,50,129,8
+sitp,43,3,10,33,3
+sitrp,54,8,20,34,5
+trdp,30,6,15,15,4
+tdsp,102,55,60,42,4
+,,,,,
+Totals:,971,196,329,642,

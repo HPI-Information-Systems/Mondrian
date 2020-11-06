@@ -1,0 +1,9 @@
+EnronOnline,,,,,,,,,,,,,,,,,,
+,Transaction Summary Report,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Transaction ID,Transaction Time,Counterparty Name,Commodity Group,Product Type,Product ID,Product Name,Buy Volume,Sell Volume,Units,Price,External User ID,Trader ID,Risk Book,Bridge,Contract ID,Deal ID,Begin Date,End Date
+1728799,2001-10-22 17:29:46,"Frito-Lay, Inc.",Natural Gas,US Gas Fin BasisSwap,36136,US Gas Basis     NWPL RkyMtn             Dec01           USD/MM,,10000,MMBtu,-0.795,TST99921,TKUYKEN,FT-ROCKIES,TAGG/ ERMS,96051745,Y49424.1,2001-12-01 21:00:00,2001-12-31 21:00:00
+1728800,2001-10-22 17:29:47,"Frito-Lay, Inc.",Natural Gas,US Gas Fin BasisSwap,36160,US Gas Basis     EP SanJuan              Dec01           USD/MM,10000,,MMBtu,-0.545,TST99921,TKUYKEN,GD-New-Jr,TAGG/ ERMS,96051745,Y49423.1,2001-12-01 21:00:00,2001-12-31 21:00:00
+1728803,2001-10-22 17:32:37,"Frito-Lay, Inc.",Natural Gas,US Gas Fin BasisSwap,36160,US Gas Basis     EP SanJuan              Dec01           USD/MM,10000,,MMBtu,-0.505,TST99921,TKUYKEN,GD-New-Jr,TAGG/ ERMS,96051745,Y49426.1,2001-12-01 21:00:00,2001-12-31 21:00:00
+1728804,2001-10-22 17:32:38,"Frito-Lay, Inc.",Natural Gas,US Gas Fin BasisSwap,36158,US Gas Basis     EP Permian              Dec01           USD/MM,,10000,MMBtu,0.045,TST99921,TKUYKEN,FT-Texas,TAGG/ ERMS,96051745,Y49425.1,2001-12-01 21:00:00,2001-12-31 21:00:00

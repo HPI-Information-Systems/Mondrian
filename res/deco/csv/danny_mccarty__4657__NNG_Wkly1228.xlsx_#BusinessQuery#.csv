@@ -1,0 +1,9 @@
+QueryRef,Domain,Universe,QueryName,Header,RowStrategy,ColumnStrategy,CreationDate,RefreshDate,RefreshOrder,Created By,Refreshed By,Action,AutoFit,AutoFormat,Description,User Strategy,Security Domain
+16,Universe,ET&S_MFE,Comm_CE,True,1,1,2001-04-17 14:23:07,2001-12-05 19:28:08,16,acohrs,skorbel,3,True,True,16.Comm_CE.ET&S_MFE.Universe,24,BOMain
+4,Universe,ET&S_MFE,Dem_CF,True,1,1,2001-02-27 22:24:09,2001-12-27 22:02:05,4,ACOHRS,jfiscus,3,True,True,4.Dem_CF.ET&S_MFE.Universe,24,BOMain
+17,Universe,ET&S_MFE,Dmnd_CE,True,1,1,2001-04-17 14:56:54,2001-12-06 21:27:15,17,acohrs,skorbel,3,True,True,17.Dmnd_CE.ET&S_MFE.Universe,24,BOMain
+7,Universe,ET&S_MFE,GraphForecast,True,2,4,2001-03-06 20:35:58,2001-03-16 17:32:46,7,ACOHRS,ACOHRS,3,True,True,7.GraphForecast.ET&S_MFE.Universe,2,BOMain
+11,Universe,ET&S_MFE,Market_Volume,True,1,1,2001-03-09 16:12:51,2001-03-09 16:12:51,11,ACOHRS,ACOHRS,3,True,True,11.Market_Volume.ET&S_MFE.Universe,24,BOMain
+6,Universe,ET&S_MFE,MFECommForecast,True,1,1,2001-03-01 16:00:27,2001-12-27 22:02:35,6,ACOHRS,jfiscus,3,True,True,6.MFECommForecast.ET&S_MFE.Universe,24,BOMain
+18,Universe,ET&S_MFE,storage,True,1,1,2001-05-08 15:06:43,2001-12-06 21:27:05,18,acohrs,skorbel,3,True,True,18.storage.ET&S_MFE.Universe,24,BOMain
+9,Universe,ET&S_MFE,Storage,True,1,1,2001-03-08 17:15:12,2001-03-08 17:15:12,9,ACOHRS,ACOHRS,3,True,True,9.Storage.ET&S_MFE.Universe,24,BOMain

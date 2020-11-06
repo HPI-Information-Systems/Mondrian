@@ -1,0 +1,69 @@
+,,,,,,,,,
+,,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary
+,,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary,Port   Summary
+,,,,,,,,,
+VESSEL,VESSEL,"LNG/C  ""HOEGH GALLEON""","LNG/C  ""HOEGH GALLEON""","LNG/C  ""HOEGH GALLEON""",Quantity as per B/L,Quantity as per B/L,Arrival Draught,Arrival Draught,Arrival Draught
+VOY.NO:,VOY.NO:,1,1,1,85462.964,85462.964,10.18 m,10.18 m,Fwd
+PORT,PORT,LAKE CHARLES,LAKE CHARLES,LAKE CHARLES,,,10.30 m,10.30 m,Aft
+,,,,,,,,,
+ITEM,OPERATION,OPERATION,OPERATION,DATE,TIME (LT),"REMARKS (Delays, Stoppages, etc. )","REMARKS (Delays, Stoppages, etc. )","REMARKS (Delays, Stoppages, etc. )","REMARKS (Delays, Stoppages, etc. )"
+1,End of Passage (E.O.P.),End of Passage (E.O.P.),End of Passage (E.O.P.),16.04.01.,02:18:00,,,,
+2,Arrived at Anchorage,Arrived at Anchorage,Arrived at Anchorage,16.04.01.,03:25:00,,,,
+3,Pilot Boarded,Pilot Boarded,Pilot Boarded,,,,,,
+4,Departed Anchorage,Departed Anchorage,Departed Anchorage,16.04.01.,07:12:00,,,,
+5,Berthing Pilot Boarded (Bay Pilot Disembarked),Berthing Pilot Boarded (Bay Pilot Disembarked),Berthing Pilot Boarded (Bay Pilot Disembarked),16.04.01.,09:25:00,,,,
+6,Tugs Made Fast,Tugs Made Fast,Tugs Made Fast,16.04.01.,14:31:00,,,,
+,,,,,,,,,
+7,Tugs Let Go,Tugs Let Go,Tugs Let Go,16.04.01.,17:30:00,,,,
+8,Commenced Mooring Operation (First Line),Commenced Mooring Operation (First Line),Commenced Mooring Operation (First Line),16.04.01.,16:30:00,,,,
+9,Pratique Granted,Pratique Granted,Pratique Granted,,,,,,
+10,N.O.R. Tendered/Accepted,N.O.R. Tendered/Accepted,N.O.R. Tendered/Accepted,16.04.01,17:38:00,Tendered,Tendered,Tendered,Tendered
+11,Pilot Disembarked,Pilot Disembarked,Pilot Disembarked,16.04.01.,17:39:00,,,,
+12,Completed Mooring Operations (All Fast),Completed Mooring Operations (All Fast),Completed Mooring Operations (All Fast),16.04.01.,17:38:00,,,,
+13,"Comm Cargo Measurement, Tank Monit, O2 sampl","Comm Cargo Measurement, Tank Monit, O2 sampl","Comm Cargo Measurement, Tank Monit, O2 sampl",,,,,,
+14,"Compl Cargo Measurement, Tank Monit, O2 sampl","Compl Cargo Measurement, Tank Monit, O2 sampl","Compl Cargo Measurement, Tank Monit, O2 sampl",,,,,,
+15,Custody Transfer,Custody Transfer,Custody Transfer,16.04.01.,19:25:00,LNG O.B. = 82094.855m3,LNG O.B. = 82094.855m3,LNG O.B. = 82094.855m3,LNG O.B. = 82094.855m3
+16,Comm.  Connecting Loading/Discharge Arms,Comm.  Connecting Loading/Discharge Arms,Comm.  Connecting Loading/Discharge Arms,16.04.01.,18:05:00,,,,
+17,Completed Connecting Loading/Discharge Arms,Completed Connecting Loading/Discharge Arms,Completed Connecting Loading/Discharge Arms,16.04.01.,18:20:00,,,,
+18,Commenced Purge/Cooldown,Commenced Purge/Cooldown,Commenced Purge/Cooldown,16.04.01.,19:50:00,Ship/shore lines,Ship/shore lines,Ship/shore lines,Ship/shore lines
+19,Completed Purge/Cooldown,Completed Purge/Cooldown,Completed Purge/Cooldown,16.04.01.,21:06:00,,,,
+20,Commenced Loading/Discharging Cargo,Commenced Loading/Discharging Cargo,Commenced Loading/Discharging Cargo,16.04.01.,21:06:00,,,,
+21,Emergency Shutdown Test,Emergency Shutdown Test,Emergency Shutdown Test,16.04.01.,18:40:00,,,,
+22,Loading/Discharging At Full Rate,Loading/Discharging At Full Rate,Loading/Discharging At Full Rate,16.04.01.,21:35:00,,,,
+23,,,,,,,,,
+24,,,,,,,,,
+25,Completed Loading/Discharging Cargo,,,17.04.01.,11:20:00,,,,
+26,Commenced Cargo Measurement/Tank Monitoring,,,17.04.01.,12:10:00,,,,
+27,Completed Cargo Measurement/Tank Monitoring,,,17.04.01.,12:50:00,,,,
+28,Custody Transfer,Custody Transfer,Custody Transfer,17.04.01.,12:10:00,,,,
+29,Comm.  Disconnecting Loading/Discharge Arms,Comm.  Disconnecting Loading/Discharge Arms,Comm.  Disconnecting Loading/Discharge Arms,17.04.01.,12:10:00,,,,
+30,Compl.  Disconnecting Loading/Discharging Arms,Compl.  Disconnecting Loading/Discharging Arms,Compl.  Disconnecting Loading/Discharging Arms,17.04.01.,12:44:00,,,,
+31,Disconnected Vapor Line ,Disconnected Vapor Line ,Disconnected Vapor Line ,17.04.01.,12:30:00,,,,
+32,,,,,,,,,
+33,,,,,,,,,
+34,,,,,,,,,
+35,Documents onboard,Documents onboard,Documents onboard,,,,,,
+,,,,,,,,,
+36,Pilot Boarded,Pilot Boarded,Pilot Boarded,18.04.01,13:43:00,,,,
+37,Tugs Made Fast,Tugs Made Fast,Tugs Made Fast,18.04.01,14:00:00,,,,
+38,Commenced Unmooring,Commenced Unmooring,Commenced Unmooring,18.04.01,14:05:00,,,,
+39,Ship Leaves Berth (Let Go),Ship Leaves Berth (Let Go),Ship Leaves Berth (Let Go),18.04.01,14:20:00,,,,
+40,Tugs Let Go,Tugs Let Go,Tugs Let Go,18.04.01,14:49:00,,,,
+41,Arrived at Anchorage,Arrived at Anchorage,Arrived at Anchorage,18.04.01,,,,,
+42,Berthing Pilot Disembarked,Berthing Pilot Disembarked,Berthing Pilot Disembarked,18.04.01,,,,,
+43,Left Anchorage,Left Anchorage,Left Anchorage,18.04.01,,,,,
+44,Pilot Disembarked,Pilot Disembarked,Pilot Disembarked,18.04.01,20:00:00,,,,
+45,Full Away on Passage (F.A.O.P.),Full Away on Passage (F.A.O.P.),Full Away on Passage (F.A.O.P.),18.04.01,21:00:00,,,,
+,,,,,,,,,
+ITEM,DISTANCE RUN,MILES,ITEM,BUNKER STATEMENT,,LNG,,FO,DO
+46,E.O.P. to Berth,90,50,On Board on Arrival,,82094.855,,4585,153
+47,Anchorage to Berth,82,51,Quantity Lifted,,,,0,0
+48,Berth to Anchorage,,52,Consumed,,,,85,0
+49,Berth F.A.O.P.,83,53,On Board Sailing F.A.O.P.,,9.272,,4500,153
+,,,,,,,,,
+  SIGNATURE,  SIGNATURE,,,,,,,,
+  Master ,  Master , Capt. Oe. Hansen, Capt. Oe. Hansen,,,,Departure Draught,Departure Draught,Departure Draught
+  Ch. Officer,  Ch. Officer,Rune Keiser,Rune Keiser,,,,8.4,8.4,Fwd
+  Agent,  Agent,,,,,,8.9,8.9,Aft
+,,,,,,,,,
+2018-07-23 00:00:00,2018-07-23 00:00:00,2018-07-23 10:02:04.610000,,,,,,,

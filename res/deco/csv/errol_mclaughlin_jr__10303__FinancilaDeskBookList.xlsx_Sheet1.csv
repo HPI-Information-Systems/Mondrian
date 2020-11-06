@@ -1,0 +1,70 @@
+BOOK_ID,LAST OFFICIALIZED,COMMODITY_CD,Active/Inactive,Book Adminstrator,Trading Group
+CHASE-X-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+CHASE-X-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+CHASE-X-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+EPMI-LT-NAMGMT-PRC,2001-02-05 00:00:00,PWRC,Active,Kori Loibl,Errol McLaughlin
+EPMI-LT-WNAMGMT-PRC,2001-02-05 00:00:00,PWR,Active,Kori Loibl,Errol McLaughlin
+FT-US/CAND-ERMS-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+FT-US/CAND-ERMS-GDL,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+FT-US/CAND-ERMS-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+FT-US/CAND-ERMS-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GARDEN-STATES-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-APEA PREPAY-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-APEA PREPAY-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-APEA PREPAY-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CAGE-SVC-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CAGE-SVC-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CAGE-SVC-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHA-MAH-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHA-MAH-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHA-MAH-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE1-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE9A-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE9A-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE9A-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE9-BAS,2001-01-08 00:00:00,NG,Inactive,Kori Loibl,Errol McLaughlin
+GAS-CHASE9-IDX,2001-01-08 00:00:00,NG,Inactive,Kori Loibl,Errol McLaughlin
+GAS-CHASE9-PRC,2001-01-08 00:00:00,NG,Inactive,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHII-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHII-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHII-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHIV-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHIV-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHIV-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHV-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHV-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-CHASE-MAHV-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-ECT-STRATEG-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-ECT-STRATEG-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-ENERGYAMER-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-ENERGYAMER-IDX,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-ENERGYAMER-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-EXEC-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-EXEC-GDL,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+GAS-EXEC-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+JL-COAL-SPEC-PRC,2001-02-05 00:00:00,COAL,Active,Kori Loibl,Errol McLaughlin
+JL-OIL-SPEC-PRC,2001-02-05 00:00:00,WTI,Active,Kori Loibl,Errol McLaughlin
+NG-CORP-AFF-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+NG-CORP-AFF-PRC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+NG-EXOTIC-BAS,1999-01-05 00:00:00,NG,Inactive,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-EXOTIC-GDL,1999-01-05 00:00:00,NG,Inactive,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-EXOTIC-PRC,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-FPL-HDG-BAS,2000-10-31 00:00:00,NG,Inactive,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-FPL-HDG-PRC,1999-12-30 00:00:00,NG,Inactive,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-LTX-BAS,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-LTX-GDL,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-LTX-PRC,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-MM-PRC,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-OPT2-XL-BAS,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin
+NG-OPT-XL-BAS,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin
+NG-OPT-XL-PRC,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin
+NG-PR-CAN-PRC,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-PRICE-BAS,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-PRICE-GDL,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+NG-PRICE-PRC,2001-02-05 00:00:00,NG,Active,"Joey Taylor, Bilal Bajwa",Errol McLaughlin
+OIL-NG-HDG-CAB-BAS,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+OIL-NG-HDG-CAB-GDL,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+OIL-NG-HDG-SPEC,2001-02-05 00:00:00,NG,Active,Kori Loibl,Errol McLaughlin
+OPTIONS-GDOPT-GDL,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin
+OPTIONS-PRICE-BAS,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin
+OPTIONS-PRICE-PRC,2001-02-05 00:00:00,NG,Active,Susan Scott,Errol McLaughlin

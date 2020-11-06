@@ -1,0 +1,36 @@
+EnronOnline,,,
+"Trade Counts by Country, Commodity, Category for Nov 28th, 2000",,,
+,,,
+,,,
+COUNTRY,COMMODITY,CATEGORY,COUNT
+Austria,Power,Physical,4
+Belgium,Natural Gas,Physical,2
+Canada,Natural Gas,Financial,17
+Canada,Natural Gas,Physical,345
+Germany,Coal,Physical,1
+Germany,Power,Physical,54
+Netherlands,Power,Physical,1
+Norway,Power,Financial,41
+Singapore,Oil Products,Financial,2
+Switzerland,Power,Physical,9
+United Kingdom,Crude,Financial,24
+United Kingdom,LPG,Financial,18
+United Kingdom,Metals,Financial,237
+United Kingdom,Natural Gas,Physical NBP,52
+United Kingdom,Oil Products,Financial,41
+United Kingdom,Power,Financial,23
+United Kingdom,Sea Freight,Financial,16
+USA,Coal,Physical,6
+USA,Crude,Financial,58
+USA,Crude,Physical,1
+USA,Emissions,Physical,4
+USA,LPG,Financial,8
+USA,LPG,Physical,10
+USA,Metals,Physical,2
+USA,Natural Gas,Financial,2126
+USA,Natural Gas,Physical,1730
+USA,Oil Products,Financial,15
+USA,Power,Financial,27
+USA,Power,Physical,345
+,,,
+,,Total,5219

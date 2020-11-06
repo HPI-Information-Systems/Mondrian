@@ -1,0 +1,38 @@
+,,Index,,,,,,,,,,,,,,,
+,,,,INVOICE SENT,,,,,,,,,,,,,
+,,,,INVOICE NOT SENT,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Development Cost for EnronOnline,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,"New Countries/
+Commodity",,Description,2001-01-01 00:00:00,2001-02-01 00:00:00,2001-03-01 00:00:00,2001-04-01 00:00:00,2001-05-01 00:00:00,2001-06-01 00:00:00,2001-07-01 00:00:00,2001-08-01 00:00:00,2001-09-01 00:00:00,2001-10-01 00:00:00,2001-11-01 00:00:00,2001-12-01 00:00:00,Total
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Chile--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Greece--Sea Freight,,Country Launch,,,25000,,,,,,,,,,25000
+,,Hong Kong--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Israel--Sea Freight,,Country Launch,,,25000,,,,,,,,,,25000
+,,Latvia--LPG,,Country Launch,,,25000,,,,,,,,,,25000
+,,Monaco--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Peru--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Russia--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Slovakia--Continental Power,,Country Launch,,,25000,,,,,,,,,,25000
+,,South Africa--Coal,,Country Launch,,,25000,,,,,,,,,,25000
+,,Taiwan--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,Turkey--Sea Freight,,Country Launch,,,25000,,,,,,,,,,25000
+,,China--Metals,,Country Launch,,,25000,,,,,,,,,,25000
+,,US --Pipeline Capacity-TW,,Initial Set Up,,85000,,,,,,,,,,,85000
+,,US --Pipeline Capacity-FGT,,Initial Set Up,,85000,,,,,,,,,,,85000
+,,US --Pipeline Capacity-NNG,,Initial Set Up,,75000,,,,,,,,,,,75000
+,,US --Pipeline Capacity-NNG,,Annual Support Fee,,35000,,,,,,,,,,,35000
+,,Total,,Total,0,280000,325000,0,0,0,0,0,0,0,0,0,605000
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Country &,,New Products,2001-01-01 00:00:00,2001-02-01 00:00:00,2001-03-01 00:00:00,2001-04-01 00:00:00,2001-05-01 00:00:00,2001-06-01 00:00:00,2001-07-01 00:00:00,2001-08-01 00:00:00,2001-09-01 00:00:00,2001-10-01 00:00:00,2001-11-01 00:00:00,2001-12-01 00:00:00,Total
+,,Commodity Group,,,,,,,,,,,,,,,
+,,Bandwidth,,IP Premium Transport,250000,,,,,,,,,,,,
+,,Brazil Power,,Phy Firm,,100000,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,Total,250000,100000,0,0,0,0,0,0,0,0,0,0,350000
+,,,,,,,,,,,,,,,,,
+,,,,Grand Total,250000,380000,325000,0,0,0,0,0,0,0,0,0,955000

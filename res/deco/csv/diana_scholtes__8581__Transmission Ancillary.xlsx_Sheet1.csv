@@ -1,0 +1,34 @@
+TRANSMISSION ANCILLARY TRENDS,,,,,,
+,,,,,,
+"Please note that Volume Management will add these charges on the back end.  This information is just FYI to help you calculate the ""true"" cost of transmission",,,,,,
+and does not necessarily reflect the exact charge that will be made. ,,,,,,
+These calculations are subject to change at any time,,,,,,**NOTE: this is an estimated range
+,,,,,,based on PAST bilings
+,Scheduling fees,Reactive Supply and Voltage,System Control and Dispatch fees,Line Losses,Notes:,Estimated Range 
+APS       ,,,,,,
+LLH,0.32,No charge until Commission has  allowed developed rate to be implemented  ,,2.5% of each MW reserved (paid back physically),,0.32
+HLH,0.58, ,,,,0.58
+IDAHO   ,,,,            *thru Sept '01*,,
+LLH,,,,3.6% x  (Palo Verde index price + $2),"June '01 to Sept '01, IPC will be fully loaded coming from the west, so they will be wheeling to Palo Verde.  ",$ 1.62 - 12.00
+HLH,,,,3.6% x  (Palo Verde index price + $2),The + $2  is the average cost to IPC to wheel from their system to PV,$ 1.62 - 12.01
+NPC,,,,,,
+LLH,0.10337,0.12019,,3.543835 x (MW's reserved x 0.0132),,$ 0.28 - 2.65
+HLH,0.10337,0.12019,,3.543835 x (MW's reserved x 0.0132),,$ 0.28 - 2.66
+PAC,,,,,,
+LLH,,,,Range between $3 - $12 / MWh,"Based on the average of the DJ index prices at Mic_C, 4 Corners, Palo Verde, and COB for ",$ 3.00 - 16.00 
+HLH,,,,Range between $3 - $12 / MWh,each hour of each day x # MW's reserved x .45,$ 3.00 - 16.01
+PUGET SOUND,,,,,,
+LLH,,0.009,8.89 per transaction (reservation) includes scheduling fees,none known at this time,,$ 0.50 - 8.89
+HLH,,0.015,8.89 per transaction (reservation) includes scheduling fees,,,$ 0.50 - 8.89
+SALT RIVER PROJECT,,,,,,
+LLH,,,2.3% of Dow Jones PV firm energy index,,,$ 2.86 - 8.36
+HLH,,,2.3% of Dow Jones PV firm energy index,,,$ 2.86 - 8.37
+SIERRA PACIFIC,,,,,,
+LLH,0.1649 x # MW's reserved,,9.1692 x (0.45 x # MW's reserved) x 0.0234,0.0234 x (# MW's wheeled) x Avg energy cost for the month as determined by transmission provider,,$ 1.21 - 6.46
+HLH,0.1649 x # MW's reserved,,9.1692 x (0.45 x # MW's reserved) x 0.0235,0.0234 x (# MW's wheeled) x Avg energy cost for the month as determined by transmission provider,,$ 1.21 - 6.47
+TUCSON,,,,,,
+LLH,$ 0.06 - 0.12,$ 0.22 - 0.46 ,,,,$ 0.28 - 0.58
+HLH,$ 0.06 - 0.12,$ 0.22 - 0.46,,,,$ 0.28 - 0.59
+WAPA CRSP,,,,,,
+LLH,,,,5.5% of  total $ amount of wheeled transmission,Losses for all pre-scheduled transactions shall be submitted using ONE E-tag for losses for all aggregated losses for the pre-scheduled day,$ 0.25 - 9.16
+HLH,,,,5.5% of  total $ amount of wheeled transmission,WAPA will calculate losses for all Real-time transactions and submit an aggregated loss schedule one week in arrears ,$ 0.25 - 9.16

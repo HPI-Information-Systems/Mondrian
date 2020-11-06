@@ -1,0 +1,6 @@
+,List of Available subsystems,,,,,,(off-line units included),,
+Not shown sub index,Subsystem Name ,# Buses  ,#Part Bus,Adjustment Type  ,Total Gen ,Net Intrchng,MaxImport,MaxExport,Change
+1,ERCOT_GENS,362,290,ExportSpecOff,40801.5,40648.5,0,14219.9,
+2,NORTH2001,85,74,ExportSpecOff,11296.2,11263.9,0,3178.6,
+3,SOUTH2001,226,177,ExportSpecOff,25643.3,25547,0,9317.3,
+4,WEST2001,51,39,ExportSpecOff,3862,3837.6,0,1724,

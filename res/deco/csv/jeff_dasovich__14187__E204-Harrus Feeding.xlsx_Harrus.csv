@@ -1,0 +1,19 @@
+Harrus Feeding Company,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,Total Cost,,
+Cost / lb.,60,40,35,5,0,,
+,Corn,Wheat,Barley,Hay,,,
+Pounds,0,0,0,0,0, =,24
+,,,,,Total lbs.,,
+,,,,,,,
+,,,,,,,
+,Units of Nutrient,,,,,,Daily
+,per Pound of Feedstuff,,,,Nutrient,,Requirement
+,Corn,Wheat,Barley,Hay,Total,,
+Fat Max,2,1,3,4,0,<=,100
+Fat Min,2,1,3,4,0,>=,25
+Prot. Min,20,15,15,10,0,>=,400
+Iron Min,4,7,6,5,0,>=,125
+Cal. Min,200,400,300,500,0,>=,6000

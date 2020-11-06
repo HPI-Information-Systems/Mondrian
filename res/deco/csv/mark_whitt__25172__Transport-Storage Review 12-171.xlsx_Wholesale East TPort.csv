@@ -1,0 +1,50 @@
+Wholesale - East Transport,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Buy/Sell,Pipeline/LDC,Shipper,Start Date,End Date,Receipt,Delivery,Tariff Type,Contract #,Demand,Commodity,Fuel,Max Volume,Current Balance,Termination Provisions,Assignment Provisions,Curing Period,Comments
+Release,Col Gulf,Col Gulf,1993-11-01 00:00:00,2002-05-31 00:00:00,Onshore,Mainline,,,1.0603,,,20000,,,,,"Term=yr to yr, evergreen with 6 month termination notice.  ENA acquired this from Access Energy in 1993"
+Release,Col Gulf,CES,2000-02-01 00:00:00,2002-10-31 00:00:00,"12,000 - #481 Erath, 12,000 - #44943 Henry, 6,000 - #9535 Venice",Rayne,,,1.0603,,,30000,,,,,"Onshore capacity - 6,000 day Venice receipt, CES has exclusive right of termination."
+Release,Col Gulf,CES,2000-02-01 00:00:00,2002-07-31 00:00:00,Venice,Rayne,,,1.0603,,,20000,,,,,"Onshore capacity - 20,000 day Venice receipt, CES has exclusive right of termination."
+Release,Col Gulf,CES,2000-02-01 00:00:00,2003-11-30 00:00:00,"24,000 - NGPL Chalkely, 16,000 - Venice","20,000 - Sonat Shadyside, 20,000 - FGT",,,1.0603,,,40000,,,,,"Onshore capacity - 16,000 of Venice capacity.  #19 in Transport Book"
+Release,Col Gulf,CES,2000-02-01 00:00:00,2004-10-31 00:00:00,"8,285 - Mobil Lowry, 8,774 - Erath, 3,200 - Henry, 5,395 - Venice",Rayne,,,1.0603,,,25654,,,,,"#25471, Onshore capacity - 5,395 venice capacity.  #20 in Transport Book"
+Release,Col Gulf,Col Gulf,1993-11-01 00:00:00,2009-10-31 00:00:00,Mainline,Leach,,,3.145,,,15000,,,,,"ENA acquired this from Access Energy in 1993, #17 in Transport Book"
+Release,Col Gulf,CES,2000-02-01 00:00:00,2005-04-30 00:00:00,Rayne,Leach,,,3.145,,,15000,,,,,"Mainline capacity, #21 in Transport Book"
+Release,Col Gulf,CES,2000-02-01 00:00:00,2002-03-31 00:00:00,Rayne,Leach,,,2.6805,,,30000,,,,,"#24770, Mainline capacity, #24 in the transport book"
+,,,,,,,,,,,,,,,,,
+ENA,Col Gas,CGAS,2001-05-01 00:00:00,2002-04-30 00:00:00,801 - Leach,4 BG&E,,,6.195,,,19293,,,,,ENA 
+Buy ,Col Gas,Col Gas,2001-04-01 00:00:00,2002-03-31 00:00:00,801 Leach,23n-2,,,6.195,,,4000,,,,,Cap Auction
+Buy ,Col Gas,Col Gas,2001-04-01 00:00:00,2002-03-31 00:00:00,801 Leach,19E,,,6.231,,,4000,,,,,Cap Auction
+Agency,Col Gas,CALP,1999-10-01 00:00:00,2000-07-07 00:00:00,Leach,E-34,,,0,,,40000,,,,,
+Buy,Col Gas,CALP,2001-11-01 00:00:00,2002-03-31 00:00:00,Leach,E-34,,,3.02,,,40000,,,,,#33941
+,,,,,,,,,,,,,,,,,
+Agency/St of FGT,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS1,,0.3717,,,2816,,,,,
+Agency/St of FGT,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS2,,0.7553,,,75,,,,,
+Agency/St of FGT,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS2,,0.7648,,,122,,,,,
+Agency/St of FGT,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS2,,0.3923,,,350,,,,,
+Buy  ,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS1,,0.3717,,,2002,,,,,
+Buy  ,FGT,FGT,2001-08-01 00:00:00,2001-08-31 00:00:00,Multiple,Multiple,FTS1,,0.3717,,,1100,,,,,
+Buy  ,FGT,FGT,2000-08-01 00:00:00,2020-07-31 00:00:00,zone 2,Multiple,FTS1,,0.3717,,,6669,,,,,
+,,,,,,,,,,,,,,,,,
+Agency,Koch,Entergy New Orleans,1999-04-01 00:00:00,2002-03-31 00:00:00,All receipts,Nopsi, ,,6.38,,,42500,,,,,"Seasonal MDQ, Nov-Mar 85,000 dth, April 42,500 dth, May-Sep 29,750 dth, Oct 42,500 dth"
+buy/sell,Koch,Ormet,2001-02-01 00:00:00,2003-06-30 00:00:00,,, ,,1.3566,,,15000,,,,,Reimbursement captured on sales ticket 548711
+,,,,,,,,,,,,,,,,,
+buy,iroq,iroq,1998-11-01 00:00:00,2006-11-01 00:00:00,1,2,,,14.312299999999999,,,2017,,,,,"14,957 mcf; $18.25 - winter; $14.6183 - summer; eff 8/31/98 tarrif rate is below negotiated rate - use tariff rate; eff 11/1/98 MDQ = 2017. Demand = $14.1678"
+buy,iroq,Boston Gas,1998-11-01 00:00:00,2008-04-01 00:00:00,  waddington ,wright, ,,8.3055,,,35465,,,,,BGC K#42001;$8.3862
+,,,,,,,,,,,,,,,,,
+buy,Nat Fuel,ECT,1998-11-01 00:00:00,2007-11-01 00:00:00,Niagara,Trco/Leidy, ,,6.1038,,,117,,,,,Demand charge billed on receipt volume of 117 DT's.  
+buy,Nat Fuel,ECT,2001-11-01 00:00:00,2002-10-31 00:00:00,Niagara,Trco/Leidy, ,,6.1038,,,9189,,,,,Demand charge billed on receipt volume
+,,,,,,,,,,,,,,,,,
+Agency,tennessee,Reliant - Entex,2000-01-01 00:00:00,2002-10-31 00:00:00,zone 1,zone 1,,,5.2701,,,4803,,,,, 
+Agency,tennessee,Reliant - Entex,2000-01-01 00:00:00,2002-10-31 00:00:00,zone 1,zone 1,,,5.45,,,3841,,,,, 
+Agency,tennessee,Reliant - Entex,1998-09-01 00:00:00,2002-10-31 00:00:00,FS-MA,,,,0.0185,,,709765,,,,,entex strg
+Agency,tennessee,Reliant - Entex,1998-09-01 00:00:00,2002-10-31 00:00:00,FS-MA,,,,1.15,,,14388,,,,,entex strg
+Agency,tennessee,La Gas Serv,1998-09-01 00:00:00,2002-10-31 00:00:00,FS-MA,,,,0.0185,,,11827,,,,,LGS strg
+Agency,tennessee,La Gas Serv,1998-09-01 00:00:00,2002-10-31 00:00:00,FS-MA,,,,1.15,,,209,,,,,LGS strg
+Agency,tennessee,La Gas Serv,1998-09-01 00:00:00,2002-10-31 00:00:00,zone 1,zone 1,,,5.61,,,90,,,,,LGS 
+buy ,tennessee,Tennessee,2001-11-01 00:00:00,2002-01-31 00:00:00,500L #010698,Broad Run - #020001,,,6.08,,,2500,,,,,"Dmean = $.18, Comm = $.02 plus ACA.  May not use for any other delivery point."
+Storage,tennessee,TGP,2001-12-01 00:00:00,2001-12-31 00:00:00,Storage,Storage,,,0.015,,,250000,,,,,
+Storage,tennessee,TGP,2001-06-01 00:00:00,2001-11-30 00:00:00,Storage,Storage,,,0.015,,,500000,,,,,
+buy,tennessee,Boston Gas,1999-07-01 00:00:00,2007-03-31 00:00:00,Z5 - Wright,Z6 - Various,,,10.7,,,35000,,,,,"13.36, see deal 224102"
+,,,,,,,,,,,,,,,,,
+Buy,Texas Gas,Sigicorp,2001-11-01 00:00:00,2002-03-31 00:00:00,8107  Evangeline,8046  mamou,,,0.01,,,18000,,,,,#200110000095
+,,,,,,,,,,,,,,,,,
+Storage,Col Gas,Chris Germany is checking on the status of this deal and will get back with us. (12/14/01 EB),,,,,,,,,,,,,,,

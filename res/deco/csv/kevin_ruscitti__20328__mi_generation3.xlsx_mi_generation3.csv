@@ -1,0 +1,922 @@
+Company Name,City,State,Plant Name,Plant City,Plant State >,Prime Mover,Unit Status Short Desc,Planned Online Year,Planned Online Month,Summer Capacity,Primary Fuel Type,Alternate Fuel Type
+"ABTco, Inc.",Troy,MI,Alpena Plant (ABTCO),Alpena,MI,STEAM,ACTIVE,1998,1,5.75,COAL,OTHER
+"ADA Cogeneration, L.P.",Ada,MI,Ada Cogeneration Limited Partn,Ada,MI,COMB CYC,ACTIVE,1998,1,29.4,GAS,OTHER
+"Alternative Power, L.P.",Chicopee,MA,Lyon Generating Facility,New Hudson,MI,COG,ACTIVE,1998,1,4.75,OTHER,OTHER
+"Alternative Power, L.P.",New Hudson,MI,C & C Generating Facility,Marshall,MI,GAS TURB,ACTIVE,1998,1,2.85,OTHER,OTHER
+BIO-Energy Partners,Oak Brook,IL,Venice Resources Gas Recovery,Lennon,MI,GAS TURB,ACTIVE,1998,1,0.1,OTHER,OTHER
+Bay City Electric Light & Power,Bay City,MI,Henry Station,Bay City,MI,INT COMB,ACTIVE,1998,1,15.58,OIL-L,OTHER
+Bay City Electric Light & Power,Bay City,MI,Saginaw Station,Bay City,MI,INT COMB,ACTIVE,1998,1,12.72,OIL-L,OTHER
+"Beaverton, City of",Not Given,,Beaverton,Beaverton,MI,HYDRO,ACTIVE,1998,1,0.96,WATER,OTHER
+Black River Power Co.,Cheboygan,MI,Alverno,Not Given,MI,HYDRO,ACTIVE,1998,1,0.98,WATER,OTHER
+CMS Enterprises Co.,Dearborn,MI,Grayling Generating Station,Grayling,MI,STEAM,ACTIVE,1998,1,18.09,WOOD,OTHER
+CMS Generation Co.,Dearborn,MI,Dearborn Industrial Generation LLC,Dearborn,MI,COMB CYC,ACTIVE,2000,3,550,GAS,OTHER
+CMS Generation Co.,Dearborn,MI,Dearborn Industrial Generation LLC,Dearborn,MI,GAS TURB,ACTIVE,1999,7,160,GAS,OTHER
+CMS Generation Co.,Dearborn,MI,Kalamazoo River Generating Station,Kalamazoo,MI,GAS TURB,ACTIVE,1999,6,63,GAS,OTHER
+CMS Generation Co.,Dearborn,MI,Livingston Generating Station,Gaylord,MI,GAS TURB,ACTIVE,1999,6,136,GAS,OTHER
+CMS Generation Co.,Dearborn,MI,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,671.3,GAS,OTHER
+CMS Generation Co.,Dearborn,MI,Moapa Energy Project,Dearborn,MI,COG,ACTIVE,1998,1,58.4,OTHER,OTHER
+CMS Generation Co.,Dearborn,MI,TES Filer City Station,Filer City,MI,STEAM,ACTIVE,1998,1,25,COAL,WOOD
+CMS Generation Genesee Co.,Dearborn,MI,Genesee Power Station - Limite,Flint,MI,STEAM,ACTIVE,1998,1,0.4,WOOD,OTHER
+CMS Generation Holdings Co.,Dearborn,MI,Genesee Power Station - Limite,Flint,MI,STEAM,ACTIVE,1998,1,19.26,WOOD,OTHER
+Cameron Gas & Electric Co.,Okemos,MI,Mix,Okemos,MI,HYDRO,ACTIVE,1998,1,0.14,WATER,OTHER
+"Cargill Salt, Inc.",Minneapolis,MN,Cargill Salt Inc,Saint Clair,MI,UNKNOWN,ACTIVE,1998,1,2.75,OTHER,OTHER
+Cascade Township,Grand Rapids,MI,Cascade Dam,Grand Rapids,MI,HYDRO,ACTIVE,1998,1,1.6,WATER,OTHER
+"Central Wayne Energy Recovery, L.P.",Dearborn Heights,MI,Central Wayne Air Quality and,Dearborn,MI,COG,ACTIVE,1998,1,22,OTHER,OTHER
+Champion International Corp.,Stamford,CT,Quinnesec Michigan,Norway,MI,COG,ACTIVE,1998,1,28,OTHER,OTHER
+Clinton Board of Public Works,Clinton,MI,Clinton (CLIN),Clinton,MI,INT COMB,ACTIVE,1998,1,2,GAS,OIL-L
+Clinton Board of Public Works,Clinton,MI,Clinton (CLIN),Clinton,MI,INT COMB,ACTIVE,1998,1,2.26,OIL-L,OTHER
+Cloverland Electric Coop,Dafter,MI,Dafter,Dafter,MI,INT COMB,ACTIVE,1998,1,7.7,OIL-L,OTHER
+Cloverland Electric Coop,Dafter,MI,Detour,De Tour Village,MI,INT COMB,ACTIVE,1998,1,5,OIL-L,OTHER
+Coastal Power Co.,Houston,TX,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,149.33,GAS,OTHER
+Coastal Power Co.,Houston,TX,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,1999,5,61.65,GAS,OTHER
+Coastal Power Co.,Houston,TX,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,1999,6,68.5,GAS,OTHER
+Coastal Power Co.,Houston,TX,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,2000,1,595.95,GAS,OTHER
+Coldwater Board of Public Utilities,Coldwater,MI,Coldwater,Coldwater,MI,INT COMB,ACTIVE,1998,1,9.5,GAS,OIL-L
+Coldwater Board of Public Utilities,Coldwater,MI,Coldwater,Coldwater,MI,INT COMB,ACTIVE,1998,1,3.25,OIL-L,OTHER
+Commonwealth Power Co.,Caledonia,MI,Hubbardston Dam,Caledonia,MI,HYDRO,ACTIVE,1998,1,0.24,WATER,OTHER
+Commonwealth Power Co.,Caledonia,MI,Irving,Hastings,MI,HYDRO,ACTIVE,1998,1,0.24,WATER,OTHER
+Commonwealth Power Co.,Caledonia,MI,Labarge,Caledonia,MI,HYDRO,ACTIVE,1998,1,0.68,WATER,OTHER
+Commonwealth Power Co.,Caledonia,MI,Middleville,Middleville,MI,HYDRO,ACTIVE,1998,1,0.2,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Adrian Energy Assoc. LLC,Not Given,MI,GAS TURB,ACTIVE,1998,1,2.5,OTHER,OTHER
+Consumers Energy Co.,Jackson,MI,Alcona,Black River,MI,HYDRO,ACTIVE,1998,1,8,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Allegan Dam,Allegan,MI,HYDRO,ACTIVE,1998,1,1.2,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,B.E. Morrow,Galesburg,MI,GAS TURB,ACTIVE,1998,1,28,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,B.E. Morrow,Galesburg,MI,GAS TURB,RETIRED,2003,1,-28,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Bio Energy Partners,Not Given,MI,GAS TURB,ACTIVE,1998,1,1.5,OTHER,OTHER
+Consumers Energy Co.,Jackson,MI,C.W. Tippy,Wellston,MI,HYDRO,ACTIVE,1998,1,5.4,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Campbell (CEC),West Olive,MI,GAS TURB,ACTIVE,1998,1,13,OIL-L,OTHER
+Consumers Energy Co.,Jackson,MI,Campbell (CEC),West Olive,MI,GAS TURB,RETIRED,2003,1,-13,OIL-L,OTHER
+Consumers Energy Co.,Jackson,MI,Campbell (CEC),West Olive,MI,STEAM,ACTIVE,1998,1,1346.29,COAL,OTHER
+Consumers Energy Co.,Jackson,MI,Cobb,Muskegon,MI,STEAM,ACTIVE,1998,1,300,COAL,OTHER
+Consumers Energy Co.,Jackson,MI,Cobb,Muskegon,MI,STEAM,OUT OF SVC,1998,1,0,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Cobb,Muskegon,MI,STEAM,RERATE,1999,4,6,COAL,OTHER
+Consumers Energy Co.,Jackson,MI,Cobb,Muskegon,MI,STEAM,SVC RETURN,1999,5,52,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Cooke,East Tawas,MI,HYDRO,ACTIVE,1998,1,7.5,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Croton,Not Given,MI,HYDRO,ACTIVE,1998,1,2.8,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Five Channels,Not Given,MI,HYDRO,ACTIVE,1998,1,6,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Foote,Not Given,MI,HYDRO,ACTIVE,1998,1,4.2,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Gaylord,Gaylord,MI,GAS TURB,ACTIVE,1998,1,70,GAS,OIL-L
+Consumers Energy Co.,Jackson,MI,Gaylord,Gaylord,MI,GAS TURB,RETIRED,2003,1,-70,GAS,OIL-L
+Consumers Energy Co.,Jackson,MI,Granger-Landfill,Not Given,MI,GAS TURB,ACTIVE,1998,1,5.34,OTHER,OTHER
+Consumers Energy Co.,Jackson,MI,Granger-Landfill,Not Given,MI,GAS TURB,RERATE,1998,1,0.74,OTHER,OTHER
+Consumers Energy Co.,Jackson,MI,Hardy,Not Given,MI,HYDRO,ACTIVE,1998,1,30.3,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Hodenpyl,Wellston,MI,HYDRO,ACTIVE,1998,1,4.6,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Karn,Essexville,MI,STEAM,ACTIVE,1998,1,515,COAL,OTHER
+Consumers Energy Co.,Jackson,MI,Karn,Essexville,MI,STEAM,ACTIVE,1998,1,638,GAS,OIL-H
+Consumers Energy Co.,Jackson,MI,Karn,Essexville,MI,STEAM,ACTIVE,1998,1,638,OIL-H,OTHER
+Consumers Energy Co.,Jackson,MI,Loud,East Tawas,MI,HYDRO,ACTIVE,1998,1,4.4,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Ludington,Ludington,MI,HYDRO,ACTIVE,1998,1,954.54,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Mio,Mio,MI,HYDRO,ACTIVE,1998,1,1.6,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,ACTIVE,1998,1,762,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1998,4,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1998,6,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1998,7,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1998,12,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1999,5,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,1999,10,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,OUT OF SVC,2000,2,-760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,RERATE,1998,1,-2,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,RETIRED,2007,3,0,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,SVC RETURN,1998,6,1520,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,SVC RETURN,1998,7,760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,SVC RETURN,1999,1,760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,SVC RETURN,1999,5,760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Palisades (CEC),Covert,MI,NUCLEAR,SVC RETURN,1999,12,760,URAN,OTHER
+Consumers Energy Co.,Jackson,MI,Rogers,Stanwood,MI,HYDRO,ACTIVE,1998,1,1.6,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Straits,Not Given,MI,GAS TURB,ACTIVE,1998,1,16,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Straits,Not Given,MI,GAS TURB,RETIRED,2003,1,-16,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Thetford,Mount Morris,MI,GAS TURB,ACTIVE,1998,1,73,GAS,OIL-L
+Consumers Energy Co.,Jackson,MI,Thetford,Mount Morris,MI,GAS TURB,ACTIVE,1998,1,119,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Thetford,Mount Morris,MI,GAS TURB,RETIRED,2003,1,-73,GAS,OIL-L
+Consumers Energy Co.,Jackson,MI,Thetford,Mount Morris,MI,GAS TURB,RETIRED,2003,1,-119,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Venice Resources Gas Recovery,Lennon,MI,GAS TURB,ACTIVE,1998,1,1.5,OTHER,OTHER
+Consumers Energy Co.,Jackson,MI,Weadock,Essexville,MI,GAS TURB,ACTIVE,1998,1,13,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Weadock,Essexville,MI,GAS TURB,RETIRED,2003,1,-13,GAS,OTHER
+Consumers Energy Co.,Jackson,MI,Weadock,Essexville,MI,STEAM,ACTIVE,1998,1,310,COAL,OTHER
+Consumers Energy Co.,Jackson,MI,Webber,Vestaburg,MI,HYDRO,ACTIVE,1998,1,0.9,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Webber,Vestaburg,MI,HYDRO,RETIRED,2001,1,-0.9,WATER,OTHER
+Consumers Energy Co.,Jackson,MI,Whiting (CEC),Luna Pier,MI,GAS TURB,ACTIVE,1998,1,13,OIL-L,OTHER
+Consumers Energy Co.,Jackson,MI,Whiting (CEC),Luna Pier,MI,GAS TURB,RETIRED,2003,1,-13,OIL-L,OTHER
+Consumers Energy Co.,Jackson,MI,Whiting (CEC),Luna Pier,MI,STEAM,ACTIVE,1998,1,310,COAL,OTHER
+Copper Range Co.,White Pine,MI,Copper Range Co.,White Pine,MI,COG,ACTIVE,1998,1,60,OTHER,OTHER
+Croswell Municipal Light & Power Dept.,Croswell,MI,Croswell Plant,Croswell,MI,INT COMB,ACTIVE,1998,1,4.02,OIL-L,GAS
+Croswell Municipal Light & Power Dept.,Croswell,MI,Croswell Plant,Croswell,MI,INT COMB,ACTIVE,1998,1,1.21,OIL-L,OTHER
+Crown Paper Co.,Oakland,CA,Crown Paper Parchment Plant,Parchment,MI,STEAM,ACTIVE,1998,1,18,GAS,OTHER
+Crystal Falls Electrical Dept.,Crystal Falls,MI,Crystal Falls (CFLLS),Crystal Falls,MI,HYDRO,ACTIVE,1998,1,1,WATER,OTHER
+"Decker Energy International, Inc.",Winter Park,FL,Cadillac Renewable Energy,Cadillac,MI,STEAM,ACTIVE,1998,1,17,WOOD,OTHER
+"Decker Energy International, Inc.",Winter Park,FL,Grayling Generating Station,Grayling,MI,STEAM,ACTIVE,1998,1,10.85,WOOD,OTHER
+"Decker Energy International, Inc.",Winter Park,FL,Michigan,Not Given,MI,GAS TURB,ACTIVE,2002,1,500,GAS,OTHER
+"Decker Energy International, Inc.",Winter Park,FL,Michigan Ii [Undetermined Site],Not Given,MI,GAS TURB,ACTIVE,2003,1,500,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Beacon Heating,Detroit,MI,STEAM,ACTIVE,1998,1,18,GAS,OIL-L
+Detroit Edison Co.,Detroit,MI,Belle River,East China Twp,MI,GAS TURB,ACTIVE,1999,7,82,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Belle River,East China Twp,MI,GAS TURB,ACTIVE,2000,3,164,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Belle River,East China Twp,MI,INT COMB,ACTIVE,1998,1,14,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Belle River,East China Twp,MI,STEAM,ACTIVE,1998,1,1041.8,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Colfax (DETED),Fowlerville,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Conners Creek,Detroit,MI,INT COMB,ACTIVE,1998,1,5.5,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Conners Creek,Detroit,MI,STEAM,OUT OF SVC,1998,1,0,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Conners Creek,Detroit,MI,STEAM,RERATE,2000,1,13,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Conners Creek,Detroit,MI,STEAM,SVC RETURN,1999,6,236,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Dayton (DETED),Not Given,MI,INT COMB,ACTIVE,1998,1,10,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Delray,Detroit,MI,GAS TURB,ACTIVE,1999,6,124,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,GAS TURB,ACTIVE,1998,1,51,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,ACTIVE,1998,1,1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,OUT OF SVC,1998,2,-1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,OUT OF SVC,1998,7,-1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,OUT OF SVC,1998,9,-1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,OUT OF SVC,1998,11,-1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,OUT OF SVC,1999,5,-1110,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,RERATE,1999,4,25,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,SVC RETURN,1998,2,1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,SVC RETURN,1998,7,1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,SVC RETURN,1998,10,1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,SVC RETURN,1998,11,1085,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Fermi,Newport,MI,NUCLEAR,SVC RETURN,1999,5,1110,URAN,OTHER
+Detroit Edison Co.,Detroit,MI,Greenwood,Avoca,MI,GAS TURB,ACTIVE,1999,6,226,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Greenwood,Avoca,MI,STEAM,ACTIVE,1998,1,775,OIL-H,GAS
+Detroit Edison Co.,Detroit,MI,Hancock (DETED),Not Given,MI,GAS TURB,ACTIVE,1998,1,141,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Harbor Beach,Harbor Beach,MI,INT COMB,ACTIVE,1998,1,4,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Harbor Beach,Harbor Beach,MI,STEAM,ACTIVE,1998,1,103,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Landfill,Not Given,MI,GAS TURB,ACTIVE,1998,1,40.3,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,Landfill,Not Given,MI,GAS TURB,ACTIVE,1998,6,4.22,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,Landfill,Not Given,MI,GAS TURB,ACTIVE,1998,7,4.07,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,Landfill,Not Given,MI,GAS TURB,ACTIVE,2000,1,18,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,Ludington,Ludington,MI,HYDRO,ACTIVE,1998,1,917.16,WATER,OTHER
+Detroit Edison Co.,Detroit,MI,Marysville,Marysville,MI,STEAM,ACTIVE,1998,1,200,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Monroe (DETED),Monroe,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Monroe (DETED),Monroe,MI,STEAM,ACTIVE,1998,1,3000,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Northeast (DETED),Warren,MI,GAS TURB,ACTIVE,1998,1,59,GAS,OTHER
+Detroit Edison Co.,Detroit,MI,Northeast (DETED),Warren,MI,GAS TURB,ACTIVE,1998,1,17,OIL-L,GAS
+Detroit Edison Co.,Detroit,MI,Northeast (DETED),Warren,MI,GAS TURB,ACTIVE,1998,1,39,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Oliver,Not Given,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Placid 12,Not Given,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Putnam (DETED),Not Given,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Refuse (DETED),Not Given,MI,GAS TURB,ACTIVE,1998,1,7,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,Refuse (DETED),Not Given,MI,STEAM,ACTIVE,1998,1,29,TRASH,OTHER
+Detroit Edison Co.,Detroit,MI,River Rouge,River Rouge,MI,INT COMB,ACTIVE,1998,1,11,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,River Rouge,River Rouge,MI,STEAM,ACTIVE,1998,1,500,COAL,OIL-H
+Detroit Edison Co.,Detroit,MI,Slocum,Not Given,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,St. Clair,East China,MI,GAS TURB,ACTIVE,1998,1,19,OIL-L,GAS
+Detroit Edison Co.,Detroit,MI,St. Clair,East China,MI,INT COMB,ACTIVE,1998,1,5.5,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,St. Clair,East China,MI,STEAM,ACTIVE,1998,1,650,COAL,OIL-H
+Detroit Edison Co.,Detroit,MI,St. Clair,East China,MI,STEAM,ACTIVE,1998,1,756,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Superior,Not Given,MI,GAS TURB,ACTIVE,1998,1,52,OIL-L,OTHER
+Detroit Edison Co.,Detroit,MI,Total Of 4 Facilities,Not Given,MI,HYDRO,ACTIVE,1998,1,4,WATER,OTHER
+Detroit Edison Co.,Detroit,MI,Trenton Channel,Trenton,MI,STEAM,ACTIVE,1998,1,210,COAL,OIL-L
+Detroit Edison Co.,Detroit,MI,Trenton Channel,Trenton,MI,STEAM,ACTIVE,1998,1,515,COAL,OTHER
+Detroit Edison Co.,Detroit,MI,Wilmont,Kingston,MI,INT COMB,ACTIVE,1998,1,13.75,OIL-L,OTHER
+Detroit Public Lighting Dept.,Detroit,MI,Mistersky,Detroit,MI,GAS TURB,ACTIVE,1998,1,25,OIL-L,OTHER
+Detroit Public Lighting Dept.,Detroit,MI,Mistersky,Detroit,MI,STEAM,ACTIVE,1998,1,104,OIL-H,GAS
+Detroit Public Lighting Dept.,Detroit,MI,Mistersky,Detroit,MI,STEAM,ACTIVE,1998,1,50,OIL-H,OTHER
+Dow Chemical Co.,Midland,MI,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,102.75,GAS,OTHER
+Dow Chemical Co.,Midland,MI,The Dow Chemical Co.,Ludington,MI,COG,ACTIVE,1998,1,11.5,OTHER,OTHER
+Dow Corning Corp.,Midland,MI,Dow Corning Midland Plant,Midland,MI,COG,ACTIVE,1998,1,22.5,OTHER,OTHER
+Dowagiac Dept. of Public Services,Dowagiac,MI,Dowagiac,Dowagiac,MI,INT COMB,ACTIVE,1998,1,1,GAS,OIL-L
+Dunn/Seco Partners,Port Huron,MI,Dunn/SECO Partners,Port Huron,MI,COG,ACTIVE,1998,1,16.86,OTHER,OTHER
+"EQ-Waste Energy Services, Inc.",Belleville,MI,EQ - Waste Energy Services In,Belleville,MI,COG,ACTIVE,1998,1,1.55,OTHER,OTHER
+Edison Sault Electric Co.,Sault Sainte Marie,MI,Edison Sault,Sault Sainte Marie,MI,HYDRO,ACTIVE,1998,1,29.76,WATER,OTHER
+Edison Sault Electric Co.,Sault Sainte Marie,MI,Manistique,Not Given,MI,INT COMB,ACTIVE,1998,1,4.8,OIL-L,OTHER
+Escanaba Municipal Electric Utility,Escanaba,MI,Escanaba,Escanaba,MI,STEAM,ACTIVE,1998,1,26.25,COAL,OTHER
+Fletcher Paper Co.,Alpena,MI,Fletcher Paper Co.,Alpena,MI,COG,ACTIVE,1998,1,4.65,OTHER,OTHER
+Ford Motor Co.,Dearborn,MI,Rawsonville Plant Ford Motor,Ypsilanti,MI,HYDRO,ACTIVE,1998,1,4.5,WATER,OTHER
+Ford Motor Co.,Dearborn,MI,Rouge Powerhouse #1,Dearborn,MI,COG,ACTIVE,1998,1,345,COAL,GAS
+Ford Motor Co.,Dearborn,MI,Rouge Powerhouse #1,Dearborn,MI,COG,RETIRED,1999,2,-345,COAL,GAS
+Fort James Corp.,Deerfield,IL,Recycled Board Division,Kalamazoo,MI,COG,ACTIVE,1998,1,11.8,OTHER,OTHER
+French Paper Co.,Niles,MI,French Paper Co. - Hydro,Niles,MI,COG,ACTIVE,1998,1,1.3,OTHER,OTHER
+General Motors Corp.,Detroit,MI,NAO GM Pontiac Power Plant,Pontiac,MI,COG,ACTIVE,1998,1,28.94,OTHER,OTHER
+General Motors Corp.,Detroit,MI,Powertrain Warren - GMC,Warren,MI,COG,ACTIVE,1998,1,4,OTHER,OTHER
+General Motors Corp.,Detroit,MI,Romulus Operations-Powertrain,Romulus,MI,COG,ACTIVE,1998,1,10.72,OTHER,OTHER
+"Genesee Power Partners, L.P.",Not Given,,Genesee Power Station - Limite,Flint,MI,STEAM,ACTIVE,1998,1,19.65,WOOD,OTHER
+Georgia Pacific Corp.,Atlanta,GA,Grand Rapids East,Grand Rapids,MI,UNKNOWN,ACTIVE,1998,1,1,OTHER,OTHER
+Georgia Pacific Corp.,Atlanta,GA,Kalamazoo Paper Division,Kalamazoo,MI,COG,ACTIVE,1998,1,11.5,OTHER,OTHER
+Grand Haven Board of Light & Power,Grand Haven,MI,Diesel Plant  (GHLP),Grand Haven,MI,INT COMB,ACTIVE,1998,1,11,GAS,OIL-L
+Grand Haven Board of Light & Power,Grand Haven,MI,Diesel Plant  (GHLP),Grand Haven,MI,INT COMB,ACTIVE,1998,1,4.5,OIL-H,OIL-L
+Grand Haven Board of Light & Power,Grand Haven,MI,Diesel Plant  (GHLP),Grand Haven,MI,INT COMB,ACTIVE,1998,1,2.5,OIL-L,OTHER
+Grand Haven Board of Light & Power,Grand Haven,MI,Sims,Grand Haven,MI,STEAM,ACTIVE,1998,1,66.3,COAL,OIL-H
+Granger Electric Co.,Lansing,MI,Brent Run Generating Station,Montrose,MI,GAS TURB,ACTIVE,1998,11,1.37,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Grand Blanc Generating Station,Not Given,MI,GAS TURB,ACTIVE,1998,1,2.4,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Granger Electric Generating Station I,Lansing,MI,GAS TURB,ACTIVE,1998,1,2.4,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Granger Electric Generating Station I,Lansing,MI,GAS TURB,RERATE,1998,1,0.74,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Granger Electric Generating Station II,Grand Ledge,MI,GAS TURB,ACTIVE,1998,1,3.14,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Ottawa Generating Station,Not Given,MI,GAS TURB,ACTIVE,1998,1,4.8,OTHER,OTHER
+Granger Electric Co.,Lansing,MI,Seymour Road Generating Statio,Montrose,MI,GAS TURB,ACTIVE,1998,1,1.6,OTHER,OTHER
+Great Lakes Tissue,Cheboygan,MI,Cheboygan,Cheboygan,MI,HYDRO,ACTIVE,1998,1,1.5,WATER,OTHER
+"Grenfell Hydro, Inc.",Belding,MI,Belding,Kingsford,MI,HYDRO,ACTIVE,1998,1,0.28,WATER,OTHER
+Hart Hydro Electric Dept.,Hart,MI,Hart,Hart,MI,INT COMB,ACTIVE,1998,1,1.69,GAS,OIL-L
+Hart Hydro Electric Dept.,Hart,MI,Hart,Hart,MI,INT COMB,ACTIVE,1998,1,2.5,OIL-L,GAS
+Hart Hydro Electric Dept.,Hart,MI,Hart,Hart,MI,INT COMB,ACTIVE,1998,1,0.56,OIL-L,OTHER
+Hart Hydro Electric Dept.,Hart,MI,Hart Hydro,Hart,MI,HYDRO,ACTIVE,1998,1,0.32,WATER,OTHER
+"Hillman, L.P.",Hillman,MI,Hillman - HILLM,Hillman,MI,STEAM,ACTIVE,1998,1,16,WOOD,OTHER
+Hillsdale Board of Public Utilities,Hillsdale,MI,Hillsdale,Hillsdale,MI,INT COMB,ACTIVE,1998,1,17.85,GAS,OIL-L
+Hillsdale Board of Public Utilities,Hillsdale,MI,Hillsdale,Hillsdale,MI,INT COMB,ACTIVE,1998,1,1.92,OIL-L,OTHER
+Holland Board of Public Works,Holland,MI,491 E. 48th Street,Holland,MI,GAS TURB,ACTIVE,1998,1,75.3,GAS,OIL-L
+Holland Board of Public Works,Holland,MI,491 E. 48th Street,Holland,MI,GAS TURB,ACTIVE,2000,7,80,GAS,OTHER
+Holland Board of Public Works,Holland,MI,James De Young,Holland,MI,STEAM,ACTIVE,1998,1,20.5,COAL,GAS
+Holland Board of Public Works,Holland,MI,James De Young,Holland,MI,STEAM,ACTIVE,1998,1,37.5,COAL,OTHER
+Holland Board of Public Works,Holland,MI,Sixth Street Mi,Holland,MI,GAS TURB,ACTIVE,1998,1,20,OIL-L,OTHER
+Hutzel Hospital,Detroit,MI,Hutzel Hospital,Detroit,MI,COG,ACTIVE,1998,1,1.6,OTHER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Berrien Springs,Berrien Springs,MI,HYDRO,ACTIVE,1998,1,3.36,WATER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Berrien Springs,Berrien Springs,MI,HYDRO,RERATE,1998,4,1.88,WATER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Berrien Springs,Berrien Springs,MI,HYDRO,RERATE,1998,8,0.32,WATER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Buchanan (INMI),Buchanan,MI,HYDRO,ACTIVE,1998,1,1.7,WATER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Constantine,Quincy,MI,HYDRO,ACTIVE,1998,1,0.88,WATER,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Donald C. Cook,Bridgman,MI,NUCLEAR,OUT OF SVC,1998,1,0,URAN,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Donald C. Cook,Bridgman,MI,NUCLEAR,RERATE,1999,10,0,URAN,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Donald C. Cook,Bridgman,MI,NUCLEAR,SVC RETURN,2000,5,1115,URAN,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Donald C. Cook,Bridgman,MI,NUCLEAR,SVC RETURN,2000,9,1000,URAN,OTHER
+Indiana Michigan Power Co.,Fort Wayne,IN,Mottville,White Pigeon,MI,HYDRO,ACTIVE,1998,1,0.88,WATER,OTHER
+"Jackson, County of",Jackson,MI,Jackson County Resource Recove,Jackson,MI,COG,ACTIVE,1998,1,3.7,OTHER,OTHER
+Kent County Waste to Energy Facility,Grand Rapids,MI,Kent County Waste-to-Energy Fa,Grand Rapids,MI,STEAM,ACTIVE,1998,1,14.5,TRASH,OTHER
+Kimberly Clark Corp.,Irving,TX,Kimberly-Clark Corporation-Mun,Munising,MI,COG,ACTIVE,1998,1,6.25,OTHER,OTHER
+Kimberly Clark Tissue Co.,Philadelphia,PA,Menominee Mill- Marinette,Menominee,MI,COG,ACTIVE,1998,1,1.84,OTHER,OTHER
+Kimberly Clark Tissue Co.,Philadelphia,PA,S. D. Warren Co. #1 Muskeg,Muskegon,MI,COG,ACTIVE,1998,1,51.02,OTHER,OTHER
+"Kircher, Everett",Not Given,,Boyne River,Boyne Falls,MI,HYDRO,ACTIVE,1998,1,0.25,WATER,OTHER
+LaFarge Corp.,Reston,VA,Alpena Plant - LC,Alpena,MI,COG,ACTIVE,1998,1,46,OTHER,OTHER
+Lansing Board of Water & Light,Lansing,MI,Eckert,Lansing,MI,STEAM,ACTIVE,1998,1,356.8,COAL,OTHER
+Lansing Board of Water & Light,Lansing,MI,Erickson,Lansing,MI,STEAM,ACTIVE,1998,1,158.4,COAL,OTHER
+Lansing Board of Water & Light,Lansing,MI,Moores Park,Lansing,MI,HYDRO,ACTIVE,1998,1,1,WATER,OTHER
+Lansing Board of Water & Light,Lansing,MI,Ottawa (LBWL),Lansing,MI,STEAM,ACTIVE,1998,1,1.5,WH,OTHER
+Lowell Light & Power Plant,Lowell,MI,Lowell,Lowell,MI,INT COMB,ACTIVE,1998,1,3.6,GAS,OIL-L
+Lowell Light & Power Plant,Lowell,MI,Lowell,Lowell,MI,INT COMB,ACTIVE,1998,1,2.2,OIL-L,OTHER
+"MEI, L.P.",Not Given,,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,137,GAS,OTHER
+"MEI, L.P.",Not Given,,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,1999,6,-137,GAS,OTHER
+Marquette Board of Light & Power,Marquette,MI,Frank J Russell,Not Given,MI,HYDRO,ACTIVE,1998,1,0.7,WATER,OTHER
+Marquette Board of Light & Power,Marquette,MI,Plant Four,Not Given,MI,GAS TURB,ACTIVE,1998,1,23,OIL-L,OTHER
+Marquette Board of Light & Power,Marquette,MI,Plant Two,Not Given,MI,HYDRO,ACTIVE,1998,1,3.2,WATER,OTHER
+Marquette Board of Light & Power,Marquette,MI,Shiras,Marquette,MI,STEAM,ACTIVE,1998,1,63.26,COAL,OTHER
+Marshall City Water & Electric Works,Marshall,MI,Marshall (MCWEW),Marshall,MI,HYDRO,ACTIVE,1998,1,0.28,WATER,OTHER
+Marshall City Water & Electric Works,Marshall,MI,Marshall (MCWEW),Marshall,MI,INT COMB,ACTIVE,1998,1,9.8,OIL-L,GAS
+Marshall City Water & Electric Works,Marshall,MI,Marshall (MCWEW),Marshall,MI,INT COMB,ACTIVE,1998,1,0.7,OIL-L,OTHER
+Mead Corp.,Dayton,OH,Mead Paper,Escanaba,MI,COG,ACTIVE,1998,1,103.3,OTHER,OTHER
+"Menominee Paper Co., Inc.",Menominee,MI,Menominee Paper Co.,Menominee,MI,COG,ACTIVE,1998,1,4,OTHER,OTHER
+Michigan Automotive Research Co.,Ann Arbor,MI,Michigan Automotive Research,Ann Arbor,MI,COG,ACTIVE,1998,1,2.5,OTHER,OTHER
+"Michigan Power, L.P.",Ludington,MI,"Michigan Power, L.P.",Ludington,MI,COMB CYC,ACTIVE,1998,1,141,GAS,OTHER
+Michigan Public Power Agency,Lansing,MI,Belle River,East China Twp,MI,STEAM,ACTIVE,1998,1,238.2,COAL,OTHER
+Michigan Public Power Agency,Lansing,MI,Campbell (CEC),West Olive,MI,STEAM,ACTIVE,1998,1,37.93,COAL,OTHER
+Michigan South Central Power Agency,Litchfield,MI,Endicott,Litchfield,MI,STEAM,ACTIVE,1998,1,50,COAL,OIL-L
+Michigan State University,East Lansing,MI,T B Simon Power Plant,East Lansing,MI,COG,ACTIVE,1998,1,56.5,OTHER,OTHER
+"Mid Cogen, L.P.",Not Given,,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,61.65,GAS,OTHER
+"Mid Cogen, L.P.",Not Given,,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,1999,5,-61.65,GAS,OTHER
+"NRG Energy, Inc.",Minneapolis,MN,Cadillac Renewable Energy,Cadillac,MI,STEAM,ACTIVE,1998,1,17,WOOD,OTHER
+Neshkoro Power Associates,Cannon Falls,MN,Morley Dam,Not Given,MI,HYDRO,ACTIVE,1998,1,0.23,WATER,OTHER
+Newberry Water & Light Board,Newberry,MI,Newberry,Newberry,MI,INT COMB,ACTIVE,1998,1,4.5,OIL-L,OTHER
+North American Natural Resources,Okemos,MI,Peoples Generating Station,Birch Run,MI,GAS TURB,ACTIVE,1998,1,3.06,OTHER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Superior Falls,Ironwood,MI,HYDRO,ACTIVE,1998,1,1.8,WATER,OTHER
+Norway Light Dept.,Norway,MI,Norway (NLD),Norway,MI,HYDRO,ACTIVE,1998,1,4.74,WATER,OTHER
+Oakwood Hospital Corp.,Dearborn,MI,Oakwood Hospital Corp,Dearborn,MI,COG,ACTIVE,1998,1,1.35,OTHER,OTHER
+PMCC Leasing Corp.,Detroit,MI,Greater Detroit Resource Recov,Detroit,MI,COG,ACTIVE,1998,1,68.4,OTHER,OTHER
+Parke-Davis & Co.,Rochester,MI,Parke-Davis & Co.,Rochester,MI,COG,ACTIVE,1998,1,2.8,OTHER,OTHER
+Portland Electric Dept.,Portland,MI,Frank Jenkins,Portland,MI,INT COMB,ACTIVE,1998,1,1.7,OIL-L,GAS
+Portland Electric Dept.,Portland,MI,Frank Jenkins,Portland,MI,INT COMB,ACTIVE,1998,1,1.16,OIL-L,OTHER
+Portland Electric Dept.,Portland,MI,Portland (POR),Portland,MI,HYDRO,ACTIVE,1998,1,0.38,WATER,OTHER
+"Primary Power Management & Development, Inc.",Not Given,,Grayling Generating Station,Grayling,MI,STEAM,ACTIVE,1998,1,7.23,WOOD,OTHER
+Riverview Energy Systems,Riverview,MI,Riverview Energy Systems,Riverview,MI,COG,ACTIVE,1998,1,6.66,OTHER,OTHER
+"STS Hydropower, Ltd.",Chicago,IL,Fallasburg,Not Given,MI,HYDRO,ACTIVE,1998,1,0.9,WATER,OTHER
+"STS Hydropower, Ltd.",Chicago,IL,Morrow,Not Given,MI,HYDRO,ACTIVE,1998,1,0.88,WATER,OTHER
+Sebewaing Light & Water Plant,Sebewaing,MI,Main Street (SEAW),Sebewaing,MI,INT COMB,ACTIVE,1998,1,4.94,GAS,OIL-L
+Sebewaing Light & Water Plant,Sebewaing,MI,Main Street (SEAW),Sebewaing,MI,INT COMB,ACTIVE,1998,1,0.8,OIL-L,OTHER
+Sebewaing Light & Water Plant,Sebewaing,MI,Pine Street (SEAW),Sebewaing,MI,INT COMB,ACTIVE,1998,1,4.6,GAS,OIL-L
+Sebewaing Light & Water Plant,Sebewaing,MI,Pine Street (SEAW),Sebewaing,MI,INT COMB,ACTIVE,1998,1,2.1,OIL-L,OTHER
+"Source Midland, L.P.",Detroit,MI,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,ACTIVE,1998,1,247.97,GAS,OTHER
+"Source Midland, L.P.",Detroit,MI,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,1999,6,68.5,GAS,OTHER
+"Source Midland, L.P.",Detroit,MI,Midland Cogeneration Venture (MCV),Midland,MI,COMB CYC,OWNER CHG,2000,1,-316.47,GAS,OTHER
+"Southern Energy, Inc.",Atlanta,GA,Zeeland,Zeeland,MI,COMB CYC,ACTIVE,2050,1,1000,GAS,OTHER
+St. Louis Municipal Electric,Saint Louis,MI,St. Louis,Saint Louis,MI,HYDRO,ACTIVE,1998,1,0.39,WATER,OTHER
+St. Louis Municipal Electric,Saint Louis,MI,St. Louis,Saint Louis,MI,INT COMB,ACTIVE,1998,1,2.5,OIL-L,GAS
+St. Louis Municipal Electric,Saint Louis,MI,St. Louis,Saint Louis,MI,INT COMB,ACTIVE,1998,1,1.67,OIL-L,OTHER
+Stone Container Corp.,Chicago,IL,Stone Container Corp (SSCC),Ontonagon,MI,COG,ACTIVE,1998,1,14.84,OTHER,OTHER
+Sturgis Municipal Electric Plant,Sturgis,MI,Diesel Plant - STURGI,Sturgis,MI,INT COMB,ACTIVE,1998,1,6,GAS,OIL-L
+Sturgis Municipal Electric Plant,Sturgis,MI,Diesel Plant - STURGI,Sturgis,MI,INT COMB,ACTIVE,1998,1,2.8,OIL-L,OTHER
+Sturgis Municipal Electric Plant,Sturgis,MI,Hydro Plant - STURGI,Sturgis,MI,HYDRO,ACTIVE,1998,1,2.38,WATER,OTHER
+Sumpter Energy Associates,Wixom,MI,Pine Tree Acres,Lenox,MI,UNKNOWN,ACTIVE,1998,1,4,OTHER,OTHER
+Sumpter Energy Associates,Wixom,MI,Sumpter Energy Assoc.,Belleville,MI,COG,ACTIVE,1998,1,8,OTHER,OTHER
+Thornapple Association,Ada,MI,Ada Dam,Ada,MI,COG,ACTIVE,1998,1,1.4,OTHER,OTHER
+Thumb Electric Coop Michigan,Ubly,MI,Caro,Caro,MI,INT COMB,ACTIVE,1998,1,4.5,OIL-L,OTHER
+Thumb Electric Coop Michigan,Ubly,MI,Ubly,Ubly,MI,INT COMB,ACTIVE,1998,1,1.54,GAS,OIL-L
+Thumb Electric Coop Michigan,Ubly,MI,Ubly,Ubly,MI,INT COMB,ACTIVE,1998,1,4.49,OIL-L,OTHER
+Thunder Bay Power Co.,Traverse City,MI,Four Mile Hydropower Project,Alpena,MI,COG,ACTIVE,1998,1,1.8,OTHER,OTHER
+Thunder Bay Power Co.,Traverse City,MI,Ninth Street Hydropower Projec,Alpena,MI,COG,ACTIVE,1998,1,1.2,OTHER,OTHER
+Thunder Bay Power Co.,Traverse City,MI,Norway Point Hydropower Projec,Alpena,MI,COG,ACTIVE,1998,1,4,OTHER,OTHER
+Tondu Energy Company,Not Given,,TES Filer City Station,Filer City,MI,STEAM,ACTIVE,1998,1,20,COAL,WOOD
+Traverse City Light & Power,Traverse City,MI,Boardman (TCLP),Traverse City,MI,HYDRO,ACTIVE,1998,1,0.8,WATER,OTHER
+Traverse City Light & Power,Traverse City,MI,Brown Bridge,Traverse City,MI,HYDRO,ACTIVE,1998,1,0.63,WATER,OTHER
+Traverse City Light & Power,Traverse City,MI,Elk Rapids,Elk Rapids,MI,HYDRO,ACTIVE,1998,1,0.32,WATER,OTHER
+Traverse City Light & Power,Traverse City,MI,Sabin,Traverse City,MI,HYDRO,ACTIVE,1998,1,0.4,WATER,OTHER
+Traverse City Light & Power,Traverse City,MI,Traverse (Bayside),Traverse City,MI,STEAM,ACTIVE,1998,1,24.37,COAL,OTHER
+Traverse City Light & Power,Traverse City,MI,Traverse (Bayside),Traverse City,MI,STEAM,ACTIVE,1998,1,9.55,GAS,OTHER
+"Turbine Power, L.P.",Northville,MI,Arbor Hills Generating Facilit,Not Given,MI,COG,ACTIVE,1998,1,20.45,OTHER,OTHER
+"U.S. Generating Company, L.L.C.",Bethesda,MD,Covert Plant,Covert,MI,COMB CYC,ACTIVE,2003,1,1000,GAS,OTHER
+USCE Detroit District,Detroit,MI,Saint Marys Falls,Sault Sainte Marie,MI,HYDRO,ACTIVE,1998,1,19.96,WATER,OTHER
+Union City Electric Dept.,Union City,MI,Riley,Union City,MI,HYDRO,ACTIVE,1998,1,0.42,WATER,OTHER
+Union City Electric Dept.,Union City,MI,Union City,Union City,MI,INT COMB,ACTIVE,1998,1,0.9,OIL-L,OTHER
+University of Michigan,Ann Arbor,MI,University of Michigan,Ann Arbor,MI,COG,ACTIVE,1998,1,43.5,OTHER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Autrain,Au Train,MI,HYDRO,ACTIVE,1998,1,1.06,WATER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Cataract (UPP),Not Given,MI,HYDRO,ACTIVE,1998,1,1.46,WATER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Gladstone - UPP,Gladstone,MI,GAS TURB,ACTIVE,1998,1,23.8,OIL-L,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Hoist,Ishpeming,MI,HYDRO,ACTIVE,1998,1,4.28,WATER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,John H. Warden,L'Anse,MI,STEAM,ACTIVE,1998,1,17.7,GAS,COAL
+Upper Peninsula Power Co.,Houghton,MI,McClure (UPP),Not Given,MI,HYDRO,ACTIVE,1998,1,8.68,WATER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Portage - UPP,Portage,MI,GAS TURB,ACTIVE,1998,1,23.8,OIL-L,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Prickett,Pelkie,MI,HYDRO,ACTIVE,1998,1,2.22,WATER,OTHER
+Upper Peninsula Power Co.,Houghton,MI,Victoria (UPP),Rockland,MI,HYDRO,ACTIVE,1998,1,12.34,WATER,OTHER
+Van Buren Township of,Belleville,MI,French Landing Dam,Belleville,MI,HYDRO,ACTIVE,1998,1,1.65,WATER,OTHER
+Viking Energy Corp.,Mc Bain,MI,Lincoln Power Station,Lincoln,MI,STEAM,ACTIVE,1998,1,17.5,WOOD,GAS
+Viking Energy Corp.,Mc Bain,MI,McBain Power Station,Mcbain,MI,STEAM,ACTIVE,1998,1,17.4,WOOD,GAS
+Voss Industries,Taylor,MI,Voss Lantz,Detroit,MI,COG,ACTIVE,1998,1,1,OTHER,OTHER
+Voss Industries,Taylor,MI,Voss Steel,Taylor,MI,COG,ACTIVE,1998,1,1,OTHER,OTHER
+Warner Lambert Co.,Morris Plains,NJ,Warner-Lambert Co.,Ann Arbor,MI,COG,ACTIVE,1998,1,2.8,OTHER,OTHER
+Whites Bridge Hydro,Not Given,MI,Whites Bridge,Not Given,MI,HYDRO,ACTIVE,1998,1,0.78,WATER,OTHER
+William Beaumont Hospital,Royal Oak,MI,William Beaumont Hospital,Royal Oak,MI,COG,ACTIVE,1998,1,3.86,OTHER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Big Quinnesec 61,Not Given,MI,HYDRO,ACTIVE,1998,1,2.94,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Big Quinnesec 92,Not Given,MI,HYDRO,ACTIVE,1998,1,14,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Big Quinnesec 92,Not Given,MI,HYDRO,RERATE,1998,12,1,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Brule,Not Given,MI,HYDRO,ACTIVE,1998,1,3.5,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Chalk Hill,Stephenson,MI,HYDRO,ACTIVE,1998,1,6,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Hemlock Falls,Crystal Falls,MI,HYDRO,ACTIVE,1998,1,1.2,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Kingsford,Not Given,MI,HYDRO,ACTIVE,1998,1,6,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Lower Paint,Crystal Falls,MI,HYDRO,ACTIVE,1998,1,0.1,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Michigamme Falls,Crystal Falls,MI,HYDRO,ACTIVE,1998,1,8.8,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Peavy Falls,Crystal Falls,MI,HYDRO,ACTIVE,1998,1,15,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Presque Isle,Marquette,MI,STEAM,ACTIVE,1998,1,613,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Sturgeon (WEP),Not Given,MI,HYDRO,ACTIVE,1998,1,0.8,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Twin Falls (WEP),Not Given,MI,HYDRO,ACTIVE,1998,1,5.97,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Way,Crystal Falls,MI,HYDRO,ACTIVE,1998,1,1.4,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,White Rapids,Stephenson,MI,HYDRO,ACTIVE,1998,1,7.8,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Grand Rapids (WPS),Ingalls,MI,HYDRO,ACTIVE,1998,1,3.81,WATER,OTHER
+Wolverine Power Corp.,Edenville,MI,Edenville,Edenville,MI,HYDRO,ACTIVE,1998,1,5.28,WATER,OTHER
+Wolverine Power Corp.,Edenville,MI,Sanford (WPSC),Sanford,MI,HYDRO,ACTIVE,1998,1,3,WATER,OTHER
+Wolverine Power Corp.,Edenville,MI,Secord,Gladwin,MI,HYDRO,ACTIVE,1998,1,1.31,WATER,OTHER
+Wolverine Power Corp.,Edenville,MI,Smallwood,Gladwin,MI,HYDRO,ACTIVE,1998,1,1.05,WATER,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Advance,Boyne City,MI,STEAM,OUT OF SVC,1998,1,0,COAL,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Advance,Boyne City,MI,STEAM,SVC RETURN,1998,11,40,COAL,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Beaver Island,Not Given,MI,INT COMB,ACTIVE,1998,1,2.1,OIL-L,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Campbell (CEC),West Olive,MI,STEAM,ACTIVE,1998,1,14.93,COAL,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Claude Vandyke (Burnips),Dorr,MI,COMB CYC,ACTIVE,1998,1,22,GAS,OIL-L
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Claude Vandyke (Burnips),Dorr,MI,INT COMB,ACTIVE,1998,1,3,GAS,OIL-L
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Claude Vandyke (Burnips),Dorr,MI,INT COMB,ACTIVE,1998,1,1,OIL-L,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,George Johnson,Hersey,MI,GAS TURB,ACTIVE,1998,1,21,GAS,OIL-L
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,George Johnson,Hersey,MI,INT COMB,ACTIVE,1998,1,10.1,GAS,OIL-L
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Kleber,Cheboygan,MI,HYDRO,ACTIVE,1998,1,1.2,WATER,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Scottville,Scottville,MI,INT COMB,ACTIVE,1998,1,3.9,OIL-L,GAS
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Tower,Tower,MI,GAS TURB,ACTIVE,1998,1,18,GAS,OIL-L
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Tower,Tower,MI,HYDRO,ACTIVE,1998,1,0.5,WATER,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Tower,Tower,MI,INT COMB,ACTIVE,1998,1,3.6,OIL-L,OTHER
+"Wolverine Power Supply Coop, Inc.",Cadillac,MI,Vestaburg,Vestaburg,MI,INT COMB,ACTIVE,1998,1,7.7,OIL-L,GAS
+Wyandotte Municipal Service Commission,Wyandotte,MI,Wyandotte,Wyandotte,MI,STEAM,ACTIVE,1998,1,32,COAL,PRO
+Wyandotte Municipal Service Commission,Wyandotte,MI,Wyandotte,Wyandotte,MI,STEAM,ACTIVE,1998,1,20,GAS,OTHER
+Zeeland Board of Public Works,Zeeland,MI,Zeeland,Zeeland,MI,INT COMB,ACTIVE,1998,1,24,GAS,OIL-L
+[Not Reported],Not Given,,Genesee Power Station - Limite,Flint,MI,STEAM,ACTIVE,1998,1,0.2,WOOD,OTHER
+[Not Reported],Not Given,,TES Filer City Station,Filer City,MI,STEAM,ACTIVE,1998,1,5,COAL,WOOD
+"Abilene, City of",Akron,OH,Akron Recycle Energy BFG Plant,Akron,OH,UNKNOWN,ACTIVE,1998,1,0.25,OTHER,OTHER
+Acetex Energy,Not Given,,Mingo Junction Energy Center,Mingo Junction,OH,STEAM,OWNER CHG,2000,1,35,GAS,GAS
+Air Liquide America Corp.,Houston,TX,Mingo Junction Energy Center,Mingo Junction,OH,STEAM,ACTIVE,1999,6,35,GAS,GAS
+Air Liquide America Corp.,Houston,TX,Mingo Junction Energy Center,Mingo Junction,OH,STEAM,OWNER CHG,2000,1,-35,GAS,GAS
+"Akron, City of",Akron,OH,Akron Recycle Energy Plant,Akron,OH,COG,ACTIVE,1998,1,5.7,OTHER,OTHER
+American Electric Power Service Corp.,Columbus,OH,Buckeye Power Peaker - AEP,Not Given,OH,GAS TURB,ACTIVE,2002,6,510,GAS,OTHER
+"American Municipal Power-Ohio, Inc.",Columbus,OH,Richard H. Gorsuch,Marietta,OH,STEAM,ACTIVE,1998,1,168.04,COAL,OTHER
+"American Municipal Power-Ohio, Inc.",Columbus,OH,Wellington (AMP),Not Given,OH,INT COMB,ACTIVE,1998,2,1,OIL-L,OTHER
+Arcanum Water & Light Plant,Arcanum,OH,Arcanum,Arcanum,OH,INT COMB,ACTIVE,1998,1,1.2,OIL-L,OTHER
+Bowling Green Electric Dept.,Bowling Green,OH,Bowling Green,Not Given,OH,GAS TURB,ACTIVE,1998,1,8.8,OIL-L,OTHER
+Bryan Municipal Light & Water Utilities,Bryan,OH,Auglaize Hydro,Not Given,OH,HYDRO,ACTIVE,1998,1,3.44,WATER,OTHER
+Bryan Municipal Light & Water Utilities,Bryan,OH,Auglaize Hydro,Not Given,OH,HYDRO,OUT OF SVC,1998,1,0,WATER,OTHER
+Bryan Municipal Light & Water Utilities,Bryan,OH,Bryan (OH),Bryan,OH,GAS TURB,ACTIVE,1998,1,38,GAS,OIL-L
+Bryan Municipal Light & Water Utilities,Bryan,OH,Bryan (OH),Bryan,OH,INT COMB,ACTIVE,1998,1,2,OIL-L,OTHER
+Bryan Municipal Light & Water Utilities,Bryan,OH,New Turbine,Bryan,OH,HYDRO,ACTIVE,1998,1,3.44,WATER,OTHER
+Bryan Municipal Light & Water Utilities,Bryan,OH,New Turbine,Bryan,OH,HYDRO,OUT OF SVC,1998,1,0,WATER,OTHER
+"Buckeye Power, Inc.",Columbus,OH,Cardinal,Brilliant,OH,STEAM,ACTIVE,1998,1,1215,COAL,OTHER
+Champion International Corp.,Stamford,CT,Hamilton Ohio,Hamilton,OH,COG,ACTIVE,1998,1,27,OTHER,OTHER
+"Chapel Hill Properties, Inc.",Akron,OH,Chapel Hill Total Energy Plant,Akron,OH,COG,ACTIVE,1998,1,8.1,OTHER,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Beckjord,New Richmond,OH,GAS TURB,ACTIVE,1998,1,186,OIL-L,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Beckjord,New Richmond,OH,STEAM,ACTIVE,1998,1,859.25,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Beckjord,New Richmond,OH,STEAM,RERATE,1998,11,0.09,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Conesville,Conesville,OH,STEAM,ACTIVE,1998,1,312,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Dicks Creek,Monroe,OH,GAS TURB,ACTIVE,1998,1,14.2,GAS,OIL-L
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Dicks Creek,Monroe,OH,GAS TURB,ACTIVE,1998,1,30,OIL-L,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Dicks Creek,Monroe,OH,JET ENG,ACTIVE,1998,1,92,GAS,OIL-L
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Killen,Manchester,OH,GAS TURB,ACTIVE,1998,1,5.94,OIL-L,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Killen,Manchester,OH,STEAM,ACTIVE,1998,1,198,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Miami Fort,North Bend,OH,GAS TURB,ACTIVE,1998,1,56.8,OIL-L,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Miami Fort,North Bend,OH,STEAM,ACTIVE,1998,1,883,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Stuart,Aberdeen,OH,INT COMB,ACTIVE,1998,1,3.92,OIL-L,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Stuart,Aberdeen,OH,STEAM,ACTIVE,1998,1,912.6,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,W.H. Zimmer,Moscow,OH,STEAM,ACTIVE,1998,1,604.5,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,W.H. Zimmer,Moscow,OH,STEAM,OUT OF SVC,1999,1,-604.5,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,W.H. Zimmer,Moscow,OH,STEAM,SVC RETURN,1999,1,604.5,COAL,OTHER
+Cincinnati Gas & Electric Co.,Cincinnati,OH,Woodsdale,Trenton,OH,GAS TURB,ACTIVE,1998,1,462,GAS,PRO
+Cleveland Electric Illuminating Co.,Independence,OH,Ashtabula,Ashtabula,OH,STEAM,ACTIVE,1998,1,286,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Ashtabula,Ashtabula,OH,STEAM,OUT OF SVC,1998,1,0,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Ashtabula,Ashtabula,OH,STEAM,RETIRED,1998,6,-43,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Ashtabula,Ashtabula,OH,STEAM,SVC RETURN,1999,6,0,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Avon Lake,Avon Lake,OH,GAS TURB,ACTIVE,1998,1,24,OIL-L,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Avon Lake,Avon Lake,OH,GAS TURB,OWNER CHG,1999,12,-24,OIL-L,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Avon Lake,Avon Lake,OH,STEAM,ACTIVE,1998,1,596,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Avon Lake,Avon Lake,OH,STEAM,OWNER CHG,1999,12,-596,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,ACTIVE,1998,1,448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,4,-448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,6,-448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,7,-897.1,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,9,-448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,10,-448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1999,4,-448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,5,448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,7,1345.65,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,9,448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,10,448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1999,5,448.55,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Eastlake,Eastlake,OH,GAS TURB,ACTIVE,1998,1,24,OIL-L,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Eastlake,Eastlake,OH,STEAM,ACTIVE,1998,1,1035.74,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Eastlake,Eastlake,OH,STEAM,OWNER CHG,1999,12,186.27,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Lake Shore,Cleveland,OH,INT COMB,ACTIVE,1998,1,4,OIL-L,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Lake Shore,Cleveland,OH,STEAM,ACTIVE,1998,1,210,COAL,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,ACTIVE,1998,1,363.68,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1998,7,-363.68,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1999,3,-363.68,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,OWNER CHG,1999,12,160.62,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2000,6,15.69,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2001,3,11.21,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1998,7,363.68,URAN,OTHER
+Cleveland Electric Illuminating Co.,Independence,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1999,5,363.68,URAN,OTHER
+Cleveland Public Power,Cleveland,OH,Collinwood,Cleveland,OH,GAS TURB,ACTIVE,1998,1,16,GAS,OIL-L
+Cleveland Public Power,Cleveland,OH,Lake Road (OH),Cleveland,OH,STEAM,OUT OF SVC,1998,1,0,COAL,OTHER
+Cleveland Public Power,Cleveland,OH,West 41st Street,Cleveland,OH,GAS TURB,ACTIVE,1998,1,32,GAS,OIL-L
+"Cogentrix, Inc.",Charlotte,NC,Ohio,Not Given,OH,COMB CYC,ACTIVE,2002,1,1600,GAS,OTHER
+Columbus Dept. of Public Service,Columbus,OH,Shaughnessy,Not Given,OH,HYDRO,ACTIVE,1998,1,5.36,WATER,OTHER
+Columbus Power Partners,Columbus,OH,Columbus (MCN Energy),Columbus,OH,GAS TURB,ACTIVE,2001,1,110,GAS,OIL-L
+Columbus Southern Power Co.,Columbus,OH,Beckjord,New Richmond,OH,STEAM,ACTIVE,1998,1,51.75,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Beckjord,New Richmond,OH,STEAM,RERATE,1998,11,0.03,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Conesville,Conesville,OH,STEAM,ACTIVE,1998,1,1484.3,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Conesville,Conesville,OH,STEAM,RERATE,1998,6,25,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Conesville,Conesville,OH,STEAM,RERATE,1998,7,25,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Picway,Lockbourne,OH,STEAM,ACTIVE,1998,1,90,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,Stuart,Aberdeen,OH,INT COMB,ACTIVE,1998,1,2.6,OIL-L,OTHER
+Columbus Southern Power Co.,Columbus,OH,Stuart,Aberdeen,OH,STEAM,ACTIVE,1998,1,608.4,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,W.H. Zimmer,Moscow,OH,STEAM,ACTIVE,1998,1,330.2,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,W.H. Zimmer,Moscow,OH,STEAM,OUT OF SVC,1999,1,-330.2,COAL,OTHER
+Columbus Southern Power Co.,Columbus,OH,W.H. Zimmer,Moscow,OH,STEAM,SVC RETURN,1999,1,330.2,COAL,OTHER
+Consolidated Natural Gas Co.,Pittsburgh,PA,Wood County,Luckey,OH,GAS TURB,ACTIVE,2002,6,300,GAS,OTHER
+Container Corp. of America,Saint Louis,MO,Container Corporation of Ameri (OH),Circleville,OH,STEAM,ACTIVE,1998,1,6.09,COAL,OTHER
+Cuyahoga Falls Electric System,Cuyahoga Falls,OH,Engle,Cuyahoga Falls,OH,GAS TURB,ACTIVE,1998,1,9,OIL-L,OTHER
+"DPL Energy, Inc.",Dayton,OH,Darke County,Greenville,OH,GAS TURB,ACTIVE,2000,6,200,GAS,OTHER
+"DPL Energy, Inc.",Dayton,OH,Fairfield Generating Station,Not Given,OH,GAS TURB,ACTIVE,2050,1,200,GAS,OTHER
+Dayton Power & Light Co.,Dayton,OH,Beckjord,New Richmond,OH,STEAM,ACTIVE,1998,1,207,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Beckjord,New Richmond,OH,STEAM,RERATE,1998,11,0.13,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Conesville,Conesville,OH,STEAM,ACTIVE,1998,1,128.7,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Hutchings,Miamisburg,OH,GAS TURB,ACTIVE,1998,1,23,OIL-L,GAS
+Dayton Power & Light Co.,Dayton,OH,Hutchings,Miamisburg,OH,STEAM,ACTIVE,1998,1,365,COAL,GAS
+Dayton Power & Light Co.,Dayton,OH,Killen,Manchester,OH,GAS TURB,ACTIVE,1998,1,12.06,OIL-L,OTHER
+Dayton Power & Light Co.,Dayton,OH,Killen,Manchester,OH,STEAM,ACTIVE,1998,1,402,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Miami Fort,North Bend,OH,STEAM,ACTIVE,1998,1,360,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Montgomery County Solid Waste,Dayton,OH,STEAM,ACTIVE,1998,1,4,TRASH,OTHER
+Dayton Power & Light Co.,Dayton,OH,Monument,Dayton,OH,INT COMB,ACTIVE,1998,1,12.5,OIL-L,OTHER
+Dayton Power & Light Co.,Dayton,OH,Sidney (OH),Sidney,OH,INT COMB,ACTIVE,1998,1,12.5,OIL-L,OTHER
+Dayton Power & Light Co.,Dayton,OH,Stuart,Aberdeen,OH,INT COMB,ACTIVE,1998,1,3.52,OIL-L,OTHER
+Dayton Power & Light Co.,Dayton,OH,Stuart,Aberdeen,OH,STEAM,ACTIVE,1998,1,819,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,ACTIVE,1998,1,160,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,ACTIVE,1998,12,80,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,ACTIVE,2001,6,320,GAS,OTHER
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,ACTIVE,2003,6,80,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,RERATE,1998,1,9,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,GAS TURB,RERATE,1998,12,7,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Tait,Dayton,OH,INT COMB,ACTIVE,1998,1,10,OIL-L,OTHER
+Dayton Power & Light Co.,Dayton,OH,W.H. Zimmer,Moscow,OH,STEAM,ACTIVE,1998,1,365.3,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,W.H. Zimmer,Moscow,OH,STEAM,OUT OF SVC,1999,1,-365.3,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,W.H. Zimmer,Moscow,OH,STEAM,SVC RETURN,1999,1,365.3,COAL,OTHER
+Dayton Power & Light Co.,Dayton,OH,Yankee Street,Not Given,OH,GAS TURB,ACTIVE,1998,1,56,GAS,OIL-L
+Dayton Power & Light Co.,Dayton,OH,Yankee Street,Not Given,OH,JET ENG,ACTIVE,1998,1,59,GAS,OIL-L
+Deaconess Hospital,Cleveland,OH,Deaconess Hospital/Cleveland,Cleveland,OH,COG,ACTIVE,1998,1,1.3,OTHER,OTHER
+"Dominion Energy, Inc.",Richmond,VA,Muskingum County,Not Given,OH,GAS TURB,ACTIVE,2002,6,600,GAS,OTHER
+"Dominion Resources, Inc.",Richmond,VA,Wood County,Luckey,OH,GAS TURB,ACTIVE,2002,6,300,GAS,OTHER
+"Dover Electric, Water & Sewer",Dover,OH,Dover (DOVEWP),Dover,OH,GAS TURB,ACTIVE,1998,1,15.3,GAS,OTHER
+"Dover Electric, Water & Sewer",Dover,OH,Dover (DOVEWP),Dover,OH,INT COMB,ACTIVE,1998,1,2.4,OIL-L,OTHER
+"Dover Electric, Water & Sewer",Dover,OH,Dover (DOVEWP),Dover,OH,STEAM,ACTIVE,1998,1,15.2,COAL,GAS
+Duke Energy North America,Houston,TX,Madison Generating Station,Not Given,OH,GAS TURB,ACTIVE,2000,6,640,GAS,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Avon Lake,Avon Lake,OH,GAS TURB,OWNER CHG,1999,12,24,OIL-L,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Avon Lake,Avon Lake,OH,STEAM,OUT OF SVC,2000,1,-596,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Avon Lake,Avon Lake,OH,STEAM,OWNER CHG,1999,12,596,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Avon Lake,Avon Lake,OH,STEAM,SVC RETURN,2000,1,596,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Eastlake,Eastlake,OH,STEAM,ACTIVE,1998,1,186.26,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Eastlake,Eastlake,OH,STEAM,OWNER CHG,1999,12,-186.26,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Niles (DLCO),Niles,OH,GAS TURB,OWNER CHG,1999,12,25,OIL-L,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Niles (DLCO),Niles,OH,STEAM,OWNER CHG,1999,12,69,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Niles (DLCO),Niles,OH,STEAM,OWNER CHG,1999,12,69,COAL,TRASH
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,ACTIVE,1998,1,160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1998,7,-160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1999,3,-160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,OWNER CHG,1999,12,-160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1998,7,160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1999,5,160.62,URAN,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Sammis,Stratton,OH,STEAM,ACTIVE,1998,1,187.2,COAL,OTHER
+Duquesne Light Co.,Pittsburgh,PA,Sammis,Stratton,OH,STEAM,OWNER CHG,1999,12,-187.2,COAL,OTHER
+Elkem Metals Co.,Marietta,OH,Richard H. Gorsuch,Marietta,OH,STEAM,ACTIVE,1998,1,44.26,COAL,OTHER
+"Global Energy, Ltd.",Cincinnati,OH,Lima Project,Lima,OH,STEAM,ACTIVE,2002,6,540,COAL,TRASH
+Goodyear Tire & Rubber Co.,Akron,OH,Plant #2,Akron,OH,COG,ACTIVE,1998,1,40,OTHER,OTHER
+Hamilton Dept. of Public Utilities,Hamilton,OH,Greenup Hydro,Not Given,OH,HYDRO,ACTIVE,1998,1,70.2,WATER,OTHER
+Hamilton Dept. of Public Utilities,Hamilton,OH,Hamilton (HAMI),Hamilton,OH,HYDRO,ACTIVE,1998,1,1.76,WATER,OTHER
+Hamilton Dept. of Public Utilities,Hamilton,OH,Hamilton (OH),Hamilton,OH,GAS TURB,ACTIVE,1998,1,20,GAS,OIL-L
+Hamilton Dept. of Public Utilities,Hamilton,OH,Hamilton (OH),Hamilton,OH,STEAM,ACTIVE,1998,1,75,COAL,GAS
+Hamilton Dept. of Public Utilities,Hamilton,OH,Hamilton (OH),Hamilton,OH,STEAM,ACTIVE,1998,1,10,GAS,COAL
+Hamilton Dept. of Public Utilities,Hamilton,OH,Hamilton (OH),Hamilton,OH,STEAM,ACTIVE,1998,1,25,GAS,OIL-L
+Hoge Lumber Co.,New Knoxville,OH,Hoge Lumber Co.,New Knoxville,OH,COG,ACTIVE,1998,1,3.75,OTHER,OTHER
+Jackson Municipal Electric Dept.,Jackson,OH,Jackson  (JMED),Not Given,OH,GAS TURB,ACTIVE,1998,1,3.6,OIL-L,OTHER
+"LTV Steel Co., Inc.",Cleveland,OH,LTV Steel - Cleveland Works,Cleveland,OH,COG,ACTIVE,1998,1,55,OTHER,OTHER
+Lebanon Municipal Electric Light Dept.,Lebanon,OH,Lebanon,Lebanon,OH,GAS TURB,ACTIVE,1998,1,6,GAS,OIL-L
+Lebanon Municipal Electric Light Dept.,Lebanon,OH,Lebanon,Lebanon,OH,GAS TURB,ACTIVE,1998,1,14,OIL-L,OTHER
+Lebanon Municipal Electric Light Dept.,Lebanon,OH,Lebanon,Lebanon,OH,INT COMB,ACTIVE,1998,1,13.7,GAS,OIL-L
+"MCN Energy Group, Inc.",Detroit,MI,Columbus (MCN Energy),Columbus,OH,GAS TURB,ACTIVE,2001,1,110,GAS,OIL-L
+Mead Corp.,Dayton,OH,Mead-Fine Paper Division,Chillicothe,OH,COG,ACTIVE,1998,1,81,OTHER,OTHER
+Mercy Hospital,Toledo,OH,Mercy Hospital,Toledo,OH,COG,ACTIVE,1998,1,1.41,OTHER,OTHER
+"Mills Pride, L.P.",Waverly,OH,Mills Pride,Waverly,OH,UNKNOWN,ACTIVE,1998,1,1,OTHER,OTHER
+Montgomery County Electric & Sanitation Services,Dayton,OH,Montgomery County Solid Waste,Dayton,OH,STEAM,ACTIVE,1998,1,2,TRASH,OTHER
+"Morton International, Inc.",Chicago,IL,Morton Salt Rittman Facility,Not Given,OH,COG,ACTIVE,1998,1,1.5,OTHER,OTHER
+Napoleon Municipal Utilities,Napoleon,OH,Napoleon 2,Not Given,OH,GAS TURB,ACTIVE,1998,1,5.4,OIL-L,OTHER
+"National Power Cooperative, Inc.",Columbus,OH,Van Wert County,Not Given,OH,GAS TURB,ACTIVE,2002,6,510,GAS,OTHER
+Niles Water & Light,Niles,OH,Niles (NILESW),Not Given,OH,GAS TURB,ACTIVE,1998,1,5.4,OIL-L,OTHER
+"Norton Energy Storage, L.L.C.",Not Given,,Norton Mine,Norton,OH,COMPRESSED ENERGY,ACTIVE,2002,5,480,OTHER,OTHER
+Oberlin Municipal Light & Power System,Oberlin,OH,Oberlin (OBERL),Oberlin,OH,INT COMB,ACTIVE,1998,1,3.05,GAS,OTHER
+Oberlin Municipal Light & Power System,Oberlin,OH,Oberlin (OBERL),Oberlin,OH,INT COMB,ACTIVE,1998,1,8,OIL-L,GAS
+Oberlin Municipal Light & Power System,Oberlin,OH,Oberlin (OBERL),Oberlin,OH,INT COMB,ACTIVE,1998,1,4,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,GAS TURB,ACTIVE,2050,1,60,GAS,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,INT COMB,ACTIVE,1998,1,5.99,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,STEAM,ACTIVE,1998,1,406,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,STEAM,OUT OF SVC,1998,6,-94,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,STEAM,RERATE,2050,1,60,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Burger,Shadyside,OH,STEAM,SVC RETURN,1999,5,94,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Edgewater - OHED,Lorain,OH,GAS TURB,ACTIVE,1998,1,32.68,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Edgewater - OHED,Lorain,OH,STEAM,ACTIVE,1998,1,100,GAS,OIL-L
+Ohio Edison Co.,Akron,OH,Mad River,Springfield,OH,GAS TURB,ACTIVE,1998,1,42.8,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,GAS TURB,ACTIVE,1998,1,21.4,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,GAS TURB,OWNER CHG,1999,12,-21.4,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,STEAM,ACTIVE,1998,1,69,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,STEAM,ACTIVE,1998,1,69,COAL,TRASH
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,STEAM,OWNER CHG,1999,12,-69,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Niles (DLCO),Niles,OH,STEAM,OWNER CHG,1999,12,-69,COAL,TRASH
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,ACTIVE,1998,1,350.7,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1998,7,-350.7,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1999,3,-350.7,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2000,6,10.5,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2001,3,7.5,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1998,7,350.7,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1999,5,350.7,URAN,OTHER
+Ohio Edison Co.,Akron,OH,Sammis,Stratton,OH,INT COMB,ACTIVE,1998,1,11.13,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,Sammis,Stratton,OH,STEAM,ACTIVE,1998,1,1908,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Sammis,Stratton,OH,STEAM,OWNER CHG,1999,12,187.2,COAL,OTHER
+Ohio Edison Co.,Akron,OH,Summit Pumped Storage Hydroele,Not Given,OH,HYDRO,ACTIVE,2001,1,101.03,WATER,OTHER
+Ohio Edison Co.,Akron,OH,Summit Pumped Storage Hydroele,Not Given,OH,HYDRO,ACTIVE,2002,1,101.03,WATER,OTHER
+Ohio Edison Co.,Akron,OH,West Lorain,Lorain,OH,COMB CYC,ACTIVE,1998,1,102,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,West Lorain,Lorain,OH,COMB CYC,RERATE,2003,1,94,OIL-L,OTHER
+Ohio Edison Co.,Akron,OH,West Lorain,Lorain,OH,GAS TURB,ACTIVE,2001,1,425,GAS,OTHER
+Ohio Municipal Electric Generation Joint Venture,Not Given,OH,Bellville (AMP),Bellville,OH,HYDRO,ACTIVE,1999,7,42,WATER,OTHER
+Ohio Power Co.,Canton,OH,Cardinal,Brilliant,OH,STEAM,ACTIVE,1998,1,585,COAL,OTHER
+Ohio Power Co.,Canton,OH,Gavin,Cheshire,OH,STEAM,ACTIVE,1998,1,2600,COAL,OTHER
+Ohio Power Co.,Canton,OH,Muskingum River,Beverly,OH,STEAM,ACTIVE,1998,1,1365,COAL,OTHER
+Ohio Power Co.,Canton,OH,Racine,Not Given,OH,HYDRO,ACTIVE,1998,1,41.44,WATER,OTHER
+Ohio State University,Columbus,OH,McCracken Power Plant,Columbus,OH,COG,ACTIVE,1998,1,13.13,OTHER,OTHER
+Ohio University,Athens,OH,Central Heating Plant (OH) - OU,Athens,OH,UNKNOWN,ACTIVE,1998,1,1.05,OTHER,OTHER
+Ohio Valley Electric Corp.,Piketon,OH,Kyger Creek,Cheshire,OH,STEAM,ACTIVE,1998,1,999,COAL,OTHER
+Orrville Municipal Utilities,Orrville,OH,Orrville,Orrville,OH,STEAM,ACTIVE,1998,1,74.5,COAL,OTHER
+PG&E Generating,Bethesda,MD,Bowling Green,Bowling Green,OH,GAS TURB,ACTIVE,2000,6,49.5,GAS,OTHER
+PG&E Generating,Bethesda,MD,Canton,Canton,OH,GAS TURB,ACTIVE,2000,6,49.5,GAS,OTHER
+PG&E Generating,Bethesda,MD,Galion,Galion,OH,GAS TURB,ACTIVE,2000,6,49.5,GAS,OTHER
+PG&E Generating,Bethesda,MD,Napoleon,Napoleon,OH,GAS TURB,ACTIVE,2000,6,49.5,GAS,OTHER
+"PSEG Global, Inc.",Ridgewood,NJ,Waterford,Waterford,OH,COMB CYC,ACTIVE,2002,1,800,GAS,OTHER
+Pactiv Corp.,Lake Forest,IL,Packaging Corporation of Ameri (OH),Not Given,OH,COG,ACTIVE,1998,1,14,OTHER,OTHER
+Painesville Electric Division,Painesville,OH,Painesville,Painesville,OH,STEAM,ACTIVE,1998,1,46,COAL,OIL-L
+Painesville Electric Division,Painesville,OH,Painesville,Painesville,OH,STEAM,ACTIVE,1998,1,7.5,COAL,OTHER
+Pennsylvania Power Co.,New Castle,PA,Burger,Shadyside,OH,INT COMB,ACTIVE,1998,1,1.01,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Edgewater - OHED,Lorain,OH,GAS TURB,ACTIVE,1998,1,5.32,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Mad River,Springfield,OH,GAS TURB,ACTIVE,1998,1,7.2,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Niles (DLCO),Niles,OH,GAS TURB,ACTIVE,1998,1,3.6,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Niles (DLCO),Niles,OH,GAS TURB,OWNER CHG,1999,12,-3.6,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,ACTIVE,1998,1,61.26,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1998,7,-61.26,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1999,3,-61.26,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2000,6,1.83,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2001,3,1.31,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1998,7,61.26,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1999,5,61.26,URAN,OTHER
+Pennsylvania Power Co.,New Castle,PA,Sammis,Stratton,OH,INT COMB,ACTIVE,1998,1,1.87,OIL-L,OTHER
+Pennsylvania Power Co.,New Castle,PA,Sammis,Stratton,OH,STEAM,ACTIVE,1998,1,124.8,COAL,OTHER
+Piqua Municipal Power System,Piqua,OH,Piqua,Piqua,OH,GAS TURB,ACTIVE,1998,1,36.5,OIL-L,OTHER
+Piqua Municipal Power System,Piqua,OH,Piqua,Piqua,OH,STEAM,ACTIVE,1998,1,45.81,COAL,OIL-L
+Power Dam Corp.,Defiance,OH,Power Dam Corporation Auglaiz,Defiance,OH,COG,ACTIVE,1998,1,4.5,OTHER,OTHER
+Procter & Gamble Co.,Cincinnati,OH,Ivorydale,Not Given,OH,COG,ACTIVE,1998,1,25.5,OTHER,OTHER
+Prospect Municipal Electric,Prospect,OH,Prospect (PROS),Prospect,OH,INT COMB,ACTIVE,1998,2,1.8,OIL-L,OTHER
+Sauder Woodworking Co.,Archbold,OH,Sauder Power Plant,Archbold,OH,UNKNOWN,ACTIVE,1998,1,7.3,OTHER,OTHER
+Sears Roebuck & Co.,Columbus,OH,Sears Logistics Services,Not Given,OH,COG,ACTIVE,1998,1,18.45,OTHER,OTHER
+Shelby Dept. of Utilities,Shelby,OH,Shelby,Shelby,OH,INT COMB,ACTIVE,1998,1,3,OIL-L,GAS
+Shelby Dept. of Utilities,Shelby,OH,Shelby,Shelby,OH,STEAM,ACTIVE,1998,1,24,COAL,OIL-L
+Shelby Dept. of Utilities,Shelby,OH,Shelby,Shelby,OH,STEAM,ACTIVE,1998,1,7,COAL,OTHER
+Shelby Dept. of Utilities,Shelby,OH,Shelby,Shelby,OH,STEAM,OUT OF SVC,1998,1,0,COAL,OTHER
+St. Mary's Municipal Light & Power,Saint Marys,OH,St. Marys (SMMLP),Saint Marys,OH,GAS TURB,ACTIVE,1998,1,12.75,OIL-L,OTHER
+St. Mary's Municipal Light & Power,Saint Marys,OH,St. Marys (SMMLP),Saint Marys,OH,STEAM,ACTIVE,1998,1,9,COAL,GAS
+St. Mary's Municipal Light & Power,Saint Marys,OH,St. Marys (SMMLP),Saint Marys,OH,STEAM,ACTIVE,1998,1,7.7,COAL,OTHER
+St. Mary's Municipal Light & Power,Saint Marys,OH,St. Marys (SMMLP),Saint Marys,OH,STEAM,RETIRED,1998,12,-1.9,COAL,OTHER
+Stone Container Corp.,Chicago,IL,Stone Container Corp - Coshocton,Coshocton,OH,COG,ACTIVE,1998,1,16.5,OTHER,OTHER
+"Summit Energy Storage, Inc.",Norton,OH,Summit Pumped Storage Hydroele,Not Given,OH,HYDRO,ACTIVE,2001,1,656.55,WATER,OTHER
+"Summit Energy Storage, Inc.",Norton,OH,Summit Pumped Storage Hydroele,Not Given,OH,HYDRO,ACTIVE,2002,1,656.55,WATER,OTHER
+"Sunoco, Inc. (R & M)",Philadelphia,PA,Toledo Prt,Toledo,OH,COG,ACTIVE,1998,1,6,OTHER,OTHER
+Toledo Edison Co.,Toledo,OH,Bay Shore,Oregon,OH,GAS TURB,ACTIVE,1998,1,16,OIL-L,OTHER
+Toledo Edison Co.,Toledo,OH,Bay Shore,Oregon,OH,STEAM,ACTIVE,1998,1,621,COAL,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,ACTIVE,1998,1,424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,4,-424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,6,-424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,7,-848.9,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,9,-424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1998,10,-424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,OUT OF SVC,1999,4,-424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,5,424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,7,1273.35,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,9,424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1998,10,424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Davis-Besse,Oak Harbor,OH,NUCLEAR,SVC RETURN,1999,5,424.45,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,ACTIVE,1998,1,232.75,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1998,7,-232.75,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,OUT OF SVC,1999,3,-232.75,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2000,6,6.97,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,RERATE,2001,3,4.98,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1998,7,232.75,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Perry (CEI),North Perry,OH,NUCLEAR,SVC RETURN,1999,5,232.75,URAN,OTHER
+Toledo Edison Co.,Toledo,OH,Richland,Defiance,OH,GAS TURB,ACTIVE,1998,1,22,GAS,OIL-L
+Toledo Edison Co.,Toledo,OH,Richland,Defiance,OH,GAS TURB,ACTIVE,1998,1,11,OIL-L,GAS
+Toledo Edison Co.,Toledo,OH,Richland Peaking,Defiance,OH,GAS TURB,ACTIVE,2000,6,260,GAS,OTHER
+Toledo Edison Co.,Toledo,OH,Richland Peaking,Defiance,OH,GAS TURB,ACTIVE,2000,9,130,GAS,OTHER
+Toledo Edison Co.,Toledo,OH,Stryker,Stryker,OH,GAS TURB,ACTIVE,1998,1,17,OIL-L,OTHER
+Trigen Energy Solutions,White Plains,NY,Middletown Project (TRENSO),Middletown,OH,COMB CYC,ACTIVE,2050,1,230,GAS,OTHER
+"WCI Steel, Inc.",Warren,OH,WCI Steel Inc.,Warren,OH,COG,ACTIVE,1998,1,20.5,OTHER,OTHER
+Wadsworth Municipal Light & Water Dept.,Wadsworth,OH,Wadsworth,Wadsworth,OH,GAS TURB,ACTIVE,1998,1,5.4,OIL-L,OTHER
+Woodsfield Board of Public Affairs,Woodsfield,OH,Anadarko (WOODS),Woodsfield,OH,INT COMB,ACTIVE,1998,1,8.02,OIL-L,GAS
+American Resource Recovery of St. Croix,New Richmond,WI,St Croix Waste-To-Energy Fcty,New Richmond,WI,COG,ACTIVE,1998,1,1.28,OTHER,OTHER
+Arcadia Electric Utility,Arcadia,WI,Arcadia,Arcadia,WI,INT COMB,ACTIVE,1998,1,9.29,OIL-L,OTHER
+Archer Daniels Midland Co.,Decatur,IL,Milwaukee,Not Given,WI,COG,ACTIVE,1998,1,3,OTHER,OTHER
+Argyle Municipal Electric & Water Dept.,Argyle,WI,Argyle - AMEWD,Argyle,WI,HYDRO,OUT OF SVC,1998,1,0,WATER,OTHER
+Argyle Municipal Electric & Water Dept.,Argyle,WI,Argyle - AMEWD,Argyle,WI,INT COMB,ACTIVE,1998,1,2.28,OIL-L,OTHER
+BIO-Energy Partners,Delavan,WI,Malard Ridge,Delavan,WI,UNKNOWN,ACTIVE,1998,1,1.6,OTHER,OTHER
+BIO-Energy Partners,Oak Brook,IL,Metro Gas Recovery,Franklin,WI,COG,ACTIVE,1998,1,6,OTHER,OTHER
+BIO-Energy Partners,Oak Brook,IL,Omega Hills Gas Recovery,Menomonee Falls,WI,COG,ACTIVE,1998,1,7.15,OTHER,OTHER
+BIO-Energy Partners,Oak Brook,IL,Pheasant Run Landfill Gas Reco,Bristol,WI,COG,ACTIVE,1998,1,1.6,OTHER,OTHER
+"Badger Paper Mills, Inc.",Peshtigo,WI,Badger Paper Mills Inc,Peshtigo,WI,COG,ACTIVE,1998,1,2,OTHER,OTHER
+Barron Light & Water Dept.,Barron,WI,Barron,Barron,WI,HYDRO,ACTIVE,1998,1,0.07,WATER,OTHER
+Barron Light & Water Dept.,Barron,WI,Barron,Barron,WI,INT COMB,ACTIVE,1998,1,4.1,OIL-L,OTHER
+Black River Falls Municipal Utilities,Black River Falls,WI,Black River Falls,Black River Falls,WI,HYDRO,ACTIVE,1998,1,0.9,WATER,OTHER
+Black River Falls Municipal Utilities,Black River Falls,WI,Black River Falls,Black River Falls,WI,INT COMB,ACTIVE,1998,1,3.1,OIL-L,OTHER
+Cashton Municipal Light & Water Utility,Cashton,WI,Cashton,Cashton,WI,INT COMB,ACTIVE,1998,1,1.18,GAS,OIL-L
+Cashton Municipal Light & Water Utility,Cashton,WI,Cashton,Cashton,WI,INT COMB,ACTIVE,1998,1,0.77,OIL-L,OTHER
+"Consolidated Papers, Inc.",Wisconsin Rapids,WI,Biron Division,Wisconsin Rapids,WI,COG,ACTIVE,1998,1,65.01,OTHER,OTHER
+"Consolidated Papers, Inc.",Wisconsin Rapids,WI,Kraft Division,Wisconsin Rapids,WI,COG,ACTIVE,1998,1,72.3,OTHER,OTHER
+"Consolidated Papers, Inc.",Wisconsin Rapids,WI,Wisconsin River Division,Stevens Point,WI,COG,ACTIVE,1998,1,7.9,OTHER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Biron,Not Given,WI,HYDRO,ACTIVE,1998,1,6.03,WATER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Biron,Not Given,WI,HYDRO,RERATE,1998,3,-0.4,WATER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Du Bay,Not Given,WI,HYDRO,ACTIVE,1998,1,7.2,WATER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Stevens Point,Stevens Point,WI,HYDRO,ACTIVE,1998,1,4.8,WATER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Wisconsin Rapids Division,Not Given,WI,HYDRO,ACTIVE,1998,1,9.31,WATER,OTHER
+Consolidated Water Power Co.,Wisconsin Rapids,WI,Wisconsin River Div,Not Given,WI,HYDRO,ACTIVE,1998,1,5.49,WATER,OTHER
+Cooperative Power Association,Eden Prairie,MN,Genoa,Genoa,WI,STEAM,ACTIVE,1998,1,188.5,COAL,COAL
+Cooperative Power Association,Eden Prairie,MN,Genoa,Genoa,WI,STEAM,OWNER CHG,1998,12,-188.5,COAL,COAL
+Cumberland Municipal Utility,Cumberland,WI,Cumberland (WI),Cumberland,WI,INT COMB,ACTIVE,1998,1,2.1,GAS,OIL-L
+Cumberland Municipal Utility,Cumberland,WI,Cumberland (WI),Cumberland,WI,INT COMB,ACTIVE,1998,1,9.79,OIL-L,OTHER
+Dahlberg Light & Power Co.,Solon Springs,WI,Gordon (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,0.18,WATER,OTHER
+Dahlberg Light & Power Co.,Solon Springs,WI,Gordon (WI),Not Given,WI,INT COMB,ACTIVE,1998,1,1.4,OIL-L,OTHER
+Dahlberg Light & Power Co.,Solon Springs,WI,Nancy,Not Given,WI,HYDRO,ACTIVE,1998,1,0.45,WATER,OTHER
+Dahlberg Light & Power Co.,Solon Springs,WI,Solon Diesel,Solon Springs,WI,INT COMB,ACTIVE,1998,1,8,OIL-L,OTHER
+Dairyland Power Coop,La Crosse,WI,Alma,Alma,WI,STEAM,ACTIVE,1998,1,207.23,COAL,COAL
+Dairyland Power Coop,La Crosse,WI,Alma,Alma,WI,STEAM,RERATE,1998,4,-0.23,COAL,COAL
+Dairyland Power Coop,La Crosse,WI,Flambeau,Ladysmith,WI,HYDRO,ACTIVE,1998,1,21,WATER,OTHER
+Dairyland Power Coop,La Crosse,WI,Genoa,Genoa,WI,STEAM,ACTIVE,1998,1,188.5,COAL,COAL
+Dairyland Power Coop,La Crosse,WI,J.P. Madgett,Alma,WI,STEAM,ACTIVE,1998,1,377,COAL,OIL-L
+"Elroy Light, Gas & Water Utility",Elroy,WI,Elroy,Elroy,WI,INT COMB,ACTIVE,1998,1,2.55,OIL-L,GAS
+FPL Energy Wisconsin Wind,Juno Beach,FL,West Bend Wind Project,West Bend,WI,WIND,ACTIVE,2000,12,29.7,OTHER,OTHER
+Fennimore Municipal Utilities,Fennimore,WI,Fennimore,Fennimore,WI,INT COMB,ACTIVE,1998,1,2.47,OIL-L,OTHER
+Fort Howard Corp.,Green Bay,WI,Green Bay Mill,Green Bay,WI,COG,ACTIVE,1998,1,135.85,OTHER,OTHER
+Fox River Paper Corp.,Appleton,WI,Appleton Middle Dam,Not Given,WI,HYDRO,ACTIVE,1998,1,1.19,WATER,OTHER
+"Fraser Paper, Ltd.",Park Falls,WI,Flambeau Mill,Park Falls,WI,COG,ACTIVE,1998,1,9.8,OTHER,OTHER
+Georgia Pacific Corp.,Atlanta,GA,Nekoosa Mill,Port Edwards,WI,HYDRO,ACTIVE,1998,1,35.64,WATER,OTHER
+Georgia Pacific Corp.,Atlanta,GA,Port Edwards Mill,Port Edwards,WI,HYDRO,ACTIVE,1998,1,13.79,WATER,OTHER
+"Granite Power Partners, L.P.",Not Given,,Whitewater Cogeneration Facility,Whitewater,WI,COMB CYC,ACTIVE,1998,1,233.64,GAS,OTHER
+"Granite Power Partners, L.P.",Not Given,,Whitewater Cogeneration Facility,Whitewater,WI,COMB CYC,OWNER CHG,1998,3,-233.64,GAS,OTHER
+Great River Energy,Elk River,MN,Genoa,Genoa,WI,STEAM,OWNER CHG,1999,1,188.5,COAL,COAL
+Gresham Municipal Light & Power Dept.,Gresham,WI,Lower Weed,Gresham,WI,HYDRO,ACTIVE,1998,1,0.42,WATER,OTHER
+Gresham Municipal Light & Power Dept.,Gresham,WI,Upper Weed,Gresham,WI,HYDRO,ACTIVE,1998,1,0.3,WATER,OTHER
+International Paper Co.,Purchase,NY,Thilmany Pulp & Paper,Kaukauna,WI,COG,ACTIVE,1998,1,40.1,OTHER,OTHER
+James River Corp.,Richmond,VA,Green Bay Division,Green Bay,WI,COG,ACTIVE,1998,1,12,OTHER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Combined Locks,Kaukauna,WI,HYDRO,ACTIVE,1998,1,6.16,WATER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Kaukauna,Kaukauna,WI,GAS TURB,ACTIVE,1998,1,14.27,GAS,OIL-L
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Kaukauna,Kaukauna,WI,INT COMB,ACTIVE,1998,1,6,OIL-L,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Kaukauna Hy,Kaukauna,WI,HYDRO,ACTIVE,1998,1,4.8,WATER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Little Chute,Kaukauna,WI,HYDRO,ACTIVE,1998,1,3.3,WATER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,New Badger,Kaukauna,WI,HYDRO,ACTIVE,1998,1,3.6,WATER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Old Badger,Kaukauna,WI,HYDRO,ACTIVE,1998,1,2,WATER,OTHER
+Kaukauna Electric & Water Dept.,Kaukauna,WI,Rapide Croche,Kaukauna,WI,HYDRO,ACTIVE,1998,1,2.4,WATER,OTHER
+Kimberly Clark Corp.,Irving,TX,Scott Worldwide Oconto Falls,Oconto Falls,WI,COG,ACTIVE,1998,1,2,OTHER,OTHER
+Kimberly Clark Tissue Co.,Philadelphia,PA,Scott Paper Co.,Marinette,WI,COG,ACTIVE,1998,1,2.16,OTHER,OTHER
+LCO Hydro,Hayward,WI,LAC Courte Oreilles Hydroelect,Winter,WI,COG,ACTIVE,1998,1,3.5,OTHER,OTHER
+"LSP-Whitewater I, Inc.",Not Given,,Whitewater Cogeneration Facility,Whitewater,WI,COMB CYC,OWNER CHG,1998,3,233.64,GAS,OTHER
+La Farge Municipal Electric Co.,La Farge,WI,La Farge,La Farge,WI,INT COMB,ACTIVE,1998,1,1.6,OIL-L,OTHER
+Madison Gas & Electric Co.,Madison,WI,Blount,Madison,WI,STEAM,ACTIVE,1998,1,188.96,COAL,GAS
+Madison Gas & Electric Co.,Madison,WI,Blount,Madison,WI,STEAM,ACTIVE,1998,1,6.72,GAS,OIL-L
+Madison Gas & Electric Co.,Madison,WI,Columbia (WI) - WPL,Portage,WI,STEAM,ACTIVE,1998,1,231,COAL,OTHER
+Madison Gas & Electric Co.,Madison,WI,Fitchburg (WI),Not Given,WI,GAS TURB,ACTIVE,1998,1,40.65,GAS,OIL-L
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,ACTIVE,1998,1,91.67,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,2,-91.67,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,10,-89.57,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,1998,4,-2.1,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,2000,1,5.34,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,2,91.67,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,11,89.57,URAN,OTHER
+Madison Gas & Electric Co.,Madison,WI,Madison Gas & Electric Wind Project,Not Given,WI,WIND,ACTIVE,1999,6,11.22,OTHER,OTHER
+Madison Gas & Electric Co.,Madison,WI,Nine Springs,Not Given,WI,GAS TURB,ACTIVE,1998,1,13.2,GAS,OIL-L
+Madison Gas & Electric Co.,Madison,WI,Sycamore (WI),Not Given,WI,GAS TURB,ACTIVE,1998,1,34.6,GAS,OIL-L
+Manitowoc Public Utilities,Manitowoc,WI,Manitowoc,Manitowoc,WI,INT COMB,ACTIVE,1998,1,10.5,GAS,OIL-L
+Manitowoc Public Utilities,Manitowoc,WI,Manitowoc,Manitowoc,WI,STEAM,ACTIVE,1998,1,25,COAL,OTHER
+Manitowoc Public Utilities,Manitowoc,WI,Manitowoc,Manitowoc,WI,STEAM,ACTIVE,1998,1,54,COAL,PC
+Manitowoc Public Utilities,Manitowoc,WI,Manitowoc,Manitowoc,WI,STEAM,ACTIVE,2004,12,60,COAL,OTHER
+Marathon Electric Manufacturing Co.,Wausau,WI,Marathon Electric Corporation,Wausau,WI,COG,ACTIVE,1998,1,2.7,OTHER,OTHER
+Marshfield Electric & Water Dept.,Marshfield,WI,West Marinette,Not Given,WI,GAS TURB,ACTIVE,1998,1,26.27,GAS,OIL-L
+Menasha Electric & Water Utilities,Menasha,WI,Menasha,Menasha,WI,INT COMB,ACTIVE,1998,1,1,OIL-L,OTHER
+Menasha Electric & Water Utilities,Menasha,WI,Menasha,Menasha,WI,STEAM,ACTIVE,1998,1,21.1,COAL,OTHER
+Merrillan Electric Light & Water Dept.,Merrillan,WI,Merrillan,Merrillan,WI,HYDRO,ACTIVE,1998,1,0.13,WATER,OTHER
+Merrillan Electric Light & Water Dept.,Merrillan,WI,Merrillan,Merrillan,WI,INT COMB,ACTIVE,1998,1,0.8,OIL-L,OTHER
+"Mid-American Power, L.L.C.",Cassville,WI,Stoneman,Cassville,WI,COMB CYC,ACTIVE,2005,1,300,GAS,OTHER
+Milwaukee Metropolitan Sewerage District,Milwaukee,WI,MMSD - Jones Island Wastewater,Not Given,WI,COG,ACTIVE,1998,1,35.11,OTHER,OTHER
+"Milwaukee, County of",Milwaukee,WI,Milwaukee County Dept. PW&D -,Milwaukee,WI,COG,ACTIVE,1998,1,11,OTHER,OTHER
+"Minnesota Power, Inc.",Duluth,MN,Superior (Douglas),Superior,WI,GAS TURB,ACTIVE,2002,1,90,GAS,OTHER
+Mosinee Paper Corp.,Mosinee,WI,Mosinee Paper Corporation Pul,Mosinee,WI,HYDRO,ACTIVE,1998,1,23.5,WATER,OTHER
+Muscoda Light & Water Commission,Muscoda,WI,Muscoda,Muscoda,WI,HYDRO,ACTIVE,1998,1,0.05,WATER,OTHER
+Muscoda Light & Water Commission,Muscoda,WI,Muscoda,Muscoda,WI,INT COMB,ACTIVE,1998,1,0.09,OIL-L,OTHER
+Muscoda Light & Water Commission,Muscoda,WI,Muscoda,Muscoda,WI,STEAM,OUT OF SVC,1998,1,0,TRASH,WOOD
+New Lisbon Municipal Light & Water Dept.,New Lisbon,WI,New Lisbon,New Lisbon,WI,INT COMB,ACTIVE,1998,1,2.57,GAS,OIL-L
+New Lisbon Municipal Light & Water Dept.,New Lisbon,WI,New Lisbon,New Lisbon,WI,INT COMB,ACTIVE,1998,1,1.33,GAS,OTHER
+New Lisbon Municipal Light & Water Dept.,New Lisbon,WI,New Lisbon,New Lisbon,WI,INT COMB,ACTIVE,1998,1,0.73,OIL-L,OTHER
+Nicolet Paper,De Pere,WI,Nicolet Paper De Pere Mill,De Pere,WI,HYDRO,ACTIVE,1998,1,1.08,WATER,OTHER
+"North American Hydro, Inc.",Neshkoro,WI,Wautoma,Wautoma,WI,HYDRO,ACTIVE,1998,1,0.25,WATER,OTHER
+"North Central Power Co., Inc.",Grantsburg,WI,Arpin Dam,Radisson,WI,HYDRO,ACTIVE,1998,1,1.45,WATER,OTHER
+"North Central Power Co., Inc.",Grantsburg,WI,East Fork,Not Given,WI,HYDRO,ACTIVE,1998,1,0.6,WATER,OTHER
+"North Central Power Co., Inc.",Grantsburg,WI,Grimh,Radisson,WI,HYDRO,ACTIVE,1998,1,0.4,WATER,OTHER
+"North Central Power Co., Inc.",Grantsburg,WI,Grimh,Radisson,WI,INT COMB,ACTIVE,1998,1,0.69,OIL-L,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Apple River,Somerset,WI,HYDRO,ACTIVE,1998,1,3.58,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Bay Front,Ashland,WI,STEAM,ACTIVE,1998,1,75,WOOD,COAL
+Northern States Power Co. Wisconsin,Eau Claire,WI,Big Falls (WI),Tony,WI,HYDRO,ACTIVE,1998,1,7.6,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Cedar Falls (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,7.2,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Chippewa Falls,Chippewa Falls,WI,HYDRO,ACTIVE,1998,1,23.85,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Cornell,Cornell,WI,HYDRO,ACTIVE,1998,1,30.3,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Dells,Not Given,WI,HYDRO,ACTIVE,1998,1,8.5,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Flambeau,Not Given,WI,GAS TURB,ACTIVE,1998,1,12,GAS,OIL-L
+Northern States Power Co. Wisconsin,Eau Claire,WI,French Island,Lacrosse,WI,GAS TURB,ACTIVE,1998,1,142,OIL-L,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,French Island,Lacrosse,WI,STEAM,ACTIVE,1998,1,14,WOOD,GAS
+Northern States Power Co. Wisconsin,Eau Claire,WI,French Island,Lacrosse,WI,STEAM,ACTIVE,1998,1,15,WOOD,TRASH
+Northern States Power Co. Wisconsin,Eau Claire,WI,Hayward,Not Given,WI,HYDRO,ACTIVE,1998,1,0.2,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Holcombe,Not Given,WI,HYDRO,ACTIVE,1998,1,35.5,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Jim Falls,Jim Falls,WI,HYDRO,ACTIVE,1998,1,55.51,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Ladysmith,Ladysmith,WI,HYDRO,ACTIVE,1998,1,2.7,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Menomonie,Menomonie,WI,HYDRO,ACTIVE,1998,1,5.3,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Riverdale (WI),Somerset,WI,HYDRO,ACTIVE,1998,1,0.6,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Saxon Falls,Not Given,WI,HYDRO,ACTIVE,1998,1,1.4,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,St. Croix Falls,Saint Croix Falls,WI,HYDRO,ACTIVE,1998,1,23.9,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Thornapple,Ladysmith,WI,HYDRO,ACTIVE,1998,1,1.6,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Trego,Trego,WI,HYDRO,ACTIVE,1998,1,1.3,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Wheaton,Not Given,WI,GAS TURB,ACTIVE,1998,1,332,OIL-L,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,White River (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,0.8,WATER,OTHER
+Northern States Power Co. Wisconsin,Eau Claire,WI,Wissota,Not Given,WI,HYDRO,ACTIVE,1998,1,37.18,WATER,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Black Brook Dam,Not Given,WI,HYDRO,ACTIVE,1998,1,0.61,WATER,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Clam Falls Dam,Not Given,WI,HYDRO,OUT OF SVC,1998,1,0,WATER,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Clam River Dam,Not Given,WI,HYDRO,ACTIVE,1998,1,1.15,WATER,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Danbury Dam,Not Given,WI,GAS TURB,ACTIVE,1998,1,7.25,OIL-L,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Danbury Dam,Not Given,WI,HYDRO,ACTIVE,1998,1,0.99,WATER,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Danbury Dam,Not Given,WI,INT COMB,ACTIVE,1998,1,1.09,OIL-L,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Frederic Diesel,Not Given,WI,INT COMB,ACTIVE,1998,1,6.24,OIL-L,OTHER
+Northwestern Wisconsin Electric Co.,Grantsburg,WI,Grantsburg Diesel,Grantsburg,WI,INT COMB,ACTIVE,1998,1,4.5,OIL-L,OTHER
+Oconto Electric Coop,Oconto Falls,WI,Stiles,Not Given,WI,HYDRO,ACTIVE,1998,1,1,WATER,OTHER
+"Outagamie, County of",Appleton,WI,Outagamie County Landfill Cogen,Appleton,WI,COG,ACTIVE,1998,1,2.6,OTHER,OTHER
+P.H. Glatfelter Co.,Spring Grove,PA,P H Glatfelter Co.,Neenah,WI,COG,ACTIVE,1998,1,4,OTHER,OTHER
+PG&E Generating,Bethesda,MD,Badger Generating,Not Given,WI,COMB CYC,ACTIVE,2002,6,1000,GAS,OTHER
+Pactiv Corp.,Lake Forest,IL,Packaging Corporation of Ameri (WI),Tomahawk,WI,COG,ACTIVE,1998,1,15.5,OTHER,OTHER
+Pardeeville Public Utilities,Pardeeville,WI,Pardeeville,Pardeeville,WI,HYDRO,ACTIVE,1998,1,0.05,WATER,OTHER
+"Pentair, Inc.",Saint Paul,MN,Niagara of Wisconsin Paper Cor,Niagara,WI,COG,ACTIVE,1998,1,24.7,OTHER,OTHER
+"Repap Wisconsin, Inc.",Kimberly,WI,Main Street Plant,Kimberly,WI,HYDRO,ACTIVE,1998,1,13.64,WATER,OTHER
+"Repap Wisconsin, Inc.",Kimberly,WI,Main Street Plant,Kimberly,WI,HYDRO,OUT OF SVC,1998,1,0,WATER,OTHER
+"Repap Wisconsin, Inc.",Kimberly,WI,Main Street Plant,Kimberly,WI,STEAM,ACTIVE,1998,1,33.92,GAS,OTHER
+"Rhinelander Paper Co., Inc.",Rhinelander,WI,Rhinelander Paper Co.,Not Given,WI,COG,ACTIVE,1998,1,25.5,OTHER,OTHER
+River Falls Municipal Utilities,River Falls,WI,Powell Falls,River Falls,WI,HYDRO,ACTIVE,1998,1,0.12,WATER,OTHER
+River Falls Municipal Utilities,River Falls,WI,River Falls (Junction),River Falls,WI,HYDRO,ACTIVE,1998,1,0.49,WATER,OTHER
+River Falls Municipal Utilities,River Falls,WI,River Falls (Junction),River Falls,WI,INT COMB,ACTIVE,1998,1,11.56,OIL-L,GAS
+River Falls Municipal Utilities,River Falls,WI,River Falls (Junction),River Falls,WI,INT COMB,ACTIVE,1998,1,2.5,OIL-L,OTHER
+"SkyGen Energy, L.L.C.",Northbrook,IL,De Pere Energy Center,De Pere,WI,COMB CYC,ACTIVE,2004,1,255,GAS,OTHER
+"SkyGen Energy, L.L.C.",Northbrook,IL,De Pere Energy Center,De Pere,WI,GAS TURB,ACTIVE,1999,6,179,GAS,OIL-L
+"SkyGen Energy, L.L.C.",Northbrook,IL,De Pere Energy Center,De Pere,WI,GAS TURB,RETIRED,2003,12,-179,GAS,OIL-L
+"SkyGen Energy, L.L.C.",Northbrook,IL,Rockgen Energy Center,Cambridge,WI,GAS TURB,ACTIVE,2001,6,450,GAS,OIL-L
+"Southern Energy, Inc.",Atlanta,GA,Neenah,Neenah,WI,GAS TURB,ACTIVE,2000,6,300,GAS,OTHER
+"TPC Whitewater, Inc.",Not Given,,Whitewater Cogeneration Facility,Whitewater,WI,COMB CYC,ACTIVE,1998,1,81.36,GAS,OTHER
+Tomahawk Power & Pulp Co.,Tomahawk,WI,Tomahawk Power & Pulp,Tomahawk,WI,HYDRO,ACTIVE,1998,1,2.66,WATER,OTHER
+U.S. Paper Mills Corp.,Menasha,WI,U S Paper Mills Corp-Menasha,Menasha,WI,COG,ACTIVE,1998,1,6,OTHER,OTHER
+Viola Municipal Electric Utilities,Viola,WI,Viola,Viola,WI,INT COMB,ACTIVE,1998,1,1.05,OIL-L,OTHER
+"Washington Island Electric Coop, Inc.",Washington Island,WI,Washington Island,Washington Island,WI,INT COMB,ACTIVE,1998,1,5.07,OIL-L,OTHER
+Waupaca Foundry Co.,Waupaca,WI,Waupaca Foundry Inc. 1,Waupaca,WI,COG,ACTIVE,1998,1,1,OTHER,OTHER
+Waupaca Foundry Co.,Waupaca,WI,Waupaca Foundry Inc. 2,Waupaca,WI,COG,ACTIVE,1998,1,1.5,OTHER,OTHER
+Weyerhaeuser Co.,Federal Way,WA,Rothschild WI,Rothschild,WI,HYDRO,ACTIVE,1998,1,9.66,WATER,OTHER
+Winnebago County Landfill,Oshkosh,WI,Winnebago County Landfill Gas,Oshkosh,WI,COG,ACTIVE,1998,1,3.15,OTHER,OTHER
+"Wisconsin Dept. Administration, State of",Madison,WI,Capitol Heat and Power Plant,Madison,WI,COG,ACTIVE,1998,1,2,OTHER,OTHER
+"Wisconsin Dept. Administration, State of",Madison,WI,UW-Madison - Charter St. Plant,Madison,WI,COG,ACTIVE,1998,1,3.5,OTHER,OTHER
+"Wisconsin Dept. Administration, State of",Madison,WI,Waupun Correctional Institutio,Waupun,WI,COG,ACTIVE,1998,1,2,OTHER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Appleton (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,1.31,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Appleton (WI),Not Given,WI,HYDRO,RERATE,1998,4,-0.22,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Appleton (WI),Not Given,WI,HYDRO,RERATE,1998,11,0.59,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Concord,Weyauwega,WI,GAS TURB,ACTIVE,1998,1,320,GAS,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Concord,Weyauwega,WI,GAS TURB,RERATE,1999,6,56,GAS,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Edgewater (WI),Sheboygan,WI,STEAM,ACTIVE,1998,1,100.5,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Fond Du Lac Wind Project,Byron,WI,WIND,ACTIVE,1999,6,1.32,OTHER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Germantown,Germantown,WI,GAS TURB,ACTIVE,1998,1,212,OIL-L,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Germantown,Germantown,WI,GAS TURB,ACTIVE,2000,6,135,GAS,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Milwaukee County,Not Given,WI,STEAM,ACTIVE,1998,1,11,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Oak Creek South,Oak Creek,WI,GAS TURB,ACTIVE,1998,1,20,GAS,OIL-L
+Wisconsin Electric Power Co.,Milwaukee,WI,Oak Creek South,Oak Creek,WI,STEAM,ACTIVE,1998,1,1135,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Oconto Falls,Oconto Falls,WI,HYDRO,ACTIVE,1998,1,1.32,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Paris (WI),Union Grove,WI,GAS TURB,ACTIVE,1998,1,320,GAS,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Paris (WI),Union Grove,WI,GAS TURB,RERATE,1999,6,56,GAS,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Pine,Florence,WI,HYDRO,ACTIVE,1998,1,4,WATER,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Pleasant Prairie,Pleasant Prairie,WI,STEAM,ACTIVE,1998,1,1200,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,GAS TURB,ACTIVE,1998,1,16,OIL-L,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,ACTIVE,1998,1,493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1998,1,0,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1998,2,-493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1998,3,-492,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1998,12,-441,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1999,4,-493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1999,5,-493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,1999,10,-493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,OUT OF SVC,2000,2,-493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,RERATE,1998,4,-51,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,RETIRED,2010,10,0,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1998,2,492,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1998,3,492,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1998,7,493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1999,3,441,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1999,4,493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1999,5,493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Point Beach,Manitowoc,WI,NUCLEAR,SVC RETURN,1999,12,493,URAN,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Port Washington,Port Washington,WI,GAS TURB,ACTIVE,1998,1,18,OIL-L,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Port Washington,Port Washington,WI,STEAM,ACTIVE,1998,1,326,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Valley (WI),Milwaukee,WI,INT COMB,ACTIVE,1998,1,3,OIL-L,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Valley (WI),Milwaukee,WI,STEAM,ACTIVE,1998,1,280,COAL,OTHER
+Wisconsin Electric Power Co.,Milwaukee,WI,Weyauwega,Weyauwega,WI,HYDRO,ACTIVE,1998,1,0.4,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Biomass Plant,Not Given,WI,GAS TURB,ACTIVE,2004,5,50,OTHER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Blackhawk,Beloit,WI,HYDRO,ACTIVE,1998,1,0.63,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Blackhawk,Beloit,WI,HYDRO,RETIRED,1998,4,-0.63,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Blackhawk,Beloit,WI,STEAM,ACTIVE,1998,1,60,GAS,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Columbia (WI) - WPL,Portage,WI,STEAM,ACTIVE,1998,1,485.1,COAL,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Dewey,Cassville,WI,STEAM,ACTIVE,1998,1,226,COAL,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Edgewater (WI),Sheboygan,WI,STEAM,ACTIVE,1998,1,608.74,COAL,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Janesville (WI),Janesville,WI,HYDRO,ACTIVE,1998,1,0.5,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Janesville (WI),Janesville,WI,HYDRO,RETIRED,1998,4,-0.25,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,ACTIVE,1998,1,211.15,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,2,-211.15,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,10,-206.31,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,1998,4,-4.84,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,2000,1,12.3,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,2,211.15,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,11,206.31,URAN,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Kilbourn,Wisconsin Dells,WI,HYDRO,ACTIVE,1998,1,9.48,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Portable (WI),Not Given,WI,INT COMB,ACTIVE,1998,1,0.5,OIL-L,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Prairie Du Sac,Prairie Du Sac,WI,HYDRO,ACTIVE,1998,1,29.98,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Rock River,Beloit,WI,GAS TURB,ACTIVE,1998,1,151.41,OIL-L,GAS
+Wisconsin Power & Light Co.,Madison,WI,Rock River,Beloit,WI,GAS TURB,RERATE,1999,5,28,OIL-L,GAS
+Wisconsin Power & Light Co.,Madison,WI,Rock River,Beloit,WI,STEAM,ACTIVE,1998,1,161,COAL,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Shawano,Shawano,WI,HYDRO,ACTIVE,1998,1,0.41,WATER,OTHER
+Wisconsin Power & Light Co.,Madison,WI,Sheepskin,Not Given,WI,GAS TURB,ACTIVE,1998,1,36.7,OIL-L,GAS
+Wisconsin Power & Light Co.,Madison,WI,South Fond Du Lac,Not Given,WI,GAS TURB,ACTIVE,1998,1,169.7,GAS,OIL-H
+Wisconsin Power & Light Co.,Madison,WI,South Fond Du Lac,Not Given,WI,GAS TURB,RERATE,1999,5,20,GAS,OIL-H
+"Wisconsin Public Power, Inc. System",Sun Prairie,WI,South Fond Du Lac,Not Given,WI,GAS TURB,ACTIVE,1998,1,171.07,GAS,OIL-H
+"Wisconsin Public Power, Inc. System",Sun Prairie,WI,South Fond Du Lac,Not Given,WI,GAS TURB,RERATE,1999,5,20,GAS,OIL-H
+Wisconsin Public Service Corp.,Green Bay,WI,Alexander (WPS),Not Given,WI,HYDRO,ACTIVE,1998,1,2.19,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Caldron Falls,Not Given,WI,HYDRO,ACTIVE,1998,1,6.8,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Columbia (WI) - WPL,Portage,WI,STEAM,ACTIVE,1998,1,333.9,COAL,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Eagle River,Not Given,WI,INT COMB,ACTIVE,1998,1,3.9,OIL-L,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Edgewater (WI),Sheboygan,WI,STEAM,ACTIVE,1998,1,108.76,COAL,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Grandfather Falls,Not Given,WI,HYDRO,ACTIVE,1998,1,17.5,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Hat Rapids,Not Given,WI,HYDRO,ACTIVE,1998,1,0.6,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,High Falls (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,7,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Jersey,Not Given,WI,HYDRO,ACTIVE,1998,1,0.21,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Johnson Falls,Not Given,WI,HYDRO,ACTIVE,1998,1,4,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,ACTIVE,1998,1,212.18,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,2,-212.18,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,OUT OF SVC,1998,10,-207.32,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,1998,4,-4.86,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,RERATE,2000,1,12.36,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,2,212.18,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee,Kewaunee,WI,NUCLEAR,SVC RETURN,1998,11,207.32,URAN,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Kewaunee Wind Farm (Lincoln),Not Given,WI,WIND,ACTIVE,1999,6,9,OTHER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Merrill,Merrill,WI,HYDRO,ACTIVE,1998,1,0.96,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Oneida Casino,Not Given,WI,INT COMB,ACTIVE,1998,1,4,OIL-L,OIL-L
+Wisconsin Public Service Corp.,Green Bay,WI,Otter Rapids (WI),Not Given,WI,HYDRO,ACTIVE,1998,1,0.28,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Peshtigo,Peshtigo,WI,HYDRO,ACTIVE,1998,1,0.24,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Potato Rapids,Peshtigo,WI,HYDRO,ACTIVE,1998,1,0.5,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Pulliam,Green Bay,WI,STEAM,ACTIVE,1998,1,406,COAL,GAS
+Wisconsin Public Service Corp.,Green Bay,WI,Pulliam,Green Bay,WI,STEAM,RETIRED,2000,2,-26.5,COAL,GAS
+Wisconsin Public Service Corp.,Green Bay,WI,Sandstone Rapids,Not Given,WI,HYDRO,ACTIVE,1998,1,4,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Tomahawk,Tomahawk,WI,HYDRO,ACTIVE,1998,1,2.2,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Wausau,Wausau,WI,HYDRO,ACTIVE,1998,1,2.79,WATER,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,West Marinette,Not Given,WI,GAS TURB,ACTIVE,1998,1,137.63,GAS,OIL-L
+Wisconsin Public Service Corp.,Green Bay,WI,West Marinette,Not Given,WI,GAS TURB,ACTIVE,2000,6,83,GAS,OTHER
+Wisconsin Public Service Corp.,Green Bay,WI,Weston (WI),Rothschild,WI,GAS TURB,ACTIVE,1998,1,68.3,GAS,OIL-L
+Wisconsin Public Service Corp.,Green Bay,WI,Weston (WI),Rothschild,WI,STEAM,ACTIVE,1998,1,477.6,COAL,GAS
+Wisconsin River Power Co.,Wisconsin Rapids,WI,Castle Rock,Friendship,WI,HYDRO,ACTIVE,1998,1,17.5,WATER,OTHER
+Wisconsin River Power Co.,Wisconsin Rapids,WI,Petenwell,Not Given,WI,HYDRO,ACTIVE,1998,1,20,WATER,OTHER
+"Wisconsin, State of",Chippewa Falls,WI,White Water Campus,Whitewater,WI,COMB CYC,ACTIVE,1998,1,240,OTHER,OTHER

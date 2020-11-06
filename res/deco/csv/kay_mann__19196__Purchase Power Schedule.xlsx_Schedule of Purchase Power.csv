@@ -1,0 +1,8 @@
+Resource,Amount MW,Hour Limitation,Reliability,Term,Delivery Point,Scheduling,Minimum Delivery
+SEPA,11,1500,,None,Into Entergy,"1.  Submit annual schedule by June 20
+2.  Monthly breakdown (by week) 10 days prior to beginning of month
+3.  Weekly breakdown (by hour) by preceding Wednesday",
+Cajun,7,,Firm System Capacity (as firm as native load),2010-05-31 00:00:00,Into Entergy,"Week ahead by COB Thursday
+Hourly changes with approval",At least 25% of contract capacity
+EPI-Isis,7,,"Unit Contingent, Transmission Contingent",2010-05-31 00:00:00,Into Entergy,16 hours in advance,
+EPI-Ritchie,1,,"Unit Contingent, Transmission Contingent",2010-05-31 00:00:00,Into Entergy,16 hours in advance,

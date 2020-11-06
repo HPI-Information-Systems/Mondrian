@@ -1,0 +1,28 @@
+Summary of Cross-Commodity Positions,,,,,,,,,,
+2001-01-17 00:00:00,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,Cross-Commodity,Counterparty,,Commodity ,,Commodity ,,Commodity ,,Commodity 
+Commodity Group,Position,(Specify which Enron,NOP,Group Where,M/G,Group Where,VaR,Group Where,P/L,Group Where
+,,"desk, or if 3rd party)",,NOP Captured,,M/G Captured,,VaR Captured,YTD,P/L Captured
+Gas,125,"NG-Price,FT-NY,G-Daily-Est,FT-Northwest,Ft-West,FT-Ontario,FT-West-EOL,",,,-29.5,Gas,220528,Agg-Mgmt,-4755000,Cross Commodity Trading
+Power,940,"Hedgecdn,EPMI-Midwest,EPMI-LT-Ercot,EPMI-LT-Mgmt,EPMI-LT-NW",,,,,317853,Agg-Mgmt,-1174000,Cross Commodity Trading
+Crude,25,"Wti-GW-NXC2,Phyoil-Price",,,,,25479,Agg-Mgmt,145000,Cross Commodity Trading
+Coal,8,Coal-East-II,,,,,2949,Agg-Mgmt,-10000,Cross Commodity Trading
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+NOTE:  All amounts above are meant to represent what is being reported in the DPR - so if some positions with other Enron desks are classified as affiliate positions,,,,,,,,,,
+"            an therefore, or otherwise, excluded from the DPR reporting, then identify as such so we understand the related reporting for each side of the transaction.",,,,,,,,,,

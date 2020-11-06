@@ -1,0 +1,53 @@
+,,,,,,,,,,,,,CONFIDENTIAL
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,Schedule C Summary
+,,,,,,,,,,,,,"As of December 29, 2000"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,Prior Month,,,,
+,Portfolio,Book(s),Date,Counterparty,Description,,Amount,,2000-11-29 00:00:00,,Change,,Removal Date
+,,,,,,,,,,,,,
+,Natural Gas,Canada,1995-03-01 00:00:00,-,FX - Adjustment for CNRL deal.  Amortize amount over life of deal.,,202003,,227519,,-25516,,To be written off by December 2009
+,Natural Gas,Canada,1999-04-01 00:00:00,-,Adjustment to back out income on American Public Agency prepaid deal (EV7521).  This adjustment was originally calculated as the difference between the physical premium midpoints and the pricing on the deals.,,-353764,,-353764,,0,,2011-04-01 00:00:00
+,Natural Gas,Canada,1999-07-22 00:00:00,-,"At the present time, toll rates are based on current toll rates and are not escalated for any anticipated toll rate increases.  This adjustment is to provide for future changes in toll rates.",,-542237,,-542237,,0,,To be determined
+,Natural Gas,Canada,2000-05-01 00:00:00,-,Structured storage deal with Gas Alberta (NJ9955).  The adjustment is to provide for uncertainties related to the timing of the injection and withdrawal of the storage.,,-140000,,-140000,,0,,To be written off by March 2001
+,Natural Gas,Canada,2000-10-31 00:00:00,-,This amount has been entered due to the fact that stn2 is not a liquid market,,-1500000,,-1500000,,0,,
+,,,,,,,,,,,,,
+,Natural Gas,FT-NY,2000-08-01 00:00:00,,Credit Wheeling Pitt deal,,-5000,,-5000,,0,,
+,Natural Gas,NG Price,1999-06-01 00:00:00,FP&L,Remaining reserve amount from a Florida Power & Light deal. There are still remaining basis hedges on FGT Zone 2 and Zone 3 that this money is keep in reserve for hedging purposes.,,-106781,,-106781,,0,,To be determined
+,Natural Gas,MGMT,As of December-00,-,Per John Lavorato,,-404000000,,-80000000,,-324000000,,
+,Natural Gas,GDNew,As of December-00,-,Liquidity risk due to Socal positions,,-55000000,,-155000000,,100000000,,To be determined
+,Natural Gas,FT-HPLC,1999-07-01 00:00:00,Entex,Reserved to account for changes between actual volumes and what was initially estimated in the contract.,,-3221921,,-3221921,,0,,2000-11-01 00:00:00
+,Natural Gas,FT-Denver,2000-09-01 00:00:00,JM Huber,Awaiting FERC filing by Trailblazer to insure that project has been fully subscribed and will be constructed.,,-5500000,,-5500000,,0,,
+,Natural Gas,,2000-12-01 00:00:00,Napoleonville Pad Gas,Operational Prudency,,-1636277,,0,,-1636277,,
+,Natural Gas,FT-Denver,2000-12-02 00:00:00,JM Huber,Awaiting FERC filing by Trailblazer to insure that project has been fully subscribed and will be constructed.,,-700000,,0,,-700000,,
+,Natural Gas,Originations,2000-05-01 00:00:00,-,CES Reconciliation Reserve due to changes in actual deal amounts vs. original estimates.,,-43331,,-43331,,0,,2000-12-01 00:00:00
+,,,,,,,,,,,,,
+,Natural Gas,Prepay,1999-04-14 00:00:00,APEA,Reserve related to the management of the position and the re-marketing and physical delivery of gas.,,-1106396,,-1106396,,0,,2011-04-01 00:00:00
+,TOTAL GAS,,,,,,-473653704,,,,,,
+,Power,East,1998-02-01 00:00:00,Florida P & L,"FP&L and JEA transactions were entered into as backing deals, but do not completely hedge each other.  This difference in value created a gain which was reserved.",,-2073103,,-2073103,,0,,
+,Power,East,1999-10-01 00:00:00,Manitoba Hydro,Deal # 215919.01.  Purchase of non-firm power.  The MTM income generated was reserved and will be adjusted as actuals are known.,,0,,0,,0,,
+,Power,East,2000-09-01 00:00:00,,LCRA moved to Enpower,,-2968598,,-2968598,,0,,
+,Power,East,2000-06-01 00:00:00,Engage,Reserve against potential liability with Engage Energy.,,-700000,,-700000,,0,,
+,Power,East,2000-06-01 00:00:00,-,Hedge Amortization,,-90879201,,-90879201,,0,,
+,TOTAL POWER EAST,,,,,,-96620902,,,,,,
+,Power,West,1998-02-01 00:00:00,Welded Tube,Incremental reserves over the MTM value of the swaptions.  Amount is reserved due to possible transmission costs if delivery points change.,,-563194,,-563194,,0,,
+,Power,West,2000-05-01 00:00:00,Colorado Springs,Firm sale is being backed by a non-firm purchase.  Measure potential exposure relative to building a peaking unit.,,-10000000,,-10000000,,0,,
+,Power,West,2000-05-02 00:00:00,-,Reserve to cover potential scheduling liability at Silver Peak on 5/24/1999.  Pending litigation.,,-4000000,,-4000000,,0,,
+,Power,West,2000-06-02 00:00:00,Silver Peak,Income reserve associated with Px schedule at Silver Peak.  Reserve for total potential in the day ahead and real-time markets.  Includes actual damages and opportunity cost.,,-6000000,,-6000000,,0,,
+,Power,West,2000-06-03 00:00:00,Colorado Springs,Reserve due to CSU firm sales backed with non-firm transmission at Rockies.,,-7200000,,-7200000,,0,,
+,Power,West,2000-07-01 00:00:00,LT-NW,"Legal staff has reviewed the case against BPA in Federal District court. Odds of settlemnt at that venue are much less than originally anticipated  Thus, we are increasing the total reserve by $10,000,000 (from $20,000,000 to $30,000,000) because of BPA's",,-10000000,,-10000000,,0,,
+,Power,West,2000-08-01 00:00:00,ST-CA,See explanation below (3),,-10000000,,-10000000,,0,,
+,Power,West,2000-10-31 00:00:00,LT-NW,Canfibre has declared bankruptcy; their contract allows for termination of deals.  We are awaiting final legal notification.,,-2914328.02,,-2914328.02,,0,,
+,Power,West,2000-11-01 00:00:00,LT-NW,Reserve associated with potential refund risk in California based on FERC's proposed 206 order establishing a refund effective date of 10/3/2000.,,-25000000,,-25000000,,0,,
+,Power,West,2000-11-02 00:00:00,-,Reserve associated with potential refund risk in California based on FERC's proposed 206 order establishing a refund effective date of 10/3/2000.,,-15000000,,-15000000,,0,,
+,Power,West,2000-12-04 00:00:00,ST-Plant,See explanation below (2),,-132522264,,0,,-132522264,,
+,TOTAL POWER WEST,,,,,,-223199786.02,,,,,,
+,,,,,,,,,,,,,
+,TOTAL ,,,,,,-793474392.02,,-434590335.02,,-358884057,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,"(2) Liquidity, index, and physical delivery risk.  There is very little trading in the western power markets now.  We have existing positions that are difficult to get out of.  We have short physical positions offset by long swaps.  It may be difficult to procure physical supply through this winter in the northwest.  There may be a large disparity between the price that we pay for the physical power and the revenue we receive on our index swaps due to lack of liquidity.  We have purchased a variety of transmission paths to close out positions where there is a distinct possibility that the paths could be curtailed.",,,,,,,,
+,,,,,,,,,,,,,
+,,,,,"(3)  FERC issued an order on August 23rd, which we received on August 24th, in response to SDG&E's filing for price caps on sellers in addition to the CAISO as a buyer.  The order states that FERC is opening a Federal Power Act 206 investigation.  A 206 i",,,,,,,,

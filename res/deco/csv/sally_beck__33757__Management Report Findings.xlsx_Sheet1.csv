@@ -1,0 +1,294 @@
+"Reporting Categories
+       EOL Product Type","Reporting Categories
+       EOL Product Type","Valuation Calculation Used
+as of 7/14/2000","PCG
+Calculated LTD Value",IT Compliance Notes & Exceptions,IT Compliance Recalculated LTD Value,"Difference
+(over stated)",Percentage of PCG $,Comments
+1. US Gas,,,,,,,,
+,U.S. Gas Basis Swaps,"EOL Price = Online Negotiated Basis Differential Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = EOL Price * Notional Volume
+",3082099652,"68 Deals were identified that were extracted from TAGG with 0 prices.  As a result these deals were not calculated as part of the final Absolute Value.  
+6 Deals were identified where the volumes between TAGG and EOL did not reconcile.
+Another 87 deals were priced out in the Management Report with Index Prices instead of Basis Differential Prices.  This is the primary error contributing to the $268M overstatement.",2813490982,-268608670,0.08715119572000134,"Over 270 million of the net 268 million discrepancy is due to two post Ids which Risk Management mistakenly officialized as Gas Daily Books on the 8th and 19th of May. This caused the basis deals contained in these books to be pulled in as Gas Daily Index trades and they were valued accordingly. The Post Ids were subsequently corrected (the next day) by Risk Management, but PCG was not notified of the change to these officialized books."
+,US Gas Financial Swaps,"EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period (#Days)
+
+Abs Value = EOL Fixed Price * Notional Volume",58573012170,124 deals were identified where their were volumetric discrepancies between TAGG and EOL data.  The result is $24M overstatement in absolute value.,58548195650,-24816520,0.0004236852277286596,Two days worth of data on two book codes were doubled in Access. Individual deals being corrected.
+,"US Gas Physical Forward Firm
+(Sitara & Tagg)","EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = EOL Fixed Price * Notional Volume
+(after 4/18/00)",4241025462,"Minor differences between Management Reporting Database values and EOL recalculated were due to:
+- Henry Hub prices used to value all deal prior to 4/19/00.  This still contributes approximately $49.7M to the difference.
+- Some deals from TAGG & SITARA after 4/18/00 are still being valued with the Henry Hub prices.  This may have been a result of missing information during the reporting day and HH prices had to be used.
+- There are still some 81 deals where the volumes do not tie out.",4190678157,-50347305,0.011871493215760373,About 25% of the original Henry Hub mass-Price correction from June not currently reflected in Database. We are reviewing the individual spreadsheets which did not update and will run another mass-conversion on physical trade data to reflect the remaining 25% of the June correction.
+,"US Gas Physical Index Firm
+(Sitara & Tagg)","EOL Price = Online Negotiated Basis Differential Price
+Fixed Price = EOL Price + Index Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Henry Hub Price * Notional Value
+(prior to 4/18/00)
+
+Abs Value = Fixed Price * Notional Value
+(after 4/18/00)
+ ",1095842015,"Unable to completely recomputed the Absolute values from EOL data.  After 4/18/00 Sitara began providing the actual fixed prices (Index Settlement Price + EOL Price).  However, no significant variations were observed when comparing the Management Report Absolute values against the absolute values obtained using the Henry Hub Price + EOL Price.  
+
+Only three records were identified in the TAGG data with volumetric differences.",1095877808,35793,3.266255492129493e-05,See above.
+,TOTAL US Gas,,66991979299,,66648242597,-343736702,0.005131012780885711,
+2. Canadian Gas,,,,,,,,
+,"CAN Gas Physical Forward Firm East & West
+(Sitara)","EOL Price = Negotiated Price (US$/CAD$)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MMBtu/GJ) * Determination Period (# days)
+
+Abs Value = Henry Hub Price * Notional Value
+(prior to 4/18/00)
+
+Abs Value = Fixed Price * Notional Value
+(after 4/18/00)",2842288535,"The majority of the $207M difference in absolute value is due to the Henry Hub prices that were used to calculate absolute value instead of the EOL Fixed Price for all deals prior to 4/18/00.  
+Some of the difference is also a result of some residual conversion factor problems left over from previous cleanup exercises.  There are approximately 334 deals that have the incorrect GJ to MMBtu conversion factors applied.  In our previous test, this number was 3,149.",2634657959,-207630576,0.07305049203950717,"Henry Hub Price conversion issue. Of the original 1.2 billion dollar conversion in June, about 400 million is not currently reflected as being updated in the database. Mass correction and verification will be made after audit is completed"
+,CAN Gas Physical Forward Firm East & West (TAGG),"EOL Price = Online Negotiated Price (US$/CAD$)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MMBtu/GJ) * Determination Period (#days)
+
+Abs Value = HH (deal date) * Converted Notional Volume
+",3411050444,"The majority of the $399M difference in absolute value is due to the Henry Hub prices that were used to calculate absolute value instead of the EOL Fixed Price.  Henry Hub prices appear to be used for deals after 4/19/00 when the price extracts from Tagg were changed.  Also, 76 deals were identified with minor differences in conversion factors.",3011391776,-399658668,0.1171658627045505,"Existing issue from June regarding Henry Hub price substitution on Term Firm Physical Forwards housed in TAGG. Trades in TAGG which have both price and basis/index components appear in more than one portfolio within ERMS. To avoid double counting, the database discards all but one of these deal legs. Since the price component can appear in both financial and physical portfolios, the index component is retained on physical term trades and is added to the NYMEX settle."
+,"CAN Gas Physical Index Firm
+(Sitara & Tagg)","EOL Price = Online Negotiated Basis Differential Price (CAD$)
+Fixed Price = EOL Price + Index Price
+Notional Volume = EOL Volume (GJ) * Determination Period (#days)
+
+Abs Value = Fixed Price * Converted Notional Volume",136651208,Minor differences due to pricing methodology changes after 4/18/00.  Prior to 4/18/00 the Henry Hub price was used to value the index deals.  This was done without netting the Henry Hub price against the EOL Price Differential entered on the website.,136818676,167468,0.001225514230360847,
+,CAN Gas Physical Basis Firm,"EOL Price = Online Negotiated Basis Differential Price (CAD$)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MMBtu) * Determination Period (#days)
+
+Abs Value = HH (deal date) * Converted Notional Volume  
+",734875305,"Difference in absolute value is a result of only the Henry Hub price being used to calculate the Absolute Value.  These deals (450) are labeled in the EOL data as being bridged to Sitara, however, the data extract comes from TAGG.  The effort to fix the price extracts from Sitara initiated in 4/18/00 may not have included these deals.  Two deals were also identified that could not be tied volumetrically.",771798565,36923260,0.0502442519823142,"Existing issue from June regarding Henry Hub price substitution on Term Firm Physical Forwards housed in TAGG. Trades in TAGG which have both price and basis/index components appear in more than one portfolio within ERMS. To avoid double counting, the database discards all but one of these deal legs. Since the price component can appear in both financial and physical portfolios, the index component is retained on physical term trades and is added to the NYMEX settle."
+,CAN Gas Financial Swap,"EOL Price = Online Negotiated Price (US$/CAD$)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MMBtu/GJ) * Determination Period (#days)
+
+Abs Value = EOL Fixed Price* Converted Notional Volume
+",4128076147,"The Absolute Value difference of $24,269,092 results primarily from 1) the conversion factors used for most trades is 0.9482 instead of the factor 0.94782.  and  2) slight price variations between the EOL Price and the price received from the TAGG data extract.  Approximately 252 deals from 2,235 have variations greater than 1% of the EOL recalculated Absolute Value.  This problem was not corrected from previous testing.",4082210123,-45866024,0.011110750472307118,Checking individual trades.
+,CAN Gas Financial Basis Swap,"EOL Price = Online Negotiated Basis Differential Price (US$)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MMBtu) * Determination Period (#days)
+
+Abs Value = EOL Price * Converted Notional Volume",282943527,"The difference is primarily a result of 58 deals in the Management Report database that were valued using fixed price for gas instead of the EOL Price (basis differential).  These deal appear to be confined to a few days where the error occurred.  There were also 11 deals that did not tie out volumetrically, however the effect on the Absolute value was low.",128373805,-154569722,0.5462917764505,Two trades days worth of Canadian basis swaps were calculated and officialized as price deals under the Canadian C4 price book post ID. These two days are the 29th of June and the 7th of July (post ID # 825401). Post IDs were corrected in both cases several days after being officialized 
+,TOTAL Canadian Gas,,11535885166,,10765250904,-770634262,0.06680321890437237,
+3. Continental Gas,,,,,,,,
+,BEL Gas Physical Forward,"EOL Price = Negotiated Online Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period (#Days)
+
+Abs Value = Fixed Price * Notional Volume",148178392,10 deals identified where the prices quoted between EOL & Gasdesk data were different by more than 1%.  All deals had deal date of 6/1/00 - possibly manual entry error?,147822718,-355674,0.0024003094864195854,Manual currency conversion errors on PCG London spreadsheet.
+4. U.K. Gas,,,,,,,,
+,UK Gas Physical Forward,"EOL Price = Negotiated Online Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period (#Days)
+
+Abs Value = Fixed Price * Notional Volume",2129374868,13 Deals identified that had volumetric differences between Gasdesk and EOL.  Also another65 deals all on 6/1/00 had price differences that were all slightly more than 10%.  Possible manual entry error on the conversion rate used?,2124855793,-4519075,0.0021222543141238954,Reviewing individual trades.
+,UK Gas Financial Swap,"EOL Price = Negotiated Online Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",64868822,One deal was identified that had a volumetric difference of 500 MMBtu.  Other differences result from slight differences in foreign currency conversion rates.,64821815,-47007,0.0007246470423033117,Reviewing individual trades.
+,TOTAL UK Gas,,2194243690,,2189677608,-4566082,0.002080936598249942,
+5. Broadband,,,,,,,,
+,US Bandwidth Physical Forward,"EOL Price = Negotiated Online Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period (#Days)
+
+Abs Value = Fixed Price * Notional Volume",94845,No exceptions noted.,,-94845,1,
+,TOTAL Broadband,,94845,,0,-94845,1,
+6. U.S. East Power,,,,,,,,
+,US East Power Physical Forward,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",3290734816,33 deals were off slightly due to volumetric differences.  Most of the 33 deals were off by one day's worth of power.  NEED TO CHECK PRODUCT DESCRIPTIONS,3290472468,-262348,7.97232273850899e-05,
+,TOTAL US East Power,,3290734816,,3290472468,-262348,7.97232273850899e-05,
+7. U.S. West Power,,,,,,,,
+,US West Power Physical Forward (Firm & CAISO),"Fixed Price = $ 0
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",2471503221,3 Off Peak CAISO deals could not be reconciled volumetrically.  Each deal was off by one day's worth of power.NEED TO CHECK PRODUCT DESCRIPTIONS,2471499640,-3581,1.4489157730294538e-06,
+,US Power Physical Index (Firm & CAISO),"Fixed Price = $ 0
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",56503860,"All volumes reconciled.  However, Palo Verde Prices of $40.00, $63.00, and $58.75 per MWH are used to calculate the absolute value for almost all deals regardless of the index price and determination period.",56503860,0,0,
+,US West Power Physical Spread,"Index Price = Price of Index at Deal Date
+EOL Price = Negotiated Price
+Fixed Price = EOL Price + Index Price
+
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = (Index Price * Notional Volume) + (Fixed Price * Notional Volume)",57404060,7 deals appear to have their volume doubled in the Enpower data.,37026220,-20377840,0.3549895251311493,
+,TOTAL US West Power,,2585411141,,2565029720,-20381421,0.007883241731571079,
+8. Australian Power,,"EOL ""Fixed"" Price converted from AUD to USD * EOL Volume * Hours in contract period",5712970,Deals were identified with slight volumetric differences.,5883474,170504,0.02984507182778835,
+9. Austrian Power,,,7622807,No exceptions noted.,7622807,0,0,
+"10. Dutch Power
+14. Other Continental Power","10. Dutch Power
+14. Other Continental Power","EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from EUR to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",9846967,12 Deals out of 79 were identified that had volumetric differences.,9352475,-494492,0.05021769647445757,
+11. German Power,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from DEM to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",304171357,"48 deals out of 2,019 were identified that had volumetric differences.  Most likely, these are a result of converting from MW to MWh.",301664392,-2506965,0.00824194961920757,
+"12. Iberian Power
+(Spanish)","12. Iberian Power
+(Spanish)","EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from ESP/Kw to USD/Mw)
+Notional Volume = EOL Volume (Mw) * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",1752885,3 Deals out of 16 had volumetric differences.,1628304,-124581,0.07107197562874917,
+13. Swiss Power,,,,,,,,
+,Swiss Power Financial Swap,"EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from CHF to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",8946711,10 Deals out of 153 were identified that had volumetric differences between Enpower and EOL. ,8887029,-59682,0.006670831325612284,
+,Swiss Power Physical Forward Swap,"EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from CHF to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",5358627,Only one deal was identified that appeared to have the Enpower volume doubled.  Most likely result of manual input error.,5415462,56835,0.010606261641274902,
+,TOTAL Swiss Power,,14305338,,14302491,-2847,0.00019901661883137608,
+15. Nordic Power,15. Nordic Power,,,,,,,
+,Nordic Power Financial Swap,"EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from NOK to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",152711591,Most differences related to one day differences in EOL volumes and Enpower Volumes.,157160419,4448828,0.029132222189997354,
+,Nordic Power Financial Swap Option,,0,There are 8 deals total that have no absolute value within the Management Reporting Database.,116774.43609,116774.43609,,
+,TOTAL Nordic,,152711591,,157277193.43609,4565602.43609,0.029896895227095106,
+16. U.K. Power,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price (Converted from GBP to USD)
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",1237079702,The majority of the difference relate to 3 deals where there were significant differences in volumes between Enpower and EOL.  Other differences related to minor differences in foreign exchange and hours.,1244944193,7864491,0.006357303403560331,
+17. Crude & Products,,,,,,,,
+,US Crude Financial Swaps,"EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = EOL Price * Notional Volume",3100959770,"18 deals were identified that have different prices between the TAGG and the EOL data.  Also, only one deal was found with a volumetric difference that accounts for $2.5M of the difference in absolute value.",3096698150,-4261620,0.0013742906442156134,Reviewing individual trades.
+,US Crude Spread Financial Swap,"EOL Price = Online Negotiated Differential Price
+Fixed Price = EOL Price + WTI Index
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = Fixed Price * Notional Volume",199365875,"Unable to completely recomputed the Absolute values from EOL data. However, all volumes were reconciled and prices extracted from TAGG appeared reasonable.",199365875,0,0,
+,US Crude Physical Index,"EOL Price = Online Negotiated Basis Differential Price
+Fixed Price = EOL Price + WTI Index
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = EOL Price * Notional Volume",279341846,One deal was identified that had a volumetric difference of 2000 barrels.,279390210,48364,0.0001731355351607435,
+,UK DTD Brent Financial Swaps (Basis),"EOL Price = Online Negotiated Basis Differential Price
+Fixed Price = EOL Price + IPE Futures
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = Fixed Price * Notional Volume
+Basis+Index Price * Notional Volume",865777600,4 Deals out of 226 were identified that have volumetric discrepancies.  Two of the deals did not have a volume or absolute value in the TAGG data.,874575000,8797400,0.010161270053648882,
+,UK IPE Futures Lookalike Financial Swaps,"EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = Fixed Price * Notional Volume",335319950,No exceptions noted.,335319950,0,0,
+,SG Dubai Financial Swap,"EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = Fixed Price * Notional Volume",5176450,No exceptions noted.,5176450,0,0,
+,SG Tap-Dub Differential Swap,"EOL Price = Online Negotiated Basis Differential Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (barrels) * Determination Period (#Months)
+
+Abs Value = Fixed Price * Notional Volume",1455000,Not sure if this deal is a Basis Swap or Physical Index Swap?  EOL Deal Number 210719,153000,-1302000,0.8948453608247423,
+,"Oil Products
+(Financial Swaps & Spreads)","EOL Price = Online Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (barrels, tonnes, gallons) * Determination Period (#Months)
+
+Abs Value = EOL Price * Notional Volume",1000500522,Several deals 7 out of 285 had significant volume differences which contribute to the majority of the differences in Absolute Value.,639877442,-360623080,0.3604426705136692,
+,TOTAL Crude & Products,,5787897013,,5430556077,-357340936,0.061739339037544826,
+18. LPG,,,,,,,,
+,Propane CIF Financial Swap,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (MT) * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",330319200,"One deal with a volumetric difference of 8000 Barrels.  Also, identified one deal where the Tagg price was not converted to $/Barrel.  This contributes to most of the $3.6M difference.",326908500,-3410700,0.010325467002826357,
+,US Propane Financial Swap,"EOL Price = Negotiated Price (Cents/Gallon)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (Barrels) * Determination Period
+
+Abs Value = Fixed Price (converted) * Notional Volume",19395882,"One deal with a volumetric difference of 1000 Barrels.  Also, should consider relabeling the Units on the product in EOL from Gallons to Barrels since volume is sold in barrels but priced in gallons.  Look into the EOL system reports to see if the price on these deals is printed as cents or whole dollars.",19610063,214181,0.01104260172339675,
+,US Propane FOB Physical Forward,"EOL Price = Negotiated Price (Cents/Gallon)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (gallons) * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",200550,No exceptions noted.,200550,0,0,
+,TOTAL LPG,,349915632,,346719113,-3196519,0.009135113460721298,
+19. Plastics,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = (Fixed Price) * Notional Volume",11738927,"One deal has the whole price in Dollars decimal format instead of cents.  Also, the volumes are off as well.  NOTE: This deal is flagged as ""Temporary Convert Plug"" in the Tagg extract table in the management reporting database.",4402500,-7336427,0.6249657230171037,
+20. Petrochemicals,,,,,,,,
+,Physical Forward Firm,"EOL Price = Negotiated Price ($/mt or $/gallons)
+Fixed Price = EOL Price
+Notional Volume = EOL Converted Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",63435249,"13 deals out of 91were identified that had either volumetric or absolute value differences.  There seems to be inconsistencies in conversion of prices and volumes.  Some deals prices are quoted in different volumes from the quantity sold.  Note: Found one deal 299646 that was deleted from the ""Raw Data Individual Deals"" table but was accounted for in the Management Report.",45187200,-18248049,0.2876641817863756,
+,Financial Swaps,"EOL Price = Negotiated Price ($/mt or $/gallons)
+Fixed Price = EOL Price
+Notional Volume = EOL Converted Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",6982338,One deal was identified with a volumetric difference between TAGG & EOL.,6690300,-292038,0.041825245354779446,
+,TOTAL Petrochems,,70417587,,51877500,-18540087,0.26328773520739923,
+21. Coal,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (Converted) * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",102161110,No exceptions noted.,102161110,0,0,
+22. Emissions,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (EA's)
+
+Abs Value = Fixed Price * Notional Volume",47427750,One deal was identified that has a zero price in the Management Report Database.  6 other deals were identified that had volume discrepancies - double counting.,46463025,-964725,0.02034093963976786,
+23. Pulp & Paper,,"EOL Price = Negotiated Price
+Fixed Price = EOL Price
+Notional Volume = EOL Volume * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",9734500,"One deal was identified with a volumetric difference between TAGG & EOL.  This deal is labeled as a ""Temporary Convert Plug"" in the Tagg extract table of the management reporting database.",3614500,-6120000,0.6286917663978633,
+24. Weather,,,,,,,,
+,US Weather Financial Swaps,"EOL Price = Negotiated Heating or Cooling Degree Days
+Fixed Price = EOL Price
+Notional Volume = Total # Contracts
+
+Abs Value = Fixed Price * Notional Volume",21936400,"Several deals could not be reconciled by degree days.  Also, the number of contracts bought or sold are not included in the absolute value calculation.  For instance some deals involved more than one contract however the Management Report Database only considers the volume associated with one contract. ",55177400,33241000,1.5153352418810744,
+,UK Weather Financial Swaps,"EOL Price = Negotiated Heating or Cooling Degree Days
+Fixed Price = EOL Price
+Notional Volume = Total # Contracts
+
+Abs Value = Fixed Price * Notional Volume",930000,"Several deals could not be reconciled by degree days.  It appears 310 degree days was used as the standard for all deals used in the management reporting database.
+
+Also, the EOL deals are quoted in GBP/HDD or GBP/CDD.",1386049,456049,0.4903752688172043,
+,TOTAL Weather,,22866400,,56563449,33697049,1.4736490658783192,
+25. Metals,,"EOL Price = Online Negotiated Price (US$/Tonne)
+Fixed Price = EOL Price
+Notional Volume = EOL Volume (LME Copper Lots) * Determination Period
+
+Abs Value = Fixed Price * Notional Volume",89685,Is a LME Copper Lot = 25 Tonnes?  This may explain the difference.  The Tagg data does not appear to reflect the conversion factor.,2242125,2152440,24,
+Grand Totals,,,94881979570,,93393770743.4361,-1488208826.5639038,0.015684841666546014,

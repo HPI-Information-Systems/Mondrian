@@ -1,0 +1,55 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gas - HSC,Gas - HSC,Variable Cost,Variable Cost,EM Floor,EM Floor,VOM,Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Daily P&L Estimate (Variable ONLY),Transaction Date:,Transaction Date:,Transaction Date:,2001-04-10 00:00:00,2001-04-10 00:00:00,,,,,,,,,,
+,5.55,5.55,,,,,2.75,,,,58119.08439999999,58119.08439999999,58119.08439999999,,,Energy Flow Date:,Energy Flow Date:,Energy Flow Date:,2001-04-11 00:00:00,2001-04-11 00:00:00,,Typical Ramps,Typical Ramps,Typical Ramps,Typical Ramps,,,,,
+,,,,,,,,,,,,,,,,,,,,,,Norm,Hot,Warm,Cold,,,,,
+,HR,0,0,45.524,45.524,53,57,55.5,46,46,25,50,26,50,58,45,,,,,,,,,30,,HR,,,
+,End,B1,B2,Enron,,HL&P,TNSK,JDOE,JDOE,JDOE,JDOE,JDOE,JDOE,JDOE,JDOE,JDOE,,,,Total,,,,30,30,,End,HR,Fuel Cost,MMBtu
+,1,,,,,,,,,,50,,90,,,, ,,,140,,140,,40,30,,1,8.07,6723.178,1129.8
+,2,,,,,,,,,,50,,90,,,, ,,,140,,140,,60,30,,2,8.07,6723.178,1129.8
+,3,,,,,,,,,,50,,90,,,, ,,,140,,140,30,80,60,,3,8.07,6723.178,1129.8
+,4,,,,,,,,,,50,,120,,,, ,,,170,,170,45,100,100,,4,7.6,7715.619999999999,1292
+,5,,,,,,,,,,50,,150,,,,,,,200,,200,150,210,140,,5,7.6,9077.199999999999,1520
+,6,,,,50,,,,100,130,,,,,,,,,,280,,280,200,300,300,,6,8.071,13447.926799999997,2259.88
+,7,,,100,50,100,50,100,,,,50,,,,,,,,450,,450,450,450,450,,7,7,18909,3150
+,8,,,100,50,100,50,100,,,,,,,,,,,,400,,,,,,,8,7.196,17247.823999999997,2878.4
+,9,,,100,50,100,50,100,,,,,,,,50,,,,450,,MW,HR,MW,HR,,9,7,18909,3150
+,10,,,100,50,100,50,100,,,,,,,50,,,,,450,,140,,330,,,10,7,18909,3150
+,11,,,100,50,100,50,100,,,,,,,50,,,,,450,,150,,340,,,11,7,18909,3150
+,12,,,100,50,100,50,100,,,,,,,50,,,,,450,,160,,350,,,12,7,18909,3150
+,13,,,100,50,100,50,100,,,,,,,50,,,,,450,,170,,360,,,13,7,18909,3150
+,14,,,100,50,100,50,100,,,,,,,50,,,,,450,,180,,370,,,14,7,18909,3150
+,15,,,100,50,100,50,100,,,,,,,50,,,,,450,,190,,380,,,15,7,18909,3150
+,16,,,100,50,100,50,100,,,,,,,50,,,,,450,,200,,390,,,16,7,18909,3150
+,17,,,100,50,100,50,100,,,,,,,50,,,,,450,,210,,400,,,17,7,18909,3150
+,18,,,100,50,100,50,100,,,,,,,50,,,,,450,,220,,410,,,18,7,18909,3150
+,19,,,100,50,100,50,100,,,,,,,50,,,,,450,,230,,420,,,19,7,18909,3150
+,20,,,100,50,100,50,100,,,,,,,50,,,,,450,,,,430,,,20,7,18909,3150
+,21,,,100,50,100,50,100,,,,,,,50,,,,,450,,280,,440,,,21,7,18909,3150
+,22,,,100,50,100,50,100,,,,,,,50,,,,,450,,290,,450,,,22,7,18909,3150
+,23,,,,50,,,,100,130,,,,100,,,,,,380,,300,,460,,,23,7.196,16385.4328,2734.48
+,24,,,,,,,,,,50,,90,,,,,,,140,,310,,470,,,24,8.07,6723.178,1129.8
+,Totals,0,0,1600,900,1600,800,1600,200,260,300,50,630,100,650,50,0,0,0,8740,,320,,480,,,Totals,,374401.7156,62453.96000000001
+,,,,,,,,,,,,,,,,,,,EM,6240,,,,,,,,,,
+,Start,0,0,562,,MMBtu/Start,MMBtu/Start,,,,,,,,,,,,,,,,,,,,,,,
+,Chrg.,0,0,0,0,,,,,,,,,,,,,,, ,,Natural Nom. (MMBtu's),,,,,,,,
+,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,
+,Transmission,,,$/MWh,$/MWh,4.010000000000001,,,,,,,0.96,,,,,,,,,Rateable,,0,0,,,,,
+,,,,,, , , ,, ,,, ,,,,,,,,,,,,,,,,,
+,ISO,,50MW=,1573,1490,1463,1480,1600,1590,1586,1510,1743,1623,1506,1821,1800,,,, ,,Non-Ratable,,0,0,,,,,
+,Sched,,50MW=,1504,,,,,,,,,,,,,,,,,,,,,,,, ,,
+,#'s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,MW,0,0,100,,,Daily P&L Estimate (Variable ONLY),,,,,,Notes,Notes,Notes,Notes,Notes,Notes,Notes,Notes,,,,,
+,Call Option (Daily Availability Calculations):,,,,,,B1,B2,Enron,0, ,Revenues,,,,,,"SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had","SLM spoke w/Clint @ Enron @ 7:30EST, he said hrly guys had",,,,,
+,(A).,Available Peak Energy Received,,,,,0,0,1600,0,,,Energy,,425500,425500,,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,an offer of $45/MWh for the HE 8 volume but did not take it,,,,,
+,(B).,Replacement Peak Energy Received,,,,,0,0,0,0,,,Start Charges,,0,0,,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,as they had been told the floor was $46/MWh.,,,,,
+,(C).,Available and Replacement Peak Energy,,,,,,,,,,,Transmission,,7020.800000000001,7020.800000000001,,,,,,,,,,,,,,
+,,Scheduled but NOT Received due to,,,,,,,,,,,,,432520.8,432520.8,,,,,,,,,,,,,,
+,,Uncontrollabel Force affecting BUYER,,,,,0,0,0,0,,Expenses,,,,,,,,,,,,,,,,,,
+,(D).,Available Peak (7-22) Energy - Not Called,,,,,0,0,0,0,,,Fuel,,374401.7156,374401.7156,,,,,,,,,,,,,,
+,(E).,Energy Called  but not Scheduled by Buyer,,,,,0,0,0,0,,,Transportation,,0,0,,,,,,,,,,,,,,
+,(F).,ERCOT Energy taken from Buyer,,,,,0,0,0,0,,,ISO Fees,,0,0,,,,,,,,,,,,,,
+,(G).,Energy Paid to Seller as Lliquidated Damages,,,,,0,0,0,0,,,Energy Mgmt.,,0,0,,,,,,,,,,,,,,
+,,,,,,,0,0,1600,0,,,,,374401.7156,374401.7156,,,,,,,,,,,,,,
+,(H).,Total Peak Hour (7-22) Contracted Energy ,,,,,0,0,1600,0,,,,,,,,,,,,,,,,,,,,
+,,Daily Availability,,,,,,,1,0,,,,P&L,58119.08439999999,58119.08439999999,,,,,,,,,,,,,,

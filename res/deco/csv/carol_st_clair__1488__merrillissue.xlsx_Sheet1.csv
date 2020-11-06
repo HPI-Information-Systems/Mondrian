@@ -1,0 +1,25 @@
+DEAL #,EOL #,COUNTERPARTY,DEAL DATE,FLOW START,FLOW END,PRICE,VOLUME,TRADER,DELIVERY POINT,DEAL TYPE,CATEGORY,B/S,TYPE,FIRMNESS
+Financial deals done since 3/19,,,,,,,,,,,,,,
+562388.1,,"Merrill Lynch Capital Services, Inc.",2001-03-27 00:00:00,2001-03-27 00:00:00,2001-03-27 00:00:00,50.6,2600,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,B,F,MAPP HNF 1
+564908.1,,"Merrill Lynch Capital Services, Inc.",2001-03-29 00:00:00,2001-03-29 00:00:00,2001-03-29 00:00:00,54.5,1400,Narsimha Misra,NYISO Zone G (HUD VL),SWAP,CMDTY,B,F,Firm
+565078.1,,"Merrill Lynch Capital Services, Inc.",2001-03-27 00:00:00,2001-03-28 00:00:00,2001-03-28 00:00:00,50,600,Larry  Campbell,PJM-Western Hub,SWAP,CMDTY,B,F,Firm
+566348.1,,"Merrill Lynch Capital Services, Inc.",2001-03-30 00:00:00,2001-03-30 00:00:00,2001-03-30 00:00:00,47,550,Larry  Campbell,PJM-Western Hub,SWAP,CMDTY,S,F,Firm
+569336.1,,"Merrill Lynch Capital Services, Inc.",2001-04-03 00:00:00,2001-04-03 00:00:00,2001-04-03 00:00:00,50,600,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,B,F,MAPP HNF 1
+570888.1,,"Merrill Lynch Capital Services, Inc.",2001-04-04 00:00:00,2001-04-04 00:00:00,2001-04-04 00:00:00,43,650,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,S,F,MAPP HNF 1
+570889.1,,"Merrill Lynch Capital Services, Inc.",2001-04-04 00:00:00,2001-04-04 00:00:00,2001-04-04 00:00:00,46,400,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,S,F,MAPP HNF 1
+576449.1,,"Merrill Lynch Capital Services, Inc.",2001-04-09 00:00:00,2001-04-09 00:00:00,2001-04-09 00:00:00,60,600,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,S,F,MAPP HNF 1
+577333.1,,"Merrill Lynch Capital Services, Inc.",2001-04-10 00:00:00,2001-04-10 00:00:00,2001-04-10 00:00:00,54,650,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,S,F,MAPP HNF 1
+589632.1,,"Merrill Lynch Capital Services, Inc.",2001-04-23 00:00:00,2001-04-23 00:00:00,2001-04-23 00:00:00,54,1600,Joe Stepenovitch,PJM-Western Hub,SWAP,CMDTY,S,F,MAPP HNF 1
+,,,,,,,,,,,,,,
+Three deals done on 3/19 that were supposed to be netted,,,,,,,,,,,,,,
+553338.1,1010502,"Merrill Lynch Capital Services, Inc.",2001-03-19 00:00:00,2001-03-20 00:00:00,2001-03-20 00:00:00,42,800,Mike  Carson,TVA  (Into) System Border,FORWARD,CMDTY,S,P,Firm
+553356.1,1010533,"Merrill Lynch Capital Services, Inc.",2001-03-19 00:00:00,2001-03-20 00:00:00,2001-03-20 00:00:00,42,800,Mike  Carson,TVA  (Into) System Border,FORWARD,CMDTY,S,P,Firm
+553541.1,,"Merrill Lynch Capital Services, Inc.",2001-03-19 00:00:00,2001-03-20 00:00:00,2001-03-20 00:00:00,42,1600,Mike  Carson,TVA  (Into) System Border,FORWARD,CMDTY,B,P,Firm
+,,,,,,,,,,,,,,
+Physical Deals done since 3/19,,,,,,,,,,,,,,
+566627.1,,"Merrill Lynch Capital Services, Inc.",2001-04-01 00:00:00,2001-04-02 00:00:00,2001-04-02 00:00:00,,200,Lisa  Burnett,PJM-Western Hub,INDEX-FORWARD,CMDTY,S,P,Firm
+586665.1,,"Merrill Lynch Capital Services, Inc.",2001-04-05 00:00:00,2001-04-05 00:00:00,2001-04-05 00:00:00,,800,Lisa  Burnett,PJM-Western Hub,INDEX-FORWARD,CMDTY,B,P,Firm
+574020.1,1101653,"Merrill Lynch Capital Services, Inc.",2001-04-09 00:00:00,2001-04-10 00:00:00,2001-04-10 00:00:00,26,400,Joe  Quenet,PJM-Western Hub,FORWARD,CMDTY,S,P,Firm
+580863.1,1124008,"Merrill Lynch Capital Services, Inc.",2001-04-13 00:00:00,2001-04-16 00:00:00,2001-04-16 00:00:00,53.4,800,Joe  Quenet,PJM-Western Hub,FORWARD,CMDTY,B,P,Firm
+584959.1,,"Merrill Lynch Capital Services, Inc.",2001-04-18 00:00:00,2004-01-01 00:00:00,2004-12-31 00:00:00,26.5,233600,Rob  Benson,PJM-Western Hub,FORWARD,CMDTY,S,P,Firm
+592521.1,,"Merrill Lynch Capital Services, Inc.",2001-04-25 00:00:00,2001-05-01 00:00:00,2001-05-31 00:00:00,53,17600,Joe  Quenet,PJM-Western Hub,FORWARD,CMDTY,B,P,Firm

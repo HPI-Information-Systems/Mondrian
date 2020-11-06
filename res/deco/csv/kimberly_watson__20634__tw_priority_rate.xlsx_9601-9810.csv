@@ -1,0 +1,36 @@
+Transwestern Pipeline Company,,,,,,,,
+Contracts Under the Global Settlement,,,,,,,,
+Priority Rates (Reservation and Demand Surcharges),,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Contract,Shipper,Receipt to Delivery,Reservation,Shared Cost,TCR II No. 1,TCR II No. 2,GRI Demand,Total
+Number,Name,Area,Rate,Surcharge,Surcharge,Surcharge,Surcharge,Rate
+,,,,,,,,
+8255,Southern California Gas Company,East of Thoreau to California (W. of Thoreau),0.3074,0.0686,0.0061,0.0008,0.0085,0.3914
+20834,Citizens Utilities Company,San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+20835,Conoco Inc.,San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+21175,Pacific Gas & Electric Company(Gas),San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+21172,Pacific Gas & Electric Company(UEG),San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+25923,Texaco Natural Gas Inc.,San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+20715,Southern California Gas Company,San Juan Lateral to Thoreau/San Juan Pt.,0.102,,,,,0.102
+20747,Conoco Inc.,Thoreau/San Juan Pt. to California (W. of Thoreau),0.2483,0.0369,0.0052,0.0007,0.0085,0.2996
+20748,Conoco Inc.,Thoreau/San Juan Pt. to California (W. of Thoreau),0.2483,0.0369,0.0052,0.0007,0.0053,0.2964
+21165,Pacific Gas & Electric Company(Gas),Thoreau/San Juan Pt. to California (W. of Thoreau),0.2483,0.0443,0.0031,0.0004,0.0053,0.3014
+21162,Pacific Gas & Electric Company(UEG),Thoreau/San Juan Pt. to California (W. of Thoreau),0.2483,0.0443,0.0044,0.0006,0.0085,0.3061
+25924,Texaco Natural Gas Inc.,Thoreau/San Juan Pt. to California (W. of Thoreau),0.2483,0.0443,0.0043,0.0006,,0.2975
+20822,Citizens Utilities Company,Thoreau/San Juan Pt. to East of California (W. of Thoreau),0.1612,0.0369,0.0035,0.0005,0.0053,0.2074
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+NOTE ---,"Per CBS Negotiated Rate System, the termination date for the rates listed above are as follows:",,,,,,,
+,Reservation,1998-10-31 00:00:00,,,,,,
+,SCS,2001-10-31 00:00:00,,,,,,
+,TCR II No. 1,2005-10-31 00:00:00,,,,,,
+,TCR II No. 1,2006-10-31 00:00:00,,,,,,
+,GRI Demand,N/A **,,,,,,
+,,,,,,,,
+,** Calculation made every year to determine which contracts are High Load vs. Low Load,,,,,,,

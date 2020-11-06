@@ -1,0 +1,9 @@
+Adjustment date,Date of applied calc,Deal Date,Desk Involved,Reason,Correction located by:,Broker,Change,Details of reason,Deal #,Delivery,Term,Hours p/op/rtc,MW,Price,Counterparty
+2000-11-16 00:00:00,2000-11-17 00:00:00,2000-11-16 00:00:00,LTNW,MS,Mike Swerzbin,,Term: From Q3'01 to Q1'01,,45809/810,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,2000-11-16 00:00:00,LTNW,MS,Houston,,Broker: From No Broker to Natsource,,459799/800,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,2000-11-16 00:00:00,LTSW,MM,Houston,,From S---H Off to Mon-Sat Off,Computer Default,460860,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,2000-11-16 00:00:00,LTSW,KS,Houston,,Term: From S---H On to Mon-Sat On,Computer Default,460860,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,2000-11-16 00:00:00,STSW,Broker,Houston,Prebon,CTPY: From Peco to Const.,Broker error,459243,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,Z-00,LTSW,KS,Houston,,CTPY: From El Paso Electric to El Paso Merchant Energy,Unfamiliar with name,460852,,,,,,
+2000-11-16 00:00:00,2000-11-17 00:00:00,11/17-11/18,STNW,DS,Houston,,Price: to $230 per MWH,Trader error,460524,,,,,,Southern Company 
+2000-11-16 00:00:00,2000-11-17 00:00:00,Z-00,STCA,JR,Houston,,Change: input deal (late),Trader  ,461171,,,,,,

@@ -1,0 +1,13 @@
+Txn Id,Time,Customer,Commodity Group,Product Type,Product,Buy Volume,Sell Volume,Option Delta,Units,Currency,Price,Ext User Id,Int User Id,Risk Book,Enron Entity,Bridge,Deal ID,Begin Date,End Date
+132456,2001-01-04 18:17:11,Natural Gas Price (Non-Affiliate),Natural Gas,US Gas FIN Swap,US Gas Daily     Nymex NL1               May01           USD/MM,,5330000,,MMBtu,United States Dollar,5.37,DKENNE,DKENNE,GD-CENTRAL,Enron North America Corp.,TAGG,Q28344.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+132455,2001-01-04 18:17:11,Beau Canada Exploration Ltd.,Natural Gas,US Gas FIN Call Option,US Gas Fin Opt   NYMEX        EC5.4      May01           USD/MM-L,,10000,,MMBtu/Lots,United States Dollar,0.529,ADM74235,DKENNE,NG-Price,Enron North America Corp.,TAGG,Q28343.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+132458,2001-01-04 18:17:16,Natural Gas Price (Non-Affiliate),Natural Gas,US Gas FIN Swap,US Gas Daily     Nymex NL1               May01           USD/MM,4437500,,,MMBtu,United States Dollar,5.34,DKENNE,DKENNE,GD-CENTRAL,Enron North America Corp.,TAGG,Q28346.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+132457,2001-01-04 18:17:16,Beau Canada Exploration Ltd.,Natural Gas,US Gas FIN Put Option,US Gas Fin Opt   NYMEX        EP5.35     May01           USD/MM-L,,10000,,MMBtu/Lots,United States Dollar,0.538,ADM74235,DKENNE,NG-Price,Enron North America Corp.,TAGG,Q28345.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+,,,,,,,,,,,,,,,,,,,
+132923,2001-01-05 09:05:07,Natural Gas Price (Non-Affiliate),Natural Gas,US Gas FIN Swap,US Gas Daily     Nymex NL1               May01           USD/MM,,5000,,MMBtu,United States Dollar,5.38,DKENNE,DKENNE,NG-Price,Enron North America Corp.,TAGG, ,2001-05-01 00:00:00,2001-05-31 00:00:00
+132922,2001-01-05 09:05:07,"Frito-Lay, Inc.",Natural Gas,US Gas FIN Call Option,US Gas Fin Opt   NYMEX        EC5.35     May01           USD/MM-L,,10000,,MMBtu/Lots,United States Dollar,0.548,ADM58454,DKENNE,NG-Price,Enron North America Corp.,TAGG,Q28859.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+132925,2001-01-05 09:05:17,Natural Gas Price (Non-Affiliate),Natural Gas,US Gas FIN Swap,US Gas Daily     Nymex NL1               May01           USD/MM,5000,,,MMBtu,United States Dollar,5.35,DKENNE,DKENNE,NG-Price,Enron North America Corp.,TAGG, ,2001-05-01 00:00:00,2001-05-31 00:00:00
+132924,2001-01-05 09:05:17,"Frito-Lay, Inc.",Natural Gas,US Gas FIN Call Option,US Gas Fin Opt   NYMEX        EC5.35     May01           USD/MM-L,10000,,,MMBtu/Lots,United States Dollar,0.519,ADM58454,DKENNE,NG-Price,Enron North America Corp.,TAGG,Q28862.1,2001-05-01 00:00:00,2001-05-31 00:00:00
+,,,,,,,,,,,,,,,,,,,
+,YELLOW IS SWAP THAT FAILED,,,,,,,,,,,,,,,,,,
+,THE OPTIONS BRIDGED SUCCESSFULLY,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+STACK MANAGER ACCESS ,,,,Read,,,,,,,,
+US GAS,,,,Execute,,,,,,,,
+,,,,None,,,,,,,,
+Name,User ID,Position,Tenor  (1-120 Months),US Gas Daily FIN OPT (Floating Strike) (1970),US Gas Fin BasisSwap (1091),US Gas Fin Opt Call (1921),US Gas Fin Opt Put (1920),US Gas Fin Spread (1977),US Gas Fin Swap (1089),US Gas Phy Fwd Firm <or= 1Mo (1117),US Gas Phy Index Firm <or= 1Mo (1123),US Gas Phy Index Firm >1Mo<1Yr (1125)
+Jim Schwieger,JSCHWIE,Texas Gas,120,Read,Execute,Read,Read,Read,Execute,Execute,Execute,Execute
+TomMartin,TMARTIN,Texas Gas,120,Read,Execute,Read,Read,Read,Execute,Execute,Execute,Execute
+Eric Bass,EBASS,Texas Gas,120,Read,Execute,Read,Read,Read,Execute,Execute,Execute,Execute
+Mike Olsen,MOLSEN2,Texas Gas,1,Read,Read,Read,Read,Read,Read,Execute,Execute,Read
+Daren Farmer,DFARMER,Texas Gas,12,None,Read,None,None,None,Read,Execute,Execute,Execute
+Charlie Weldon,VWELDON,Texas Gas,24,Read,Execute,Read,Read,Read,Execute,Execute,Execute,Execute
+Dave Baumbach,DBAUMBA,Texas Gas,1,Read,Read,Read,Read,Read,Read,Execute,Execute,Execute

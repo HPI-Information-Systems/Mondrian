@@ -1,0 +1,6 @@
+Trade Date,Symbol,Trade Type,Price,Volume,Location Curve,Commission,Origination,Notes
+2002-03-20 16:18:00,EOG,,,,,,,
+2002-03-20 16:18:00,EOG,S,25,500,,100,,
+2002-03-20 16:20:00,T,BS,30,1000,,100,,
+2002-03-20 16:30:00,EOG,,,,,,,
+2002-03-20 16:30:00,EOG,SS,20,200,,100,,

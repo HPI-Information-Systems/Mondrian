@@ -1,0 +1,150 @@
+COMPANY_ID,COMPANY_NAME,CITY,DIV_NAME,DEAL_QTY,DEAL_VALUE,% TOTAL_VALUE,% TOTAL_QTY,DEAL_COUNT,CREDIT_WATCH
+18,Aquila Energy Marketing Corporation,Omaha,Nebraska,33279405,2915812717,8.378,7.231,4200,NO
+54979,"Duke Energy Trading and Marketing, L.L.C.",Houston,Texas,41879244,2727548667,7.837,9.099,5071,NO
+53350,"El Paso Merchant Energy, L.P.",Houston,Texas,23718207,1938705204,5.57,5.153,3031,NO
+26269,American Electric Power Service Corporation,Columbus,Ohio,21437493,1760598262,5.059,4.658,3152,NO
+55265,"Avista Energy, Inc.",Spokane,Washington,38163975,1746059583,5.017,8.292,3542,YES
+56264,"Mirant Americas Energy Marketing, LP",Atlanta,Georgia,23128606,1734776608,4.985,5.025,3219,NO
+64245,Williams Energy Marketing & Trading Company,Tulsa,Oklahoma,22626876,1652729661,4.749,4.916,3221,NO
+55134,"Constellation Power Source, Inc.",Baltimore,Maryland,20699740,1461148926,4.198,4.498,2058,NO
+65940,Edison Mission Marketing & Trading Inc.,Irvine,California,11632148,1293379601,3.716,2.527,1665,YES
+57508,Sempra Energy Trading Corp.,Stamford,Connecticut,13729582,1287841959,3.7,2.983,2105,NO
+57552,"PG&E Energy Trading - Power, L.P.",Bethesda,Maryland,15421814,1112769026,3.197,3.351,2365,YES
+76158,Idaho Power Company,Boise,Idaho,9364581,835247804,2.4,2.035,1758,NO
+49333,Mieco Inc.,Long Beach,California,17595647,753270402,2.164,3.823,1208,YES
+65268,"Reliant Energy Services, Inc.",Houston,Texas,10880820,741501834,2.131,2.364,1841,NO
+71108,"Dynegy Power Marketing, Inc.",Houston,Texas,7979415,710941925,2.043,1.734,2178,NO
+53461,"Tractebel Energy Marketing, Inc.",Houston,Texas,10370600,679271350,1.952,2.253,1205,YES
+2148,"Merrill Lynch Capital Services, Inc.",New York,New York,8523766,669295623,1.923,1.852,1465,NO
+2482,Pacificorp,Portland,Oregon,6342944,662292974,1.903,1.378,3520,NO
+177,Public Service Company Of Colorado,Denver,Colorado,6693763,599103588,1.721,1.454,1720,NO
+67207,Hafslund Energy Trading Llc,Seattle,Washington,7841875,544651531,1.565,1.704,739,YES
+2610,Portland General Electric Company,Portland,Oregon,3507307,510798179,1.468,0.762,3129,NO
+51312,Powerex Corp.,Vancouver,British Columbia,5539144,509243091,1.463,1.204,1589,NO
+9409,Morgan Stanley Capital Group Inc.,New York,New York,6297580,484614572,1.392,1.368,940,NO
+754,Bonneville Power Administration,Portland,Oregon,7730432,481368933,1.383,1.68,861,NO
+12,BP Energy Company,Houston,Texas,5644125,459122766,1.319,1.226,617,NO
+62413,TransAlta Energy Marketing (US) Inc.,Calgary,Alberta,4602901,445801282,1.281,1,905,YES
+56718,California Power Exchange Corporation,Pasadena,California,2819043,429746440,1.235,0.613,1198,YES
+54279,"Puget Sound Energy, Inc.",Bellevue,Washington,4204460,413682486,1.189,0.914,1526,NO
+76153,Citizens Power Sales LLC,Boston,Massachusetts,6121696,353408362,1.015,1.33,1066,NO
+81734,California Power Exchange-Block Forward Market,Houston,Texas,1896800,349631300,1.005,0.412,140,YES
+64517,Avista Corporation - Washington Water Power Division,Spokane,Washington,5210581,286363959,0.823,1.132,1615,NO
+79689,"Calpine Energy Services, L.P.",Houston,Texas,2311300,279787145,0.804,0.502,375,NO
+2640,Public Service Company Of New Mexico,Albuquerque,New Mexico,3130000,252390452,0.725,0.68,1306,YES
+59152,"Merchant Energy Group of the Americas, Inc.",Annapolis,Maryland,5058232,247559231,0.711,1.099,468,YES
+5225,Arizona Public Service Company,Phoenix,Arizona,3201180,230239940,0.662,0.696,1019,NO
+26257,"City of Santa Clara California, Silicon Valley Power",Santa Clara,California,2376087,226396276,0.651,0.516,398,NO
+50531,"Koch Energy Trading, Inc.",Houston,Texas,2946050,192727837,0.554,0.64,488,NO
+29335,"Cinergy Services, Inc",Cincinnati,Ohio,4057775,176819601,0.508,0.882,559,NO
+50668,"Pacificorp Power Marketing, Inc",Portland,Oregon,2720833,143864401,0.413,0.591,333,NO
+2846,Sierra Pacific Power Company,Reno,Nevada,1832315,143294831,0.412,0.398,612,NO
+59637,California Power Exchange-Schedule Coordinator,Alhambra,California,1633317,141431507,0.406,0.355,2673,YES
+1264,El Paso Electric Company,El Paso,Texas,1672380,132958969,0.382,0.363,2978,YES
+26597,"City of Tacoma, Department of Public Utilities (dba Tacoma Power)",Tacoma,Washington,1076517,117090735,0.336,0.234,552,NO
+26303,Colorado River Commission,Las Vegas,Nevada,1393653,109633062,0.315,0.303,307,NO
+2325,Nevada Power Company,Las Vegas,Nevada,1124466,109244586,0.314,0.244,204,NO
+49694,"Coral Power, L.L.C.",Houston,Texas,1359010,107775517,0.31,0.295,375,NO
+2801,Seattle City Light,Seattle,Washington,759077,88271571,0.254,0.165,430,NO
+2765,Salt River Project Agricultural Improvement and Power District,Tempe,Arizona,1048528,79909530,0.23,0.228,1185,NO
+64561,Conoco Power Marketing Inc,Houston,Texas,320962,66982891,0.192,0.07,49,YES
+27801,City of Redding,Redding,California,584243,63857031,0.183,0.127,442,YES
+55947,"AES NewEnergy, Inc.",Los Angeles,California,1534904,63698663,0.183,0.334,220,YES
+59207,"Cargill-Alliant, LLC",Minnetonka,Minnesota,649696,63006586,0.181,0.141,307,YES
+147,"Montana Power Company , The",Butte,Montana,414836,58984952,0.169,0.09,822,NO
+2762,Sacramento Municipal Utility District,Sacramento,California,840399,58741543,0.169,0.183,111,YES
+26304,Tucson Electric Power Company,Tucson,Arizona,636205,57700337,0.166,0.138,320,YES
+33482,Public Utility Dist. No. 2 of Grant Cty,Ephrata,Washington,793042,57208065,0.164,0.172,252,YES
+32441,Modesto Irrigation District,Modesto,California,373295,56345419,0.162,0.081,102,NO
+2397,Northern California Power Agency,Roseville,California,255533,48050284,0.138,0.056,175,YES
+2584,Pinnacle West Capital Corporation,Phoenix,Arizona,347402,47134391,0.135,0.075,182,NO
+26596,Eugene Water & Electric Board,Eugene,Oregon,417418,43970690,0.126,0.091,165,YES
+29605,"ConAgra Energy Services, Inc.",Omaha,Nebraska,1212808,43632303,0.125,0.264,86,NO
+66283,Smurfit-Stone Container Corporation,Chicago,Illinois,430354,43285050,0.124,0.094,44,YES
+53727,"Coastal Merchant Energy, L.P.",Houston,Texas,421400,41550748,0.119,0.092,73,NO
+5607,Peco Energy Company,Philadelphia,Pennsylvania,858480,39503620,0.114,0.187,169,NO
+45488,Los Angeles Dept. of Water & Power,Los Angeles,California,484398,36959300,0.106,0.105,631,NO
+77145,"TransCanada Power, a division of TransCanada Energy Ltd.",Calgary,Alberta,460721,35054860,0.101,0.1,60,NO
+65354,Western Area Power Administration - Sierra Nevada Region,Folsom,California,313149,33409954,0.096,0.068,47,NO
+91219,"Axia Energy, LP",Houston,Texas,322400,32721800,0.094,0.07,31,NO
+831,California Department of Water Resources,Sacramento,California,185738,29398406,0.084,0.04,82,NO
+72449,"Delano Energy Company, Inc.",Waltham,Massachusetts,274792,27716993,0.08,0.06,326,NO
+339,Atlantic Richfield Company,Los Angeles,California,191796,26889724,0.077,0.042,318,NO
+71175,Western Area Power Administration - CRSP,Montrose,Colorado,227266,26627852,0.077,0.049,254,NO
+187,San Diego Gas & Electric Company,San Diego,California,165048,22437060,0.064,0.036,29,YES
+35578,The City of Azusa,Azusa,California,325897,21671315,0.062,0.071,203,NO
+34647,Tosco Refining Company,Martinez,California,147590,21152669,0.061,0.032,386,NO
+80903,Harbor Cogeneration Company,Wilmington,California,95775,18728416,0.054,0.021,143,YES
+26305,"Valley Electric Association, Inc",Pahrump,Nevada,378100,18521121,0.053,0.082,406,NO
+2890,Southern California Edison Company,Rosemead,California,145600,18480000,0.053,0.032,6,YES
+2489,Pacific Gas & Electric Company,San Francisco,California,232600,16694400,0.048,0.051,14,YES
+45583,Public Utility District No. 1 of Snohomish County,Everett,Washington,181440,15963402,0.046,0.039,157,NO
+33666,City Of Riverside,Riverside,California,185711,15846312,0.046,0.04,226,NO
+47902,Calpine Power Services Company,San Jose,California,229760,15232627,0.044,0.05,8,YES
+59675,City of Roseville,Roseville,California,253060,13426165,0.039,0.055,13,NO
+26189,"Vernon, City of",Los Angeles,California,112611,9704376,0.028,0.024,16,NO
+26264,Public Utility District #1 of Chelan County,Wenatchee,Washington,128080,9676520,0.028,0.028,56,NO
+71231,"Las Vegas Cogeneration, LP",N Las Vagas,Nevada,89333,9450359,0.027,0.019,392,NO
+74780,"PPL Montana, LLC",Billings,Montana,55263,9352899,0.027,0.012,70,YES
+36473,Hetch-Hetchy Water & Power,San Francisco,California,47808,8896608,0.026,0.01,43,NO
+55077,"Tri-State Generation and Transmission Association, Inc.",Denver,Colorado,97340,8716179,0.025,0.021,162,NO
+91633,California Energy Resource Schedulers - State of California,Sacramento,California,57600,8349200,0.024,0.013,21,NO
+49204,Pacific Northwest Generating Cooperative,Portland,Oregon,203210,8166285,0.023,0.044,30,YES
+80732,Wheelabrator Martell Inc.,Sutter Creek,California,47176,7844517,0.023,0.01,189,NO
+3144,Turlock Irrigation District,Turlock,California,134179,7775760,0.022,0.029,12,NO
+58177,LG&E Energy Marketing Inc.,Louisville,Kentucky,348400,6892880,0.02,0.076,32,NO
+79749,"APS Energy Services Company, Inc.",Phoenix,Arizona,50274,5344246,0.015,0.011,6,NO
+5775,"Willamette Industries, Inc.",Portland,Oregon,33259,5137069,0.015,0.007,216,NO
+65956,"Energy West Resources, Inc.",Great Falls,Montana,179391,4922558,0.014,0.039,51,YES
+82090,Saguaro Power Company,Henderson,Nevada,23871,4199439,0.012,0.005,156,NO
+60199,"Statoil Energy Trading, Inc.",Alexandria,Virginia,168800,4108720,0.012,0.037,16,YES
+87837,City of Shasta Lake,Shasta Lake,California,39256,3649136,0.01,0.009,9,NO
+29894,Deseret Generation & Transmission Coop.,South Jordan,Utah,19600,3588000,0.01,0.004,2,YES
+26570,Colorado Springs Utilities,Colorado Springs,Colorado,115370,3362734,0.01,0.025,360,NO
+3828,Louisiana-Pacific Corporation,Portland,Oregon,63417,3347982,0.01,0.014,21,YES
+962,City of Glendale,Glendale,California,20437,3234227,0.009,0.004,19,NO
+81648,Strategic Energy L.L.C.,Pittsburgh,Pennsylvania,44000,3150000,0.009,0.01,6,YES
+34097,Metropolitan Water District of Southern California,Los Angeles,California,18933,2960240,0.009,0.004,31,NO
+3202,Utah Associated Municipal Power Systems,Salt Lake City,Utah,22960,2934400,0.008,0.005,3,YES
+26755,Texas-New Mexico Power Company,Fort Worth,Texas,39066,2873376,0.008,0.008,222,NO
+26814,"Anaheim, City Of",Anaheim,California,37800,2626600,0.008,0.008,5,NO
+81454,Northern California Power Agency - NCPA,Roseville,California,13314,2043904,0.006,0.003,14,NO
+54354,City of McMinnville Water & Light,McMinnville,Oregon,66350,1979698,0.006,0.014,18,NO
+5357,Conoco Pipe Line Company,Houston,Texas,61246,1961083,0.006,0.013,22,NO
+3497,Conoco Inc,Houston,Texas,85902,1918979,0.006,0.019,10,NO
+63869,Ash Grove Cement Company Inc,Shawnee Mission,Kansas,36071,1903173,0.005,0.008,12,NO
+52239,Tillamook Peoples Utility District,Tillamook,Oregon,58505,1786378,0.005,0.013,10,NO
+53939,"Illinova Energy Partners, Inc.",Midvale,Utah,30800,1681680,0.005,0.007,3,NO
+58812,Montana Power Trading & Marketing Company,Butte,Montana,61990,1575414,0.005,0.013,4,YES
+1805,Imperial Irrigation District,Imperial,California,10837,1546240,0.004,0.002,59,NO
+53618,"PG&E Energy Services, Energy Trading Corporation",San Francisco,California,14515,891533,0.003,0.003,12,NO
+80488,Colstrip Energy Limited Partnership,Boise,Idaho,4406,718821,0.002,0.001,10,NO
+608,"Arizona Electric Power Cooperative, Inc.",Benson,Arizona,3460,658708,0.002,0.001,7,NO
+65485,Cenex Harvest States Cooperatives,Denver,Colorado,26334,568814,0.002,0.006,2,NO
+63071,El Paso Power Services Company,Houston,Texas,21600,568080,0.002,0.005,2,NO
+201,Southwestern Public Service Company,Amarillo,Texas,10795,460060,0.001,0.002,51,NO
+64638,"Golden Sunlight Mines, Inc",Whitehall,Montana,16093,347609,0.001,0.003,2,NO
+45734,PUD No. 1 of Grays Harbor County,Aberdeen,Washington,12064,338788,0.001,0.003,73,YES
+70778,"Automated Power Exchange, Inc.",Santa Clara,California,17634,301690,0.001,0.004,12,NO
+48969,Comision Federal De Electricidad,Mexico City,Federal District,4275,188224,0.001,0.001,27,NO
+68254,"FPL Energy Power Marketing, Inc.",N Palm Beach,Florida,876,147896,0,0,6,NO
+83857,"Wheelabrator Shasta Energy Company, Inc.",Anderson,California,276,112433,0,0,6,NO
+63296,Ballard Petroleum LLC,Billings,Montana,2927,75370,0,0.001,4,YES
+51293,"Public Utility District No.1 of Benton County, Washington",Kennewick,Washington,496,73600,0,0,2,YES
+632,Atlantic City Electric Company,Wilmington,Delaware,696,59763,0,0,1,NO
+65372,Reliant Energy HL&P,Houston,Texas,247,44055,0,0,1,NO
+33346,Plains Electric Generation & Transmission Cooperative Inc.,Albuquerque,New Mexico,855,40700,0,0,4,YES
+62549,California Out-of-Market,Houston,Texas,155,38750,0,0,1,NO
+64083,City of Richland,Richland,Washington,144,21120,0,0,2,NO
+5300,"Burbank, City Of",Burbank,California,90,18750,0,0,2,NO
+52127,Franklin County PUD #1,Pasco,Washington,96,14080,0,0,2,YES
+60210,City of Banning,Banning,California,480,12800,0,0,3,NO
+76416,Western Area Power Administration - CRSP Bank,Houston,Texas,75,12223,0,0,1,NO
+51701,City of Colton,Colton,California,140,11732,0,0,2,NO
+71951,Tacoma Supp.,Houston,Texas,40,9200,0,0,1,NO
+72188,CRC Supp.,Houston,Texas,45,5813,0,0,1,NO
+64011,"Transcanada Power Marketing, Ltd",Westborough,Massachusetts,16,5760,0,0,1,NO
+1421,Florida Power & Light Company,West Palm Beach,Florida,20,5500,0,0,1,NO
+50595,Michigan Electric Coordinated Systems,Ann Arbor,Michigan,194,4317,0,0,2,NO
+59638,California Supplemental,Houston,Texas,125,1754,0,0,3,NO
+26344,Rocky Mountain Generation Cooperative Inc.,Ft Collins,Colorado,80,1640,0,0,1,NO

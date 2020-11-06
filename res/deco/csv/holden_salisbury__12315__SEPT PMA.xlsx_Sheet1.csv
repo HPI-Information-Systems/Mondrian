@@ -1,0 +1,12 @@
+,,,,,,,,,,
+Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553,Enron Power Marketing Inc. - Co. 553
+Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk,Flash vs. Actual Variance by Desk
+2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00,2001-09-01 00:00:00
+,,,,,,,,,,
+,,,, ,,,,,,
+DPR Adjustments Summarized by Desk --> click on subtotal button #2,,,,,,,,,,
+DPR Adjustments Detail --> click on subtotal button #3,,,,,,,,,,
+,,,,,,,,,,
+Initial,Type,Del. Period,Desk,Counterparty,Explanation,Reg,Vol,$,ISO,
+AHC,T,2001-08-01 00:00:00,EPMI-ST-WROCK,PUBLICSERNM,775676.1-added for ancillary charges and taxes,R7,1,-31.97,,Taken
+AHC,DP,2001-08-01 00:00:00,EPMI-ST-WROCK,WESTAREACRSP,765475.1-annuity added; we were missing the $5 offset - we add $5 when the index is under $100 and 10% for over $100 = 380 mw's * 5 = 1900,R7A,0,-1900,,Taken

@@ -1,0 +1,45 @@
+,,,,Enron North America Corp.,,,2001-02-01 00:00:00
+,,,,SCHEDULE OF INTEREST RATES,,,
+,,,,,,,
+CURRENCY,EXCHANGE,,,BENCHMARK CREDIT RATE,BENCHMARK DEBIT RATE,,BALANCE
+,,,,,,,
+Australian Dollars,SFE,,SFE Deposit Rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+British Pounds,LIFFE,,London Deposit Rate (LDR) Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Canadian Dollars,"TFE, ME",,Canadian Deposit Rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Danish Krone,FUTOP,,FUTOP Deposit Rate Less,0.0025,Den Danske Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Euro,ALL,,London Deposit Rate (LDR) Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Hong Kong Dollars,HKFE,,Hong Kong Deposit Rate Less,0.0025,Hong Kong Prime Rate Plus,0.0225,Excess/deficit
+,,,,,,,
+Japanese Yen,"LIFFE, SIMEX",,London Deposit Rate (LDR) Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,Japanese Exchanges,,London Deposit Rate (LDR) Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Maylasian Ringgits,KLOFFE,,No Interest Paid,,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+New Zealand Dollars,NZFOE,,SFE Deposit Rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Norwegian Krone,OSLO SE,,No Interest Paid,,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+South African Rands,SAFEX,,SAFEX Deposit Rate Less,0.0025,South African Prime Rate Plus,0.0025,Total Equity
+,,,,,,,
+Swedish Krona,OMLX,,OMLX Deposit Rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,,,,,,,
+Swiss Francs,"LIFFE,",,London Deposit Rate (LDR) Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,EUREX,,,,,,
+,,,,,,,
+US Dollars,"All U.S., LIFFE, SIMEX",,90-day US TBill auction rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Total Equity
+,LME,,90-day US TBill auction rate Less,0.0025,J.P. Morgan Overnight Borrowing Rate Plus,0.0025,Ending Cash Balance
+,,,,,,,
+,,,,,,,
+"* NOTE:   Where collateral is unusable at the relevant exchange, and interest is accrued on ""Total Equity"" balances, we will apply a charge on initial margin requirement of",,,,,,,0
+                  KLOFFE and HKFE initial margins are subject to an additional charge of 2.00%.,,,,,,,
+   Total equity is defined as the sum of ending cash balances and open trade equity.,,,,,,,
+   Any futures or options activity should be carried via a fully documented relationship with the appropriate J.P.Morgan legal entity/entities.,,,,,,,
+,,,,,,,
+J.P. Morgan Futures Inc./J.P. Morgan Securities Inc.,,,,,,,
+,,,,,,,
+CLIENT SPREAD=,0.0025,,,,,,

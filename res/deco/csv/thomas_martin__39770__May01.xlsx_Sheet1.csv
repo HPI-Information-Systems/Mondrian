@@ -1,0 +1,28 @@
+,,,,,,,,,,
+,,,,,May 01 Transportation Rates,,,,,
+,,,,,,,,,,
+,,,,HSP Minus,,Deliveries,,,Deliveries,
+,,Receipts,,Supply,,Trnspt.,Delivered,,Trnspt.,Delivered
+,,,,Price,,HSC Loop,Price,,HSC - Beau,Price
+"King Ranch, Live Oak",,,,-0.15,,0.12,-0.03,,0.12,-0.03
+Thomp,,,,-0.15,,0.12,-0.03,,0.12,-0.03
+Aqua Dulce,,,,-0.13,,0.1,-0.03,,0.1,-0.03
+"Oasis,Western & PG&E Katy",,,,-0.035,,0.01,-0.025,,0.01,-0.025
+"Lonestar,Tailgate",,,,-0.035,,0.01,-0.025,,0.01,-0.025
+Texoma,,,,-0.07,,0.05,-0.020000000000000004,,0.05,-0.020000000000000004
+C. Lake,,,,-0.06,,0.03,-0.03,,0.03,-0.03
+"Enerfin, M. Bluff, Devers, La Porte",,,,-0.05,,0.02,-0.030000000000000002,,0.02,-0.030000000000000002
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,Add $.01 for CP&L,,,,
+,,,,,,Deliveries,,,,
+,,Receipts,,Supply,,Trnspt.,Delivered,,,
+,,,,Price,,Corpus,Price,,,
+"Thomp, King",,,,-0.15,,0.07,-0.07999999999999999,,,
+Aqua Dulce,,,,-0.13,,0.06,-0.07,,,
+"Western & PG&E Katy,Oasis,lonestar,enerfin",,,,0,,0,0,,,
+Tailgate,,,,0,,0,0,,,
+"C. Lake, M. Bluff, Devers, La Porte",,,,0,,0,0,,,
+Texoma,,,,0,,0,0,,,

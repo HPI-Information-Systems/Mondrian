@@ -1,0 +1,336 @@
+,,,,
+,,,,
+Old Company,Old RC,New Company,Cost Center,Description
+413,0000,413,105680,NA-Enron North America B/S
+413,0006,413,105653,NA-Finance Originations M&A
+413,0007,413,105654,NA-Power Assets
+413,0009,413,106585,NA-Energy Finance G&A
+413,0010,413,105896,NA-East Power Trading
+413,0031,413,105722,NA-Office of the Chair
+413,0063,413,105602,NA-Energy Ops Logisitics
+413,0080,413,106736,NA-Lan Infrastructure
+413,0094,413,105590,NA-Energy Ops Info and Records Mgmt
+413,0096,413,105682,NA-Aviation Charges
+413,0098,413,105723,NA-Office of the Chair Executive
+413,0102,413,105655,NA-Executive
+413,0112,413,105688,NA-Company 413 Group
+413,0120,413,105574,NA-HR Compensation and Perf Management
+413,0139,413,105575,NA-HR North America
+413,0235,413,105894,NA-Financial Gas
+413,0236,413,105595,NA-Energy Ops Global Facilities
+413,0259,413,105645,NA-IT Trader Support
+413,0261,413,105625,NA-Energy Ops Physical Pwr Confirmations
+413,0263,413,105618,NA-Energy Ops Deal Validation
+413,0264,413,105576,NA-HR Commercial Training/Leadership
+413,0266,413,106827,NA-Ag Trading
+413,0271,413,106585,NA-Energy Finance G&A
+413,0276,413,106803,NA-Day Rate Hedging
+413,0278,413,106585,NA-Energy Finance G&A
+413,0332,413,105979,NA-Gas Logistics Control
+413,0366,413,105664,NA-BAR Gas and Transmission Assets
+413,0406,413,105646,NA-IT EDS Prepaid
+413,0418,413,105647,NA-IT Operation Systems
+413,0422,413,105683,NA-London Billable
+413,0448,413,105626,NA-Energy Ops Power Logistics
+413,0450,413,105596,NA-Energy Ops Global Contracts
+413,0454,413,105649,NA-IT System Allocation
+413,0463,413,105612,NA-Energy Ops Financial Confimarions
+413,0466,413,106327,NA-CTG NAES BUC
+413,0468,413,105587,NA-Energy Ops Depreciation
+413,0469,413,105871,NA-Controls and Risk
+413,0470,413,105872,NA-Risk Management
+413,0473,413,105665,NA-BAR SAP Implementation
+413,0475,413,105603,NA-Energy Ops Gas Logisitcs SE
+413,0476,413,105666,NA-BAR Trading Assets
+413,0491,413,105649,NA-IT System Allocation
+413,0513,413,105724,NA-Office of the Chair Vice Presidemt
+413,0521,413,106799,NA-Upstream Transport
+413,0524,413,105587,NA-Energy Ops Depreciation
+413,0537,413,105684,NA-Canadian Billable
+413,0547,413,106303,NA-Middle Market Nymex Houston
+413,0565,413,105587,NA-Energy Ops Depreciation
+413,0574,413,106752,NA-Asset Trading
+413,0602,413,105886,NA-West Originations Portland
+413,0618,413,106612,NA-Treasury G&A
+413,0621,413,106753,NA-Financial Trading
+413,0626,413,106348,NA-Energy Operations Phys Gas Confirm
+413,0630,413,105656,NA-Legal Litigation
+413,0635,413,105882,NA-East Originations Houston
+413,0661,413,106336,NA-Gas Logistics
+413,0671,413,105577,NA-HR North America
+413,0674,413,105649,NA-IT System Allocation
+413,0688,413,105631,NA-Energy Ops On System Settlements
+413,0719,413,105604,NA-Energy Ops Gas Logisitcs NE
+413,0720,413,105605,NA-Energy Ops Gas Logistics Central
+413,0721,413,105606,NA-Energy Ops Gas Logistics West
+413,0726,413,105667,NA-BAR Consolidated Reporting
+413,0743,413,105572,NA-ENA Tax Support
+413,0753,413,105662,NA-BAR Executive
+413,0754,413,105648,NA-IT Vice President
+413,0758,413,105619,NA-Energy Ops Client Services
+413,0761,413,105587,NA-Energy Ops Depreciation
+413,0765,413,105890,NA-East Gas Trading
+413,0766,413,105892,NA-Central Gas Trading
+413,0768,413,105891,NA-West Gas Trading
+413,0771,413,105668,NA-BAR Merchant Finance and Comm Trans
+413,0790,413,105649,NA-IT System Allocation
+413,0791,413,105649,NA-IT System Allocation
+413,0813,413,105588,NA-Energy Ops Management
+413,0818,413,105980,NA-Gas Logistics
+413,0821,413,105725,NA-Office of the Chair Executive
+413,0825,413,106263,NA-CTG Commodity Structuring
+413,0828,413,105649,NA-IT System Allocation
+413,0834,413,105627,NA-Energy Ops Power Settlement
+413,0847,413,105589,NA-Energy Ops Strategic Operations
+413,0849,413,105613,NA-Energy Ops Financial Statements
+413,0928,413,105640,NA-Energy Ops Sirius
+413,0930,413,106754,NA-ENA Risk Management
+413,1132,413,105914,NA-Equity Trading
+413,1147,413,105688,NA-Company 413 Group
+413,1151,413,106755,NA-HR Retail Energy
+413,1157,413,105657,NA-Physical and Financial Trading
+413,1159,413,105658,NA-Legal Emerging Markets
+413,1160,413,105632,NA-Energy Ops Volume Management TX
+413,1161,413,106349,NA-Office of the Chair
+413,1162,413,105623,NA-Energy Ops Power Risk Mgmt East
+413,1177,413,106585,NA-Energy Finance G&A
+413,1187,413,106802,NA-E Commerc/Outsourcing
+413,1188,413,105757,NA-CTG Treasury
+413,1190,413,105607,NA-Energy Ops GISB Logisitcs
+413,1191,413,105608,NA-Energy Ops Sirius Unify
+413,1194,413,106606,NA-Currency Trading
+413,1230,413,105887,NA-West Originations San Francisco
+413,1231,413,106365,NA-East Other Expenses
+413,1234,413,106594,NA-Rocky Mountain G&A
+413,1235,413,106635,NA-Principal Investing G&A
+413,1248,413,105688,NA-Company 413 Group
+413,1251,413,106621,NA-Equity Trading G&A
+413,1262,413,106593,NA-Gas Network Opererations
+413,1263,413,106592,NA-Gas Network Engineering G&A
+413,1269,413,106333,NA-Bridgeline Commercial
+413,1270,413,106279,NA-IT Mgmt
+413,1275,413,105573,NA-Public Relations
+413,1277,413,106271,NA-EES Global Ctrpty
+413,1278,413,106322,NA-CTG Midstream
+413,1279,413,106694,NA-CTG Transaction Development
+413,1280,413,106636,NA-Downstream Trans Dev
+413,1281,413,106301,NA-Enron Networks - Paper
+413,1282,413,106735,NA-IT Energy Ops
+413,1285,413,106756,NA-Enron Networks
+413,1354,413,105732,NA-Capital Risk Management
+413,1358,413,105689,NA-SAP Project
+413,1363,413,106347,NA-Mexico Charges
+413,1368,413,105867,NA-American Coal Trading
+413,1370,413,105649,NA-IT System Allocation
+413,1402,413,105717,NA-Corporate Charges North America
+413,1477,413,106358,NA-East Originations - Midstream
+413,1487,413,105912,Na-Paper Trading
+413,1491,413,106761,NA-Client Svc GP
+413,1492,413,106757,NA-WPT System Costs
+413,1495,413,105659,NA-Gas Assets
+413,1497,413,105633,NA-Energy Ops Gas Logistics TX
+413,1499,413,106820,NA-Energy Ops - SAP
+413,1631,413,105594,NA-Energy Ops Global Financial Products
+413,1638,413,105634,NA-Energy Ops TX Gas Team
+413,1639,413,105998,NA-Resevoir Engineering
+413,1645,413,105718,NA-Corporate Charges North America
+413,1649,413,105719,NA-Corporate Charges North America
+413,1701,413,105990,NA-Asset Management
+413,1702,413,105985,NA-Asset Development
+413,1703,413,105987,NA-Strategic Ventures
+413,1704,413,105991,NA-Asset Facility Planning
+413,1706,413,105714,NA-Other Allocations
+413,1707,413,105726,NA-Competitive Analysis
+413,1708,413,106295,NA-Business to Business
+413,1709,413,106323,NA-CTG Assets
+413,1710,413,106302,NA-Industrial Energy Originations
+413,1713,413,106758,NA-Coal Australia
+413,1714,413,106762,NA-West Power Trading
+413,1717,413,105900,NA-West Power Trading
+413,1726,413,106585,NA-Energy Finance G&A
+413,1727,413,105910,NA-Weather Trading
+413,1728,413,105583,NA-Energy Ops Risk Management
+413,1741,413,105688,NA-Company 413 Group
+413,1742,413,105597,NA-Energy Ops Global Counterparty
+413,1743,413,105649,NA-IT System Allocation
+413,1744,413,105649,NA-IT System Allocation
+413,1747,413,105981,NA-HPL Storage and Transportation
+413,1748,413,106759,NA-SO2 Trading
+413,1749,413,106262,NA-CTG Technical Analysis
+413,1788,413,106614,NA-West Originations G&A
+413,1789,413,106613,NA-West Power Trading G&A
+413,1791,413,106579,NA-Office of the President
+413,1792,413,106581,NA-East Power Trading G&A
+413,1793,413,106584,NA-Upstream OriginationsG&A
+413,1794,413,106584,NA-Upstream OriginationsG&A
+413,1795,413,106225,NA-Coal G&A
+413,1797,413,106607,NA-Financial Gas G&A
+413,1798,413,106598,NA-Asset Trading G&A
+413,1799,413,106606,NA-Currency Trading
+413,1800,413,106635,NA-Principal Investing G&A
+413,1801,413,106230,NA-Generation Investments
+413,1804,413,106603,NA-Paper G&A
+413,1805,413,105588,NA-Energy Ops Management
+413,1806,413,106279,NA-IT Mgmt
+413,1807,413,105688,NA-Company 413 Group
+413,1808,413,105713,NA-Company 413 Group Non Controllable
+413,1830,413,105897,NA-East Power Trading
+413,1831,413,106604,NA-Weather G&A
+413,1832,413,106602,NA-Mexico G&A
+413,1833,413,106610,NA-West Gas G&A
+413,1834,413,106608,NA-Central Gas G&A
+413,1835,413,106609,NA-East Gas G&A
+413,1836,413,106616,NA-Risk Management Houston G&A
+413,1837,28P,106577,NA-Executive Originations
+413,1839,413,105620,NA-Energy Ops Financial Gas Support
+413,1840,413,105614,NA-Energy Ops West Gas Support
+413,1866,413,105688,NA-Company 413 Group
+413,1867,413,106300,NA-Office of the president
+413,1868,413,106304,NA-Middle Market Nymex New York
+413,1869,413,105905,NA-West Power Volume Mgmt
+413,1870,413,105609,NA-Energy Ops Brooklyn Union
+413,1891,413,105578,NA-HR Support
+413,1892,413,105615,NA-Energy Ops Central Gas Team
+413,1893,413,105616,NA-Energy Ops East Gas Team
+413,1894,413,105650,NA-IT Sirius Administration
+413,1895,413,105727,NA-Corporate Development
+413,1896,413,105890,NA-East Gas Trading
+413,1898,413,105656,NA-Legal Litigation
+413,1901,413,105572,NA-ENA Tax Support
+413,1903,413,106619,NA-Executive Trading G&A
+413,1905,413,105669,NA-BAR Cash Flow
+413,1910,413,106760,NA-WPT California Office
+413,1925,413,105575,NA-HR North America
+413,1927,413,105719,NA-Corporate Charges North America
+413,1929,413,105660,NA-Employment Litigation
+413,1931,413,106605,NA-SO2 G&A
+413,1935,413,106617,NA-Risk Management New York G&A
+413,1936,413,106296,NA-Market Intelligence
+413,1938,413,105624,NA-Energy Ops Power Risk Mgmt West
+413,1939,413,105733,NA-Merchant Finance
+413,1942,413,105579,NA-HR Compensation
+413,1943,413,105617,NA-Energy Ops Operational Analysis
+413,1945,413,106585,NA-Energy Finance G&A
+413,1957,413,105734,NA-Book Administration
+413,1991,413,105688,NA-Company 413 Group
+413,1992,413,105688,NA-Company 413 Group
+413,1993,413,105580,NA-HR Development and Planning
+413,1994,413,105584,NA-Energy Ops Pulp and Paper
+413,2002,413,105651,NA-IT IMP
+413,2014,413,106589,NA-Enron Power Transmission G&A
+413,2016,413,105999,NA-LRC Business Development
+413,2017,413,106228,NA-East Originations
+413,2041,413,106585,NA-Energy Finance G&A
+413,2042,413,105904,NA-West Power Middle market
+413,2043,413,106810,NA-Offshore Originations
+413,2044,413,105573,NA-Public Relations
+413,2045,413,106586,NA-Executive Assets G&A
+413,2172,413,106763,NA-Enron Online
+413,2173,413,106829,NA-CTG ECO Gas Management
+413,2174,413,106764,NA-Enron NW Metals
+413,2175,413,106005,NA-Enron Compressor Services
+413,2176,413,106737,NA-Genco Expenses
+413,2178,413,106230,NA-Generation Investments
+413,2182,413,105611,NA-Energy Ops Merchant Asset Portfolio
+413,2184,413,105587,NA-Energy Ops Depreciation
+413,2185,413,106765,NA-SAP HR
+413,2235,413,105665,NA-BAR SAP Implementation
+413,2300,413,105688,NA-Company 413 Group
+413,2302,413,105688,NA-Company 413 Group
+413,2303,413,105688,NA-Company 413 Group
+413,2305,413,105688,NA-Company 413 Group
+413,2306,413,105670,"NA-BAR Orig, Support, Business Analysis"
+413,2307,413,105870,NA-Coal Charleston
+413,2308,413,106766,NA-Executive Trd
+413,2327,413,105751,NA-CTG Treasury
+413,2328,413,105688,NA-Company 413 Group
+413,2329,413,105688,NA-Company 413 Group
+413,2330,413,106230,NA-Generation Investments
+413,2331,413,105621,NA-Energy Ops Gas Operations Management
+413,2333,413,106634,NA-East Coast Power G&A
+413,2368,413,105905,NA-West Power Volume Mgmt
+413,2369,413,106351,NA-West Power Real Time Scheduling
+413,2372,413,105598,NA-Energy Ops Glabal Data Management
+413,2373,413,106638,NA-Special Assets Non Performing G&A
+413,2374,413,105628,NA-Energy Ops Power Genco
+413,2520,413,105915,NA-Debt Trading
+413,2521,413,105729,NA-Capital Structuring
+413,2524,413,105688,NA-Company 413 Group
+413,2628,413,106638,NA-Special Assets Non Performing G&A
+413,2629,413,105752,NA-CTG Treasury
+413,2630,413,105885,NA-East Originations - Chicago
+413,2631,413,105622,NA-Energy Ops Volume Management
+413,2632,413,105635,NA-Energy Ops Management
+413,2655,413,105591,NA-Energy Ops Operational Risk Mgmt
+413,2659,413,105599,NA-Energy Ops Global SAP
+413,2661,413,106595,NA-Debt Trading Trading G&A
+413,2662,413,105643,NA-Energy Ops Online Trading Prod Ctrl
+413,2663,413,105636,NA-Energy Ops HPLC Logistics Unify
+413,2664,413,105637,NA-Energy Ops HPLC Logisitcs
+413,2665,413,106592,NA-Gas Network Engineering G&A
+413,2666,413,105730,NA-Currency Australia
+413,2667,413,105610,NA-Energy Ops Project Aruba
+413,2669,413,106329,NA-Generation Services
+413,2670,413,105906,NA-West Power Fundamental Analysis
+413,2671,413,106298,NA-Exec Orig
+413,2672,413,105881,NA-Originations Chemicals and Plastics
+413,2673,413,106790,NA-Energy Capital Services-New
+413,2673,413,106790,NA-Energy Capital Services-New
+413,2674,413,106231,NA-Special Assets Performing
+413,2675,413,105638,NA-Energy Ops Regulatory
+413,2676,413,105592,NA-Energy Ops Training
+413,2677,413,105585,NA-Energy Ops Emerging Conirmations
+413,2678,413,105586,NA-Energy Ops Bandwidth Trading
+413,2679,413,106231,NA-Special Assets Performing
+413,2710,413,106582,NA-Industrial Downstream G&A
+413,2716,413,105735,NA-Transaction Development
+413,2717,413,105736,NA-CTG Portfolio
+413,2718,413,105600,NA-Energy Ops Global Intelligence
+413,2719,413,105587,NA-Energy Ops Depreciation
+413,2720,413,105587,NA-Energy Ops Depreciation
+413,2721,413,105587,NA-Energy Ops Depreciation
+413,2722,413,105587,NA-Energy Ops Depreciation
+413,2723,413,105601,NA-Energy Ops Global Rate Services
+413,2724,413,105593,NA-Energy Ops Sitara Production Support
+413,2725,413,105737,NA-CTG Executive
+413,2727,413,105587,NA-Energy Ops Depreciation
+413,2728,413,105587,NA-Energy Ops Depreciation
+413,2730,413,105587,NA-Energy Ops Depreciation
+413,2731,413,105587,NA-Energy Ops Depreciation
+413,2732,413,105587,NA-Energy Ops Depreciation
+413,2733,413,106767,NA-Destec Coal
+413,2734,413,105907,NA-West Power ESP
+413,2735,413,105581,NA-HR International Support
+413,2737,413,106611,NA-CTG G&A
+413,2738,413,105587,NA-Energy Ops Depreciation
+413,2739,413,105738,NA-Portfolio Management
+413,2740,413,106597,NA-Genco G&A
+413,2751,413,106278,NA-BAR Supplies
+413,2753,413,106586,NA-Executive Assets G&A
+413,2754,413,106594,NA-Rocky Mountain G&A
+413,2755,413,106587,NA-Gas Network Services G&A
+413,2756,413,106588,NA-Enron Storage Development G&A
+413,2758,413,106589,NA-Enron Power Transmission G&A
+413,2759,413,106590,NA-Gas Network Development G&A
+413,2776,413,105644,NA-Energy Ops Global Data Online Trading
+413,2777,413,106768,NA-Enron Online
+413,2779,413,106788,NA-Global Risk Markets-Risk Products
+413,2780,413,106789,NA-Global Risk Markets-Portfolio Mgmt
+413,2783,413,106614,NA-West Originations G&A
+413,2784,413,105880,NA-Diversified Industrial Group
+413,2785,413,106588,NA-Enron Storage Development G&A
+413,2791,413,106614,NA-West Originations G&A
+413,2793,413,106291,NA-Transport Rate
+413,2798,413,106769,NA-Credit Markets
+413,2933,413,106293,NA-TX Transport and Rate Mgmt
+413,2939,413,106269,NA-Global Contracts
+413,2940,413,106290,NA-Gloval Facilities Texas
+413,2941,413,106281,NA-Currency London
+413,2942,413,106770,NA-Coal International
+413,2943,413,105913,NA-Paper Int'l
+413,2944,413,106282,NA-Weather Intl
+413,2946,413,105587,NA-Energy Ops Depreciation
+413,2947,413,105587,NA-Energy Ops Depreciation
+413,2948,413,106297,NA-Enron Online
+413,2950,413,106771,NA-WPT Client Svc
+413,3333,413,105652,NA-IT Fuji Lease

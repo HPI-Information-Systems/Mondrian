@@ -1,0 +1,13 @@
+Buyer_Name,Sales_Sub_Contract_Name,Delivery_Start_Date,Delivery_End_Date,Pipeline_Id,Pipeline_Point_Code,Point_Name,Item_Description,Quantity,Unit_Price,Statement_Amount
+Oglethorpe Power Corporation,720986,4/9/2001 00:00:00,4/9/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,4500,5.445,24502.5
+Oglethorpe Power Corporation,720986,4/10/2001 00:00:00,4/10/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,17500,5.57,97475
+Oglethorpe Power Corporation,720986,4/11/2001 00:00:00,4/11/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,13000,5.675,73775
+Oglethorpe Power Corporation,720986,4/12/2001 00:00:00,4/12/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,15000,5.55,83250
+Oglethorpe Power Corporation,720986,4/13/2001 00:00:00,4/13/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,2000,5.43,10860
+Oglethorpe Power Corporation,720986,4/14/2001 00:00:00,4/14/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,2000,5.43,10860
+Oglethorpe Power Corporation,720986,4/15/2001 00:00:00,4/15/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,2000,5.43,10860
+Oglethorpe Power Corporation,720986,4/16/2001 00:00:00,4/16/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,2000,5.43,10860
+Oglethorpe Power Corporation,720986,4/19/2001 00:00:00,4/19/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,4500,5.26,23670
+Oglethorpe Power Corporation,720986,4/25/2001 00:00:00,4/25/2001 00:00:00,TRCO,6991,STATION 85 MLP,Cost of Gas,3750,5.22,19575
+Oglethorpe Power Corporation,720959,4/9/2001 00:00:00,4/30/2001 00:00:00,TRCO,3162,DOYLE POWER PLANT,Cost of Gas,60582,0,0
+Oglethorpe Power Corporation,720959,4/9/2001 00:00:00,4/30/2001 00:00:00,TRCO,3162,DOYLE POWER PLANT,Exchange Fee,,0.1861,11274.31

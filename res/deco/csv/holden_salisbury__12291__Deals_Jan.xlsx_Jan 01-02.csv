@@ -1,0 +1,29 @@
+CounterParty,P.O.D.,MW,Delivery Pattern,Term,$,Tariff,Currently Delivering?,Enpower Deal #
+Nevada Power,Mead 230,50,HLH,thru 4/6/02,150,,YES,528030
+,,,,,,,,
+Nevada Power,Palo Verde,50,HLH,thru 4/6/02,88.5,,YES,559065
+Nevada Power,Palo Verde,25,HLH,thru 4/6/02,147,,YES,515363
+Sierra Pacific,Palo Verde,25,HLH,thru 4/6/02,101,,YES,498108
+Sierra Pacific,Palo Verde,25,HLH,thru 4/6/02,136,,YES,548872
+Sierra Pacific,Palo Verde,25,HLH,thru 4/6/02,147,,YES,514866
+El Paso Electric,Palo Verde,50,HLH,thru 4/6/02,121,,YES,502431
+CRC,Palo Verde,25,HLH,thru 4/6/02,69,,NO,399966
+CRC,Palo Verde,25,HLH,thru 4/6/02,70,,NO,501436
+CRC,Palo Verde,25,HLH,thru 4/6/02,110,,NO,618755
+,,,,,,,,
+Nevada Power,Palo Verde,25,LLH,thru 4/6/02,70,,YES,503214
+Nevada Power,Palo Verde,50,LLH,thru 4/6/02,88.5,,YES,559065
+,,,,,,,,
+WALC,Pinnacle Peak,25,RTC,thru 4/6/02,45,,YES,705583
+,,,,,,,,
+,,,,,,,,
+,,,,Total $ Requirement,,Market Price,1 Week $ Requirement,
+In the Money Totals,Mead 230,50,HLH,707200,,34,136000,
+,Mead 230,45,LLH,361620,,24.5,97020,
+,,,,,,,,
+,Palo Verde,200,HLH,2662400,,32,512000,
+,Palo Verde,75,LLH,553500,,22.5,148500,
+,,,,,,,,
+,Pinnacle Peak,25,HLH,573100,,34.5,69000,
+,,25,LLH,,,25,55000,
+,Total,,,4857820,,,1017520,Payable to AEP

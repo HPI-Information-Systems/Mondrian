@@ -1,0 +1,40 @@
+,,,,,,,,,,,,,,,,,,
+,,,To:,,"Ken Lay, Jeff Skilling",,,,,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,Risk Policy Notification Requirements,,
+,,,Copy to:,,Distribution,,,,,,,,Skilling,,Lay,Lay,,Finance Committe Chairman
+,,,,,,,,,,Daily Loss,Daily Loss,,50% of VaR,,75% of VaR,75% of VaR,,Aggregate Loss > 100% Aggregate VaR Limit
+,,,From:,,Global Risk Management Operations,,,,,Cumulative 5-day Loss,Cumulative 5-day Loss,,75% of VaR,,100% of VaR,100% of VaR,,
+,,,,,,,,,,"NOP, M/G, VaR","NOP, M/G, VaR",,105% of VaR,,110% of VaR,110% of VaR,,Aggregate VaR > 100% Aggregate VaR Limit
+,,,Date:,,2000-11-22 00:00:00,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,Re:,,Limit Notifications,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,Loss Notification or Limit Violation,,P/L RESULTS,P/L RESULTS,P/L RESULTS,,,
+,,,,,,,,,,Violation/,,,,,,,,
+,Occurrence,,,,,,VaR,NOP or M/G,Type,Notification,Number,,QTD,,YTD,,,
+,Date,,Business Unit,,Commodity Group,,Limit,Limit,Violation,Amount,YTD,,P/L,,P/L,,,Explanation
+,,,,,,,($MMs),,,($MMs),,,($MMs),,($MMs),,,
+Lay Level Notifications,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+1,2000-11-22 00:00:00,,Enron Energy Services,,Gas & Power Trading,,7,,Daily Loss,-7.2,15,,47.411,,315.553,,,West power prices increased on short-term and long-term short positions
+,,,,,,,,,,,,,,,,,,
+Skilling Level Notifications,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+1,2000-11-22 00:00:00,,Enron North America,,Gas Trading,,60,,Daily Loss,-33,9,,147.95714633999998,,859.5705433599999,,,Prompt winter Nymex prices rising on a prompt winter short Nymex position and a softening of California basis
+,,,,,,,,,,,,,,,,,,
+2,2000-11-22 00:00:00,,Enron,,Total Trading,,85,,Aggregate Daily Loss,-47.6,8,,300.8,,2388.8,,,"Due to: ENA Gas loss of $33 Million, ENA Power loss of $10 Million, and EES loss of $7 Million"
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+RAC COMMENTS:,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Distribution:,,Rick Buy,,,,,,,,,,,,,,,
+,,,Ted Murphy,,,,,,,,,,,,,,,
+,,,Cassandra Schultz,,,,,,,,,,,,,,,
+,,,David Port,,,,,,,,,,,,,,,

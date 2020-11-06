@@ -1,0 +1,337 @@
+GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations,GLOBAL CONTRACTS - Assignments / Terminations / Expirations
+Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts,Purchase / Sale / Transport and Financial Contracts
+2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00,2001-11-26 00:00:00
+Date,Type,Enron Entity,Existing C/P name,New C/P name,Contract Type,Global Contract Number,New     Global Contract Number,Effective Date,Meter,Comments
+2001-11-01 00:00:00,Assignment,ENA,Bargo Energy Company,Mission Resources Corporation,Financial Master Agreement (1992-ECT Form),96000029,96000029,2001-11-01 00:00:00,,"ENA - Certificate of Merger effective 5/16/01, evidences the merger of Bargo Energy Company with and into Bellwether Exploration Company, with the surviving entity (Bellwether Exploration Company) changing its name to Mission Resources Corpor"
+,,ENA,Monroe Power Company,Progress Ventures Inc.,GISB,96036522,,2001-11-01 00:00:00,,ENA  - GISB assignment by written notice from counterparty dated 10/11/01
+2001-11-01 00:00:00,Expiration,ENA,"Oneok Energy Marketing and Trading Company, L.P.",,GTC Pur Firm,96023059,,2001-11-01 00:00:00,,ENA- GTC  - expired on it's own terms.
+2001-11-01 00:00:00,Termination,ECTI,BP Oil International Limited,,Financial Master Agreement (1992-ECT Form) ,96030723,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/10/01 per Contract Audit Project.  This was a London Contract and not necessary to be in the Global system.  -gal 10/25/01
+,,ENA,Enron Canada Corp.,,92 ISDA - Multicurrency/Cross Border,96007416,,2001-11-01 00:00:00,,ENA:  Audit project - S. Bailey said okay to terminate this contract as it is a duplicate for 96018321. - gal 11/19/01
+,,ECTI,Enron Capital & Trade Resources Limited,,92 ISDA - Multicurrency/Cross Border,96041015,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/10/01 per Contract Audit Project. This was a London Contract and not necessary to be in Global Contracts. -gal 10/25/01
+,,ENA,HPL Resources Company,,Financial Master Agreement (1992-ECT Form) ,96006388,,2001-11-01 00:00:00,,ENA:  Audit Project - Terminated this contract on 11/19/01 per S. Bailey. -gal
+,,ECTI,Independent Energy UK Limited,,92 ISDA - Multicurrency/Cross Border,96031280,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/10/01 per the Contract Audit Project.  This was a London agreement and not necessary to be set up in the Global system.  -gal 10/25/01
+2001-11-01 00:00:00,Termination,ENA Upstream,"KCS Medallion Resources, Inc.",N/A ,First Pur Ded Res,96085217,,2001-11-01 00:00:00,,ENA Upstream  - GTC Terminated as of 11/1/01 due to incorrect deal handling instructions indicating 1st pur gtc to be used.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,First Pur Ded Res,96085224,,2001-11-01 00:00:00,,ENA Upstream  - GTC Terminated as of 11/1/01 due to incorrect deal handling instructions indicating 1st pur gtc to be used.
+,,ECTI,Moravske Naftove Doly A.S.,,92 ISDA - Multicurrency/Cross Border,96031248,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/10/01 per the Contract Audit Project. This was a London agreement and not necessary to be set up in the Global system. -gal 10/25/01
+,,ECTI,Morgan Stanley Capital Group Inc.,,92 ISDA - Multicurrency/Cross Border,96031244,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/3/01 per Contract Audit Project.  This is a London Contract and not necessary to be setup in the Global system. -gal 10/25/01
+,,ECTI,RMT,,92 ISDA - Multicurrency/Cross Border,96031232,,2001-11-01 00:00:00,,ECT Int'l - Terminated this contract on 10/10/01 per Contract Audit Project.  This is a London contract and not necessary to be set up in Global system.  -gal 10/25/01
+,,EGPTL,The Toronto-Dominion Bank,,92 ISDA - Multicurrency/Cross Border,96031039,,2001-11-01 00:00:00,,EGPTL:  Contract Audit - This is a London contract and S. Bailey in Legal said it was okay to terminate it. -gal 11/19/01
+2001-11-02 00:00:00,Expiration,ENA,Michigan Consolidated Gas Company,,Parking,96086680,,2001-11-02 00:00:00,,ENA:  This contract expired on 11/02/2001.  
+2001-11-05 00:00:00,Assignment,ENA,National Westminster Bank plc,The Royal Bank of Scotland plc,92 ISDA - Multicurrency/Cross Border,95000343,Same,2001-11-05 00:00:00,,"ENA:  Assignment Agreement effective 10/9/01 between National Westminster Bank plc, The Royal Bank of Scotland plc and ENA, whereby NWB assigned all its right, title & interests in the transactions under the ISDA Master dated 1/1/94 to RBS.  "
+2001-11-05 00:00:00,Termination,ENA,The Royal Bank of Scotland plc,,92 ISDA - Multicurrency/Cross Border,96032544,,2001-11-05 00:00:00,,"ENA:  RBS & ENA are deemed to have entered into an ISDA Master that replicates the 1/1/94 NWB/ENA ISDA.  As of 10/26/01, the ISDA #96032544 between ENA & RBS dated 12/10/99 will be terminated  per S. Boyd's memo dated 11/1/01. -gal 11/5/01"
+2001-11-06 00:00:00,Expiration,EMW,The Peoples Gas Light & Coke Company,,Parking,96086840,,2001-11-06 00:00:00,,EMW:  This contract expired on 11/06/2001.  
+2001-11-07 00:00:00,Expiration,ENA,Michigan Consolidated Gas Company,,Parking,96087264,,2001-11-07 00:00:00,,ENA:  This contract expired on 11/7/2001.
+2001-11-09 00:00:00,Termination,RMT,Coastal Gas Services Company,,92 ISDA - Multicurrency/Cross Border,96062655,,2001-11-09 00:00:00,,RMT:  This was a bogus contract setup for the purpose of GK.Com Testing and was terminated upon testing completion 11/9/01.  -gal
+,,ENA,Enron Access - Houston Division,,Financial Master Agreement (1992-ECT Form) ,96030704,,2001-11-09 00:00:00,,ENA:  Audit Project-terminated this agreement because it duplicates K#96016520.  -gal 11/9/01
+2001-11-10 00:00:00,Assignment,ENA,The Chase Manhattan Bank,JP Morgan Chase Bank,Financial Master Agreement (1992-ECT Form) ,95000359,95000359,2001-11-10 00:00:00,,"ENA:  Per Letter Agreement dated 10/24/01 states that on 11/10/01, Morgan Guaranty Trust Company of New York (K#95000338) will merge with and into Chase Manhattan Bank (K#95000359) and will operate under the name JP Morgan Chase Bank (K#95000"
+2001-11-10 00:00:00,Termination,ENA,Morgan Guaranty Trust Company of New York,,Other,95000338,,2001-11-10 00:00:00,,"ENA:  Per Letter Agreement dated 10/24/01 states that on 11/10/01, Morgan Guaranty Trust Company of New York (K#95000338) will merge with and into Chase Manhattan Bank (K#95000359) and will operate under the name JP Morgan Chase Bank (K#95000"
+2001-11-12 00:00:00,Expiration,ENA,Cabot Oil & Gas Marketing Corporation,,Other,96057783,,2001-11-12 00:00:00,,ENA:  This contract expired on 11/12/2001.  It is a Confidentiality Agreement.
+2001-11-13 00:00:00,Termination,ENA,Bay Corrugated Container,,Other,96035936,,2001-11-13 00:00:00,,ENA:  Terminated this contract on 11/13/01 because it was a duplication.  Refer to K#96035935. -gal 11/13/01
+2001-11-15 00:00:00,Assignment,ENA,The Chase Manhattan Bank,JPMorgan Chase Bank,Financial Master Agreement (1992-ECT Form) ,95000359,Same,2001-11-15 00:00:00,,"ENA:  Per Letter Agreement dated 10/24/01 Morgan Guaranty Trust Company (K#95000338), merged with and into The Chase Manhattan Bank (K#95000359) and will operate under the new name of JPMorgan Chase Bank effective 11/10/01.  gal 11/15/01  "
+2001-11-30 00:00:00,Expiration,ENA Upstream,AEP/HPL,,GTC Sale Firm,96085820,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,AEP/HPL,,GTC Sale Firm,96085822,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"Aquila Capital & Trade, Ltd.",,GTC Sale Firm,96079497,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Aquila Capital & Trade, Ltd.",,GTC Pur Firm,96083163,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Aquila Capital & Trade, Ltd.",,GTC Pur Firm,96083165,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Aquila Capital & Trade, Ltd.",,GTC Sale Firm,96083392,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,ATP Oil & Gas Corporation,,First Pur Ded Res,96085355,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Aviara Energy Corporation ,,Other,96085134,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Bluebird Energy, Inc.",,First Pur Ded Res,96084380,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Bluebird Energy, Inc.",,First Pur Ded Res,96084417,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,Burlington Resources Canada Energy Ltd.,,GTC Pur Firm,96081070,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Cabot Oil & Gas Corporation,,GTC Pur Firm,96085192,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA Upstream,Cabot Oil & Gas Marketing Corporation,,First Pur Ded Res,96085418,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,Cabot Oil & Gas Marketing Corporation,,First Pur Ded Res,96085523,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,Cabot Oil & Gas Marketing Corporation,,First Pur Ded Res,96085641,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA,Calpine Canada Natural Gas Partnership,,GTC Pur Firm,96086738,,2001-11-30 00:00:00,,ENA--GTC expired under its own terms 11/02/01.
+2001-11-30 00:00:00,Expiration,ENA,"Cargill Energy Trading Canada, Inc.",,GTC Pur Firm,96085137,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA Upstream,Century Exploration Company,,First Pur Ded Res,96085361,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Cohort Energy Company,,Other,96085726,,2001-11-30 00:00:00,,ENA Upstream: Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA Upstream,Cohort Energy Company,,Other,96085789,,2001-11-30 00:00:00,,ENA Upstream: Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA,Colorado Interstate Gas Company,,Transportation,96086563,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Columbia Gas Transmission Corporation,,Transportation,96052306,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Columbia Gulf Transmission Company,,Transportation,96052305,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Companhia Siderurgica Nacional - CSN,,GTC Sale Firm,96086655,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Sale Firm,96061623,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Pur Firm,96061624,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Pur Firm,96062099,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Sale Firm,96062101,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Sale Firm,96062164,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Pur Firm,96061665,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Sale Firm,96064655,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Continental Gas, Inc.",,GTC Pur Firm,96064656,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,"Continental Land & Fur Co., Inc.",,First Pur GTC,96086279,,2001-11-30 00:00:00,,ENA Upstream GTC expires on its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96085468,,2001-11-30 00:00:00,,ENA Upstream:  Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96086618,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96084556,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96084562,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96086645,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96084352,,2001-11-30 00:00:00,,ENA Upstream:  Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96084353,,2001-11-30 00:00:00,,ENA Upstream:  Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96087278,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,"Crosstex Energy Services, Ltd.",,Other,96084893,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA,"Cypress Natural Gas, LLC",,GTC Sale Firm,96085231,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA,"Dayton Power and Light Company, The",,GTC Sale Firm,96060519,,2001-11-30 00:00:00,,ENA: GTC exoired under its own terms.
+,,ENA Upstream,Denbury Resources Inc.,,First Pur GTC,96085802,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Denbury Resources Inc.,,First Pur GTC,96085815,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"Dominion Retail, Inc.",,GTC Sale Firm,96085801,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Dominion Retail, Inc.",,GTC Sale Firm,96088932,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,Domtar Inc.,,GTC Sale Firm,96086058,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Domtar Inc.,,GTC Pur Firm,96086575,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,Donald E. Wood,,GTC Pur Firm,96054145,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96063427,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,Dynamic Production Inc.,,First Pur Ded Res,96085482,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,Dynegy Canada Inc.,,GTC Sale Firm,96083906,,2001-11-30 00:00:00,,ENA:  GTC expires under its own terms.
+,,ENA,"Dynegy Canada Marketing and Trade, a division of Dynegy Canada Inc.",,GTC Pur Firm,96063500,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,Eagle Gas Marketing Company,,First Pur GTC,96086620,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"EEX E&P Company, L.P.",,First Pur Ded Res,96085514,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"Egan Hub Partners, L.P.",,Other,96087523,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/07/01.
+2001-11-30 00:00:00,Expiration,ENA,El Paso Natural Gas Company,,Transportation,96047880,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,El Paso Natural Gas Company,,Transportation,96047881,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,End Users Supply System,,GTC Sale Firm,96085205,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA Upstream,"Energy Marketing, a Division of Amerada Hess",,GTC Sale Firm,96084704,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,"Energy Marketing, a Division of Amerada Hess",,GTC Sale Firm,96084727,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Energy Resource Technology,,First Pur Ded Res,96085193,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Energy Resource Technology, Inc.",,First Pur Ded Res,96085648,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Energy Resource Technology, Inc.",,First Pur Ded Res,96085679,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Energy Resource Technology, Inc.",,First Pur Ded Res,96084924,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Enterprise Oil Louisiana Inc.,,First Pur Ded Res,96082833,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"EOG Resources, Inc.",,GTC Pur Firm,96085390,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,"EXCO Resources, Inc.",,First Pur GTC,96086393,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"EXCO Resources, Inc.",,First Pur GTC,96086395,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"EXCO Resources, Inc.",,First Pur GTC,96086397,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,Exelon Energy Company,,GTC Sale Firm,96086280,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,"ExxonMobil Gas Marketing Company, a division of Exxon Mobil Corporation",,GTC Pur Firm,96085675,,2001-11-30 00:00:00,,ENA: GTC  expires under its own terms.
+,,ENA Upstream,"Fairways Offshore Exploration, Inc.",,First Pur Ded Res,96085746,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96085480,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur GTC,96084506,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96082470,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,Forest Oil Corporation,,First Pur GTC,96086623,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96082496,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96082504,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96082507,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur Ded Res,96082521,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur GTC,96084636,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur GTC,96084638,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Forest Oil Corporation,,First Pur GTC,96084639,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA,"Fort Union Gas Gathering, LLC",,Gathering,96047884,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,"Fort Union Gas Gathering, LLC",,Gathering,96048510,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Georgia-Pacific Corporation,,GTC Sale Firm,96085664,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Giant Refining Company,,GTC Sale Firm,96052166,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Great Lakes Transmission Limited Partnership,,Transportation,96086841,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA Upstream,Gulfwest Oil & Gas Company (Louisiana) LLC,,First Pur Ded Res,96085169,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,Hall-Houston Oil Company,,First Pur GTC,96086238,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,Hess Energy Trading Company LLC,,GTC Sale Firm,96084520,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Pur Firm,96061630,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Sale Firm,96061631,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Pur Firm,96062091,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Sale Firm,96062093,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Pur Firm,96064584,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Sale Firm,96064585,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Pur Firm,96076971,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Hiland Partners, L.L.C.",,GTC Sale Firm,96076972,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,Hunt Petroleum Corporation,,First Pur Ded Res,96085153,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,Juniper Energy L.P.,,First Pur Ded Res,96085439,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Juniper Energy L.P.,,First Pur Ded Res,96085713,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Juniper Energy L.P.,,First Pur Ded Res,96085716,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Juniper Energy L.P.,,First Pur Ded Res,96084738,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Juniper Energy L.P.,,First Pur Ded Res,96084744,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Juniper Energy L.P,,First Pur Ded Res,96084759,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA,J.D. Blackburn,,Agency Agreement  ,96082374,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Kaiser Aluminum & Chemical Corporation,,GTC Sale Firm,96087386,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,First Pur GTC,96086368,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,First Pur GTC,96086369,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,First Pur GTC,96086374,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,Other,96086471,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,Other,96086472,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,"KCS Medallion Resources, Inc.",,Other,96086624,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA,Kinder Morgan Interstate Gas Transmission,,Transportation,96086235,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,KN Gas Services,,GTC Sale Firm,96086257,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,KN Gas Services,,GTC Sale Firm,96086270,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085302,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085304,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085307,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085311,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085317,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085320,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085322,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085352,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085295,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,"Linder Oil Company, A Partnership",,First Pur Ded Res,96085298,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Louis Dreyfus Natural Gas Corp.,,First Pur GTC,96086628,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Louis Dreyfus Natural Gas Corp.,,Other,96084875,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,"Magnum Hunter Production, Inc.",,First Pur Ded Res,96084367,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"Marathon Ashland Petroleum, LLC",,GTC Sale Firm,96085226,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA Upstream,"Mayne & Mertz, Inc.",,First Pur Ded Res,96085697,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Mayne & Mertz, Inc.",,First Pur Ded Res,96085812,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Mayne & Mertz, Inc.",,First Pur Ded Res,96084710,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA,"McLeod Farms, Inc.",,GTC Sale Firm,96070411,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,MGI Supply Ltd.,,GTC Sale Firm,96083535,,2001-11-30 00:00:00,,ENA: GTc expired under its own terms.
+,,ENA,MGI Supply Ltd.,,GTC Sale Firm,96084820,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA,Michigan Consolidated Gas Company,,Transportation,96050406,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,"Mid Continent Market Center, Inc.",,Storage,96052313,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Mirant Americas Energy Marketing, L.P.",,GTC Sale Firm,96084914,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA,Nexen Marketing,,GTC Pur Firm,96085644,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,Nexen Petroleum Sales U.S.A. Inc.,,Other,96084555,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Nexen Petroleum Sales U.S.A. Inc.,,Other,96084562,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Nexen Petroleum Sales U.S.A. Inc.,,Other,96084343,,2001-11-30 00:00:00,,ENA Upstream: - Wellhead Pooling Point Purchase GTC expired on its own terms.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96086581,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,EMW,"Nicor Enerchange, LLC",,Other,96058624,,2001-11-30 00:00:00,,EMW: GTC GAs Exchange expired under its own terms.
+,,ENA Upstream,North Central Oil Corporation,,First Pur Ded Res,96086129,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,North Central Oil Corporation,,GTC Pur Firm,96079957,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,North Central Oil Corporation,,GTC Pur Firm,96084427,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,North Central Oil Corporation,,GTC Pur Firm,96084432,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Northern Border Pipeline Company,,Transportation,96086619,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Northern Gas Company,,GTC Sale Firm,96086237,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,Northern Illinois Gas Company,,Other,96085509,,2001-11-30 00:00:00,,ENA: GTC Gas Exchange expired under its own terms.
+,,ENA,Northern Illinois Gas Company,,Other,96086657,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/02/01
+,,ENA,Northern Illinois Gas Company,,Other,96086817,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/03/01.
+,,ENA,Northern Illinois Gas Company,,Other,96087303,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/08/01.
+,,ENA,Northern Illinois Gas Company,,Other,96087305,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/08/01.
+2001-11-30 00:00:00,Expiration,ENA,Northern Illinois Gas Company,,Other,96088058,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/08/01.
+,,ENA,Northern Illinois Gas Company,,Other,96088900,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/09/01.
+,,ENA,Northern Illinois Gas Company,,Other,96089294,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/13/01.
+,,ENA,Northern Illinois Gas Company,,Other,96090225,,2001-11-30 00:00:00,,ENA--GTC Exchange expired under its own terms 11/13/01.
+,,ENA,Northern Illinois Gas Company,,Other,96084940,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA,"Octagon Resources, Inc.",,GTC Sale Firm,96086430,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,"Octagon Resources, Inc.",,GTC Pur Firm,96086432,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,"Octagon Resources, Inc.",,GTC Sale Firm,96082165,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Octagon Resources, Inc.",,GTC Pur Firm,96082166,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,"Orion Pipeline, L.L.C.",,Other,96085196,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Orion Pipeline, L.L.C.",,Other,96085202,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA,Pacific Gas & Electric Company,,Parking,96045763,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is executed.
+,,ENA,Pacific Gas & Electric Company,,Parking,96045765,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is executed.
+,,ENA,Pacific Gas & Electric Company,,Parking,96045767,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is executed.
+,,ENA,Pacific Gas & Electric Company,,Parking,96064205,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,Pacific Gas & Electric Company,,Parking,96065441,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is not executed.
+,,ENA,Pacific Gas & Electric Company,,Parking,96069003,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085325,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085643,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085008,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085022,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085031,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085037,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085108,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Panaco, Inc.",,First Pur Ded Res,96085113,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA,Paul L. Bryan Mineral Trust,,GTC Sale Firm,96086631,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA Upstream,Phoenix Gas Pipeline Company,,Other,96085004,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,Phoenix Gas Pipeline Company,,Other,96085007,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"Pioneer Natural Resources USA, Inc.",,Other,96085143,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA,Plains Gas Farmers Cooperative Society of Hereford,,GTC Sale Firm,96084679,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA Upstream,"ProGas, Inc.",,First Pur GTC,96086241,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"ProGas, Inc.",,First Pur GTC,96086245,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"ProGas, Inc.",,First Pur GTC,96087290,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,Q-West Energy Company,,Other,96085731,,2001-11-30 00:00:00,,ENA Upstream: Wellhead Pooling Point Purchase GTC expired under its own terms.
+,,ENA,Red Willow Production Company,,GTC Pur Firm,96084828,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA Upstream,Riverside Pipeline Company,,Other,96086115,,2001-11-30 00:00:00,,ENA Upstream: Wellhead Pooling Point Purchase GTc expired under its own terms.
+,,ENA Upstream,"Riverside Products & Services, LLC",,First Pur Ded Res,96086081,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Riverside Products & Services, LLC",,First Pur Ded Res,96086085,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA Upstream,"Riverside Products & Services, LLC",,First Pur Ded Res,96086089,,2001-11-30 00:00:00,,ENA Upstream: GTC expired under its own terms.
+,,ENA,"RMS Monte Christo, LLC",,GTC Pur Firm,96086495,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA Upstream,Samedan Oil Corporation,,First Pur Ded Res,96085717,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,Samson Investment Company,,GTC Pur Firm,96085234,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA,"Seminole Energy Services, L.L.C.",,GTC Pur Firm,96052662,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Sequent Energy Management, L.P.",,Other,96086187,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA Upstream,Shoreline Gas Inc.,,Other,96084512,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Shoreline Gas Inc.,,Other,96084517,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Shoreline Gas Inc.,,Other,96084518,,2001-11-30 00:00:00,,ENA Upstream - GTC expired on it's own terms.
+,,ENA Upstream,Shoreline Gas Inc.,,Other,96084496,,2001-11-30 00:00:00,,ENA Upstream: Wellhead Pooling Point Purchase GTC expires under its own terms.
+,,ENA,Smurfit-Stone Container Corporation,,GTC Sale Firm,96085163,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA,South Jersey Resources Group LLC,,GTC Sale Firm,96050639,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085784,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085786,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085790,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085791,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085793,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085795,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA Upstream,"Spinnaker Exploration Company, L.L.C",,First Pur Ded Res,96085799,,2001-11-30 00:00:00,,ENA Upstream:  GTC expired under its own terms.
+,,ENA,Sunoco Inc.,,GTC Sale Firm,96086470,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA,Swift Energy Company,,GTC Pur Firm,96080585,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Tennessee Gas Pipeline Co.,,Parking,96067496,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+2001-11-30 00:00:00,Expiration,ENA,Tennessee Gas Pipeline Co.,,Parking,96067497,,2001-11-30 00:00:00,,ENA: This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Tennessee Gas Pipeline Co.,,Parking,96067498,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Tennessee Gas Pipeline Co.,,Parking,96067499,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Tennessee Gas Pipeline Co.,,Parking,96067501,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Tennessee Gas Pipeline Co.,,Parking,96067500,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA Upstream,Tennessee Gas Pipeline Co.,,Transportation,96086420,,2001-11-30 00:00:00,,ENA Upstream:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Tennessee Gas Pipeline Co.,,Transportation,96086681,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,"Texas Eastern Transmission, LP",,Capacity Release,96086568,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,"Texas Eastern Transmission,LP",,Capacity Release,96086571,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,"Texas Energy Transfer Company, Ltd.",,GTC Pur Firm,96067318,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Texas Energy Transfer Company, Ltd.",,GTC Pur Firm,96085001,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA,"Texas Energy Transfer Company, Ltd.",,GTC Pur Firm,96085206,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,EMW,The Peoples Gas Light  & Coke Company,,Parking,96085693,,2001-11-30 00:00:00,,EMW:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,The Peoples Gas Light & Coke Company,,Parking,96086707,,2001-11-30 00:00:00,,ENA:  This contract expired on 11/02/2001.
+,,ENA Upstream,"Torch Energy TM, Inc.",,First Pur GTC,96086615,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"Torch Energy TM, Inc.",,First Pur GTC,96087296,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+2001-11-30 00:00:00,Expiration,ENA Upstream,"Torch Energy TM, Inc.",,First Pur GTC,96087328,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA,"Torch Energy TM, Inc.",,GTC Sale Firm,96085231,,2001-11-30 00:00:00,,ENA - GTC expired on it's own terms.
+,,ENA Upstream,Unimark LLC,,Other,96086617,,2001-11-30 00:00:00,,ENA Upstream--Wellhead Pooling Point GTC expires under its own terms.
+,,ENA,Union Gas Limited,,Parking,96086184,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Union Gas Limited,,Transportation,96087455,,2001-11-30 00:00:00,,ENA:  This contract will expire per its own terms on 11/30/2001.  It is documented.
+,,ENA,Union Gas Limited,,GTC Pur Firm,96085803,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,United States Gypsum Company,,GTC Sale Firm,96085373,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,"Utility Resource Solutions, LP",,GTC Sale Firm,96086319,,2001-11-30 00:00:00,,ENA--GTC expires under its own terms.
+,,ENA Upstream,"Westport Oil & Gas Company, Inc.",,First Pur GTC,96086191,,2001-11-30 00:00:00,,ENA Upstream--GTC expires under its own terms.
+,,ENA,"WPS Energy Services, Inc.",,GTC Sale Firm,96062235,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085333,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085339,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085342,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085347,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on its own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085207,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085211,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085214,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA Upstream,"W&T Offshore, Inc.",,First Pur Ded Res,96085219,,2001-11-30 00:00:00,,ENA Upstream  - GTC expired on it's own terms.
+,,ENA,"Yankee Gas Services Co., Inc.",,GTC Sale Firm,96084522,,2001-11-30 00:00:00,,ENA  - GTC expired on it's own terms.
+,,ENA,Yates Petroleum Corporation,,GTC Pur Firm,96030827,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+,,ENA,Yates Petroleum Corporation,,GTC Pur Firm,96031066,,2001-11-30 00:00:00,,ENA: GTC expired under its own terms.
+2001-11-30 00:00:00,Termination,ENA,Duke Energy Marketing Limited Partnership,,GTC Pur Firm,96035979,,2001-11-30 00:00:00,,ENA--Contract terminated due to use of new master.
+,,ENA,Duke Energy Marketing Limited Partnership,,GTC Sale Firm,96061736,,2001-11-30 00:00:00,,ENA:  Contract terminated due to use of new master.
+2001-11-30 00:00:00,Termination,ENA,Duke Energy Marketing Limited Partnership,,GTC Sale Firm,96060361,,2001-11-30 00:00:00,,ENA:  Contract terminated due to use of new master.
+,,ENA,Duke Energy Marketing Limited Partnership,,GTC Pur Firm,96040796,,2001-11-30 00:00:00,,ENA:  Contract terminated due to use of new master.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,First Pur Ded Res,96057012,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,First Pur Ded Res,96057006,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96076968,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96064349,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96063769,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96063727,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96062579,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96062225,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+2001-11-30 00:00:00,Termination,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96058538,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Pur Firm,96058088,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96088503,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96062651,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96061868,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96061014,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96061005,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96060434,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96060433,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+,,ENA,"Duke Energy Trading and Marketing, L.L.C.",,GTC Sale Firm,96056991,,2001-11-30 00:00:00,,ENA: GTC terminated due to execution of new Master Purchase/Sale Firm and Interruptible agreement -96093559.
+2001-11-30 00:00:00,Termination,ENA,EEX Corporation,,GTC Pur Firm,96085176,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,"enovate, L.L.C.",,Other,96053674,,2001-11-30 00:00:00,,ENA--Online GTC terminated due to use of Online GTC+Collateral.
+,,enovate,Enron North America Corp.,,Other,96053679,,2001-11-30 00:00:00,,enovate--Online CTG terminated due to use of Online GTC+Collateral.
+,,ENA,"Giant Industries, Inc.",,GTC Sale Firm,96068983,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,"Giant Industries, Inc.",,GTC Sale Firm,96086313,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,Giant Refining Company,,GTC Sale Firm,96067755,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,"Heartland Energy Group, Inc.",,GTC Pur Firm,96067620,96090253,2001-11-30 00:00:00,,"ENA--GTC terminated.  CP name changed and deal moved to new NG Energy Trading, L.L.C. MPSF."
+,,ENA,"Heartland Energy Services, Inc.",,GTC Pur Firm,96064133,96090253,2001-11-30 00:00:00,,"ENA--GTC terminated.  CP name changed and deal moved to new NG Energy Trading, L.L.C. MPSF."
+,,ENA,"Heartland Energy Services, Inc.",,GTC Pur Firm,96064310,96090253,2001-11-30 00:00:00,,"ENA--GTC terminated.  CP name changed and deal moved to new NG Energy Trading, L.L.C. MPSF."
+,,ENA,"Heartland Energy Services, Inc.",,GTC Pur Firm,96064410,,2001-11-30 00:00:00,,ENA--GTC terminated.  CP name changed and deal killed.
+,,ENA,"Heartland Energy Services, Inc.",,GTC Sale Firm,96067271,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,Kaiser Aluminum,,GTC Sale Firm,96086480,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96057146,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96060261,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063123,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063196,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063230,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063380,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063534,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96063535,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96076918,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96076946,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Pur Firm,96077329,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,"NG Energy Trading, L.L.C.",,GTC Sale Firm,96057147,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+2001-11-30 00:00:00,Termination,ENA,"NG Energy Trading, L.L.C.",,GTC Sale Firm,96060264,96090253,2001-11-30 00:00:00,,ENA--GTC terminated.  Deal moved to new MPSF.
+,,ENA,Oryx Gas Marketing Company,,GTC Sale Firm,96086636,,2001-11-30 00:00:00,,ENA--GTC terminated due to CP name change.
+,,ENA,The Brooklyn Union Gas Company,,Other,96079654,,2001-11-30 00:00:00,,ENA:  This Agreement has been Terminated due to duplication.  Global#  96000421
+,,ENA,Union Gas Limited,,GTC Pur Spot,96055455,,2001-11-30 00:00:00,,ENA: Terminated GTC due to duplication of another GTC Purchase Spot.

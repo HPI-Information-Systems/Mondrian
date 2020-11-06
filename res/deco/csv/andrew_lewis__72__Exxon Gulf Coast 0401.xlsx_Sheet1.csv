@@ -1,0 +1,15 @@
+BID,BID,NO,,,Gas Available,,,
+Apr01-Oct01,Apr01-Mar02,BID,Area,Location,MMBtu/d,Delivery Point Pipeline,Meter,Comments
+-0.0775,-0.08,,MIDCON,Reliant - Choctaw (CNG),1500,Amoco Pool-Reliant/NGPL/Transok/Enog,Pool,100% Wellhead Production
+-0.0675,-0.0675,,MIDCON,"NE Mayfield  (Beckham County, OK)",20000,ANR,63700101,"100% Wellhead Production, Exxon 2000/d call"
+-0.0775,-0.08,,MIDCON,Reliant - Blue Mountain (Duke FS),1000,Duke EFS Pool,Pool,100% Wellhead Production
+-0.14,-0.15,,MIDCON,"NE Mayfield  (Beckham County, OK)",20000,El Paso NG,3752,"100% Wellhead Production, Exxon 2000/d call"
+-0.1,-0.1,,MIDCON,"NE Mayfield  (Beckham County, OK)",20000,NGPL Midcontinent,5567,"100% Wellhead Production, Exxon 2000/d call"
+-0.1,-0.1,,MIDCON,NGPL - Federal 21 Com #1 (New Mex.),550,NGPL Midcontinent,3140,100% Wellhead Production
+-0.1,-0.1,,MIDCON,NGPL - Chitwood-Grady Well (Okla),400,NGPL Midcontinent,1458,100% Wellhead Production
+-0.1,-0.1,,MIDCON,"NGPL - Keathley 2-31 (Beckham Co., OK)",420,NGPL Midcontinent,37230,100% Wellhead Production
+-0.0475,-0.0675,,MIDCON,"NE Mayfield  (Beckham County, OK)",20000,Oneok Gas Transmission,,"100% Wellhead Production, Exxon 2000/d call"
+-0.1175,-0.12,,MIDCON,Reliant Field Services - North,5000,RFS North Pool,Pool,100% Wellhead Production
+-0.0775,-0.08,,MIDCON,Reliant Field Services - Flex,1600,Any RFS Pool (South preferred),Pool,100% Wellhead Production
+,,,MIDCON,"Misc Wellhead - Dewey Cty, OK",600,Wellhead Sales into GPM Gas Corp.,,100% Wellhead Production
+,,,MIDCON,Misc Wellhead - Arkansas Western,175,Wellhead Sales into Ark. Western Gathering,,100% Wellhead Production

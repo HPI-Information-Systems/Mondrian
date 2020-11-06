@@ -1,0 +1,59 @@
+Issues and Questions,,,,,,,
+Note - Blue shaded rows are closed questions/issues,,,,,,,
+"Issue
+#",Area,Status,Originator,Priority,Short Description,Action Owner,Status/Resolution
+1,EWS Origination and Structuring,Open,Accenture,,What is the timing / frequency of processes?,,
+2,EWS General,Open,Accenture,,"Deal/P&L/Curve - What is Online and what is on paper.   Also, Who sees what information?",,Traders see spreadsheets showing P&L
+3,EWS Trading and Position Management,Open,Accenture,,"Trader's interaction with EOL - what information is posted to EOL when, and how does the external counterparty respond",,
+4,EWS Origination and Structuring,Closed,Accenture,,"Which curve is used by Structuring, for calculating P&L, and for EOL - Bid, Offer, or Mid",,Risk uses Mids to value positions
+5,EWS Origination and Structuring,Open,Accenture,,What system is used by Origination (OMS is used by Retail - what is the wholesale equivalent),,
+6,EWS Trading and Position Management,Open,Accenture,,What is EOL architecture?,,
+7,EWS Origination and Structuring,Closed,Accenture,,"How does EES/EWS interface from a position perspective - Trading, Structuring, Origination, EOL.",,EES traders may optionally look to take positions with EWS books or EOL (like any other counterparty)
+8,Trading and Position Management,Open,Accenture,,Define Position - Volume Only or Dollars as well,,Both volumes and dollar/volume combinations are positions
+9,EWS Origination and Structuring,Open,Accenture,,What processes are manual and which are automated??,,
+10,EES Valuation and Risk Analysis,Open,Accenture,,How is the retail curve processing engine architected? - scalar or interval matrix,,
+11,EES Valuation and Risk Analysis,Open,Accenture,,Portcalc valuates only to 1 hr - is DOVE is more granular (e.g. 15 minutes for ERCOT)?,,
+12,EES Trading and Position Management,Open,Accenture,,How is dispatchable load handled?,,Int. Load. Book provides an option to traders for dispatchable load. Book exercises that option and informs ROC to schedule dispatch. ROC may work with EWS scheduling to schedule the dispatchable load with the RTO
+13,EES Origination and Structuring,Open,Accenture,,What activities does Deal Management perform versus Structuring?,,Deal management shepherds the overall deal and completes the data gathering activity
+14,EES Origination and Structuring,Open,Accenture,,Does OMS have both customer AND site data?,,
+15,EES Trading and Position Management,Open,Accenture,,Are site profiles standard or custom?,,Standard profiles are available however a customized baseline will be generate for each deal which will be the basis for the position taken by the book. The baseline could be updated on an on-going basis as actual consumption is gathered
+16,EES General,Open,Accenture,,What's the scope of DOVE vs Everest?,,Everest is the EES deal database where Dove is the retail valuation engine (to be used for variable load shape deals)
+17,EES Origination and Structuring,Open,Accenture,,How does Enron Direct enter deals?,,
+18,EES Origination and Structuring,Closed,Accenture,,Is outsourcing and mid-market the same Origination process?,,"Non-matrixed mid-market deals are follow a similar process as outsourcing deals (although with less iterations). Matrixed mid-market deals are pre-structured with prices for the matrix published daily. The same basic processing follows except for the timing of structuring and pricing (before deal initiation for matrix, during the deal for non-matrix)."
+19,EES ,Open,Accenture,,How is demand and asset mgt handled?,,"Interruptible load, and distributed generation, and site profile are all demand books which take demand risk positions for energy traders. Site profile takes volume risk, where IL: and DG sell options to the trader which can be exercised as required. The ROC controls assets based on trading instructions and the notifications associated with asset operations are passed to volume management where volumes and charges are allocated to the  IL, DG and profile books."
+20,EES Origination and Structuring,Open,Accenture,,How does Acct Mgt fit with Sales?,,Service Management is the contact with the customer and would work with sales during the deal development activity (particularly on an up-sell)
+21,EES Origination and Structuring,Closed,Accenture,,"How does Retail Ops (e.g., CSC) fit into retail sales process?",,EES Operations confirms that the existing business capabilities can support the operational requirements of new deals. The operations costs associated with CSC etc. are built into the curves used by the traders to price deals
+22,EWS Risk mgt,Open,Accenture,,What do hourly traders use to enter deals into EnPower?,,
+23,EWS Risk mgt,Open,Accenture,,What are the details of how historical valuation calcs are stored (Norman)?,,
+24,EWS Risk mgt,Open,Accenture,,"What is the architecture for EOL, Curve Mgr, Prior Day, and Curve Shift?",,
+25,EWS Risk mgt,Open,Accenture,,Who handles interest rates and currencies?,,
+26,EWS Risk mgt,Closed,Accenture,,What does risk integrate w/ settlements?,,"Risk provides the latest MTM report to settlement to be able to settle the books as positions are liquidated. If settlement finds an inconsistency between the latest MTM and the liquidated positions (flash to actual process), volume management will complete research and may work with risk to correct the situation (e.g., index may have be estimated on an earlier MTM)"
+27,EES Trading and Position Management,Closed,Accenture,,How is consumption risk handled?,,The Site Profile book takes a volume position for the deal based on an estimate of the future volume. The position is provided to the energy traders and used by them to offload the consumption risk from the positions. Volume management then allocated volumes and charges back to the various books and penalize/reward the site profile book based on the match between their position and the actual consumption.
+28,Trading and Position Management,Open,Accenture,,Is book an SAP profit center?,,It appears than SAP stores the overall east and west books as profit centers and the sub-books are allocated P&L based on the profile center results at this level
+29,EES General,Open,Accenture,,"What is EES technical solution in Dec 01, Jun 02?",,
+30,EES & EWS Volume Mgt Settlement,Closed,Accenture,,How does volume mgt/settlement work?,,"Settlement does invoicing, flash to actuals, netting, dispute initiation, customer checkout etc. in both EES and EWS. EWS settlement is related to wholesale counterparties where EES settlement is related to EES's large customers. 
+
+EES and EWS have similar volume mgt functions. EWS does charge estimation, shadow settlement for RTOs. EES does charge estimation and shadow settlement for EWS. EWS does allocations to counterparties and books (like EES). EES does allocations to customers and books. Both EES and EWS provide detailed volume information to process disputes (internal and external) generated through the settlement process. EES gathers and processes demand management notifications at the account/resource level (from ROC). EWS gathers notifications at the wholesale level from RTOs. "
+31,EES Volume Management through Invoicing,Closed,Accenture,,How does trading integrate with settlement at EES?,,Trading provides liquidation positions (after the day of flow) to settlement. These positions are settled by comparing to the latest MTM for the book.
+32,EES Volume Management through Invoicing,Open,Accenture,,How does Flash to Actual work at EES?,,Same as with EWS. Trading positions which are liquidated are compared to the latest MTM results to confirm any discrepancies
+33,EES Volume Management through Invoicing,Open,Accenture,,How is P&L allocated from actualized data at EES?,,"Volume management will generate a ""layered total consumption"" where each layer is allocated to the various volume books. This is used to support settlement of the various EES books."
+34,EES & EWS Volume Mgt Settlement,Closed,Accenture,,How are ancillary services actualized and allocated?,,Ancillary service charges are obtained by EWS from the ISO and volume management allocates those charges to EES. EES volume management will then allocate those charges to the appropriate customers/positions in the trading books.
+35,EES & EWS Volume Mgt Settlement,Open,Accenture,,Are multiple true-ups performed at EES?,,EWS will complete a true-up/settlement for  each true-up which occurs at the RTO. EES will do the same however they may not issue a new bill for every true-up.
+36,EES & EWS Volume Mgt Settlement,Closed,Accenture,,When is final final?,,"Final is when the final market information (RTO data, consumption information) is obtained."
+37,EES & EWS Volume Mgt Settlement,Open,Accenture,,How are retail and wholesale costs/volumes allocated?,,Retail volumes are included as short positions in the trading books and wholesale volumes are included as long positions. These are marked daily through the valuation process with additional volumes/charges allocated by volume management.
+38,EES & EWS Volume Mgt Settlement,Closed,Accenture,,Is imbalance treated like volume mgt adjustment?,,Yes - an imbalance will be incorporated as an adjustment to the trading book positions
+39,EES & EWS Volume Mgt Settlement,Closed,Accenture,,Do all liquidated positions flow through risk and trading?,,Liquidated positions come from trading to settlement. Risk provides the latest MTM fot the trading book (I.e. the value of the position on the day of liquidation)
+40,EES & EWS Volume Mgt Settlement,Open,Accenture,,"For Hub Trading, who schedules/books?",,"The EWS scheduler manages hub trading deals however they primarily deal with counterparties (to net, book out, manage the daisy chain etc.) rather than deal with a hub operator"
+41,EES & EWS Volume Mgt Settlement,Open,Accenture,,How does ROC interface with Wholesale Scheduling?,,ROC get instructions from EES traders and provides scheduling information to EWS schedulers who will interact with the RTO for dispatchable load (the ROC will actually control assets as well).
+42,Valuation and Risk Analysis,Open,Accenture,,Is VAR and Credit analysis already completed in an integrated EES /EWS fashion,,
+43,Valuation and Risk Analysis (EWS),Open,Accenture,,Why is full requirements valuation calculation too slow,,
+44,Valuation and Risk Analysis (EWS),Open,Accenture,,What is the issue associated with an inability to disaggregate gas deals,,
+45,General,Open,Accenture,,Where does retail bill calculation take place - in valuation as part of the MTM / in settlement?,,
+46,Valuation and Risk Analysis (EWS),Open,Accenture,,What is different between the flash report and the latest MTM from risk analysis,,
+47,Volume Management through Invoicing (EWS),Open,Accenture,,What is the issue with the interface between trading and settlement (why do we need reconciliation),,
+48,Volume Management through Invoicing (EWS),Open,Accenture,,Explain how flash to actual exceptions are handled (how difficult),,
+49,Volume Management through Invoicing (EWS),Open,Accenture,,"Are adjustments easily explained during checkout with counterparties (e.g., new deals from prior period adjustments which are invalid)",,
+50,,,,,,,
+51,,,,,,,
+52,,,,,,,
+53,,,,,,,

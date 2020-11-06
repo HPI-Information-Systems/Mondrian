@@ -1,0 +1,70 @@
+ProCaribe,,,,
+Division of The Protane Corporation,,,       LPG/C Victoire pricing calculation,
+,,,,
+ Description,,May,June,July
+ Revenue,,1061.4428571428573,1061.4428571428573,1065.0428571428572
+ COS,,965.9807969295312,965.9807969295312,965.9807969295312
+ Gross Margin,,95.46206021332614,95.46206021332614,99.06206021332605
+ LPG Volume,,1440,1440,1440
+ LPG - Selling Price,,0.7371130952380953,0.7371130952380953,0.7396130952380953
+ LPG - Margin,,0.06629309737036537,0.06629309737036537,0.0687930973703653
+,,,,
+,,    ASSUMPTIONS,,
+,,,,
+ LPG- Sales (Volume),,May,June,July
+ ProGas Co.,,1100,1100,1100
+ San Juan Gas,,210,210,210
+ Empire Gas,,0,0,0
+ Centro Gas,,130,130,130
+Total LPG-Propane (Gallons),,1440,1440,1440
+,,,,
+          Selling Price,,,,
+ ProGas Co.,,0.7302380952380952,0.7302380952380952,0.7327380952380952
+ San Juan Gas,,0.7402380952380953,0.7402380952380953,0.7427380952380952
+ Empire Gas,,0,0,0
+ Centro Gas,,0.7902380952380953,0.7902380952380953,0.7927380952380952
+,,,,
+ Mont Belvieu,,0.515,0.515,0.5175
+,,,,
+ Premium,,,,
+ ProGas Co.,,0.12,0.12,0.12
+ San Juan Gas,,0.13,0.13,0.13
+ Empire Gas,,0,0,0
+ Centro Gas,,0.18,0.18,0.18
+,,,,
+ Import Tax ($4.00/barrel),,0.09523809523809523,0.09523809523809523,0.09523809523809523
+,, , , 
+ Revenue Calculation ($ USD),,May,June,July
+  Progas Co,,803.2619047619048,803.2619047619048,806.0119047619047
+  San Juan Gas,,155.45,155.45,155.975
+  Empire Gas,,0,0,0
+  Centro Gas,,102.73095238095239,102.73095238095239,103.05595238095238
+ Total Revenue (US$),,1061.4428571428573,1061.4428571428573,1065.0428571428572
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+ProCaribe,,,,
+Division of The Protane Corporation,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Cost Calculation,,Gallons,Cost,Amount
+,,,,
+Beginning Balance as of 4-27-01,,795789,0.7124174875500918,566934
+Borrowing ,,,,
+ Reversing (April/01),,-1045120,-0.70524,-737060
+ Return,,1045120,0.67127,701557.7024000001
+,,,,
+Vessel Recived,,,,
+ LPG/C Victoire,,5291620,0.6712734455610948,3552123.99
+,,,,
+Average Cost of Sales,,6087409,0.67081999786773,4083555.6924
+,,,,
+Total COS,,965.9807969295312,965.9807969295312,965.9807969295312

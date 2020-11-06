@@ -1,0 +1,653 @@
+LINE,Mile Point ,Description,Sample Date,Sample Type,Result (All results as Aroclor 1016 unless otherwise noted),Comments
+300 A,116.48 A,Pisgah,,None,,Tap not inspected or sampled
+300 A,130.37 A,PLS 2XA Insertion Meter,2000-02-16 00:00:00,Wipe,ND <0.7 ug/100cm2,
+300 A,131.94 A,Newberry Springs Community Tap,2000-02-09 00:00:00,Wipe,ND <1ug/wipe,Removed primary regulator; opened it and obtained wipe sample - non quantitative
+300 A,134.00 A,Southwest Gas (Martino),,None,,Tap not inspected or sampled
+300 A,135.98 A,Southwest Gas (Masimini),,None,,Tap not inspected or sampled
+300 A,137.00 A,Southwest Gas,,None,,Tap not inspected or sampled
+300 A,137.50 A,Southwest Gas,,None,,Tap not inspected or sampled
+300 A,141.03 A,Lucerne Valley - Main #313 XA,2000-02-11 00:00:00,None,,Sample taps located immediately upstream and downstream of orifice plate. Both taps were dry.
+300 A,147.91 A,Barstow B Meter,2000-02-11 00:00:00,Liquid,11 ppm,
+300 A,147.91 A,Barstow B Meter,2000-02-28 00:00:00,Liquid,,Insufficient Sample
+300 A,147.91 A,Barstow B Meter,2000-03-10 00:00:00,Liquid,16 ppm,
+300 A,147.91 A,Barstow B Meter,2000-03-21 00:00:00,Liquid,13 ppm,
+300 A,147.91 A,Barstow B Meter,2000-04-05 00:00:00,Liquid,18 ppm,
+300 A,147.91 A,Barstow B Meter,2000-04-19 00:00:00,Liquid,10 ppm,
+300 A,147.91 A,Barstow B Meter,2000-05-01 00:00:00,Liquid,11 ppm,
+300 A,147.91 A,Barstow B Meter,2000-05-14 00:00:00,Liquid,18 ppm,
+300 A,147.91 A,Barstow B Meter,2000-05-30 00:00:00,Liquid,11 ppm,
+300 A,147.91 A,Barstow B Meter,2000-06-14 00:00:00,Liquid,24 ppm ,
+300 A,147.91 A,Barstow B Meter,2000-06-30 00:00:00,Liquid,25 ppm,
+300 A,147.91 A,Barstow B Meter,2000-07-29 00:00:00,Liquid,8 ppm,
+300 A,147.91 A,Barstow B Meter,2000-08-18 00:00:00,Liquid,10 ppm,
+300 A,147.91 A,Barstow B Meter,2000-09-05 00:00:00,Liquid,14 ppm,<10 mls
+300 A,147.91 A,Barstow B Meter,2000-09-19 00:00:00,Liquid,15 ppm,<10 mls (trace)
+300 A,147.91 A,Barstow B Meter,2000-12-18 00:00:00,Liquid,18 ppm,~10 mls (trace)
+300 A,151.05 A,"Barstow ""A"" Filter",2000-02-17 00:00:00,Liquid ,6 ppm,
+300 A,151.05 A,"Barstow ""A"" Filter",2000-02-28 00:00:00,Liquid ,13 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-03-10 00:00:00,Liquid,15 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-03-21 00:00:00,Liquid,15 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-04-05 00:00:00,Liquid,22 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-04-18 00:00:00,Liquid,11 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-05-01 00:00:00,Liquid,7 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-05-14 00:00:00,Liquid,26 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-05-30 00:00:00,Liquid,10 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-06-14 00:00:00,Liquid,18 ppm,
+300 A,151.06 A,"Barstow ""A"" Filter",2000-11-20 00:00:00,Liquid,23 ppm,~ 45 mls
+300 A,151.06 A,"Barstow ""A"" Filter",2000-12-18 00:00:00,Liquid,18 ppm,~ 260 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-02-17 00:00:00,Liquid,9 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-02-28 00:00:00,Liquid,20 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-03-10 00:00:00,Liquid,16 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-03-21 00:00:00,Liquid,15 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-04-05 00:00:00,Liquid,18 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-04-18 00:00:00,Liquid,8 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-05-01 00:00:00,Liquid,17 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-05-14 00:00:00,Liquid,33 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-05-30 00:00:00,Liquid,5 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-06-14 00:00:00,Liquid,17 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-06-30 00:00:00,Liquid,15 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-07-29 00:00:00,Liquid,16 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-08-10 00:00:00,Liquid,1 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-08-16 00:00:00,Liquid,2 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-08-18 00:00:00,Liquid,9 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-08-24 00:00:00,Liquid,3 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-08-30 00:00:00,Liquid,4 ppm,
+300 A,151.06 A,"Barstow ""A"" Meter",2000-09-05 00:00:00,Liquid,15 ppm,< 10 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-09-19 00:00:00,Liquid,14 ppm,~ 20 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-10-02 00:00:00,Liquid,13 ppm,~ 20 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-10-16 00:00:00,Liquid,13 ppm,~ 20 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-10-26 00:00:00,Liquid,8 ppm,~ 5 mls
+300 A,151.06 A,"Barstow ""A"" Meter",2000-11-20 00:00:00,Liquid,15 ppm,~ 25 mls (sample recv'd. brkn.)
+300 A,151.06 A,"Barstow ""A"" Meter",2000-12-18 00:00:00,Liquid,14 ppm,~ 25 mls (sample recv'd. brkn.)
+300 A,151.06 A,"Barstow ""A"" Meter",2001-01-23 00:00:00,Liquid,20 ppm as Aroclor 1242,~ 30 mls (sample recv'd. brkn.)
+300 A,154.70 A,"Barstow ""D"" Meter",2000-02-18 00:00:00,Liquid,38 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-02-28 00:00:00,Liquid,39 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-03-10 00:00:00,Liquid,34 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-03-21 00:00:00,Liquid,45 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-04-05 00:00:00,Liquid,29 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-04-18 00:00:00,Liquid,27 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-05-01 00:00:00,Liquid,28 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-05-14 00:00:00,Liquid,33 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-05-25 00:00:00,Liquid,19 ppm ,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-06-14 00:00:00,Liquid,33 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-06-30 00:00:00,Liquid,22 ppm,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-07-29 00:00:00,None,,
+300 A,154.70 A,"Barstow ""D"" Meter",2000-09-19 00:00:00,Liquid,30 ppm,20 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-10-02 00:00:00,Liquid,31 ppm,20 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-10-16 00:00:00,Liquid,34 ppm,20 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-10-26 00:00:00,Liquid,38 ppm,~10 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-11-20 00:00:00,Liquid,44 ppm,~20 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-12-18 00:00:00,Liquid,30 ppm as Aroclor 1242,~25 mls
+300 A,154.70 A,"Barstow ""D"" Meter",2000-12-18 00:00:00,Liquid,,Sample container received broken - no analysis
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-02-11 00:00:00,Liquid,ND < 1 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-02-28 00:00:00,Liquid,,Insufficient Sample
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-03-21 00:00:00,Liquid,0.45,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-04-05 00:00:00,Liquid,< 1 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-07-29 00:00:00,None,,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-08-10 00:00:00,Liquid,3 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-08-16 00:00:00,Liquid,2 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-08-24 00:00:00,Liquid,3 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-08-30 00:00:00,Liquid,2 ppm,
+300 A,154.70 A,"Barstow ""D"" East Filter",2000-09-07 00:00:00,Liquid,2 ppm,
+300 A,159.33 A,Emergency Fuel,,None,,Tap not inspected or sampled
+300 A,159.33 A,"Hinkley, K-11 Crankcase",2000-05-01 00:00:00,Liquid,ND < 1 ppm,
+300 A,159.33 A,"Hinkley, K-11 Compressor",2000-05-01 00:00:00,Liquid,6 ppm,
+300 A,159.33 A,"Hinkley Compressor Station 300A Suction Drip, Inlet 211",2000-01-27 00:00:00,Liquid,4 ppm,
+300 A,159.33 A,"Hinkley Compressor Station 300A Suction Drip, Inlet 211",2000-02-10 00:00:00,Liquid,3 ppm,Black; liquid obtained. Drip was emptied after sample was obtained Sample tap was plugged and was replaced with metric valve. 
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-02-25 00:00:00,Liquid,7 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-03-09 00:00:00,Liquid,8 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-04-06 00:00:00,Liquid,7 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-05-01 00:00:00,Liquid,10 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-05-14 00:00:00,Liquid,15 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-05-14 00:00:00,Liquid,15 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-05-30 00:00:00,Liquid,6 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-06-30 00:00:00,Liquid,9 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-07-29 00:00:00,Liquid,9 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-09-18 00:00:00,Liquid,14 ppm,~ 40 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-10-02 00:00:00,Liquid,21 ppm,~ 40 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-10-27 00:00:00,Liquid,19 ppm ,~10 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2000-12-19 00:00:00,Liquid,18 ppm as Aroclor 1242,~20 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-211,2001-01-23 00:00:00,Liquid,16 ppm,~20 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-05-01 00:00:00,Liquid,7 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-08-10 00:00:00,Liquid,2 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-08-16 00:00:00,Liquid,3 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-08-24 00:00:00,Liquid,2 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-08-30 00:00:00,Liquid,3 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-09-07 00:00:00,Liquid,2 ppm,
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-10-02 00:00:00,Liquid,13 ppm,~30 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-10-16 00:00:00,Liquid,19 ppm ,~10 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-11-20 00:00:00,Liquid,12 ppm,~20 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2000-12-19 00:00:00,Liquid,12 ppm as Aroclor 1242,~40 mls
+300 A,159.33 A,Hinkley Compressor Station A Inlet Drip V-212,2001-01-23 00:00:00,Liquid,13 ppm as Aroclor 1242,~40 mls
+300 A,160.00 A,Southwest Gas 3 Customers (Neirmeirer - McCormack),,None,,Tap not inspected or sampled
+300 A,161.93 A,A Line Drip,2000-02-10 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-02-24 00:00:00,Liquid,2 ppm,
+300 A,161.93 A,A Line Drip,2000-03-09 00:00:00,Liquid,ND < 1 ppm,
+300 A,161.93 A,A Line Drip,2000-03-23 00:00:00,Liquid,ND < 1 ppm,
+300 A,161.93 A,A Line Drip,2000-04-06 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-04-19 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-05-01 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-05-14 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-06-01 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-06-14 00:00:00,Liquid,1 ppm,
+300 A,161.93 A,A Line Drip,2000-06-30 00:00:00,Liquid,<1 ppm,
+300 A,161.93 A,A Line Drip,2000-07-23 00:00:00,None,,
+300 A,161.93 A,A Line Drip,2000-07-29 00:00:00,Liquid,"1.7 ppm as Aroclor 1016, 0.5 ppm as Aroclor 1260",
+300 A,161.93 A,A Line Drip,2000-09-06 00:00:00,Liquid,1 ppm,~40 mls
+300 A,161.93 A,A Line Drip,2000-09-18 00:00:00,Liquid,2 ppm,~20 mls
+300 A,161.93 A,A Line Drip,2000-10-03 00:00:00,Liquid,2 ppm,~10 mls
+300 A,161.93 A,A Line Drip,2000-10-16 00:00:00,Liquid,2 ppm,<10 mls
+300 A,161.93 A,A Line Drip,2000-10-27 00:00:00,Liquid,3 ppm,~10 mls
+300 A,161.93 A,A Line Drip,2000-11-21 00:00:00,Liquid,3 ppm,<10 mls (sample contr. recv'd. broken)
+300 A,161.93 A,A Line Drip,2000-12-19 00:00:00,Liquid,3 ppm as Aroclor 1242,~20 mls
+300 A,161.93 A,A Line Drip,2001-01-23 00:00:00,Liquid,3 ppm as Aroclor 1242,~20 mls
+300 A,164.71 A,A Line Drip,2000-02-10 00:00:00,Liquid,<1,
+300 A,164.71 A,A Line Drip,2000-02-24 00:00:00,Liquid,5 ppm,
+300 A,164.71 A,A Line Drip,2000-03-09 00:00:00,Liquid,<1 ppm,
+300 A,164.71 A,A Line Drip,2000-03-28 00:00:00,Liquid,<1 ppm,
+300 A,164.71 A,A Line Drip,2000-04-06 00:00:00,Liquid,<1 ppm,
+300 A,164.71 A,A Line Drip,2000-04-19 00:00:00,Liquid,< 1 ppm,
+300 A,164.71 A,A Line Drip,2000-05-14 00:00:00,Liquid,< 1 ppm,
+300 A,164.71 A,A Line Drip,2000-06-01 00:00:00,Liquid,< 1 ppm,
+300 A,164.71 A,A Line Drip,2000-06-15 00:00:00,Liquid,1 ppm,
+300 A,164.71 A,A Line Drip,2000-06-30 00:00:00,Liquid,1 ppm,
+300 A,164.71 A,A Line Drip,2000-07-23 00:00:00,None,,
+300 A,164.71 A,A Line Drip,2000-07-29 00:00:00,Liquid,1 ppm,
+300 A,164.71 A,A Line Drip,2000-08-21 00:00:00,Liquid,1 ppm,
+300 A,164.71 A,A Line Drip,2000-09-06 00:00:00,Liquid,1 ppm,~ 20 mls
+300 A,164.71 A,A Line Drip,2000-09-18 00:00:00,Liquid,1 ppm,~ 40 mls
+300 A,164.71 A,A Line Drip,2000-10-03 00:00:00,Liquid,1 ppm,~ 50 mls
+300 A,164.71 A,A Line Drip,2000-10-16 00:00:00,Liquid,1 ppm,~ 30 mls
+300 A,164.71 A,A Line Drip,2000-10-27 00:00:00,Liquid,1 ppm,~ 20 mls
+300 A,164.71 A,A Line Drip,2000-11-21 00:00:00,Liquid,1 ppm,~ 20 mls
+300 A,164.71 A,A Line Drip,2000-12-19 00:00:00,Liquid,2 ppm as Aroclor 1242,~ 30 mls
+300 A,167.37 A,A Line Drip,2000-02-10 00:00:00,Liquid,<1 ppm,
+300 A,167.37 A,A Line Drip,2000-02-24 00:00:00,Liquid,6 ppm,
+300 A,167.37 A,A Line Drip,2000-03-09 00:00:00,Liquid,<1 ppm,
+300 A,167.37 A,A Line Drip,2000-03-23 00:00:00,Liquid,ND < 1 ppm,
+300 A,167.37 A,A Line Drip,2000-04-06 00:00:00,Liquid,< 1 ppm,
+300 A,167.37 A,A Line Drip,2000-04-19 00:00:00,Liquid,1 ppm,
+300 A,167.37 A,A Line Drip,2000-05-01 00:00:00,Liquid,< 1 ppm,
+300 A,167.37 A,A Line Drip,2000-05-14 00:00:00,Liquid,< 1 ppm,
+300 A,167.37 A,A Line Drip,2000-06-01 00:00:00,Liquid,< 1 ppm,
+300 A,167.37 A,A Line Drip,2000-06-16 00:00:00,Liquid,< 1 ppm,
+300 A,167.37 A,A Line Drip,2000-06-30 00:00:00,Liquid,1 ppm,
+300 A,167.37 A,A Line Drip,2000-07-29 00:00:00,Liquid,1 ppm,
+300 A,167.37 A,A Line Drip,2000-08-21 00:00:00,Liquid,1 ppm,
+300 A,167.37 A,A Line Drip,2000-09-06 00:00:00,Liquid,1 ppm,~20 mls
+300 A,167.37 A,A Line Drip,2000-09-18 00:00:00,Liquid,1 ppm,~20 mls
+300 A,167.37 A,A Line Drip,2000-10-03 00:00:00,Liquid,3 ppm,~50 mls
+300 A,167.37 A,A Line Drip,2000-10-27 00:00:00,Liquid,2 ppm,~20 mls
+300 A,167.37 A,A Line Drip,2000-11-21 00:00:00,Liquid,3 ppm,~20 mls
+300 A,167.37 A,A Line Drip,2001-01-22 00:00:00,Liquid,3 ppm as Aroclor 1242,~10 mls
+300 A,170.61 A,A Line Drip,2000-04-06 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-04-19 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-05-14 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-06-01 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-06-15 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-06-30 00:00:00,Liquid,ND < 1ppm,
+300 A,170.61 A,A Line Drip,2000-07-23 00:00:00,None,,
+300 A,170.61 A,A Line Drip,2000-08-21 00:00:00,Liquid,1 ppm,
+300 A,170.61 A,A Line Drip,2000-09-06 00:00:00,Liquid,<1 ppm,~10 mls
+300 A,170.61 A,A Line Drip,2000-09-19 00:00:00,Liquid,<1 ppm,<10 mls (trace)
+300 A,170.61 A,A Line Drip,2000-10-03 00:00:00,Liquid,<1 ppm,<10 mls (trace)
+300 A,170.61 A,A Line Drip,2000-10-27 00:00:00,Liquid,18 ppm,~20 mls (trace)
+300 A,170.61 A,A Line Drip,2000-12-19 00:00:00,Liquid,< 1 ppm,~20 mls (trace)
+300 A,170.61 A,A Line Drip,2001-01-23 00:00:00,Liquid,3 ppm as Aroclor 1242,~15 mls \
+300 A,170.62 A,Line 300 A Drip at Victorville Tap,2000-02-10 00:00:00,None,,No liquids in drip
+300 A,175.49 A,Line 300 A Drip,2000-02-10 00:00:00,Liquid,ND < 1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-02-24 00:00:00,Liquid,7 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-03-09 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-04-06 00:00:00,Liquid,< 1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-04-19 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-05-14 00:00:00,Liquid,< 1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-06-01 00:00:00,Liquid,< 1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-06-15 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-06-29 00:00:00,None,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-06-30 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-07-23 00:00:00,Liquid ,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-07-29 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-08-10 00:00:00,Liquid,2 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-08-16 00:00:00,Liquid,2 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-08-21 00:00:00,Liquid,1 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-08-24 00:00:00,Liquid,2 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-08-30 00:00:00,Liquid,2 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-09-06 00:00:00,Liquid,2 ppm,~20 mls
+300 A,175.49 A,Line 300 A Drip,2000-09-07 00:00:00,Liquid,2 ppm,
+300 A,175.49 A,Line 300 A Drip,2000-09-19 00:00:00,Liquid,3 ppm,~20 mls
+300 A,175.49 A,Line 300 A Drip,2000-10-03 00:00:00,Liquid,3 ppm,~50 mls
+300 A,175.49 A,Line 300 A Drip,2000-10-16 00:00:00,Liquid,2 ppm,~20 mls
+300 A,175.49 A,Line 300 A Drip,2000-11-21 00:00:00,Liquid,2 ppm,~20 mls
+300 A,175.49 A,Line 300 A Drip,2000-12-19 00:00:00,Liquid,2 ppm as Aroclor 1242,~10 mls
+300 A,180.64 A,Trona - Main # 311 X,2000-02-10 00:00:00,None,,No liquids in filter (east filter tap)
+300 A,181.79 A,Kramer Junction (4 Corners),2000-02-10 00:00:00,Liquid,4 ppm,Second Stage sample point - good liquid sample obtained
+300 A,181.79 A,Kramer Junction (4 Corners),2000-02-24 00:00:00,Liquid,5 ppm,Second stage Regulator
+300 A,181.79 A,Kramer Junction (4 Corners),2000-03-08 00:00:00,Liquid,7 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-03-21 00:00:00,Liquid,26 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-04-05 00:00:00,Liquid,11 ppm,Regulator Pit
+300 A,181.79 A,Kramer Junction (4 Corners),2000-04-18 00:00:00,Liquid,6 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-05-03 00:00:00,Liquid,12 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-05-15 00:00:00,Liquid,14 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-05-30 00:00:00,Liquid,26 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-07-25 00:00:00,None,,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-08-10 00:00:00,Liquid,8 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-08-21 00:00:00,None,,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-08-24 00:00:00,Liquid,4 ppm,
+300 A,181.79 A,Kramer Junction (4 Corners),2000-09-06 00:00:00,Liquid,9 ppm,<10 mls
+300 A,181.79 A,Kramer Junction (4 Corners),2000-09-19 00:00:00,None,,Dry
+300 A,181.79 A,Kramer Junction (4 Corners),2000-10-04 00:00:00,None,,Dry
+300 A,181.79 A,Kramer Junction (4 Corners),2000-11-03 00:00:00,None,,Dry
+300 A,181.79 A,Kramer Junction (4 Corners),2000-12-05 00:00:00,None,,Dry
+300 A,181.79 A,Kramer Junction (4 Corners),2001-01-03 00:00:00,None,,Dry
+300 A,181.79 A,Kramer Junction (4 Corners),2001-02-02 00:00:00,Liquid,20 ppm as Aroclor 1242,< 10 mls
+300 A,188.06 A,Boron Town Site,,None,,Tap not inspected or sampled
+300 A,188.06 A,Boron Town Site,2000-06-01 00:00:00,Liquid,1 ppm,
+300 A,191.09 A,"US Borax and Chem. Co.,       Hal B Hayes",,None,,Tap not inspected or sampled
+300 A,197.63 A,North Edwards - Red Barn,2000-02-10 00:00:00,None,,Didn't sample
+300 A,200.97 A,Clay Mine Road (Muroc Motel),2000-02-10 00:00:00,None,,Didn't sample
+300 A,203.01 A,PLS 3A Insertion Meter,2000-02-16 00:00:00,Wipe,ND <0.7 ug/100cm2,
+300 A,203.02 A,"Edwards AFB, from PLS #3, elbow",2000-02-10 00:00:00,Wipe,1.3 ug/wipe,East Run - Two Wipe samples taken (semi-quantitative)
+300 A,203.02 A,"Edwards AFB, from PLS #3, elbow",2000-08-10 00:00:00,Wipe,3 ppm,
+300 A,203.02 A,"Edwards AFB, from PLS #3, valve",2000-02-10 00:00:00,Wipe,< 1ug/wipe,East Run - Two Wipe samples taken (semi-quantitative)
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-03-22 00:00:00,Wipe,"2 ug /wipe as Aroclor 1016, 1 ug/wipe as Aroclor 1254",
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-04-04 00:00:00,Wipe,"0.8 ug /wipe as Aroclor 1016, 0.8 ug/wipe as Aroclor 1254",
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-05-15 00:00:00,Liquid,1 ppm,
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-06-01 00:00:00,Liquid,8 ppm,
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-06-13 00:00:00,Liquid,3 ppm,
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-07-24 00:00:00,Liquid,"2.6 ppm as Aroclor 1016, 0.6 ppm as Aroclor 1260",< 10 mls
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-08-07 00:00:00,Liquid,,
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-08-22 00:00:00,Liquid,"2 ppm as Aroclor 1016, 1 ppm as Aroclor 1254",< 10 mls liquid
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-09-06 00:00:00,Liquid,"2 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",< 10 mls
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-09-19 00:00:00,Liquid,2 ppm,< 10 mls
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-10-03 00:00:00,Liquid,19 ppm,< 10 mls
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2000-11-03 00:00:00,Liquid,<1 ppm,< 10 mls?
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2001-01-02 00:00:00,Liquid,"1 ppm as Aroclor 1242, 0.7ppm as Aroclor 1254",< 10 mls
+300 A,203.02 A,"Edwards AFB, Industrial Meter Set",2001-02-02 00:00:00,Liquid,2 ppm as Aroclor 1242,< 10 mls
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-03-22 00:00:00,Liquid,< 1 ppm,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-04-04 00:00:00,Liquid,< 1 ppm,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-04-19 00:00:00,Liquid,ND < 1 ppm,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-05-04 00:00:00,Liquid,ND < 1 ppm,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-05-15 00:00:00,Liquid,,Insufficient Sample
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-06-01 00:00:00,Liquid,,Insufficient Sample
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-06-13 00:00:00,Liquid,ND < 1 ppm,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-06-27 00:00:00,Liquid,,Insufficient Sample
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-07-24 00:00:00,None,,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-08-21 00:00:00,None,,
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-09-06 00:00:00,Liquid,,"Insuffient sample, <10 mls"
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-09-19 00:00:00,None,,no liquid
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-10-03 00:00:00,None,,no liquid
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-11-03 00:00:00,Liquid,ND < 1ppm,<10 mls
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2000-12-01 00:00:00,Liquid,"1 ppm as Aroclor 1016, < 1ppm, as Aroclor 1254",<10 mls
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2001-01-02 00:00:00,Liquid,ND < 1 ppm,<10 mls
+300 A,203.02 A,"Edwards AFB, Housing Meter Set ",2001-02-02 00:00:00,Liquid,ND < 5 ppm,<10 mls
+300 A,210.47 A,All American Pipeline Filter,2000-02-29 00:00:00,Liquid,< 1 ppm,Sample from filter (Site shut-in as of 4/00)
+300 A,210.47 A,All American Pipeline Filter,2000-02-29 00:00:00,Liquid,1 ppm,Additional sample obtained from filter (Site shut-in as of 4/00)
+300 A,218.73 A,"Mojave Meter and Reg Station, So. Cal Gas",,None,,Tap not inspected or sampled
+300 A,225.57 A,California Portland Cement,2000-02-24 00:00:00,Liquid,ND < 1ppm,Sample from Old Orifice meter (Left)
+300 A,225.57 A,California Portland Cement,2000-05-15 00:00:00,Liquid,1 ppm,Tap meter
+300 A,225.57 A,California Portland Cement,2000-06-10 00:00:00,Liquid,1 ppm,Tap meter
+300 A,225.57 A,California Portland Cement,2000-06-26 00:00:00,Liquid,1 ppm,Tap meter
+300 A,225.57 A,California Portland Cement,2000-07-24 00:00:00,Liquid,2 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-08-07 00:00:00,Liquid,2 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-08-21 00:00:00,Liquid,8 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-09-18 00:00:00,Liquid,2 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-10-02 00:00:00,Liquid,2 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-10-30 00:00:00,Liquid,1 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2000-12-01 00:00:00,Liquid,2 ppm,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2001-01-02 00:00:00,Liquid,2 ppm as Aroclor 1242,"Tap meter, < 10 mls"
+300 A,225.57 A,California Portland Cement,2001-02-02 00:00:00,Liquid,2 ppm as Aroclor 1242,"Tap meter, < 10 mls"
+300 A,225.91 A,California Portland Cement,2000-02-24 00:00:00,Wipe, < 1 ug/100cm2,Wipe sample from bottom of meter
+300 A,225.91 A,California Portland Cement,2000-04-05 00:00:00,Liquid,ND < 1 ppm,"Primary, downstream"
+300 A,225.91 A,California Portland Cement,2000-05-04 00:00:00,Liquid,ND < 1 ppm,"Primary, downstream"
+300 A,225.91 A,California Portland Cement,2000-10-02 00:00:00,Liquid,4 ppm as Aroclor 1260,"12 GT Meter, sample taken downstream"
+300 A,225.91 A,California Portland Cement,2000-10-02 00:00:00,Liquid,4 ppm as Aroclor 1260,"12 GT Meter, sample taken downstream"
+300 A,225.91 A,California Portland Cement Meter,2000-04-19 00:00:00,Liquid,ND < 1ppm,
+300 A,225.91 A,California Portland Cement Meter,2000-05-15 00:00:00,Liquid,,Insufficient Sample
+300 A,225.91 A,California Portland Cement Meter,2000-06-10 00:00:00,Liquid,1 ppm,
+300 A,225.91 A,California Portland Cement Meter,2000-07-24 00:00:00,None,,
+300 A,225.91 A,California Portland Cement Meter,2000-08-21 00:00:00,None,,
+300 A,225.91 A,California Portland Cement Meter,2000-09-05 00:00:00,Liquid,1 ppm,<10 mls
+300 A,225.91 A,California Portland Cement Meter,2000-09-18 00:00:00,None,,no liquid
+300 A,225.91 A,California Portland Cement Meter,2000-10-02 00:00:00,None,,no liquid
+300 A,225.91 A,California Portland Cement Meter,2001-01-02 00:00:00,None,,no liquid
+300 A,116.28 B,P.L.G. X-tie (Pisgah),,None,,Tap not inspected or sampled
+300 B,129.92 B,"John R. Mason, Newberry (Customer meter)",2000-02-09 00:00:00,None,,No liquid; no wipe
+300 B,129.92 B,"John R. Mason, Newberry (TAP)",2000-02-09 00:00:00,None,,No acceptable sampling point
+300 B,130.38 B,Line 300 B insertion meter,2000-02-11 00:00:00,Wipe,ND < 0.7 ug/100cm2,Pulled insertion meter; measured exterior surface area (not including turbine wheel); took wipe sample of measured area
+300 B,130.38 B,PLS 2XA Mist Extractor,2000-04-12 00:00:00,Liquid,ND <1ppm,
+300 B,131.37 B,RHEOX Chem. Co.,2000-02-08 00:00:00,Liquid,6 ppm         ,"Sample obtained from filter, downstream of regulator. Black thick liquid obtained  Good taps before and after meter available for sampling."
+300 B,131.37 B,RHEOX Chem. Co.,2000-02-24 00:00:00,Liquid,14 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-03-09 00:00:00,Liquid,10 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-03-21 00:00:00,Liquid,17 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-04-05 00:00:00,Liquid,13 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-04-17 00:00:00,Liquid,13 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-04-17 00:00:00,Liquid,ND < 1ppm,Meter Separator
+300 B,131.37 B,RHEOX Chem. Co.,2000-05-03 00:00:00,Liquid,35 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-05-16 00:00:00,Liquid,12 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-05-30 00:00:00,Liquid,12 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-06-13 00:00:00,Liquid,12 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-06-27 00:00:00,Liquid,12 ppm,"Meter Set, Filter"
+300 B,131.37 B,RHEOX Chem. Co.,2000-07-25 00:00:00,Liquid,10 ppm,"Meter Set, Filter, < 10 mls"
+300 B,131.37 B,RHEOX Chem. Co.,2000-08-22 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2000-09-19 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2000-10-03 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2000-10-03 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2000-12-05 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2001-01-03 00:00:00,None,,no liquid - new filter separator installed
+300 B,131.37 B,RHEOX Chem. Co.,2001-02-05 00:00:00,Liquid,22 ppm as Aroclor 1242,< 10 mls from separator
+300 B,131.37 B,"Interto Co. Newberry, (American Transel Co.)",,None,,Tap not inspected or sampled - Line Abandoned
+300 B,135.65 B,Southwest Gas Corp. (Cirano Farm),,None,,Tap not inspected or sampled 
+300 B,137.55 B,"SWG, Daggett Airport Tap",2000-02-11 00:00:00,None,,Sample tap available from bottom of filter - No liquids were found.
+300 B,138.67 B,Hell's Acre Ranch,,None,,"Tap not inspected or sampled - Service Tee and Valve only. Southwest Gas to furnish meter, etc. "
+300 B,140.00 B,Kern River Daggett Intertie,2000-02-10 00:00:00,None,,No liquid  from #7 Bypass valve next to filter separator. Separator is shut-in.
+300 B,140.65 B,SEGS 1 Meter Set,2000-02-08 00:00:00,Wipe,< 1ug/100cm2,Wipe taken from 2 inches inside meter casing  on inlet side
+300 B,140.65 B,SEGS 1 Meter Set,2000-02-08 00:00:00,Liquid,6 ppm       ,Small amount of clear liquid present at bottom of meter.
+300 B,140.65 B,SEGS 1 Meter Set,2000-02-23 00:00:00,Liquid,2 ppm,
+300 B,140.65 B,SEGS 1 Meter Set,2000-03-21 00:00:00,Liquid,4 ppm,
+300 B,140.65 B,SEGS 1 Meter Set,2000-04-05 00:00:00,Liquid,6 ppm,
+300 B,140.65 B,SEGS 1 Meter Set,2000-04-17 00:00:00,Liquid,4 ppm,
+300 B,140.65 B,SEGS 1 Meter Set,2000-05-03 00:00:00,Liquid,5 ppm,
+,140.65 B,SEGS 1 Meter Set,2000-06-13 00:00:00,Liquid,6 ppm,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-02-08 00:00:00,Wipe,< 1ug/100cm2 ,Wipe sample taken from East filter only filter was degraded 
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-03-09 00:00:00,Liquid,2 ppm,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-06-13 00:00:00,Liquid,6 ppm,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-06-27 00:00:00,Liquid,5 ppm,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-07-25 00:00:00,None,,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-08-21 00:00:00,None,,
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-09-19 00:00:00,None,,Dry
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-10-03 00:00:00,None,,Dry
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-11-03 00:00:00,None,,Dry
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2000-12-05 00:00:00,None,,Dry
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2001-01-03 00:00:00,Liquid,5 ppm,< 10 mls
+300 B,140.65 B,SEGS 1 Primary drip Pot ,2001-02-05 00:00:00,Liquid,9 ppm as Aroclor 1016,< 10 mls
+300 B,140.91 B,"SWG,  Daggett",2000-02-10 00:00:00,None,,Sample tap available from bottom of filter - No liquids were found.
+300 B,159.33 B,"Hinkley Compressor Station K-7, B Outlet",2000-02-15 00:00:00,Liquid,ND < 1 ppm,
+300 B,159.33 B,"Hinkley Compressor Station K-7, B Outlet",2000-02-15 00:00:00,Wipe,< 1ug/wipe,
+300 B,159.33 B,"Hinkley Compressor Station K-7, B Inlet",2000-02-15 00:00:00,Liquid,1 ppm,
+300 B,159.33 B,Hinkley Compressor Station 300B Suction Drip,2000-01-27 00:00:00,Liquid,4 ppm,
+300 B,159.33 B,Hinkley Compressor Station 300B Suction Drip,2000-02-10 00:00:00,Liquid,4 ppm,Black liquid obtained. Drip was emptied after sample was obtained 
+300 B,159.33 B,Hinkley Compressor Station B        V-211 Inlet Drip,2000-04-20 00:00:00,Liquid,11 ppm,
+300 B,159.33 B,Hinkley Compressor Station B        V-211 Inlet Drip,2000-05-02 00:00:00,Liquid,10 ppm,
+300 B,159.33 B,Hinkley Compressor Station B        V-211 Inlet Drip,2000-06-15 00:00:00,Liquid,8 ppm,
+300 B,159.33 B,Hinkley Compressor Station B        V-211 Inlet Drip,2000-08-18 00:00:00,Liquid,9 ppm,
+300 B,159.33 B,Hinkley Compressor Station B        V-211 Inlet Drip,2000-09-05 00:00:00,Liquid,12 ppm,50 mls
+300 B,161.02 B,Hinkley Compressor Station B        V-212 Inlet Drip,2000-02-25 00:00:00,Liquid,7 ppm,
+300 B,161.02 B,Hinkley Compressor Station B        V-212 Inlet Drip,2000-03-09 00:00:00,Liquid,8 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-03-23 00:00:00,Liquid,12 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-04-06 00:00:00,Liquid,7 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-04-20 00:00:00,Liquid,7 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-05-01 00:00:00,Liquid,7 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-05-14 00:00:00,Liquid,11 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-05-30 00:00:00,Liquid,7 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-06-15 00:00:00,Liquid,8 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-06-30 00:00:00,Liquid,8 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-08-18 00:00:00,Liquid,9 ppm,
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-08-18 00:00:00,Liquid,10 ppm,~40 mls
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-09-18 00:00:00,Liquid,10 ppm,~40 mls
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-10-16 00:00:00,Liquid,12 ppm,~20 mls
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-10-26 00:00:00,Liquid,13 ppm,~15 mls
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-11-20 00:00:00,Liquid,21 ppm,~ 40 mls
+300 B,161.02 B,Hinkley Compressor Station B       V-212 Inlet Drip,2000-12-19 00:00:00,Liquid,12,~ 30 mls
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-02-10 00:00:00,Liquid,1ppm,"Sample obtained from bottom of inlet filter to 8"" meter run. "
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-02-25 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-03-09 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-03-23 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-04-23 00:00:00,Liquid,<1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-05-01 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-05-14 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-06-01 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-06-15 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-06-30 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-07-29 00:00:00,Liquid,1 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-08-21 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-09-05 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter, ~10 mls"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-09-19 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter, ~10 mls"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-10-03 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter, < 10 mls"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-10-17 00:00:00,Liquid,2 ppm,"Sample obtained from 8"" filter, < 10 mls"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-10-27 00:00:00,Liquid,3 ppm,"Sample obtained from 8"" filter, < 10 mls"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-12-19 00:00:00,Liquid,2 ppm as Aroclor 1242,"Sample obtained from 8"" filter, ~10 mls (sample container received broken)"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2001-01-22 00:00:00,Liquid,2 ppm as Aroclor 1242,"Sample obtained from 8"" filter, ~10 mls "
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-02-25 00:00:00,Liquid,ND < 1ppm,"Sample taken from 10"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-03-09 00:00:00,Liquid,ND < 1ppm,"Sample taken from 10"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-03-23 00:00:00,Liquid,,Sample container received broken - no analysis
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-04-18 00:00:00,Liquid,2 ppm,"Sample taken from 10"" filter"
+300 B,168.39 B,"SWG, Harper lake Meter Station",2000-07-29 00:00:00,None,,"Sample taken from 10"" filter"
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-02-10 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-02-10 00:00:00,Liquid,1 ppm,Liquids obtained from drip. Drip completely drained after sampling. Drip was also drained during first week of 2/2000. 
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-03-09 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-04-06 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-04-19 00:00:00,Liquid,< 1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-05-01 00:00:00,Liquid,ND < 1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-05-14 00:00:00,Liquid,ND < 1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-06-01 00:00:00,Liquid,,Insufficient sample
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-06-15 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-06-30 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-07-29 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-08-21 00:00:00,Liquid,1 ppm,
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-09-06 00:00:00,Liquid,1 ppm,~20 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-09-19 00:00:00,Liquid,2 ppm,~20 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-10-03 00:00:00,Liquid,2 ppm,~20 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-10-17 00:00:00,Liquid,2 ppm,~20 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-10-27 00:00:00,Liquid,2 ppm,~40 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-11-21 00:00:00,Liquid,3 ppm,~15 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2000-12-19 00:00:00,Liquid,2 ppm,~30 mls
+300 B,169.95 B,Line 300 B Drip at Victorville Tap,2001-01-23 00:00:00,Liquid,< 1 ppm,~25 mls
+300 B,170.44 B,South West Gas - Harper Lake Meter Station,,None,,Tap not inspected or sampled 
+300 B,180.11 B,Trona - Main # 311 X,,None,,Tap not inspected or sampled 
+300 B,182.00 B,John Wiles Co.,,None,,Farm tap Reg. Set. Tap. Service tap not inspected or sampled and is abandoned 
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-02-10 00:00:00,Liquid,2 ppm,Mist generated during sampling (light coating in bottle only)
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-02-24 00:00:00,Liquid,2 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-03-08 00:00:00,Liquid,3 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-03-22 00:00:00,Liquid,3 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-04-05 00:00:00,Liquid,2 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-04-17 00:00:00,Liquid,3 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-05-04 00:00:00,Liquid,2 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-05-16 00:00:00,Liquid,1 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-05-30 00:00:00,Liquid,2 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-06-13 00:00:00,Liquid,2 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-06-27 00:00:00,Liquid,3 ppm,
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-07-25 00:00:00,Liquid,3 ppm,< 10 mls
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-08-07 00:00:00,Liquid,4 ppm,~10 mls
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-08-22 00:00:00,Liquid,3 ppm,~50 mls liquid
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-09-06 00:00:00,Liquid,"6 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",~10 mls
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-09-18 00:00:00,Liquid,6 ppm,~10 mls
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-10-04 00:00:00,Liquid,4 ppm,~20 mls
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-11-03 00:00:00,Liquid,3 ppm,~20 mls 
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2000-12-04 00:00:00,Liquid,4 ppm,~10 mls 
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2001-01-03 00:00:00,Liquid,13 ppm as Aroclor 1242,~10 mls 
+300 B,182.58 B,SEGS 3 & 4 Primary Filter,2001-02-05 00:00:00,Liquid,6 ppm as Aroclor 1242,~25mls 
+300 B,182.58 B,"SEGS 5,6 & 7 Primary",2000-02-10 00:00:00,None,,Filter was dry
+300 B,182.58 B,SEGS 7 Meter Set,2000-02-10 00:00:00,None,,Turbine mater sample - dry
+300 B,187.78 B,Boron Tap,2000-02-10 00:00:00,Liquid,1 ppm,"Primary reg. filter, East run; good sample"
+300 B,187.78 B,Boron Tap,2000-02-24 00:00:00,Liquid,2 ppm,
+300 B,187.78 B,Boron Tap,2000-03-08 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-04-04 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-04-17 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-05-04 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-05-15 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-06-01 00:00:00,Liquid,1 ppm,
+300 B,187.78 B,Boron Tap,2000-06-27 00:00:00,None,,Insufficient sample
+300 B,187.78 B,Boron Tap,2000-08-22 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2000-09-06 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2000-09-19 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2000-10-03 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2000-10-31 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2000-12-05 00:00:00,None,,no liquids
+300 B,187.78 B,Boron Tap,2001-01-03 00:00:00,None,,no liquids
+300 B,187.78 B,Boron High School Dry Gas Meter No. 32707774,2000-03-15 00:00:00,Wipe,ND < 1ug/wipe,Meter removed and replaced. Non-quantitative wipe taken on drain cover and inside of drain cover opening.
+300 B,187.78 B,"Joshua Trailer Park, 26611 Nugent, Boron",2000-03-13 00:00:00,Wipe,ND < 1ug/wipe,Non-quantitative wipe inside filter  
+300 B,191.14 B,US Borax (Bypass),,None,,Tap not inspected or sampled 
+300 B,191.18 B,Desert Lakes US Borax,2000-02-10 00:00:00,None,,"Primary reg. filter, North run; dry (Recheck filter)"
+300 B,191.18 B,US Borax  ,,None,,Tap not inspected or sampled 
+300 B,197.70 B,"M. Penn Philips Tract, Gilbert St.",,None,,Tap not inspected or sampled; line abandoned
+300 B,198.88 B,Edgemont Road District (West Boron Area) Increase Capacity,,None,,"San Joaquin Div., original farm tap and reg. Installed second farm tap and reg. in parallel with existing set. Taps not inspected or sampled. "
+300 B,199.24 B,Fountain Trailer Court,,None,,Tap not inspected or sampled - line abandoned in 1987
+300 B,203.07 B,PLS 3B Insertion Meter,2000-02-16 00:00:00,Wipe,ND <0.7 ug/100cm2,
+300 B,203.07 B,PLS 3B Mist Extractor,2000-04-14 00:00:00,Liquid,ND < 1ppm,
+300 B,203.07 B,Emergency Tie-in to Main 300B,,None,,Tap not inspected or sampled 
+300 B,239.04 B,Tehachapi,,None,,Tap not inspected or sampled - line abandoned
+311 X,54.88,Ridgecrest West End Primary,2000-02-22 00:00:00,Wipe,< 1ug/100cm2 ,Right Filter
+311 X,54.88,Ridgecrest West End Primary,2000-04-06 00:00:00,Wipe, ND < 1ug/wipe,Right Filter (non-quantitative wipe)
+311 X,54.88,Ridgecrest West End Primary,2000-04-19 00:00:00,Wipe, ND < 1ug/wipe,Right Filter (non-quantitative wipe)
+311 X,54.88,Ridgecrest West End Primary,2000-07-24 00:00:00,None,,
+311 X,54.88,Ridgecrest West End Primary,2000-09-18 00:00:00,None,,
+311 X,54.88,Ridgecrest West End Primary,2000-10-02 00:00:00,None,,
+311 X,54.88,Ridgecrest West End Primary,2001-01-02 00:00:00,None,,
+311 X,54.88,"IMC Chemical, Trona",2000-04-03 00:00:00,Wipe,"2.6 ug/wipe as Aroclor 1016, 1.2 ug/wipe as Aroclor 1254 ",West End Turbine Meter
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-04-19 00:00:00,Liquid,"11 ppm as Aroclor 1016, 12 ppm as Aroclor 1260",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-05-04 00:00:00,Liquid,"11 ppm as Aroclor 1016, 8 ppm as Aroclor 1254",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-05-31 00:00:00,Liquid,"13 ppm as Aroclor 1016, 9 ppm as Aroclor 1254",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-06-12 00:00:00,Liquid,"16 ppm as Aroclor 1016, 7 ppm as Aroclor 1260",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-06-26 00:00:00,Liquid,"11 ppm as Aroclor 1016, 17 ppm as Aroclor 1260",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-07-24 00:00:00,Liquid,"8.4 ppm as Aroclor 1016, 7.9 ppm as Aroclor 1260",
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-08-08 00:00:00,Liquid,"29 ppm as Aroclor 1016, 27 ppm as Aroclor 1254",<10 mls
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-09-05 00:00:00,Liquid,"6 ppm as Aroclor 1016, 9 ppm as Aroclor 1254",< 10 mls
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-09-18 00:00:00,Liquid,"7 ppm as Aroclor 1016, 9 ppm as Aroclor 1260",< 10 mls
+311 X,54.88,Ridgecrest West End Turbine Meter,2000-10-02 00:00:00,Liquid,,< 10 mls (Insufficient sample)
+311 X,54.88,Ridgecrest West End Process,2000-05-04 00:00:00,Liquid,"4 ppm as Aroclor 1016, 4 ppm as Aroclor 1254",Turbine mater 
+311 X,54.88,Ridgecrest West End Process,2000-05-16 00:00:00,Liquid,"4 ppm as Aroclor 1016, 12 ppm as Aroclor 1254",
+311 X,54.88,Ridgecrest West End Process,2000-05-31 00:00:00,Liquid,"5 ppm as Aroclor 1016, 8 ppm as Aroclor 1254",
+311 X,54.88,Ridgecrest West End Process,2000-08-21 00:00:00,None,,no liquids found
+311 X,54.88,Ridgecrest West End Process,2000-10-02 00:00:00,Liquid,"10 ppm as Aroclor 1016, 7 ppm as Aroclor 1260",< 10 mls
+311 X,54.88,Ridgecrest West End Process,2000-10-31 00:00:00,Liquid,"6.7 ppm as Aroclor 1016, 5.8 ppm as Aroclor 1260",< 10 mls
+311 X,54.88,Ridgecrest West End Process,2001-01-02 00:00:00,Liquid,"3 ppm as Aroclor 1242, 3 ppm as Aroclor 1254",< 10 mls
+311 X,54.88,Ridgecrest West End Process,2001-02-01 00:00:00,Liquid,"12 ppm as Aroclor 1242, 12ppm as Aroclor 1254",< 10 mls from filter
+311 X,54.44,West End Plant (old meter set),2000-06-12 00:00:00,Wipe,ND < 1 ug/wipe,Semi-quantitative
+311 X,54.44,West End Plant (old meter set),2000-08-21 00:00:00,None,,no liquid found
+311 X,54.44,West End Plant (old meter set),2001-01-02 00:00:00,None,,no liquid found
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-05-31 00:00:00,Liquid,"4 ppm as Aroclor 1016, 11 ppm as Aroclor 1254",12 GT Meter
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-06-12 00:00:00,Liquid,"6 ppm as Aroclor 1016, 7 ppm as Aroclor 1260",
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-06-26 00:00:00,Liquid,"5 ppm as Aroclor 1016, 9 ppm as Aroclor 1260",
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-08-08 00:00:00,Liquid,"8 ppm as Aroclor 1016, 19 ppm as Aroclor 1254",
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-08-21 00:00:00,Liquid,"8 ppm as Aroclor 1016, 27 ppm as Aroclor 1254",<10 mls taken from meter drip
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-09-05 00:00:00,Liquid,"3 ppm as Aroclor 1016, 11 ppm as Aroclor 1254",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-09-18 00:00:00,Liquid,"3 ppm as Aroclor 1016, 12 ppm as Aroclor 1260",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-10-02 00:00:00,Liquid,"2 ppm as Aroclor 1016, 8 ppm as Aroclor 1260",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-10-31 00:00:00,Liquid,"2.8 ppm as Aroclor 1016, 8.9 ppm as Aroclor 1260",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2000-12-01 00:00:00,Liquid,"4 ppm as Aroclor 1016, 9 ppm as Aroclor 1254",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2001-01-02 00:00:00,Liquid,"5 ppm as Aroclor 1016, 17 ppm as Aroclor 1254",< 10 mls
+311 X,58.04,"IMC Chemical, Trona - Argus, Main Tap",2001-02-01 00:00:00,Liquid,"7 ppm as Aroclor 1242, 14 ppm as Aroclor 1254",< 10 mls from filter
+313 X,27.26,SWG Rabbit Springs Rd.,2000-02-09 00:00:00,Liquid,"2 ppm, < 1ppm as Aroclor 1260. Semi quantitative results due to small sample",Obtained small amount of liquid obtained from bottom tap of meter. No liquid from gooseneck pipe on north filter.
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-02-28 00:00:00,Liquid,4 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-03-10 00:00:00,Liquid,10 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-03-22 00:00:00,Liquid,5 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-04-06 00:00:00,Liquid,9 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-05-14 00:00:00,Liquid,4 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-06-14 00:00:00,Liquid,11 ppm,
+313 X,27.26,SWG Rabbit Springs Rd. Meter,2000-06-30 00:00:00,Liquid,"9 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",
+313 X,27.76,"SWG, Rabbit Springs Rd. Meter",2000-07-29 00:00:00,Liquid,"6.8 ppm, as Aroclor 1016, 1.1 ppm, as Aroclor 1260",
+313 X,27.76,"SWG, Rabbit Springs Rd. Meter",2000-09-05 00:00:00,Liquid,,<10 mls (insuffiient sample)
+313 X,29.08,SWG Old Woman Springs,2000-02-09 00:00:00,None,,North filter is dry (no way to sample bypass filter)
+313 X,34.34,Mitsubishi Cement ,2000-02-09 00:00:00,Liquid,"2 ppm, 3ppm as Aroclor 1260",Sample taken from bottom of filter (gas flowing 6 mcf / hour)
+313 X,34.34,Mitsubishi Cement ,2000-02-23 00:00:00,None,,Filter Dry (check location)
+313 X,34.34,Mitsubishi Cement ,2000-02-24 00:00:00,Liquid,"3 ppm, 3ppm as Aroclor 1254",Sample from meter set
+313 X,34.34,Mitsubishi Cement ,2000-03-08 00:00:00,Liquid,"4 ppm as Aroclor 1016, 3ppm as Aroclor 1260",Sample from meter set
+313 X,34.34,Mitsubishi Cement ,2000-03-20 00:00:00,Liquid,"2 ppm as Aroclor 1016, 3ppm as Aroclor 1260",Sample from meter set
+313 X,34.34,Mitsubishi Cement ,2000-04-05 00:00:00,Liquid,"3 ppm as Aroclor 1016, 3ppm as Aroclor 1254",Sample from meter set
+313 X,34.34,Mitsubishi Cement ,2000-04-05 00:00:00,Liquid,"1 ppm as Aroclor 1016, 3ppm as Aroclor 1254",Sample from meter set
+313 X,34.34,Mitsubishi Cement ,2000-04-27 00:00:00,Liquid,"7 ppm as Aroclor 1016, 2 ppm as Aroclor 1254","Sampled Labeled as ""Big Bear B"" at MP 34.34"
+313 X,34.34,Mitsubishi Cement ,2000-05-01 00:00:00,Liquid,"1 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",
+313 X,34.34,Mitsubishi Cement ,2000-05-15 00:00:00,Liquid,"2 ppm as Aroclor 1016, 4 ppm as Aroclor 1254",
+313 X,34.34,Mitsubishi Cement ,2000-05-30 00:00:00,Liquid,"3 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",
+313 X,34.34,Mitsubishi Cement ,2000-06-13 00:00:00,Liquid,"4 ppm as Aroclor 1016, 3 ppm as Aroclor 1260",
+313 X,34.34,Mitsubishi Cement ,2000-07-24 00:00:00,Liquid,"1 ppm as Aroclor 1016, 0.6 ppm as Aroclor 1260",< 10 mls
+313 X,34.34,Mitsubishi Cement ,2000-08-08 00:00:00,None,,Meter set dry
+313 X,34.34,Mitsubishi Cement ,2000-08-21 00:00:00,Liquid,ND < 1 ppm,< 10 mls
+313 X,34.34,Mitsubishi Cement ,2000-09-05 00:00:00,Liquid,ND < 1 ppm,< 10 mls
+313 X,34.34,Mitsubishi Cement ,2000-09-18 00:00:00,Liquid,ND < 3 ppm,< 10 mls (reporting limit raised because of small sample size)
+313 X,34.34,Mitsubishi Cement ,2000-10-04 00:00:00,Liquid,42 ppm,< 10 mls
+313 X,34.34,Mitsubishi Cement ,2000-12-04 00:00:00,None,"6 ppm as Aroclor 1016, 3 ppm as Aroclor 1260",< 10 mls
+313 X,34.34,Mitsubishi Cement ,2001-01-03 00:00:00,None,"2 ppm as Aroclor 1242, 2 ppm as Aroclor 1254",< 10 mls
+313 X,34.34,Mitsubishi Cement ,2001-02-02 00:00:00,None,2 ppm as Aroclor 1016,< 10 mls
+314 X,0.02,Company Use,,,,Tap not Inspected or sampled (Hinkley Tap)
+314 X,0.06,SW Gas (Hinkley Tap),,,,Tap not Inspected or sampled
+314 X,8.76,SW Gas (Zackey Farms),,,,Tap not inspected or sampled
+314 X,21.76,"SW Gas (La Delta, Helendale)",,,,Tap not Inspected or sampled (San Joaquin Div. job)
+314 X,24.31,TXI Riverside Cement PLS,2000-02-09 00:00:00,None,,Active filter next to Valve 4. Bottom tap of filter is dry. Note: Clearance reqrd. for filter removal and wipe sampling
+314 X,24.31,TXI Riverside Cement PLS,2000-08-21 00:00:00,None,,no liquids
+314 X,24.31,TXI Riverside Cement PLS,2000-09-06 00:00:00,None,,no liquids
+314 X,24.31,TXI Riverside Cement PLS,2000-09-18 00:00:00,None,,no liquids
+314 X,24.31,TXI Riverside Cement PLS,2000-10-04 00:00:00,None,,no liquids
+314 X,24.31,TXI Riverside Cement PLS,2001-01-03 00:00:00,None,,no liquids
+314 X,24.31,TXI Riverside Cement PLS,2001-02-02 00:00:00,None,,no liquids
+314 X,24.75,TXI Riverside Tap Meter,2000-02-09 00:00:00,Liquid,"16 ppm, 4ppm as Aroclor 1260",Sample taken from bottom of turbine meter - small amount of liquid
+314 X,24.75,TXI Riverside Tap Meter,2000-02-15 00:00:00,Liquid,9 ppm,
+314 X,24.75,TXI Riverside Tap Meter,2000-02-23 00:00:00,Liquid,"19 ppm as Aroclor 1016, 5 ppm as Aroclor 1254",
+314 X,24.75,TXI Riverside Tap Meter,2000-03-08 00:00:00,Liquid,45 ppm,
+314 X,24.75,TXI Riverside Tap Meter,2000-03-22 00:00:00,Liquid,11 ppm,
+314 X,24.75,TXI Riverside Tap Meter,2000-04-05 00:00:00,Liquid,"24 ppm as Aroclor 1016, 7 ppm as Aroclor 1254",
+314 X,24.75,TXI Riverside Tap Meter,2000-04-18 00:00:00,Liquid,"22 ppm, 5 ppm as Aroclor 1260",
+314 X,24.75,TXI Riverside Tap Meter,2000-05-01 00:00:00,Liquid,6 ppm,
+314 X,24.75,TXI Riverside Tap Meter,2000-05-15 00:00:00,Liquid,"5 ppm, 2 ppm as Aroclor 1254",Bottom inside Meter
+314 X,24.75,TXI Riverside Tap Meter,2000-05-15 00:00:00,Liquid,< 1 ppm,Top of inside meter
+314 X,24.75,TXI Riverside Tap Meter,2000-05-30 00:00:00,Liquid,"31 ppm, 3 ppm as Aroclor 1254",Bottom inside Meter
+314 X,24.75,TXI Riverside Tap Meter,2000-06-12 00:00:00,Liquid,"34 ppm, 3 ppm as Aroclor 1254",
+314 X,24.75,TXI Riverside Tap Meter,2000-06-26 00:00:00,Liquid,"30 ppm, 3 ppm as Aroclor 1254",
+314 X,24.75,TXI Riverside Tap Meter,2000-07-24 00:00:00,Liquid,"26 ppm, 2.5 ppm as Aroclor 1254",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-08-08 00:00:00,Liquid,"40 ppm, 12 ppm as Aroclor 1254",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-08-21 00:00:00,Liquid,"25 ppm, 14 ppm as Aroclor 1254",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-09-05 00:00:00,Liquid,"16 ppm, 6 ppm as Aroclor 1254",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-09-18 00:00:00,Liquid,"20 ppm, 3 ppm as Aroclor 1260",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-10-04 00:00:00,Liquid,"22 ppm, 4 ppm as Aroclor 1254",< 10 mls
+314 X,24.75,TXI Riverside Tap Meter,2000-11-03 00:00:00,Liquid,"19 ppm, 3.5 ppm as Aroclor 1254",< 10 mls 
+314 X,24.75,TXI Riverside Tap Meter,2000-12-04 00:00:00,Liquid,"22 ppm, 6 ppm as Aroclor 1254",< 10 mls 
+314 X,24.75,TXI Riverside Tap Meter,2001-01-03 00:00:00,Liquid,"19 ppm as Aroclor 1242, 7 ppm as Aroclor 1254",< 10 mls 
+314 X,24.75,TXI Riverside Tap Meter,2001-02-01 00:00:00,Liquid,"29 ppm as Aroclor 1016, 24 ppm as Aroclor 1254",< 10 mls 
+314 X,25.2,SW Gas (Academy Road),,,,Tap not Inspected or sampled (San Joaquin Div. job)
+314 X,26,SW Gas (Clanton),,,,Tap not Inspected or sampled (San Joaquin Div. job)
+314 X,26.8,None,,,,"Tap not inspected or sampled (4"" valve installed on original const. for SWG - capped)"
+314 X,27.46,"Victorville ""B"" Meter",2000-02-15 00:00:00,Liquid,5 ppm,
+314 X,27.46,"Victorville ""B"" Meter",2000-07-15 00:00:00,Liquid,"3.5 ppm as Aroclor 1016, 0.6 ppm as Aroclor 1260",
+314 X,28.76,Southwest Portland Cement,,,,Tap not inspected or sampled -Original Construction
+314 X,30.5,Stoddard Wells Tap,,,, Tap not inspected or sampled
+314 X,34.22,Oro Grande - Victorville F,2000-05-14 00:00:00,Liquid,35 ppm,Feeds Oro Grande Township
+314 X,34.22,Oro Grande - Victorville F,2000-05-30 00:00:00,Liquid,6 ppm,
+314 X,34.22,Oro Grande - Victorville F,2000-06-14 00:00:00,Liquid,11 ppm,
+314 X,34.22,Oro Grande - Victorville F,2000-06-29 00:00:00,Liquid,10 ppm,
+314 X,34.22,Oro Grande - Victorville F,2000-07-29 00:00:00,None,,Filter was dry
+314 X,34.22,Oro Grande - Victorville F,2000-08-21 00:00:00,Liquid,16 ppm,
+314 X,34.22,Oro Grande - Victorville F,2000-10-02 00:00:00,Liquid,5 ppm,< 10 mls
+314 X,34.22,Oro Grande - Victorville F,2000-10-02 00:00:00,Liquid,21 ppm,< 10 mls
+314 X,34.22,Oro Grande - Victorville F,2000-10-26 00:00:00,Liquid,46 ppm,< 10 mls
+314 X,34.22,Oro Grande - Victorville F,2000-11-20 00:00:00,Liquid,16 ppm,< 10 mls
+314 X,34.22,Oro Grande - Victorville F,2000-12-18 00:00:00,Liquid,15 ppm,< 10 mls
+314 X,34.22,Oro Grande - Victorville F,2001-01-23 00:00:00,Liquid,16 ppm,< 10 mls
+314 X,34.34,"Big Bear ""B""",2000-02-09 00:00:00,None,,Two filters; both are dry
+314 X,34.34,"Big Bear ""B""",2000-04-27 00:00:00,Liquid,"7 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",
+314 X,34.34,"Big Bear ""B""",05/14/00.,Liquid,"38 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",Sample from meter set
+314 X,34.34,"Big Bear ""B""",2000-05-30 00:00:00,Liquid,"6 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",
+314 X,34.34,"Big Bear ""B""",2000-06-14 00:00:00,Liquid,"16 ppm as Aroclor 1016, 2 ppm as Aroclor 1260",
+314 X,34.34,"Big Bear ""B""",2000-06-29 00:00:00,Liquid,"16 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",
+314 X,34.34,"Big Bear ""B""",2000-07-29 00:00:00,Liquid,"15 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",
+314 X,34.34,"Big Bear ""B""",2000-08-18 00:00:00,Liquid,"16 ppm as Aroclor 1016, 2 ppm as Aroclor 1260",
+314 X,34.34,"Big Bear ""B""",2000-09-05 00:00:00,Liquid,"16 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",~20 mls
+314 X,34.34,"Big Bear ""B""",2000-09-18 00:00:00,Liquid,"17 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",~20 mls
+314 X,34.34,"Big Bear ""B""",2000-10-02 00:00:00,Liquid,"17 ppm as Aroclor 1016, 3 ppm as Aroclor 1254",~20 mls
+314 X,34.34,"Big Bear ""B""",2000-10-02 00:00:00,Liquid,"15 ppm as Aroclor 1016, 2.4 ppm as Aroclor 1254",~10 mls
+314 X,34.34,"Big Bear ""B""",2000-10-26 00:00:00,Liquid,"13.2 ppm as Aroclor 1016, 2.4 ppm as Aroclor 1254",~10 mls
+314 X,34.34,"Big Bear ""B""",2000-11-20 00:00:00,Liquid,"7.2 ppm as Aroclor 1016, 2.6 ppm as Aroclor 1254",~10 mls
+314 X,34.34,"Big Bear ""B""",2000-12-18 00:00:00,Liquid,"5 ppm as Aroclor 1016, 2 ppm as Aroclor 1254",~10 mls
+314 X,34.34,"Big Bear ""B""",2001-01-23 00:00:00,Liquid,7 ppm as Aroclor 1242,<10 mls
+314 X,38.57,"Victorville ""C"" SWG",2000-02-09 00:00:00,None,,Two filters; both are dry
+314 X,38.57,"Victorville ""C"" Meter",2000-02-17 00:00:00,Liquid,"5 ppm as Aroclor 1016, 4 ppm, as Aroclor 1254",
+314 X,38.57,"Victorville ""C"" Meter",2000-03-22 00:00:00,Liquid,"3 ppm, as Aroclor 1254",
+314 X,43.18,Black Mountain Cement,2000-02-09 00:00:00,None,,Meter tap is dry. Filter on low flow run is dry
+314 X,43.18,Black Mountain Cement,2000-03-23 00:00:00,Liquid,"0.2 ppm as Aroclor 1016, 0.8 ppm, as Aroclor 1254",Sample from Filter
+314 X,43.18,Black Mountain Cement,2000-03-23 00:00:00,Wipe,2 ug /wipe as Aroclor 1254,semi-quantittative wipw inside filter canister
+314 X,43.18,Black Mountain Cement,2000-04-05 00:00:00,Wipe,2 ug /wipe as Aroclor 1254,semi-quantittative wipw inside filter canister
+314 X,43.18,Black Mountain Cement,2000-03-23 00:00:00,Liquid,3 ppm as Aroclor 1254 ,Sample from Filter
+314 X,43.18,Black Mountain Cement,2000-05-01 00:00:00,Liquid,,Insufficient Sample
+314 X,43.18,Black Mountain Cement,2000-05-15 00:00:00,Solid,< 1 ppm,Dust from Filter
+314 X,43.18,Black Mountain Cement,2000-07-24 00:00:00,None,,Filter
+314 X,43.18,Black Mountain Cement,2000-08-21 00:00:00,Wipe, ND < 1ug/100cm2 ,
+314 X,43.18,Black Mountain Cement,2000-09-06 00:00:00,None,,No liquids
+314 X,43.18,Black Mountain Cement,2000-09-18 00:00:00,None,,No liquids
+314 X,43.18,Black Mountain Cement,2000-10-04 00:00:00,None,,No liquids
+314 X,43.18,Black Mountain Cement,2000-11-03 00:00:00,None,,No liquids
+314 X,43.18,Black Mountain Cement,2001-01-03 00:00:00,None,,No liquids
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2000-05-04 00:00:00,Wipe, ND < 1ug/100cm2 ,Ridgecrest primary filter
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2000-05-16 00:00:00,Wipe, ND < 1ug/100cm2 ,Ridgecrest primary filter
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2000-05-16 00:00:00,Liquid, < 1 ppm,"Ridgecrest primary, liquid taken from orifice meter"
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2000-08-21 00:00:00,None,,Filter Dry
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2000-10-02 00:00:00,None,,Filter Dry
+372 X (Line 311 branch),3.7,R.C. Primary Reg. Station,2001-01-02 00:00:00,None,,Filter Dry

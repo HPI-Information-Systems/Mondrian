@@ -1,0 +1,183 @@
+EAM Technology Codes Version 6.0,,,
+,,,
+Area,Tech Code,Description,ECM Code
+Lighting,1,Interior Lighting Upgrade,110
+Lighting,1,Exterior Lighting Upgrade,111
+Lighting,1,LED Exit Signs,120
+Lighting,1,Interior Lighting Control Systems,130
+Lighting,1,Exterior Lighting Control Systems,131
+Lighting,1,Occupancy Sensors,132
+Lighting,1,Revise Switching Zones,133
+Lighting,1,Load Shed Systems,140
+Lighting,1,Skylights (including controls),150
+Lighting,1,Daylighting (including controls),151
+Lighting,1,Dimming (not including daylighting),160
+Lighting,1,LED Traffic Signals,170
+Lighting,1,Group Relamp & Maintanince ,180
+Lighting,1,Combination,198
+Lighting,1,Other,199
+Refrigeration,2,Increase Condenser Capacity,201
+Refrigeration,2,Install Air Purger,203
+Refrigeration,2,Descale,204
+Refrigeration,2,Evaporator Fan Control (Cycling or VSD),205
+Refrigeration,2,Float Head Pressure to Minimum,206
+Refrigeration,2,Install liquid Subcooling (Economizer),207
+Refrigeration,2,Demand Defrost on Evaporators,208
+Refrigeration,2,Convert to Screw Comp. Thermosyphon Oil Cooling,209
+Refrigeration,2,Condenser Fans Control (Cycling or VSD)  ,210
+Refrigeration,2,Combination,298
+Refrigeration,2,Other,299
+Boilers,3,Replace Failed Steam Traps,301
+Boilers,3,Sensible Flue Gas Heat Recovery/Feedwater Preheating,302
+Boilers,3,Increase Condensate Return,303
+Boilers,3,Blowdown Heat Recovery/Make-Up Water Preheating,304
+Boilers,3,Automatic Boiler Staging/Loading,305
+Boilers,3,Sensible Flue Gas Heat Recovery/Combustion Air Preheating,306
+Boilers,3,Automatic Oxygen/Excess Air Trim ,307
+Boilers,3,Replacement Boiler with Higher Efficiency,308
+Boilers,3,Replacement Burner with Modulating Capacity Control,309
+Boilers,3,Water Softener Replacement with Tube Cleaning,310
+Boilers,3,Modulate Blowdown Volume,311
+Boilers,3,Recover Latent Energy of High Temperature Condensate,312
+Boilers,3,Replace Electric Heater/Humidifier with Steam Heater/Humidifier,313
+Boilers,3,Replace Electric Motor with Non-Condensing Steam Turbine,314
+Boilers,3,Repalce Inefficient Electric Water Chiller with Steam Absorbtion Chiller,315
+Boilers,3,Replace Insulation/Refractory,316
+Boilers,3,Replace Pressure Reducing Valve with Non-Condensing Steam Turbine Genst,317
+Boilers,3,Add Superheater and Steam Turbine Genset,318
+Boilers,3,Replace Central Boiler Plant with Distributed Boilers/Heaters,319
+Boilers,3,Refrigerant Condensation Heat Recovery/Process Feedwater Heating,320
+Boilers,3,Latent Flue Gas Heat Recovery/Process Feedwater Preheating,321
+Boilers,3,Combination,398
+Boilers,3,Other,399
+Chillers,4,VFDs on Cooling Tower Fans,401
+Chillers,4,VFD(s) on Secondary Pump(s),402
+Chillers,4,VFD(s) on Condenser Water Pump(s),403
+Chillers,4,Chilled Water Reset,404
+Chillers,4,Sequencing & CHWS Secondary Control,405
+Chillers,4,Condenser Water Reset,406
+Chillers,4,Chiller Replacement (Constant Speed),407
+Chillers,4,Chiller Replacement (Variable Speed),408
+Chillers,4,Chiller Replacement (Absorption),409
+Chillers,4,Chiller Replacement (Engine Driven),410
+Chillers,4,Chiller Retrofit with VFD,411
+Chillers,4,Convert Air Cooled Chillers to Water Cooled,412
+Chillers,4,Convert DX cooling to Chilled Water,413
+Chillers,4,Eliminate Hot-Gas-Bypass or etc.,414
+Chillers,4,Cross Connect Multiple CPs to one Central Plant,415
+Chillers,4,Convert Primary only Const. Vol. To Prim/Sec Variable,416
+Chillers,4,Convert Primary only Const. Vol. To Variable Volume,417
+Chillers,4,Split Process CHW from Building CHW,418
+Chillers,4,Isolate CHW Sections when not in Service,419
+Chillers,4,Rebalance Water System,420
+Chillers,4,Plate & Frame HX,421
+Chillers,4,Refrigerant Migration (free cooling),422
+Chillers,4,Injector Cycle Cooling from Tower,423
+Chillers,4,Heat Recovery from Absorption Chiller,424
+Chillers,4,Heat Recovery from  Engine Driven  Chiller,425
+Chillers,4,Heat Recovery from Electric Chiller,426
+Chillers,4,Thermal Energy Storage (Water),427
+Chillers,4,Thermal Energy Storage (Ice),428
+Chillers,4,Cooling Tower Replacement,429
+Chillers,4,Cooling Tower Rebuild (fill replacement),430
+Chillers,4,Install Tower to Eliminate once through Chiller Cooling,431
+Chillers,4,Eliminate Tower by-pass as CW Temperature Control,432
+Chillers,4,Install Auto Tube Cleaning System on Chiller Condenser,433
+Chillers,4,VFDs on Primary Pumps,434
+Chillers,4,Pump Replacement,435
+Chillers,4,Pump Impeller Trim,436
+Chillers,4,Tower Water Treatement,437
+Chillers,4,CHW System Water Treatment,438
+Chillers,4,Zero Emmissions Purge on Chiller,439
+Chillers,4,Tower blow-down Control with TDS Monitor,440
+Chillers,4,Clean Tower,441
+Chillers,4,Clean Chiller Evaporator & Condenser,442
+Chillers,4,Combination,498
+Chillers,4,Other,499
+Compressed Air,5,Install/Upgrade System Control,501
+Compressed Air,5,Reduce Compressor Operating Pressure,502
+Compressed Air,5,Reduce Plant Operating Pressure w/ Controls,503
+Compressed Air,5,Implement Air Leak Management Program,504
+Compressed Air,5,Install/Operate Equipment Matching Shift Demands,505
+Compressed Air,5,Install Separate Equipment for Extreme Demand,506
+Compressed Air,5,Heat Recovery ,507
+Compressed Air,5,Outside Air intake for compressors,508
+Compressed Air,5,Replace ineffective/inefficient drying equipment,509
+Compressed Air,5,Replace ineffective/inefficient cooling equipment,510
+Compressed Air,5,Combination,598
+Compressed Air,5,Other,599
+Packaged Units,6,"Night Setback/Setup,Deadband, Night Ventilation Control and Fan Cycling(General Controls)",601
+Packaged Units,6,Dry Bulb Economizer,602
+Packaged Units,6,Enthalpy Economizer,603
+Packaged Units,6,CO2 Ventilation Control,616
+Packaged Units,6,Heat Recovery Media,604
+Packaged Units,6,Clean and Charge,605
+Packaged Units,6,Replace w/ High Efficiency Unit,606
+Packaged Units,6,Convert Dump Damper to VFD,607
+Packaged Units,6,Rebalance and Reduce air flow,608
+Packaged Units,6,LPA,609
+Packaged Units,6,Electronic Expansion Valve,610
+Packaged Units,6,Schedule Change,611
+Packaged Units,6,Refrigerant Subcooler,612
+Packaged Units,6,Evap Condenser Retrofit,613
+Packaged Units,6,Refrigerant Oil Additives,614
+Packaged Units,6,Retrofit air cooled to water cooled,615
+Packaged Units,6,Combination,698
+Packaged Units,6,Other,699
+Air Distribution,7,Optimized start stop of air handling units,701
+Air Distribution,7,"Night Setback/Setup,Deadband, Night Ventilation Control and Fan Cycling(General Controls)",702
+Air Distribution,7,Redesign/Balance to Meet Changed Zone Needs,703
+Air Distribution,7,Run-around Heat Recovery Coil System,704
+Air Distribution,7,Retrofit CAV w/ zone isolation & Variable Speed Drive,705
+Air Distribution,7,VAV Conversion of CV system,706
+Air Distribution,7,"Replace inlet guide vanes, discharge dampers, or dump dampers with VFD",707
+Air Distribution,7,Dry Bulb Economizer,709
+Air Distribution,7,Enthalpy Economizer,710
+Air Distribution,7,CO2 Ventilation Control,711
+Air Distribution,7,Control Retrofit Other,712
+Air Distribution,7,"Clean, repair, or replace",713
+Air Distribution,7,Combination,798
+Air Distribution,7,Other,799
+Commissioning,8,Other,899
+Water Treatement,9,Descale Cooling Towers,901
+Water Treatement,9,On-going water treatment,902
+Water Treatement,9,Combination,998
+Water Treatement,9,Other,999
+Electrical Systems,10,Power-Factor Correction,1001
+Electrical Systems,10,Voltage Buy-up,1002
+Electrical Systems,10,Power Quality,1003
+Electrical Systems,10,High Efficiency Harmonic Reduction Transformers,1004
+Electrical Systems,10,Combination,1098
+Electrical Systems,10,Other,1099
+Motors,11,Variable Frequency Drives,1101
+Motors,11,Sheave Replacement,1102
+Motors,11,PE Motors,1103
+Motors,11,Cogged Belts,1104
+Motors,11,Motor controllers,1105
+Motors,11,Combination,1198
+Motors,11,Other,1199
+Generation,12,Other,1299
+Maintenance Measures,13,Other,1399
+Industrial Processes,14,"Exhaust Heat Recovery/Combustion Air Preheating for Ovens, Furnaces, Etc.",1401
+Industrial Processes,14,"Exhaust Heat Revovery/Steam Generation for Ovens, Furnaces, Etc.",1402
+Industrial Processes,14,"Exhaust Heat Recovery/Cascade to 2nd Process for Ovens, Furnaces, Etc.",1403
+Industrial Processes,14,"Exhaust Heat Recovery/Solid or Liquid Feed Preheating for Ovens, Furnaces, Etc.",1404
+Industrial Processes,14,"Exhaust Heat Recovery/Steam & Power Generation for Ovens, Furnaces, Etc.",1405
+Industrial Processes,14,"Exhaust Heat Recovery/ Steam and Chilled Water Generation for Ovens, Furnaces, Etc.",1406
+Industrial Processes,14,"Oxygen Boost for Ovens, Furnaces, Etc.",1407
+Industrial Processes,14,"Automatic Oxygen/Excess Air Trim for Ovens, Furnaces, Etc. ",1408
+Industrial Processes,14,"Recuperative Burners for Ovens, Furnaces, Etc.",1409
+Industrial Processes,14,"Replacement Oven, Furnace, Etc. with Higher Efficiency ",1410
+Industrial Processes,14,Replace Incinerator with Catalytic Absorber,1411
+Industrial Processes,14,Replace Forced-Air Heater with Steam or High. Temperature Oil Heat Exchanger,1412
+Industrial Processes,14,"Shut-Down/Set-Back Temperatures during Idle Periods for Ovens, Furnaces, Etc.",1413
+Industrial Processes,14,Combination,1498
+Industrial Processes,14,Other,1499
+Building Automation,15,Other,1599
+Building Envelope,50,Increase Insulation,5001
+Building Envelope,50,Window Tinting,5002
+Building Envelope,50,Window Shades,5003
+Building Envelope,50,High Performance Windows,5004
+Building Envelope,50,Combination,5098
+Building Envelope,50,Other,5099
+Other,99,Other,9999

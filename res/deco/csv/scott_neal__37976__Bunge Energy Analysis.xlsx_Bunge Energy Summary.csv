@@ -1,0 +1,45 @@
+,BUNGE CORP. NATURAL GAS ACCOUNT SUMMARY INFORMATION,,,,,,,,
+,Bunge Division,"Location (city, state)",Utility Name,Rate Schedule,Delivery Pressure,Operating Hours,Annual MMBTU,Annual Spend $$,Notes
+,Foods,"Bradley, IL",Nicor (trans.unknown),undef.,175,24/7,1039235,2518797,Supply undefined
+,Foods,"Chatanooga, TN",,undef.,undef.,24/7,0,0,No gas
+,Foods,"Fort Worth, TX",TXU & Lone Star,Nom/trans,29,24/7,600000,1500000,3500kW cogen
+,SPD,"Cairo, IL",Cairo Public Utility,IGS,undef.,24/7,112680,450000,
+,SPD,"Council Bluffs, IA",TXU & Northern,Nom/trans,undef.,24/7,2555000,4189000,NNG trans exp. 7/2003
+,SPD,"Decatur, GA",Decatur Utilities,Interruptible,undef.,24/7,1299216,3500000,
+,SPD,"Destrehan, LA",Williams & LGS,Nom/trans,undef.,24/7,840000,2358000,
+,SPD,"Emporia, KS",KPL & broker,LDC & broker,undef.,24/7,45000,144000,
+,SPD,"Marks, MS",Entex,66,30,24/7,540000,1620000,
+,SPD,"Vicksburg, MS",Sonat Marketing,undef.,undef.,24/7,480000,1440000,
+,,,,,,,,,
+,TOTAL,,,,,,7511131,17719797,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,BUNGE CORP. ELECTRICITY ACCOUNT SUMMARY INFORMATION,,,,,,,,
+Dereg Status,Bunge Division,"Location (city, state)",Utility Name,Rate Schedule,Delivery Voltage,Operating Hours,Annual kWh, Peak kW,Annual Spend $$
+Open,Foods,"Bradley, IL",ComEd,6L &18 (cogen),4200,24/7,1906266,1700,150000
+Undeter.,Foods,"Chatanooga, TN",Electric Power Board,GSA,12kV,24/7,2880000,500,150000
+2002,Foods,"Fort Worth, TX",TXU,General Service,2300,24/7,19800000,3100,784200
+Open,SPD,"Cairo, IL",Cairo Public Utility,I-HV,undef.,24/7,37974480,5500,1536000
+2003,SPD,"Council Bluff, IA",MidAmerican Energy,Cntrt to 5/2008,undef.,24/7,60000000,16000,2228000
+Undeter.,SPD,"Decatur, GA",Decatur Utilities,GSB - General,undef.,24/7,55000000,7300,2112000
+Undeter.,SPD,"Destrehan, LA",Lousiana P&L,Contract to 12/02,undef.,24/7,33078000,8700,1660000
+2002,SPD,"Emporia, KS",K P & L,Large power,12kV,24/7,26600000,4258,1038000
+Undeter.,SPD,"Marks, MS",Entergy,HLF-1 exp 4/2004,13.8kV,24/7,24000000,4200,1064000
+Undeter.,SPD,"Vicksburg, MS",Entergy,HLF-192,13.8kV,24/7,25200000,3834,1800000
+Open,Grains,"Albany, IL",Aliant Energy,01-491,undef.,undef.,1107000,577,74796
+Undeter.,Grains,"Greenville, MS",Entergy,83,undef.,undef.,778500,402,57800
+Undeter.,Grains,"Mayerville, MS",Twin County Elec.,"6,2",undef.,undef.,301200,179,31759
+2003,Grains,"Osceola, AR (Landside)",Entergy,"SG2, M01",undef.,undef.,1657788,584,116402
+2003,Grains,"Osceola, AR (Riverside)",Entergy,"SG2, M01",undef.,undef.,892000,429,68853
+2003,Grains,"Pine Bluff, AR",Entergy,SG1,undef.,undef.,1056000,300,70127
+Undeter.,Grains,"Savage, MN",Northern States,"A14, A23",undef.,undef.,2284384,805,136464
+Open,Grains,"Shawneetown, IL",Illinois Power,"11, 12",undef.,undef.,1440000,770,106737
+Undeter.,Grains,"St. Joseph, LA",Entergy,"19-H, E",undef.,undef.,1591040,477,109202
+Undeter.,Grains,"St. Charles, LA",Entergy,SG1,undef.,undef.,748400,358,57623
+,,,,,,,,,
+,TOTAL,,,,,,298295058,,13351963
+,,,,,,,,,
+,,,,,,,,,
+,,TOTAL SPEND ,Gas + Electricity,,,,,,31071760

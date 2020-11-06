@@ -1,0 +1,115 @@
+Data Item,Risk Management,Billing,Cash Forecasting,Receivables Management,Operational Analysis-GAS/POWER/GNO,Accounting,Load Forecasting,Data Item
+1,EES Entity transacting Business,Data Source Identification,,Source System Name,,,Source System Name,1
+2,,Data Source Identification,,Source System ID Number,,,,2
+3,"Covered Service (e.g. commodity, projects, AOPS)",Customer,Customer Name,Customer Name,,,Customer Name,3
+4,,,,System Customer ID Number,,,System Customer ID Number,4
+5,,,GCP ID (Customer) Number ,GCP ID (Customer) Number ,,,GCP ID (Customer) Number ,5
+6,,,,CMS Customer ID Number,,,CMS Customer ID Number,6
+7,,,,DUNS ID Number,,,,7
+8,,,,Customer Account (Site) ID Number,,,Customer Account (Site) ID Number,8
+9,,Site,,Customer Account (Site) Name,,,Customer Account (Site) Name,9
+10,,,,Customer Account (Site) Street Address,,,Customer Account (Site) Street Address,10
+11,,,,Customer Account (Site) Street Address2,,,Customer Account (Site) Street Address2,11
+12,,,,Customer Account (Site) City,,,Customer Account (Site) City,12
+13,,,,Customer Account (Site) County,,,Customer Account (Site) County,13
+14,,,,Customer Account (Site) State,,,Customer Account (Site) State,14
+15,,,,Customer Account (Site) zip,,,Customer Account (Site) zip,15
+16,,,,Customer Account (Site) zip + 4,,,,16
+17,,,,Customer Contact Name for collections (site?) ,,,,17
+18,,,,Customer Contact Telephone number for collections (site?),,,,18
+19,"Commodity (e.g. power, gas)","Product (Gas, Electric Water)","Commodity (Gas, Power, Water, Steam, Bundled)","Commodity (Gas, Power, Water, Steam)",,,"Commodity (Gas, Power, Water, Steam)",19
+,,,,"Product Type (Physical, Financial)","Product Type (Physical, Financial)",,"Product Type (Physical, Financial)",
+20,,EES SAP Company Code,"SAP Company Number if known 890, 20R, etc.","SAP Company Number if known 890, 20R, etc.",,,,20
+21,,,Company Number used by Oracle (01-06),Company Number used by Oracle (01-06),,,,21
+22,,,,"Company Name (EESO GASS, EESO ELECTRIC, EESO NON-COM, EEMC GAS, EEMC POWER",,,,22
+23,,,"Type of customer (Commercial, Industrial, Residential)","Type of customer (Commercial, Industrial, Residential)",,,"Type of customer (Commercial, Industrial, Residential)",23
+24,,,Strategic customers flag / indicator,Strategic customers flag / indicator,,,Strategic customers flag / indicator,24
+25,,,"Top 25, top 50, etc. customer indicators","Top 25, top 50, etc. customer indicators",,,,25
+26,,,"Mid-Market indicator (""Sales Rep."" Field at CSC)","Mid-Market indicator (""Sales Rep."" Field at CSC)",,,"Mid-Market indicator (""Sales Rep."" Field at CSC)",26
+27,,,GNO indicator,GNO indicator,,,GNO indicator,27
+28,,,Fast-track customer indicator,Fast-track customer indicator,,,Fast-track customer indicator,28
+29,,,,Status of Account (current / past due),,,,29
+30,,,,Hold Code,,,,30
+31,,,,Invoice Number,,,,31
+32,,,Invoice Date,Invoice Date,,,,32
+33,,,"Total customer owes all A/R ages, plus current, plus unbilled.","Total customer owes all A/R ages, plus current, plus unbilled.",,,,33
+34,,,,"Invoice Amount (customer balance all ages, incl. current)",,,,34
+35,,,,Customer current amount,,,Customer current amount,35
+36,,,Customer past due amount (previously billed) ,Customer past due amount (previously billed) ,,,,36
+37,,,Invoice Due Date,Invoice Due Date,,,,37
+38,,,Invoice Discount Due Date,Invoice Discount Due Date,,,,38
+39,,,Invoice Discount Percentage or amount,Invoice Discount Percentage or amount,,,,39
+40,,,,Invoice Payment Terms,,,,40
+41,,,"Transaction Type (Invoice, Cash Receipt, Adjustment, etc.) ","Transaction Type (Invoice, Cash Receipt, Adjustment, etc.) ",,,,41
+42,,,,Adjustment Type,,,,42
+43,,,,Adjustment Name,,,,43
+44,,,,Adjustment Amount,,,,44
+45,,,,Adjustment Date ,,,,45
+46,,,,Credit Memo Number,,,,46
+47,,,,Credit Memo Date,,,,47
+48,,,,Credit Memo Amount,,,,48
+49,,,Remittance (deposit) Date,Remittance (deposit) Date,,,,49
+50,,,Remittance Amount,Remittance Amount,,,,50
+51,,,"Remittance Type (Check, Wire, Direct Debit, Credit Card)","Remittance Type (Check, Wire, Direct Debit, Credit Card)",,,,51
+52,,,Invoice Number Remittance was Applied to,Invoice Number Remittance was Applied to,,,,52
+53,,,,Cash Applied Date,,,,53
+54,,,,Customer check/wire/credit card or direct deposit confirmation number,,,,54
+55,,,Balance Due,Balance Due,,,,55
+56,,,Bank Name deposited to - Actual bank (not default),Bank Name deposited to - Actual bank (not default),,,,56
+57,,,Account deposited to - Actual account (not default),Account deposited to - Actual account (not default),,,,57
+58,,,Lockbox Number,Lockbox Number,,,,58
+59,,,Type of payment/receipt (i.e. operating/investing/financing),Type of payment/receipt (i.e. operating/investing/financing),,,,59
+60,,,"Payment Pattern (weekly, monthly, etc.)","Payment Pattern (weekly, monthly, etc.)",,,,60
+61,,,Unapplied Cash Remittance Amount,Unapplied Cash Remittance Amount,,,,61
+63,,,,Unapplied Cash Customer ID Number,,,,63
+64,,,,Unapplied Cash Customer Site Account ID Number,,,,64
+65,,,,Dispute Date,,,,65
+66,,,,Number of Days Dispute outstanding,,,,66
+67,,,Customers on Payment Plan Flag,Customers on Payment Plan Flag,,,,67
+68,,,,Customer Final Notice Flag ,,,,68
+69,,,,Customer Terminated Flag,,,,69
+70,,,,Attorney Flag,,,,70
+71,,,,Customer Bankruptcy Flag,,,,71
+72,,,Comments/Notes/Other from the source systems,Comments/Notes/Other from the source systems,,,,72
+73,,,,Status of Account (current / past due),,,,73
+74,,,,Utility Name,,,Utility Name,74
+75,,,,Utility Number (if any),,,Utility Number (if any),75
+76,,,,Extract Date,,,,76
+77,,,,Create Data,,,,77
+78,,,,Error Flag,,,,78
+79,,EES SAP GL Code,"G/L coding for source A/R systems, Oracle, SAP?","G/L coding for source A/R systems, Oracle, SAP?",,,,79
+80,,,,EES Comments (for RM comments only),,,,80
+81,,Utility Account #,Customer's Utility Account Number,Customer's Utility Account Number,,,Customer's Utility Account Number,81
+82,Flow Begin Date,Service Period - Start Date,"Customer's ""From Date"" from Invoice","Customer's ""From Date"" from Invoice",,,"Customer's ""From Date"" from Invoice",82
+83,Flow End Date,Service Period - End Date,"Customer's ""To Date"" from Invoice","Customer's ""To Date"" from Invoice",,,"Customer's ""To Date"" from Invoice",83
+84,,,,Estimated Bill Amount,,,Estimated Bill Amount,84
+85,,,,Difference between Estimate and Actual Bill Amount,,,Difference between Estimate and Actual Bill Amount,85
+86,,Meter #,,,,,Meter #,86
+87,"Price Type (e.g. Commodity, Tax, ...)","Line Item (Commodity, Tax, T&D, Various Pass-Thru's )",,,,,,87
+88,,$ Amount Per Line Item,,,,,,88
+89,Volume,Volume (Quantity),,,,,Volume,89
+90,,Volume (Unit of Measure),,,,,Volume (Unit of Measure),90
+91,"Volume Frequency (e.g. daily, monthly, total for period)",,,,,,"Volume Frequency (e.g. daily, monthly, total for period)",91
+92,"Volume Status (e.g. estimated, actual)","Volume Type (Nomination, Accrual, Actual)",,,,,"Volume Status (e.g. estimated, actual)",92
+93,,EES SAP Accounting Date,,,,,,93
+94,,EES SAP STAT Code,,,,,,94
+95,,A/P vs A/R Identification,,,,,,95
+96,Rate Schedule (if applicable -e.g. Name of Utility Rate Class),,,,,,Rate Schedule (if applicable -e.g. Name of Utility Rate Class),96
+97,Rate Name (if applicable -e.g. IF-Transco/Z6 New York Restricted),,,,,,Rate Name (if applicable -e.g. IF-Transco/Z6 New York Restricted),97
+98,Pass Through Fee (Yes/No),,,,,,,98
+99,"Price (Per Unit)/Rate  (e.g. Per Unit $50.00 USD/MWH or Rate $100,000 USD)",,,,,,"Price (Per Unit)/Rate  (e.g. Per Unit $50.00 USD/MWH or Rate $100,000 USD)",99
+100,"Price Currency (e.g. USD, CAD, etc.)",,,,,,,100
+101,Total Amount (Price * Volume),,,,,,,101
+102,"Total Amount Currency (e.g. USD, CAD, etc.)",,,,,,,102
+103,,,,,,,,103
+,,,,,,,,
+,,,,,,,"Source of usage data (UDC, EES systems, websites, FTP from 3rd-party vendors, etc.)",104
+,,,,,,,Exact format of usage data received,105
+,,,,,,,Frequency and timing of data availability,106
+,,,,,,,Demand or congestion zone for site (power),107
+,,,,,,,Flag for Interval-metered customers (power),108
+,,,,,,,Profile used for settlements where applicable (power),109
+,,,,,,,Flag for daily vs. monthly-settled customers (gas),110
+,,,,,,,"Operations grouping (LDC, pool, Nomination Group ID) (gas)",111
+,,,,,,,"Customer type, SIC code (gas, power)",112
+,,,,,,,"Flag for firm vs interruptible customer (gas, power)",113

@@ -1,0 +1,10 @@
+Item,Monthly Recurring Cost,Non-Recurring Cost
+Cisco 6509 Switch - Westin,500,100000
+Cisco 6509 Switch - Level-3,500,100000
+Dark Fiber between Westin & Level-3,5000,5000
+Fiber Riser from 11th to 19th,1000,2000
+Fiber Riser from 13th to 19th,1000,2000
+Colocation Rack @ Level-3,1000,1000
+,,
+,,
+Total,9000,210000

@@ -1,0 +1,17 @@
+Buyer           ,Seller          ,Deal No.   ,Originator ,Type        ,Deal Date ,Status       ,Reason               ,Quantity             ,Comm   ,Delivery Ref    ,Beg Date ,End Date ,Price 
+,,,,,,,,,,,,,
+RELIANTENEENT  ,ENA            ,NO0793.2  ,          ,Swap       ,2000-06-27 00:00:00,Pending     ,Sent to legal       ,20000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-07-01 00:00:00,2000-10-31 00:00:00,US 4.4925 
+RELIANTENEENT  ,ENA            ,NP4359.1  ,Arnold Joh,Swap       ,2000-06-30 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-12-01 00:00:00,2001-01-31 00:00:00,US 4.4650 
+RELIANTENEENT  ,ENA            ,NP4459.1  ,Wallis Jan,Swap       ,2000-06-30 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-08-01 00:00:00,2000-10-31 00:00:00,US 4.4500 
+RELIANTENEENT  ,ENA            ,NP5288.1  ,          ,Swap       ,2000-07-05 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-08-01 00:00:00,2000-09-30 00:00:00,US 4.2400 
+RELIANTENEENT  ,ENA            ,NP5288.2  ,          ,Swap       ,2000-07-05 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-12-01 00:00:00,2001-01-31 00:00:00,US 4.2750 
+RELIANTENEENT  ,ENA            ,NP5288.4  ,          ,Swap       ,2000-07-05 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-10-01 00:00:00,2000-10-31 00:00:00,US 4.2400 
+RELIANTENEENT  ,ENA            ,NP8804.1  ,Arnold Joh,Swap       ,2000-07-06 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-08-01 00:00:00,2001-01-31 00:00:00,US 4.1750 
+RELIANTENESER  ,ENA            ,NY4684.1  ,Sturm Flet,Forward    ,2000-09-07 00:00:00,Pending     ,Sent to legal       ,                    ,NG    ,IF ANR/LA,2000-11-01 00:00:00,2001-03-31 00:00:00,0.015
+ENA            ,RELIANTENEENT  ,NQ0954.1  ,Arnold Joh,Swap       ,2000-07-07 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-08-01 00:00:00,2001-01-31 00:00:00,US 4.2600 
+ENA            ,RELIANTENEENT  ,NT8254.1  ,Wallis Jan,Swap       ,2000-08-03 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-10-01 00:00:00,2001-03-31 00:00:00,US 4.2250 
+ENA            ,RELIANTENEENT  ,NX6326.1  ,Wallis Jan,Swap       ,2000-08-30 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-12-01 00:00:00,2001-01-31 00:00:00,US 4.6900 
+ENA            ,RELIANTENEENT  ,NY4414.2  ,          ,Swap       ,2000-09-07 00:00:00,Pending     ,Sent to legal       ,5000 MMBtu/day      ,NG    ,IF-HPL/SHPCHAN ,2000-10-01 00:00:00,2001-09-30 00:00:00,US 4.5300 
+ENA            ,RELIANTENEENT  ,NY8330.1  ,          ,Swap       ,2000-09-11 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2001-02-01 00:00:00,2001-08-31 00:00:00,US 4.4200 
+ENA            ,RELIANTENEENT  ,NZ7026.1  ,Wallis Jan,Swap       ,2000-09-15 00:00:00,Pending     ,Sent to legal       ,10000 MMBtu/day     ,NG    ,IF-HPL/SHPCHAN ,2000-10-01 00:00:00,2000-11-30 00:00:00,US 5.3500 
+ENA            ,RELIANTENESER  ,Q15401.1  ,          ,Forward    ,2000-09-27 00:00:00,Pending     ,Sent to legal       ,                    ,NG    ,IF-CIG/RKYMTN,2000-11-01 00:00:00,2001-03-31 00:00:00,0.015

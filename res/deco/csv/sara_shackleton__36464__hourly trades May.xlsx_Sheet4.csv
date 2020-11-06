@@ -1,0 +1,24 @@
+Deal ID,Counterparty,Deal Date,Deal Start Date,Deal End Date,,Volume,Fixed Price,Buy/Sell,Instrument,From Delivery Point
+336634.1,Entergy Power Marketing Corp.,2000-05-09 10:21:10,2000-05-09 00:00:00,2000-05-09 00:00:00,,96,400,B,SWAP,PJM-Western Hub
+344288.1,"PG&E Energy Trading - Power, L.P.",2000-05-24 10:21:33,2000-05-24 00:00:00,2000-05-24 00:00:00,,50,95,B,SWAP,NEPOOL PTF
+334416.2,Public Service Electric and Gas Company,2000-05-01 10:03:00,2000-05-04 00:00:00,2000-05-04 00:00:00,,50,30,S,SWAP,Financial Deal - R1A
+334398.2,Public Service Electric and Gas Company,2000-05-01 10:06:00,2000-05-04 00:00:00,2000-05-04 00:00:00,,100,31,S,SWAP,Financial Deal - R1A
+333929.2,Public Service Electric and Gas Company,2000-05-01 10:09:00,2000-05-03 00:00:00,2000-05-03 00:00:00,,100,24,S,SWAP,Financial Deal - R1A
+333863.2,Public Service Electric and Gas Company,2000-05-01 10:16:00,2000-05-03 00:00:00,2000-05-03 00:00:00,,50,34,B,SWAP,Financial Deal - R1A
+333335.2,Public Service Electric and Gas Company,2000-05-01 10:21:00,2000-05-03 00:00:00,2000-05-03 00:00:00,,50,30,S,SWAP,Financial Deal - R1A
+332300.2,Public Service Electric and Gas Company,2000-05-01 10:31:00,2000-05-02 00:00:00,2000-05-02 00:00:00,,50,24,B,SWAP,Financial Deal - R1A
+332264.2,Public Service Electric and Gas Company,2000-05-01 11:02:00,2000-05-02 00:00:00,2000-05-02 00:00:00,,50,24,B,SWAP,Financial Deal - R1A
+339823.2,Public Service Electric and Gas Company,2000-05-01 11:05:00,2000-05-15 00:00:00,2000-05-15 00:00:00,,50,24.5,S,SWAP,Financial Deal - R1A
+339827.2,Public Service Electric and Gas Company,2000-05-01 11:09:00,2000-05-15 00:00:00,2000-05-15 00:00:00,,100,25.5,S,SWAP,Financial Deal - R1A
+343932.2,Public Service Electric and Gas Company,2000-05-22 19:13:00,2000-05-23 00:00:00,2000-05-23 00:00:00,,100,30,S,SWAP,FINANCIAL DEAL-R1E Western HUB
+343706.2,Public Service Electric and Gas Company,2000-05-22 19:15:00,2000-05-23 00:00:00,2000-05-23 00:00:00,,100,36,S,SWAP,FINANCIAL DEAL-R1E Western HUB
+343180.2,Public Service Electric and Gas Company,2000-05-21 19:17:00,2000-05-22 00:00:00,2000-05-22 00:00:00,,50,26,S,SWAP,FINANCIAL DEAL-R1E Western HUB
+343180.2,Public Service Electric and Gas Company,2000-05-21 19:17:00,2000-05-22 00:00:00,2000-05-22 00:00:00,,50,25,S,SWAP,FINANCIAL DEAL-R1E Western HUB
+344374.2,Public Service Electric and Gas Company,2000-05-23 19:38:00,2000-05-24 00:00:00,2000-05-24 00:00:00,,50,36.5,S,SWAP,FINANCIAL DEAL-R1E Western HUB
+346365.2,Sempra Energy Trading Corp.,2000-05-29 19:53:00,2000-05-30 00:00:00,2000-05-30 00:00:00,,50,31.5,B,SWAP,FINANCIAL DEAL-R1E Western HUB
+346370.2,"Statoil Energy Trading, Inc.",2000-05-30 19:57:17,2000-05-30 00:00:00,2000-05-30 00:00:00,,50,23,B,SWAP,FINANCIAL DEAL-R1E Western HUB
+346370.2,"Statoil Energy Trading, Inc.",2000-05-30 19:57:17,2000-05-30 00:00:00,2000-05-30 00:00:00,,50,25,B,SWAP,FINANCIAL DEAL-R1E Western HUB
+332259.2,"Tractebel Energy Marketing, Inc.",2000-05-01 09:41:00,2000-05-02 00:00:00,2000-05-02 00:00:00,,100,24,B,SWAP,Financial Deal - R1A
+334407.2,"Tractebel Energy Marketing, Inc.",2000-05-01 09:44:00,2000-05-04 00:00:00,2000-05-04 00:00:00,,50,31,S,SWAP,Financial Deal - R1A
+339997.2,"Tractebel Energy Marketing, Inc.",2000-05-01 09:59:00,2000-05-15 00:00:00,2000-05-15 00:00:00,,50,22,B,SWAP,Financial Deal - R1A
+344221.2,"Tractebel Energy Marketing, Inc.",2000-05-23 19:09:00,2000-05-24 00:00:00,2000-05-24 00:00:00,,50,32,B,SWAP,FINANCIAL DEAL-R1E Western HUB

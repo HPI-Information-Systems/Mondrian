@@ -1,0 +1,22 @@
+Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00,Status of High Level Attributes for East Power RTOs / ISOs as of 12/8/00
+,,,,,,,,,,,,,,,
+,Attribute,MISO,IMO,SPP,Entergy,Grid South,S/E RTO,Alliance,Grid Florida,NYISO,NEISO,HQ,PJM,ERCOT,RTO West
+1,"No ""Native Load"" Preferences ",N,U,N,N,N,N,N,Y,Y,Y,N,Y,Y,Y
+2,Single OATT for all services and all customers,Y,Y,N,U,N,N,Y,Y,Y,Y,Y,Y,Y,Y
+3,Real time energy balancing market with  hourly market clearing prices (and no penalties for imbalance),N,Y,Y,Y,N,N,Y,U,Y,Y,N,Y,N,Y
+4,Zonal markets for real time energy balancing market defined by electrically significant constraints,Y,N,N,N,N,N,Y,Y,N,U,N,N,Y,Y
+5,Mandatory generation participation in real time energy market,N,N,N,N,N,N,N,U,N,U,N,Y,N,N
+6,"Day Ahead market:  ISO load forecast creates demand curve, generation offers create supply curve (hourly)",N,N,Y,U,N,N,N,U,Y,U,N,Y,Y,N
+7,Market based congestion management independently administered by market function,N,N,Y,Y,N,N,N,Y,N,U,N,Y,N,Y
+8,No requirement for Balanced Schedules,N,Y,Y,Y,N,N,U,U,N,U,N,Y,N,N
+9,Load pays Transmission fixed costs through access fee,Y,Y,Y,U,Y,Y,Y,U,Y,U,U,Y,Y,Y
+10,Potential to self-supply ancillary services (with ISO as POLR),N,N,Y,Y,Y,Y,Y,U,N,U,Y,U,Y,Y
+11,Single Control Area for RTO,N,Y,N,Y,N,Y,N,N,Y,Y,Y,Y,Y,Y
+12,"Public Release of market and operating information (outages, supply curve,demand curves, interchange, etc.).",N,U,Y,U,N,N,N,N,N,N,U,N,Y,N
+13,No preferential allocation of congestion rights.,N,U,N,N,N,N,N,N,N,N,U,N,Y,N
+,,,,,,,,,,,,,,,
+,Y = Compliant,,,,,,,,,,,,,,
+,N = Not Compliant,,,,,,,,,,,,,,
+,U = Unknown ,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,All responses use best available information of status as of date listed above and may change over time.,,,,,,,,,,,,,,

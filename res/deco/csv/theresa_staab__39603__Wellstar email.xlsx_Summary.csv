@@ -1,0 +1,38 @@
+,,Bill To:  ,,,Remit To:,
+,,,,,,Verification Date: 
+,,Enron North America Corp.,,,Wellstar Corporation,2001-12-17 00:00:00
+,,,,,Bank:  First National Bank of Longmont,
+,,,,,ABA:  107000628,Due Date:
+,,,,,Acct:  14-9039,2001-12-31 00:00:00
+,,,,,,
+,,,,,,Payment Method:
+,,Contact:  Theresa Staab ,,,Contact:  Tim Collins,Wire
+,,Tel:  (303) 575-6485,,,Tel:  (303) 280-4516,Terms:
+Enron North America Corp.,,Fax: (303) 534-0552,,,Fax: (303) 280-4523,On or before last day of month
+2001-12-17 09:40:00.320000,,,,,,
+Delivery Period: ,Contract #,Meter # / Meter Name,,,,
+2001-11-01 00:00:00,96027277,0814005-Wellstar Screw #1 Discharge Mtr,,,,
+,,0814004-Wellstar Screw #2 Discharge Mtr,,,,
+,,,,,,
+,,,,,,
+,Index,Discount / Premium,Price/MMBtu,Mcf Quantity,MMBtu Quantity,Amount Due
+11/01/01 - 11/30/01,FOM CIG GD,-0.4654,1.2725082864038615,4017.603949160236,3729,4745.1834
+11/01/01 - 11/30/01,FOM IF NGPL-Midcont.,-0.715,2.325,49124.87789378121,45596,106010.7
+11/01/01 - 11/30/01,FOM IF CIG - Rockies,-0.4924,0,0,0,0
+11/01/01 - 11/30/01,Add'l IF CIG,-0.6004,,0,0,0
+11/01/01 - 11/30/01,,Fuel Loss,$             0.00,3821.5181570585564,3547,$                                        0.00
+11/01/01 - 11/30/01,,,,56964,52872,110755.88340000005
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,TOTAL PAYMENT,,,110755.88340000005

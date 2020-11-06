@@ -1,0 +1,41 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,HANSON PERMANENTE CEMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+, ,,,,,Power Usage Forecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CALIFORNIA SCHEDULING COORDINATION AND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ENERGY PURCHASES AND SALES AGREEMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Monday: Tuesday Scheduling
+,Day of Scheduling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tuesday: Wednesday Scheduling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wednesday: Thursday Scheduling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thursday: Friday & Saturday Scheduling
+,2002-04-14 00:00:00,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,HE,Total,,,,,,,,,Friday: Sunday and Monday LLH Scheduling
+,2002-04-15 00:00:00,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,,,,,,,,,,Friday: Monday HLH
+,Long Term Purchase Quantity for Sunday,29.856,29.724,29.64,29.592,29.604,29.652,29.832,29.712,29.808,27.972,25.116,25.02,24.96,24.912,24.792,25.176,25.38,24.936,24.996,23.328,23.784,25.248,25.356,24.336,642.7319999999999,,,,,,,,,Holiday
+,Long Term Purchase Quantity for Monday LLH,25.752,25.932,25.776,25.656,25.728,25.86,28.272,31.428,30.864,28.884,28.812,27.888,27.288,30.936,30.792,30.504,30.276,30.444,30.084,28.5,29.868,30.78,31.164,30.984,,,,,,,,,,
+,Expected Usage for Sunday,12.950235906692585,12.950235906692585,12.950235906692585,12.950235906692585,12.950235906692585,12.950235906692585,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.150235906692586,13.725235906692586,13.725235906692586,13.725235906692586,13.725235906692586,14.605235906692586,14.605235906692586,319.6156617606221,,,,,,,,,
+,Expected Usage for Monday LLH,31.610235906692587,31.610235906692587,31.610235906692587,31.610235906692587,32.36023590669259,32.36023590669259,32.56023590669258,32.56023590669258,32.56023590669258,32.56023590669258,32.56023590669258,32.56023590669258,31.035235906692584,31.035235906692584,31.785235906692584,30.905235906692585,30.905235906692585,30.905235906692585,31.480235906692585,31.480235906692585,32.36023590669259,32.36023590669259,31.610235906692587,31.610235906692587,,,,,,,,,,
+,Preschedule Quantity for Sunday,12.856000000000002,12.724,12.64,12.591999999999999,12.604,12.652000000000001,12.832,12.712,12.808,12.972000000000001,13.116,13.02,12.96,12.911999999999999,12.792000000000002,13.175999999999998,13.379999999999999,12.936,13.995999999999999,13.328,13.783999999999999,13.248000000000001,14.356000000000002,14.335999999999999,314.732,,,,,,,,,
+,Preschedule Quantity for Monday LLH,31.752,31.932,31.776,31.656,32.728,32.86,,,,,,,,,,,,,,,,,31.164,31.984,,,,,,,,,,
+,Total Incremental Quantity (Hanson needs to purchase) for Sunday,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+,Total Incremental Quantity (Hanson needs to purchase) for Monday LLH,6,6,6,6,7,7,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,
+,Total Decremental Quantity (Hanson needs to sell) for Sunday,-17,-17,-17,-17,-17,-17,-17,-17,-17,-15,-12,-12,-12,-12,-12,-12,-12,-12,-11,-10,-10,-12,-11,-10,,,,,,,,,,
+,Total Decremental Quantity (Hanson needs to sell) for Monday LLH,0,0,0,0,0,0,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,
+,Day Ahead Incremental Quantity (Hanson needs to purchase),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+,Day Ahead Decremental Quantity (Hanson needs to sell),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+,Real Time Incremental Quantity (Hanson needs to purchase) for Sunday,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+,Real Time Incremental Quantity (Hanson needs to purchase) for Monday LLH,6,6,6,6,7,7,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,
+,Real Time Decremental Quantity (Hanson needs to sell) for Sunday,-17,-17,-17,-17,-17,-17,-17,-17,-17,-15,-12,-12,-12,-12,-12,-12,-12,-12,-11,-10,-10,-12,-11,-10,,,,,,,,,,
+,Real Time Decremental Quantity (Hanson needs to sell) for Monday LLH,0,0,0,0,0,0,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Contact Persons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EPMI,Telephone,,,E-Mail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Stan Cocke,503/464-3829,503/464-3829,503/464-3829,scocke@enron.com,scocke@enron.com,scocke@enron.com,scocke@enron.com,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Lisa Gang,503/464-5053,503/464-5053,503/464-5053,lgang@enron.com,lgang@enron.com,lgang@enron.com,lgang@enron.com,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Chris Foster,503/464-3822,503/464-3822,503/464-3822,chris.h.foster@enron.com,chris.h.foster@enron.com,chris.h.foster@enron.com,chris.h.foster@enron.com,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Les Rawson,503/464-3824,503/464-3824,503/464-3824,lrawson@enron.com,lrawson@enron.com,lrawson@enron.com,lrawson@enron.com,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Serena Bishop,503 464 3911,,,serena.bishop@enron.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hanson,Telephone,Telephone,Telephone,E-Mail,E-Mail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Peter Russo - Production Manager,408 996 4235,,,peter.russo@hansonamerica.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Alan Strong - Electrical Engineer,408 996 4267,,,alan.strong@hansonamerica.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Stewart Smith  - VP Operations,408 996 4271,,,stewart.smith@hansonamerica.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Craig Adams - Accounts,408 996 4240,,,craig.adams@hansonamerica.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

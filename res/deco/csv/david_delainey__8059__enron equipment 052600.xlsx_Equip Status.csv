@@ -1,0 +1,33 @@
+MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST
+,,,,,,,,,,,,,,,,
+Developing Company,GT/ST/HRSG,Quantity,Manufacturer,Purchaser,On/Off Balance Sheet,BOP Purchased (Y/N),Delivery Date(s),Total Capex Commitment (MM USD),Project(s),Originator/  Developer,Hz,Total  MW @ ISO,Heat Rate,New/Used GT,Comments,Payment Dates & Amounts
+ENA,LM6000,24,GE,WLB,Off,Y - Transformers to be purchased 4/24/00 from ABB via WLB,1-3 7/00; 4-6 8/00; 7-8 9/00; 9-11 10/00; 12-13 11/00; 14-15 12/00; 16-18 1/01; 19-20 2/01; 21-22 3/01; 23-24 4/01,336,2 - Con Ed                              4 - Las Vegas Co-Gen                                      4 - City of Austin                                  4- Puerto Suarez (ESA)                                                     6 - Florida Merchant                                                                               2 - ENA Other                            2- City of San Antonio (tentative),Dietrich/Jacoby,60,1164,9805,New,,
+ENA,7FA,1,GE,ENA,,,2000-09-01 00:00:00,32,Vitro/Mexico,Max Yazguirra,,157,,,,
+ENA,7FA; ST not yet ordered,1,GE,WLB,Off,N,tentative 1/1/01,35,Midwest/Peoples                     (Wilton Expansion),Dietrich/ Luce,60,156,,New,One of orginal Cogen Tech GTs; WLB and Peoples have ADA between themselves,See attached worksheet
+ENA,7FA2,3,GE,WLB,Off,N,,,Pastoria,Parquet,60,750,,New,,
+ENA,ST,1,,ENA,On,,2000,2.3,Korean,,,,,,,
+ENA,7FA,1,GE,EECC,On,N,2001-04-30 00:00:00,36,1 - ENA Coyote Springs 2,Thomas,60,156,,New,aka NACO GTs,
+ENA,11N1,2,ABB,WLB,Off,N,Available Now,26,Canada,Dietrich/Jacoby,60,166,,Used,,
+,,,,,,,,,,,,,,,,
+EECC,501D5A,1,Westinghouse,CALME,On,N,2001-11-01 00:00:00,24,CALME Panama,Shultz/Barto,60,122,,New,,90% pd to date; shipment (est 6/3) - 5%; COD (est 8/1) - 5%
+EECC,7FA; 1 - ST,2,GE,WLB3,Off,N,1 - 7/01; 1 - 8/01; ST 8/01,95,GenPower,Barto,60,600,,New,,See attached worksheet
+EECC,7FA; 1 - ST,2,GE,WLB3,Off,N,1 - 9/01; 1 - 10/01; ST 9/01,95,GenPower,Barto,60,600,,New,,See attached worksheet which includes schedule for CS2 & NEPCO NESCO
+EECC,7FA,1,GE,EECC,On,N,2001-09-01 00:00:00,54,Goldendale (NEPCO),Westfahl,60,244,,New,aka NACO GTs,See attached worksheet
+EECC,V94.2; ST; HRSG,1,Siemens; Toshiba ST & HRSG,EECC,On,N,2001-11-01 00:00:00,64,Croatia,Barto,50,,10083,Used,,5% - manu release; 15% NTP; 15% 3 mos after NTP; 10% 6 mos after NTP; 20% delivery GT; 10% delieveru of generator; 5% delivery of PCC container; 15% completion of erection; 5% pass performance test
+EECC,7EA2,2,GE,LJM,"Off3,4",N,1 - 2/01; 1 - 2/02,36,,Barto,60,156,10730,New,,See attached worksheet
+EECC,9FA2,3,GE,EECC3,On,N,1 - 10/01; 1 - 11/01; 1 - 12/01,249,Arcos (Spain),Barto,50,780,10083,New,"Subject to Sutton Bridge Settlement; due to timining issues, Izzo has requested Enron to purchase on balance sheet",
+,,,,,,,,,,,,,,,,
+CALME,F6B Power Barges,9,GE,EI  Powerbarge Co.,On,N,Available Now,72,2 - LIPA,Baca,60,270,"12,500 - 13,000",Used,,
+CALME,F6B,2,GEC,ENA,On,N,Available Now,13,MEAG,Dietrich/Jacoby,60,60,,Used,,
+,,,,,,,,,,,,,,,,
+ESA,501F,2,Mitsubishi,WLB,Off4,N,1- 7/01; 1 - 8/01,70,Riogen,Wiggs,60,368,,New,,
+ESA,501F1,2,Mitsubishi,WLB,"Off3,4",N,1 - 5/01; 1 - 10/01,75,Cuiaba II or Riogen Expansion,Wiggs,60,368,,New,,
+,,60,,,,,,,,,,,,,,
+Enron Europe,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+APACHI,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1ESA has option on these units which it expects to exercise 4/00 or 5/00,,,,,,,,,,,,,,,,
+2Definitve agreement being negotiated,,,,,,,,,,,,,,,,
+3Not officially in WLB but currently being sized for WLB,,,,,,,,,,,,,,,,
+4ESA is currently negotiating a separate WLB-type facility for its projects,,,,,,,,,,,,,,,,

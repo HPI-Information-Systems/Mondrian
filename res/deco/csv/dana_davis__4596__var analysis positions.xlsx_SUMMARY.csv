@@ -1,0 +1,21 @@
+CALPINE PRE-PAY TRANSACTION,,,,,,
+SUMMARY OF DEAL POSITIONS & VAR,,,,,,
+2001-10-04 00:00:00,,,,,,
+,,,,,,
+,,,,,,
+DEAL POSITIONS,,,,,,
+LOCATION,MW,PV MWh,Product,TYPE,Term,Start
+,,,,,,
+Florida,115,459431.21954765054,Energy,5x16,1 years,2002-01-01 00:00:00
+Florida,300,4299106.24754745,Energy,5x16,4 years,2003-01-01 00:00:00
+Florida,100,1199825.6921030013,Energy,"5x8, 2x24",3 years,2004-01-01 00:00:00
+Nepool,50,1966503.467688738,Energy,7x24,5 years,2002-01-01 00:00:00
+PJM-East,250,9832517.338443695,Energy,7x24,5 years,2002-01-01 00:00:00
+Total Energy Position,,17757383.965330534,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+DEAL VAR,,,Florida,Nepool,PJM-East,Total
+Incremenal to East Power,,,,,,-1500000
+Incremental to Power,,,,,,-4100000
+Incremental to Americas,,,,,,32400

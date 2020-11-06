@@ -1,0 +1,46 @@
+Transport Capacity Tickets,,,,,,,,,
+New Desk Assignment,,,,,,,,,
+,,,,,,,,,
+Old Deal #,New Deal #,New Desk,trader,Pipe,K#,delivery point,volume,demand ,comments
+,,,,,,,,,
+413914,865834,ena-im-wsocal,tholt,EPNG,9lrg,ehrenberg,19576,0.39111,
+679266,867594,ena-im-wrockies,lenhart,EPNG,9m97,pg&e topock,19245,0.36503,
+679295,867600,ena-im-wsocal,tholt,EPNG,9m98,mojave,15947,0.36503,
+679303,867605,ena-im-wsocal,tholt,EPNG,9mga,socal,24761,0.36503,
+809985,867763,ena-im-wrockies,lenhart,EPNG,9mbu,pg&e topock,10795,0.359393,
+809995,867764,ena-im-wkeystone,gay,EPNG,9mk4,socal,3975,0.359393,
+810000,867769,ena-im-wkeystone,gay,EPNG,9md3,ehrenberg,22836,0.359393,
+810004,867773,ena-im-wrockies,lenhart,EPNG,9me4,pg&e topock,200000,0.359393,
+810044,867774,ena-im-wrockies,lenhart,EPNG,9me9,pg&e topock,16450,0.359393,
+89057,864970,ena-im-wsj,kuykendall,EPNG,97zh,citizens,37611,0.25589177631578947,reimbursable
+87980,864743,ena-im-wsj,kuykendall,EPNG,9e3x,valero,16495,0.14255723684210525,
+105741,865017,ena-im-wsj,kuykendall,EPNG,97zv,mesa,14247,0.25589144736842107,reimbursable
+,,,,,,,,,
+87870,864740,ena-imwsj,kuykendall,TW,24568,valero,25000,0.208,
+87870,864740,ena-imwsj,kuykendall,TW,24568,valero,5000,0.208,
+87870,864740,ena-imwsj,kuykendall,TW,24568,valero,2000,0.208,
+87861,864713,ena-imwsj,kuykendall,TW,24654,valero,8000,0.208,
+108125,865019,ena-imwsj,kuykendall,TW,24669,blanco,12311,0,volumetrice demand
+87842,864610,ena-imwsj,kuykendall,TW,26519,thoreau,25000,0.1031,
+87849,864652,ena-imwsj,kuykendall,TW,26520,flagstaff,25000,0.2089,reimbursable
+99594,865004,ena-imwsj,kuykendall,TW,24924,bloomfield,25000,0.059,
+99596,865010,ena-imwsj,kuykendall,TW,26740,compressor fuels,8000,0.05,reimbursed through purchase
+87857,864665,ena-imwsj,kuykendall,TW,24754,eastern NM,10000,0.0907,reimbursable
+,,,,,,,,,
+255912,865053,ena-im-wrockies,lenhart,NWPL,125244,ignacio,30415,0.015,
+260032,865078,ena-im-wrockies,lenhart,NWPL,125248,muddy creek,30000,0.015,
+254781,865052,ena-im-wrockies,lenhart,NWPL,125142,xo 16,20000,0.015,
+,,,,,,,,,
+523482,867379,ena-im-wpge,south,PG&E,0202bof016,krs,20000,0.1681217105263158,
+521472,867121,ena-im-wpge,south,PG&E,0202bon007,city gate,80000,0.12688486842105265,
+715521,867762,ena-im-wpge,south,PG&E,0202bon009,city gate,225000,4.692,
+,,,,,,,,,
+433426,866108,ena-im-wpge,south,PGEN,7250,malin,15000,9.91671,reimbursable
+318532,865670,ena-im-wpge,south,PGEN,7127,malin,4950,4.731061,
+622316,867573,ena-im-wpge,south,PGEN,7457,malin,1759,4.731057,
+87674,864353,ena-im-wpge,south,PGEN,6557,malin,10000,0.26603,reimbursable
+87687,864423,ena-im-wpge,south,PGEN,5715,malin,10000,0.25648,reimbursable
+87698,864462,ena-im-wpge,south,PGEN,5290,malin,52500,9.91672,reimbursable
+622245,867542,ena-im-wpge,south,PGEN,7454,malin,628,0.257784,
+,,,,,,,,,
+,,ena-im-wpge,south,KERN,1866,wheeler ridge,27000,0.7704,

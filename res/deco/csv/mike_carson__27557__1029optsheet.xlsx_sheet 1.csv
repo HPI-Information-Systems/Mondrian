@@ -1,0 +1,133 @@
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Close of Business:,,2001-10-29 00:00:00,  4:00 PM,,,
+,,,,,,
+,,Month,Underlying,Option,Bid,Offer
+Cinergy Options,,,,,,
+,,,,,,
+,Cin,Nov,25.25,20 dp,0.5,0.75
+,Cin,Nov,25.25,25 dp,2.5,2.85
+,Cin,Nov,25.25,25 dc,2.5,3
+,Cin,Nov,25.25,30 dc,0.75,1.75
+,Cin,Nov,25.25,25 mc,0.5,1
+,Cin,Nov,25.25,26 mc,0.15,0.5
+,,,,,,
+,,,,,,
+,Cin,Dec,28,ATM Mth Strad,3.4,3.6
+,Cin,Dec,28,25 dp,2.8,3
+,Cin,Dec,28,30 dp,5.75,7
+,Cin,Dec,28,30 dc,3,3.5
+,Cin,Dec,28,25 mp,0.5,0.6
+,Cin,Dec,28,27 mp,2.15,2.5
+,Cin,Dec,28,28 mc,1.65,1.85
+,Cin,Dec,28,29 mc,1.25,1.5
+,Cin,Dec,28,30 mc,0.75,1.25
+,,,,,,
+,,,,,,
+,Cin,Jan-Dec 02,33.65,43 1 x C,0.07,0.2
+,,,,,,
+,,,,,,
+,Cin,Jan-Feb02,30.3,ATM Mth Straddle,5.5,7
+,Cin,Jan-Feb02,30.3,25 dp,2.5,2.7
+,Cin,Jan-Feb02,30.3,30 dp,5.25,5.5
+,Cin,Jan-Feb02,30.3,25 mp,0.6,1.25
+,Cin,Jan-Feb02,30.3,35 mc,1,2
+,Cin,Jan-Feb02,30.3,40 mc,0.5,1.15
+,Cin,Jan-Feb02,30.3,30 / 40 mcspr,2.4,2.75
+,,,,,,
+,,,,,,
+,Cin,MarApr,28.25,20 dp,0.5,1.25
+,Cin,MarApr,28.25,25 dp,2.5,3.5
+,Cin,MarApr,28.25,30 dp,5,6.75
+,,,,,,
+,,,,,,
+,Cin,May,30.25,ATM Straddle,6,7
+,Cin,May,30.25,35 mc,1.5,2
+,,,,,,
+,Cin,June,40.3,ATM Straddle,9.15,9.5
+,Cin,June,40.3,50 mc,2,2.5
+,Cin,June,40.3,50 dc,6,7
+,,,,,,
+,Cin,Summer 02,51.6,ATM Mth Straddle,13,16
+,Cin,Summer 02,51.6,25 dp,1,1.6
+,Cin,Summer 02,51.6,30 dp,2.5,3.75
+,Cin,Summer 02,51.6,35 dp,4,5
+,Cin,Summer 02,51.6,40 dp,5,7
+,Cin,Summer 02,51.6,50 dp,13,15
+,Cin,Summer 02,51.6,60 mc,4.5,5.5
+,Cin,Summer 02,51.6,75 mc,2.25,3.25
+,,,,,,
+,Cin,September,27.8,25 dp,2.75,3.5
+,,,,,,
+,,,,,,
+,Cin,Oct/Nov/Dec_02,28.5,25 dp,2.5,4
+,,,,,,
+,,,,,,
+,,,,,,
+Entergy Options,,,,,,
+,Ent,Nov,25.3,25 dp,1.75,2
+,Ent,Nov,25.3,30 dc,0.6,0.85
+,,,,,,
+,,,,,,
+,PJM,Nov,28.4,30 dp,3,5
+,PJM,Nov,28.4,30 dc,1.3,1.5
+,,,,,,
+,,,,,,
+,PJM,JanFeb,35.55,ATM Mth Straddle,6,7.5
+,PJM,JanFeb,35.55,35 D Straddle,10.75,11.25
+,PJM,JanFeb,35.55,25 dp,0.75,0.85
+,PJM,JanFeb,35.55,30 dp,2.25,2.5
+,PJM,JanFeb,35.55,35 dp,4.95,5.4
+,PJM,JanFeb,35.55,40 dc,4.25,5.25
+,PJM,JanFeb,35.55,50 dc,2.65,3.5
+,PJM,JanFeb,35.55,30 mp,0.9,1.5
+,PJM,JanFeb,35.55,40 mc,1.7,2.5
+,PJM,JanFeb,35.55,45 mc,0.85,1.5
+,PJM,JanFeb,35.55,50 mc,0.5,1.25
+,,,,,,
+,,,,,,
+,PJM,Summer,58.3,ATM Mth Straddle,16.5,19
+,PJM,Summer,58.3,100 dc,9.5,12
+,PJM,Summer,58.3,50 mp,4,4.8
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Cinergy ATM Volatilities (Indications):,,,,,,
+,,Daliy Volatility (%),,Monthly Volatility (%),,
+,,,,,,
+,Nov,125 - 150,,,,
+,Cal 02 Bullets,,,30 - 37,,
+,FG,80 - 95,,48 - 58,,
+,HJ,55 - 75,,35 - 42,,
+,K,60 - 80,,35 - 42,,
+,M,65 - 85,,38 - 48,,
+,Summer 02,95 - 115,,42 - 52,,
+,,,,,,
+,,,,,,
+PJM ATM Volatilities (Indications):,,,,,,
+,,Daliy Volatility (%),,Monthly Volatility (%),,
+,,,,,,
+,Nov,100 - 140,,,,
+,Cal 02 Bullets,,,30 - 36,,
+,FG,80 - 100,,45 - 55,,
+,HJ,55 - 75,,35 - 45,,
+,K,60 - 80,,30 - 40,,
+,M,60 - 80,,35 - 50,,
+,Summer 02,80 - 110,,42 - 47,,

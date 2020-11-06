@@ -1,0 +1,76 @@
+Plant,,,,Region,Fuel,MW,Begin Date,End Date,Reason
+West Phoenix 4,,,,DSW,Gas,33,1990-01-01 00:00:00,2002-07-15 00:00:00,Scheduled
+Alamitos 1,,,,SP15,Gas,175,2000-11-16 00:00:00,2001-05-26 00:00:00,Forced
+Redondo Beach 5,,,,SP15,Gas,175,2000-11-16 00:00:00,2001-05-25 00:00:00,Scheduled
+Hunter 1,,,,PNW,Coal,415,2000-11-24 00:00:00,2001-04-29 00:00:00,Forced
+Broadway (CA) B1,,,,SP15,Gas,42,2000-12-01 00:00:00,2001-06-01 00:00:00,Forced
+Broadway (CA) B2,,,,SP15,Gas,42,2000-12-01 00:00:00,2001-05-15 00:00:00,Forced
+Alameda Combustion Turbines 1,,,,NP15,Gas,24,2001-01-25 00:00:00,2001-05-10 00:00:00,Forced
+Alameda Combustion Turbines 2,,,,NP15,Gas,25,2001-01-25 00:00:00,2001-05-10 00:00:00,Forced
+Highgrove 1,,,,SP15,Gas,32,2001-01-25 00:00:00,2001-05-27 00:00:00,Scheduled
+Highgrove 2,,,,SP15,Gas,33,2001-01-25 00:00:00,2001-05-27 00:00:00,Scheduled
+Highgrove 3,,,,SP15,Gas,44,2001-01-25 00:00:00,2001-05-27 00:00:00,Scheduled
+Highgrove 4,,,,SP15,Gas,45,2001-01-25 00:00:00,2001-05-27 00:00:00,Scheduled
+San Bernardino 1,,,,SP15,Gas,63,2001-01-25 00:00:00,2001-04-25 00:00:00,Scheduled
+San Bernardino 2,,,,SP15,Gas,63,2001-01-25 00:00:00,2001-04-25 00:00:00,Scheduled
+El Segundo 3,,,,SP15,Gas,335,2001-01-27 00:00:00,2001-05-16 00:00:00,Scheduled
+Etiwanda 4,,,,SP15,Gas,320,2001-01-28 00:00:00,2001-05-15 00:00:00,Scheduled
+Roseville Combustion Turbines 2,,,,NP15,Gas,25,2001-01-29 00:00:00,2001-05-10 00:00:00,Scheduled
+San Onofre 3,,,,SP15,Nuke,1080,2001-02-13 00:00:00,2001-06-15 00:00:00,Forced
+Fredonia (WA) 1,,,,PNW,Gas,108,2001-02-24 00:00:00,2001-06-21 00:00:00,Forced
+AES Placerita Incorported 1,,,,SP15,Gas,100,2001-02-26 00:00:00,2001-04-25 00:00:00,Scheduled
+Beaver 7,,,,PNW,Gas,141,2001-03-03 00:00:00,2001-04-27 00:00:00,Scheduled
+Alamitos 4,,,,SP15,Gas,320,2001-03-05 00:00:00,2001-05-03 00:00:00,Scheduled
+Haynes Generating Station 6,,,,SP15,Gas,341,2001-03-07 00:00:00,2001-04-28 00:00:00,Scheduled
+Stockton CoGen Co. ALL,,,,NP15,Alt,55,2001-03-09 00:00:00,2001-05-03 00:00:00,Scheduled
+Craig 2,,,,RM,Coal,428,2001-03-10 00:00:00,2001-04-30 00:00:00,Scheduled
+Alamitos 3,,,,SP15,Gas,320,2001-03-14 00:00:00,2001-04-27 00:00:00,Forced
+Yuma Axis 1,,,,DSW,Gas,75,2001-03-16 00:00:00,2001-04-24 00:00:00,Scheduled
+Colstrip 3,,,,PNW,Coal,727,2001-03-16 00:00:00,2001-05-13 00:00:00,Scheduled
+Pittsburg 5,,,,NP15,Gas,325,2001-03-18 00:00:00,2001-05-21 00:00:00,Scheduled
+Cool Water 4ABC,,,,SP15,Gas,40,2001-03-21 00:00:00,2001-04-26 00:00:00,Forced
+ACE Cogeneration Plant 1,,,,SP15,Coal,96,2001-03-22 00:00:00,2001-05-22 00:00:00,Forced
+High Sierra ALL,,,,ZP26,Alt,48,2001-03-24 00:00:00,2001-05-10 00:00:00,Scheduled
+Campbells Soup (SPA) CC,,,,NP15,Alt,169,2001-03-26 00:00:00,2001-04-29 00:00:00,Scheduled
+El Cajon 1,,,,SP15,Gas,16,2001-03-27 00:00:00,2001-04-27 00:00:00,Scheduled
+Etiwanda 3,,,,SP15,Gas,320,2001-03-30 00:00:00,2001-06-15 00:00:00,Scheduled
+Palo Verde 1,,,,DSW,Nuke,1242,2001-03-31 00:00:00,2001-05-20 00:00:00,Scheduled
+San Juan (NM)2,,,,DSW,Coal,312,2001-03-31 00:00:00,2001-05-13 00:00:00,Scheduled
+Bridger2,,,,PNW,Coal,520,2001-03-31 00:00:00,2001-04-30 00:00:00,Scheduled
+ARCO Wilmington Calciner ALL,,,,SP15,Alt,34,2001-03-31 00:00:00,2001-05-16 00:00:00,Forced
+Huntington Beach 1,,,,SP15,Gas,115,2001-03-31 00:00:00,2001-06-08 00:00:00,Forced
+Mohave 2,,,,DSW,Coal,790,2001-04-01 00:00:00,2001-05-03 00:00:00,Scheduled
+Humboldt Bay & Mobile ST1,,,,NP15,Gas,52,2001-04-02 00:00:00,2001-05-27 00:00:00,Scheduled
+Potrero 3,,,,SP15,Gas,207,2001-04-03 00:00:00,2001-06-11 00:00:00,Scheduled
+Mandalay 2,,,,SP15,Gas,95,2001-04-04 00:00:00,2001-05-16 00:00:00,Forced
+Johnston 3,,,,PNW,Coal,230,2001-04-05 00:00:00,2001-04-25 00:00:00,Scheduled
+Cholla 2,,,,DSW,Coal,245,2001-04-06 00:00:00,2001-04-26 00:00:00,Scheduled
+Arapahoe 4,,,,RM,Coal,111,2001-04-08 00:00:00,2001-05-05 00:00:00,Scheduled
+Centralia - TransAlta 2,,,,PNW,Coal,670,2001-04-11 00:00:00,2001-06-08 00:00:00,Scheduled
+Huntington Beach GT5,,,,SP15,Gas,33,2001-04-12 00:00:00,2001-04-28 00:00:00,Forced
+West Phoenix 1B,,,,DSW,Gas,80,2001-04-13 00:00:00,2001-05-10 00:00:00,Scheduled
+Gardner (NV) 4,,,,DSW,Coal,275,2001-04-14 00:00:00,2001-05-04 00:00:00,Scheduled
+Kyrene KY2,,,,DSW,Gas,72,2001-04-14 00:00:00,2001-05-04 00:00:00,Scheduled
+Blundell 1,,,,PNW,Alt,23,2001-04-14 00:00:00,2001-06-08 00:00:00,Scheduled
+Sunnyside Cogeneration Associa ALL,,,,PNW,Alt,58,2001-04-14 00:00:00,2001-05-11 00:00:00,Scheduled
+Tracy,,,,PNW,Gas,108,2001-04-14 00:00:00,2001-05-04 00:00:00,Scheduled
+Hayden 2,,,,RM,Coal,262,2001-04-14 00:00:00,2001-05-06 00:00:00,Scheduled
+Mecca Plant ALL,,,,SP15,Alt,55,2001-04-14 00:00:00,2001-04-27 00:00:00,Scheduled
+Fredonia (WA) 2,,,,PNW,Gas,108,2001-04-15 00:00:00,2001-04-28 00:00:00,Scheduled
+Marion County Solid Waste-to-E 1,,,,PNW,Alt,15,2001-04-15 00:00:00,2001-05-12 00:00:00,Scheduled
+Naughton 2,,,,PNW,Coal,210,2001-04-15 00:00:00,2001-05-26 00:00:00,Scheduled
+Mount Poso Cogeneration ALL,,,,ZP26,Coal,62,2001-04-15 00:00:00,2001-05-05 00:00:00,Scheduled
+Tracy Biomass Plant ALL,,,,NP15,Alt,23,2001-04-16 00:00:00,2001-04-25 00:00:00,Scheduled
+Laramie River 2,,,,RM,Coal,550,2001-04-16 00:00:00,2001-06-15 00:00:00,Scheduled
+Valmont 6,,,,RM,Oil,44,2001-04-18 00:00:00,2001-05-08 00:00:00,Scheduled
+El Dorado2,,,,DSW,Gas,182,2001-04-20 00:00:00,2001-04-26 00:00:00,Scheduled
+Morro Bay 3,,,,ZP26,Gas,338,2001-04-20 00:00:00,2001-05-18 00:00:00,Scheduled
+Clark (NV) CC,,,,DSW,Gas,266,2001-04-21 00:00:00,2001-05-04 00:00:00,Scheduled
+Contra Costa 6,,,,NP15,Gas,340,2001-04-21 00:00:00,2001-04-24 00:00:00,Forced
+Colstrip 1,,,,PNW,Coal,307,2001-04-21 00:00:00,2001-04-24 00:00:00,Forced
+Moss Landing 6,,,,NP15,Gas,739,2001-04-22 00:00:00,2001-04-25 00:00:00,Forced
+Four Corners 5,,,,DSW,Coal,740,2001-04-23 00:00:00,2001-04-27 00:00:00,Forced
+North Valmy 2,,,,PNW,Coal,274,2001-04-23 00:00:00,2001-05-13 00:00:00,Scheduled
+Rawhide 1,,,,RM,Coal,120,2001-04-23 00:00:00,2001-04-30 00:00:00,Forced
+Alamitos 5,,,,SP15,Gas,480,2001-04-23 00:00:00,2001-04-26 00:00:00,Forced
+Puente Hills Energy Recovery ALL,,,,SP15,Alt,54,2001-04-23 00:00:00,2001-04-27 00:00:00,Scheduled

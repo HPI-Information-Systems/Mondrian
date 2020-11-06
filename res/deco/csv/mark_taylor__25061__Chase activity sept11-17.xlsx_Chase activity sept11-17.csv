@@ -1,0 +1,32 @@
+Company_Name,Statement_Number,SAP_Id,Extended_Total_Amt,Currency_Id,Statement_Status_Name,Due_Date,Buy_Sell_Id,Currency_Name
+The Chase Manhattan Bank,01091103,3000001069,1730864,CAD,Final,9/11/2001 00:00:00,S,Canadian Dollar
+The Chase Manhattan Bank,01092949,3000001431,-360600000,JPY,Final,9/11/2001 00:00:00,B,Japanese Yen
+The Chase Manhattan Bank,01091091,3000001431,-50064.99,USD,Final,9/11/2001 00:00:00,B,U.S. Dollar Common
+The Chase Manhattan Bank,01091892,3000001069,1902202.74,USD,Final,9/11/2001 00:00:00,S,U.S. Dollar Common
+"The Chase Manhattan Bank, London Branch",01092925,3000012819,650000,CAD,Final,9/11/2001 00:00:00,S,Canadian Dollar
+"The Chase Manhattan Bank, London Branch",01092918,3000014518,-157469000,JPY,Final,9/11/2001 00:00:00,B,Japanese Yen
+"The Chase Manhattan Bank, London Branch",01092917,3000012819,883920.11,USD,Final,9/11/2001 00:00:00,S,U.S. Dollar Common
+,,,,,,,,
+The Chase Manhattan Bank,01091092,3000001431,-250165.25,USD,Final,9/12/2001 00:00:00,B,U.S. Dollar Common
+"The Chase Manhattan Bank, London Branch",01092999,3000014518,-377777.78,EUR,Final,9/12/2001 00:00:00,B,Euro
+"The Chase Manhattan Bank, London Branch",01093000,3000012819,339300,USD,Final,9/12/2001 00:00:00,S,U.S. Dollar Common
+,,,,,,,,
+The Chase Manhattan Bank,01093092,3000001069,1000000,GBP,Final,9/13/2001 00:00:00,S,Pound Sterling
+The Chase Manhattan Bank,01093093,3000001431,-1468500,USD,Final,9/13/2001 00:00:00,B,U.S. Dollar Common
+"The Chase Manhattan Bank, London Branch",01093043,3000012819,2600000,CAD,Final,9/13/2001 00:00:00,S,Canadian Dollar
+"The Chase Manhattan Bank, London Branch",01093023,3000012819,2559907.58,EUR,Final,9/13/2001 00:00:00,S,Euro
+"The Chase Manhattan Bank, London Branch",01093029,3000014518,-878403000,JPY,Final,9/13/2001 00:00:00,B,Japanese Yen
+"The Chase Manhattan Bank, London Branch",01093024,3000012819,3118516.73,USD,Final,9/13/2001 00:00:00,S,U.S. Dollar Common
+,,,,,,,,
+The Chase Manhattan Bank,01091453,3000001431,-443725.69,USD,Final,9/14/2001 00:00:00,B,U.S. Dollar Common
+,,,,,,,,
+The Chase Manhattan Bank,01091422,3000001069,1683010.1,CAD,Draft,9/17/2001 00:00:00,S,Canadian Dollar
+The Chase Manhattan Bank,01091924,3000001431,-10500000,GBP,Draft,9/17/2001 00:00:00,B,Pound Sterling
+The Chase Manhattan Bank,01091935,3000001431,-238460000,JPY,Draft,9/17/2001 00:00:00,B,Japanese Yen
+The Chase Manhattan Bank,01091423,3000001069,1051175.34,USD,Final,9/17/2001 00:00:00,S,U.S. Dollar Common
+"The Chase Manhattan Bank, London Branch",01091539,3000014518,-35500000,DKK,Draft,9/17/2001 00:00:00,B,Danish Krone
+"The Chase Manhattan Bank, London Branch",01091541,3000014518,-56721451.55,EUR,Draft,9/17/2001 00:00:00,B,Euro
+"The Chase Manhattan Bank, London Branch",01091493,3000012819,5339672,GBP,Draft,9/17/2001 00:00:00,S,Pound Sterling
+"The Chase Manhattan Bank, London Branch",01091540,3000012819,553820777,NOK,Draft,9/17/2001 00:00:00,S,Norwegian Kroner
+"The Chase Manhattan Bank, London Branch",01091571,3000014518,-11000000,SEK,Draft,9/17/2001 00:00:00,B,Swedish Krona
+"The Chase Manhattan Bank, London Branch",01091494,3000014518,-12751993.32,USD,Draft,9/17/2001 00:00:00,B,U.S. Dollar Common

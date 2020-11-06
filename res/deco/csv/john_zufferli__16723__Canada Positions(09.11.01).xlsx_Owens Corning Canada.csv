@@ -1,0 +1,52 @@
+Owens Corning Canada Power Summary,,,,,,,
+Facility,Term,Customer,"Demand Charge
+(CD$)","Energy Charge
+ (CD$)",Mid Curve,"Notional
+MWH
+(a/o 09/01)","Enpower
+ Deal #"
+,,,,,,,
+"Alberta
+   Edmonton",Date of Contract to 31-Mar-2005,Owens Corning,$5.215/kW-mnth,$28.56/kWh plus taxes,"EPCOR Retail Gen
+   [equivalent to Alberta Whls]",-303081.38155493804,
+,,,,,,,
+,,Enron Canada,-,$70.00/kWh,Region 21-Alberta,313920,507514
+,"01-Apr-2005 to
+31-Mar-2010",Owens Corning,$5.215/kW-mnth,$4.16/kWh plus Alberta PX plus taxes,"EPCOR Retail Gen
+   [equivalent to Alberta Whls]",-421230.7915010149,
+,,,,,,,
+,,Enron Canada,-,$70.00/kWh,Region 21-Alberta,438240,507514
+,,,,,Total EPCOR Position,-724312.1730559529,
+,,,,,Total Region 21 -Alberta,752160,
+,,,,,,,
+"Ontario
+   Toronto","01-Nov-2000 to
+31-Dec-2002",Owens Corning,$6.000/kW-mnth,41.33/kWh plus taxes plus CTC/Refund,"Toronto Hydro Canada Tariff (thru 04.02)
+Toronto Hydro Retail Gen (starting 05.02)
+  [equivalent to Ontario Whls]",-132765.7390467633,
+,"01-Jan-2003 to
+31-Mar-2010",Owens Corning,$6.000/kW-mnth,$11.95/kWh plus Ontario PX plus taxes plus CTC/Refund,"Toronto Hydro Retail Gen
+  [equivalent to Ontario Whls]",-715800.0153317142,
+,,,,,Total Toronto Hydro Tariff/Retail Gen Position,-848565.7543784775,
+,,,,,,,
+"Ontario
+   Guelph",01-Nov-2000 to 31-Dec-2002,Owens Corning,$6.000/kW-mnth,41.33/kWh plus taxes plus CTC/Refund,"Guelph Hydro Canada Tariff (thru 04.02)
+Guelph Hydro Retail Gen (starting 05.02)
+  [equivalent to Ontario Whls]",-105069.84074379606,
+,"01-Jan-2003 to
+31-Mar-2010",Owens Corning,$6.000/kW-mnth,$11.95/kWh plus Ontario PX plus taxes plus CTC/Refund,"Guelph Hydro Retail Gen
+  [equivalent to Ontario Whls]",-570150.8188720641,
+,,,,,Total Guelph Hydro Tariff/Retail Gen Position,-675220.6596158602,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,EPCOR,,,2000-12-01 00:00:00,,
+,,Toronto/Guelph,,,2002-05-01 00:00:00,,

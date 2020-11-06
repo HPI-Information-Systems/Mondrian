@@ -1,0 +1,36 @@
+station ID,station name,audit finding,action,date found,date resolved
+,,,,,
+"009780-01,02",Rio Puerco,1) oily orifice plates,condition is better; just a very thin film 9/25/01,ongoing,open
+,,4) 6 valves could leak and pass unmetered gas,schedule down time and check (maybe in Oct/Nov),2001-08-07 00:00:00,open
+,,,,,
+,,,,,
+"009702-01,02",WMS Milagro,3) possibility of bypass vlvs leaking,will blind off; scheduled for mid October,2001-07-10 00:00:00,open
+,,,,,
+"010160-01,02",Amoco LaPlata,1) Daniel 2500 orifice; using upstream static; calc wrong,notify Cessac to chk program software for error,2001-08-01 00:00:00,open
+,,,,,
+19080,Conoco Maljamar,1) oily liquid causing orifice plate issues as well as gas,Conoco will install coalescing filter/scrubber,ongoing,open
+,,sampling problems,scheduled for mid Nov. ,,
+,,,,,
+47044,EOG Pronghorn,1) dripping glycol on orifice plate,EOG to install scrubber,ongoing,open
+,,,,,
+,,,,,
+91940/91941,Atoka 2 chk sta,1) dirty/oily plate problems,Eng. To review problem and make suggestions,ongoing,open
+,,2) pulsation issues at meter tube,work order submitted; no response,ongoing,open
+,,,,,
+000010-01-12,Needles Station,1) oily plates all tubes,filters changed on 9/19/01; have not chked plates since,ongoing,open
+,,"2) run-switching valves, 4,5,6, all leak when closed",team/advisor will discuss/resolve,ongoing,open
+,,,,,
+"009216 - 1,2,3",PGE Topock,pos-shut-in-valves leak (dwn stream of regs),team/advisor will discuss; next time down will grease/chk,ongoing,open
+,,"when station down, both leak mucho gas",,,
+,,,,,
+,,,,,
+094039-01,El Paso Blanco,oily orifice plates - minimal SRE,San Juan - oil will go away when 010162 oil clears up,ongoing,open
+,,,,,
+094039-02,El Paso Blanco,Ditto,Ditto,ongoing,open
+,,,,,
+094039-03,El Paso Blanco,Ditto,Ditto,ongoing,open
+,,,,,
+,,,,,
+010162-01,WFS Lamaquina,oily plates,San Juan Team / continue to work w/ WFS/ marketing,ongoing,open
+,,,,,
+010162-02,WFS Lamaquina,oily plates,Ditto,ongoing,open

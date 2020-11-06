@@ -1,0 +1,109 @@
+,,DEVON  CO-OWNER,,,,,,,,
+,,PROD MTH,2000-01-01 00:00:00,,,INDEXES,IF:HSC,2.34,,
+,,DAYS,31,,,,IF: KOCH/LA,2.23,,
+,,,,,,,IF: KOCH/TX,2.18,,
+,,,,,,,IF: SONAT,2.35,,
+,,,,,,,IF: NGPL TxOk,2.27,,
+,,,,,,,,,,
+,,,,,AS APPEARS ON,,,,,
+K DATES,,CO-OWNER ,,FIELD/WELL,AVAIL NAME,METER #,INDEX,AJUSTER,,AVAIL
+,,,,,,,,%,$,
+,,,,,,,,,,
+,,BURNELL N. PETTUS,,,,,,,,
+,,,,,,,,,,
+1995-08-01 00:00:00,,George R Brown,,BURNELL N. PETTUS,, ,IF: KOCH/TX,0.85,0,96
+1995-08-01 00:00:00,,Comet Petroleum,,BURNELL N. PETTUS UNIT TRACT#7,, ,IF: KOCH/TX,0.85,0,20
+1995-08-01 00:00:00,,E A Tapp Estate,,"BURNELL N. PETTUS 22,23,24",, ,IF: KOCH/TX,0.97,0,55
+1995-08-01 00:00:00,,Jimmy Johnston,,BURNELL N. PETTUS FIELD ,, ,IF: KOCH/TX,0.85,0,7
+ ,,John Hess,,BURNELL N. PETTUS FIELD ,, ,IF: KOCH/TX,0.85,0,2
+,,Altman,,,,,,,,1811
+,,TOTAL BURNELL N.PETTUS,,,,,,,,1991
+,,,,,,,,,,
+,,CARTHAGE,,,,,,,,
+1995-08-01 00:00:00,,Burk Corporation,,Carthage - Koch,Burk Royalty Co., ,IF: KOCH/TX,1,0,1564
+1995-12-01 00:00:00,,Burman Oil & Gas,,Carthage - Koch,Burman Oil & Gas, ,IF: KOCH/TX,0.85,0,1
+1995-08-01 00:00:00,,William Comyges,,Carthage - Koch,William M Comeg, ,IF: KOCH/TX,0.85,0,12
+1995-08-01 00:00:00,,Malcolm C Damuth,,Carthage - Koch,Malcolm C. Damu, ,IF: KOCH/TX,0.85,0,6
+,,Steven Damuth,,Carthage - Koch,Steve Craig Dam, ,IF: KOCH/TX,0.85,0,6
+1995-08-01 00:00:00,,Robert P Evans,,Carthage - Koch,Robert P. Evans, ,IF: KOCH/TX,0.85,0,18
+1995-08-01 00:00:00,,Ann Fields,,Carthage - Koch,Anne Fields, ,IF: KOCH/TX,1,-0.02,16
+1995-08-01 00:00:00,,"James B Furrh, Jr.",,Carthage - Koch,James B Furrh Jr, ,IF: KOCH/TX,0.92,0,10
+1995-08-01 00:00:00,,Michael D Gollub,,Carthage - Koch,Michael D Gollob, ,IF: KOCH/TX,0.85,0,10
+1997-06-01 00:00:00,,Panola Producing,,Carthage - Koch,Panola Producin,,IF: KOCH/TX,0.85,-0.1542,5
+1995-08-01 00:00:00,,Headington Oil Properties,,Carthage - Koch,Headington Oil P, ,IF: KOCH/TX,0.85,0,9
+1995-08-01 00:00:00,,Burford I King,,Carthage - Koch,"Burford I. King, T", ,IF: KOCH/TX,0.85,0,1
+1995-08-01 00:00:00,,Francis A Milton,,Carthage - Koch,Frances A. Milto, ,IF: KOCH/TX,0.85,0,14
+1995-08-01 00:00:00,,Elizabeth Robinson,,Carthage - Koch,Elizabeth Robins, ,IF: KOCH/TX,0.85,0,5
+1995-08-01 00:00:00,,Sidney Argus Sharp,,Carthage - Koch,Sidney Argus Sha, ,IF: KOCH/TX,0.85,0,15
+1995-12-01 00:00:00,,Michael Shelby,,Carthage - Koch,Michael H. Shelb, ,IF: KOCH/TX,1,-0.02,61
+1995-08-01 00:00:00,,Thomas Taylor,,Carthage - Koch,Thomas F Taylor, ,IF: KOCH/TX,0.85,0,1
+1996-07-01 00:00:00,,Tom E Johnson,,Carthage - Koch,Tom E Johnson, ,IF: KOCH/TX,0.98,0.01,17
+1995-08-01 00:00:00,,Thomas H Sharp,,Carthage - Koch,Thomas H. Sharp, ,IF: KOCH/TX,0.85,0,14
+1995-12-01 00:00:00,,B H Timmins,,Carthage - Koch,Trust U/W/O B H Ti, ,IF: KOCH/TX,0.85,0,5
+1995-12-01 00:00:00,,T H Timmins,,Carthage - Koch,Trust U/W/O B H Ti, ,IF: KOCH/TX,0.85,0,5
+1999-08-01 00:00:00,2000-07-31,Charles McBride,,Carthage - Koch,Charles Raymon,,IF: Koch Texas,0.85,0,1
+1999-08-01 00:00:00,2000-07-31,Charron McBride,,Carthage - Koch,Charron Fay McB,,IF: Koch Texas,0.85,0,1
+1998-07-01 00:00:00,,Webb Energy Resources,,Carthage - Koch,Dr. W.P. LerBlan,,IF: Koch Texas,0.85,,35
+1995-08-01 00:00:00,,Tom B Williams,,Carthage - Koch,Tom B. Williams, ,IF: KOCH/TX,0.85,0,13
+1995-08-01 00:00:00,,Clayton Williams,,Carthage - Koch,Clayton Williams, ,IF: KOCH/TX,0.9,0,93
+1996-10-01 00:00:00,,"W A Moncrief, et al",,Carthage - Koch,WA MONCRIEF, ,IF NGPL Tx-Ok,1,,420
+1997-07-01 00:00:00,,Edward H. Andrews,,Carthage - Koch,Edward H. Andre,,IF: KOCH/TX,0.85,-0.1542,2
+1995-08-01 00:00:00,,Jeanne Fields Shelby,,Carthage - Koch,Jeanne Fields Sh,,IF: KOCH/TX,1,-0.02,13
+1999-05-01 00:00:00,2000-04-30,Marjorie M. Nugent,,Carthage - Koch,Marjorie Nugent, ,IF: KOCH/TX,0.85,,6
+1999-05-01 00:00:00,2000-04-30,R M Nugent Estate,,Carthage - Koch,R M Nugent Estate,,IF: KOCH/TX,0.85,,6
+ ,,James Sharp,,Carthage - Koch,James A. Sharp,,IF: KOCH/TX,0.85,0,1
+1999-03-01 00:00:00,1999-12-31,F.W. Rabalais,,Carthage-AM,F.W. Rabalais,,IF NGPL Tx-Ok,1,,51
+1999-03-01 00:00:00,1999-12-31,Lila Allen,,Carthage-AM,Lila Allen,,IF NGPL Tx-Ok,1,,87
+1999-03-01 00:00:00,1999-12-31,Sam Allen,,Carthage-AM,Sam Allen,,IF NGPL Tx-Ok,1,,16
+1999-03-01 00:00:00,1999-12-31,United Petroleum,,Carthage-AM,United Petroleum,,IF NGPL Tx-Ok,1,,9
+1999-08-01 00:00:00,2000-07-31,Exxon,,Carthage-AM,Exxon,,IF: KOCH/TX,0.85,,39
+1997-08-01 00:00:00,,St. Mary Land & Exploration,,CARTHAGE-KOCH,St. Mary Parish,,IF: KOCH/TX,0.85,-0.1542,21
+,,TOTAL CARTHAGE,,,,,,,,2609
+,,,,,,,,,,
+,,QUARANTINE BAY,,,,,,,,
+1995-08-01 00:00:00,,Continental Oil & Gas,,QUARANTINE BAY FIELD,, ,IF: KOCH/LA,1,0,27
+,,William G Helis Estate,,QUARANTINE BAY FIELD,, ,IF: KOCH/LA,0.85,0,1
+,,TOTAL QUARANTINE BAY,,,,,,,,28
+,,,,,,,,,,
+,,SLIGO,,,,,,,,
+1997-08-01 00:00:00,,Flash Gas & Oil,,SLIGO,Flash Oil,,IF: KOCH/LA,0.85,-0.1542,5
+,,Medallion,,SLIGO,Medallion,,,,,33
+,,TOTAL SLIGO,,,,,,,,38
+,,,,,,,,,,
+,,SOUTH TEXAS,,,,,,,,
+1995-08-01 00:00:00,,Ferguson Energy,,Comitas C.P.,"Ferguson, G", ,IF:HSC,1,-0.15,89
+1995-08-01 00:00:00,,Ferguson Energy,,South Comitas,"Ferguson, G", ,IF:HSC,1,-0.15,279
+1995-08-01 00:00:00,,Ferguson Energy,,Garza,"Ferguson, G", ,IF:HSC,1,-0.15,17
+,,Ferguson Energy,,Haynes Plant,"Ferguson, G",,IF:HSC,1,-0.15,0
+,,Ferguson Energy,,"Haynes 17,18 CP","Ferguson, G",,IF:HSC,1,-0.26,335
+1995-12-01 00:00:00,,Burman Oil & Gas,,Tejas Plant,Burman, ,IF: KOCH/TX,0.85,0,1
+1995-11-01 00:00:00,,Dynamic Production,,Garza,Dynamic, ,IF:HSC,1,-0.13,105
+1995-08-01 00:00:00,,W L Jennings,,Tejas Plant,Jennings W, ,IF:HSC,1,-0.17,1
+,,"Bettis, Boyle, and Stovall",,Garza,"Bowen,Ca,Ja,Turnco",,IF:HSC,0.93,0,142
+1999-08-01 00:00:00,2000-07-31,Richard Kleiner,,Garza,Kleiner Ri,,IF:HSC,1,-0.15,20
+,,Natural Gas Fuel,,Tejas Plant,Exco,,98% of Sale,,,1
+,,Union Pacific,,Garza,Union P R,,IF:HSC,1,-0.15,50
+1995-09-01 00:00:00,,Walker & McBroom,,Garza,Walker & M, ,IF:HSC,1,-0.14,32
+1995-08-01 00:00:00,,"MBR Resources, Inc.",,Volpe S.E.,MBR Resour, ,IF:HSC,1,-0.18,9
+1999-04-01 00:00:00,2000-03-31,"Kenneth W. Cory, Ltd.",,Garza,Cory, ,IF:HSC,1,-0.15,111
+,,Snyder Oil,,Tejas Plant,Snyder Oil, ,IF:HSC,1,-0.15,1
+1999-06-01 00:00:00,,Graebel Bosworth Ronning,,Comitas C.P.,Ronning Gr   (68%),,IF:HSC,1,-0.15,31
+1999-06-01 00:00:00,,Graebel Bosworth Ronning,,S. Comitas,Ronning Gr   (68%),,IF:HSC,1,-0.15,203
+1999-06-01 00:00:00,,Graebel Bosworth Ronning,,Haynes Plant,Ronning Gr   (68%),,IF:HSC,1,-0.15,44
+1999-06-01 00:00:00,,Graebel Bosworth Ronning,,Garza,Ronning Gr   (68%),,IF:HSC,1,-0.15,6
+1999-06-01 00:00:00,,Graebel Ronning Trust,,Comitas C.P.,Ronning Gr   (32%),,IF:HSC,1,-0.15,14
+1999-06-01 00:00:00,,Graebel Ronning Trust,,S. Comitas,Ronning Gr   (32%),,IF:HSC,1,-0.15,96
+1999-06-01 00:00:00,,Graebel Ronning Trust,,Haynes Plant,Ronning Gr   (32%),,IF:HSC,1,-0.15,21
+1999-06-01 00:00:00,,Graebel Ronning Trust,,Garza,Ronning Gr   (32%), ,IF:HSC,1,-0.15,3
+,,TOTAL SOUTH TEXAS,,,,,,,,1611
+,,,,,,,,,,
+,,SANDTRAP,,,,,,,,
+1995-08-01 00:00:00,,Hunt Petroleum,,Sandtrap,Hunt Pet, ,IF:HSC,1,-0.1,403
+1995-08-01 00:00:00,,Lydia Hunt,,Sandtrap,Hunt Lyda, ,IF:HSC,1,-0.1,135
+1995-08-01 00:00:00,,Unit Four Partnership,,Sandtrap,Unit Four, ,IF:HSC,1,-0.15,135
+,,TOTAL SANDTRAP,,,,,,,,673
+,,,,,,,,,,
+,,,,,,,,,,
+,,PATTERSON,,,,,,,,
+1995-12-01 00:00:00,,B Eubanks,,Patterson,Eubanks B,,IF: SONAT,0.9,0,31
+,,TOTAL PATTERSON,,,,,,,,31

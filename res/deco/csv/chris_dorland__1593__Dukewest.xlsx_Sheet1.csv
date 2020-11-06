@@ -1,0 +1,22 @@
+,,,,,,,
+,,,,,,,
+,,Paribas offset position with Duke,,,,,
+,,,,,,,
+,,,,,,,
+,Buyer,Seller,Index,Period,Volume,Basis,NYMEX Convention
+,,,,,,,
+1.0,Paribas,Enron,Northwest Rockies,Jan-Mar 02,"5,000/day",-0.3,Last Day
+2.0,Enron,Duke,Northwest Rockies,Jan-Mar 02,"5,000/day",-0.3,Last Day
+3.0,Duke,Paribas,Northwest Rockies,Jan-Mar 02,"5,000/day",-0.3,Last Day
+,,,,,,,
+4.0,Paribas,Enron,Northwest Rockies,Nov 02 - Dec 02,"5,000/day",-0.26,Last Day
+5.0,Enron,Duke,Northwest Rockies,Nov 02 - Dec 02,"5,000/day",-0.26,Last Day
+6.0,Duke,Paribas,Northwest Rockies,Nov 02 - Dec 02,"5,000/day",-0.26,Last Day
+,,,,,,,
+7.0,Paribas,Enron,Northwest Rockies,Apr 03 - Oct 03,"5,000/day",-0.45,Last Day
+8.0,Enron,Duke,Northwest Rockies,Apr 03 - Oct 03,"5,000/day",-0.45,Last Day
+9.0,Duke,Paribas,Northwest Rockies,Apr 03 - Oct 03,"5,000/day",-0.45,Last Day
+,,,,,,,
+10.0,Enron,Paribas,Socal,Cal 03,"2,500/day",0.21,Last Day
+11.0,Duke,Enron,Socal,Cal 03,"2,500/day",0.21,Last Day
+12.0,Paribas,Duke,Socal,Cal 03,"2,500/day",0.21,Last Day

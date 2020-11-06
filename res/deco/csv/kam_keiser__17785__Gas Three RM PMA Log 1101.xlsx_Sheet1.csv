@@ -1,0 +1,43 @@
+Risk Profit & Loss vs General Ledger Variances,,,,,
+"As of November 30, 2001",,,,,
+,,,,,
+Bookcode,Month,Code,Type,Description,Risk
+Firm Trade - Southeast (GA),Sep,FO,O,Miscellaneous rounding,-4
+Book Admin: Chance Rabon,,,,FT Southeast,-4
+FT Carthage (!K),Sep,FO,O,Miscellaneous rounding,-32
+Book Admin: Shielah Castro,,,,FT Carthage,-32
+FT Chicago,Mar,FO,O,Miscellaneous rounding,-146
+FT Chicago,Aug,RM,O,Liquidated values in roll 7 cells C61 & 62 (8/01 & 8/02),-6050
+FT Chicago,Mar,RM,E,Gas daily pricing variance,2259.43
+Book Admin: Lynn Pikofsky,,,,FT Chicago,-3936.57
+FT Denver & FT REGS (W5 & -O),Jan,FO,O,Miscellaneous rounding,-1009
+Book Admin: Carole Frank,,,,FT Denver (W5) & FT Regs (-O),-1009
+"FT HPL Transport (A$, B{, B} )",Feb,FO,O,Miscellaneous rounding,-2
+Book Admin: Richard Yeboah,,,,FT HPL Transport,-2
+FT Intra Central,Jan,FO,O,Miscellaneous rounding,378
+FT Intra Central,Nov,RM,O,"DPR did not liquidate YD3542.1, YD3567.1, YD8985.1, and YE0137.1",136300
+FT Intra Central,Nov,RM,O,Pricing variances with Canada,-46662.36
+Book Admin: Gulf - Michelle Akers; Mgmt & Mich CG - Jad Doan; Mich - Stephanie Hopkins; Midcon - Scott Palmer,Book Admin: Gulf - Michelle Akers; Mgmt & Mich CG - Jad Doan; Mich - Stephanie Hopkins; Midcon - Scott Palmer,Book Admin: Gulf - Michelle Akers; Mgmt & Mich CG - Jad Doan; Mich - Stephanie Hopkins; Midcon - Scott Palmer,Book Admin: Gulf - Michelle Akers; Mgmt & Mich CG - Jad Doan; Mich - Stephanie Hopkins; Midcon - Scott Palmer,FT Intra Central,90015.64
+FT Intra East (89),Jan,FO,O,Miscellaneous rounding,-1169
+FT Intra East (89),Aug,RM,O,Intra East Trnspt: broker fees not taken,625
+FT Intra East (89),Sep,RM,O,Intra East North Gas Daily Pricing variances,33990.91
+Book Admin: Gulf - Melissa Videtto; Gulf 2 - Kristen Clause; North - Edward Brady; Mkt - James Hungerford; Trnsprt - Kimat Singla,Book Admin: Gulf - Melissa Videtto; Gulf 2 - Kristen Clause; North - Edward Brady; Mkt - James Hungerford; Trnsprt - Kimat Singla,Book Admin: Gulf - Melissa Videtto; Gulf 2 - Kristen Clause; North - Edward Brady; Mkt - James Hungerford; Trnsprt - Kimat Singla,Book Admin: Gulf - Melissa Videtto; Gulf 2 - Kristen Clause; North - Edward Brady; Mkt - James Hungerford; Trnsprt - Kimat Singla,FT Intra East (89),33446.91
+FT Intra Ontario (43),Jan,FO,O,Miscellaneous rounding,-729
+FT Intra Ontario (43),Nov,RM,O,DPR did not liquidate premiums on YH6503.1 & YL7654.1,-1370800
+Book Admin: Stephanie Hopkins,,,,FT Intra Ontario (43),-1371529
+FT Katy,May,FO,O,Miscellaneous rounding,860
+Book Admin: Pat Ryder,,,,FT Katy,860
+FT Lonestar (5Y),Aug,FO,O,Miscellaneous rounding,-1
+FT Lonestar (5Y),Oct,RM,O,AEP: deal VC4272.H - settled incorrectly originally - Pub code s/b Katy/Tail per TAGG - verified by O'Neal Winfree,-2170
+Book Admin: Pat Ryder,,,,FT Lonestar (5Y),-2171
+FT Peoples (G#),Jan,FO,O,Miscellaneous rounding,34
+FT Peoples (G#),Nov,RM,O,Roll 1 check figure not zero,-558
+Book Admin: Jad Doan,,,,FT Peoples (G#),-524
+Intra Texas (PA),Jan,FO,O,Miscellaneous rounding ($1000 miskey of Sep PMAs),-1046
+Book Admin: Pat Ryder,,,,Intra Texas (PA),-1046
+Management West,Jan,FO,O,WC ROX: miscellaneous rounding,17898
+Management West,Nov,RM,O,WC ROX: DPR did not liquidate YM2889.1,-55000
+,,,,WC ROX,-37102
+Management West,Nov,RM,O,"WT ROX: VT0747.1, VT1971.1, VT1972.1 did not liquidate",276500
+,,,,WT ROX,276500
+Book Admin: WestSanJuan - Ashley Worthing; WestRoxMgmt - Randy Bhatia; WT CAL - Ryan O'Rourke; WT SOCAL - Bilana Pehivanova; WestPerm - Ashley Fay; WC CAL - Monte Jones,Book Admin: WestSanJuan - Ashley Worthing; WestRoxMgmt - Randy Bhatia; WT CAL - Ryan O'Rourke; WT SOCAL - Bilana Pehivanova; WestPerm - Ashley Fay; WC CAL - Monte Jones,Book Admin: WestSanJuan - Ashley Worthing; WestRoxMgmt - Randy Bhatia; WT CAL - Ryan O'Rourke; WT SOCAL - Bilana Pehivanova; WestPerm - Ashley Fay; WC CAL - Monte Jones,Book Admin: WestSanJuan - Ashley Worthing; WestRoxMgmt - Randy Bhatia; WT CAL - Ryan O'Rourke; WT SOCAL - Bilana Pehivanova; WestPerm - Ashley Fay; WC CAL - Monte Jones,Management West,239398

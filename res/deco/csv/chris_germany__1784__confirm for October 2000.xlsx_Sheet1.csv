@@ -1,0 +1,15 @@
+,,,,,,,,,,,,
+October 2000 First of Month Nominated Quantities,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,Path 1 ------------------------------------------>,,Path 2 --------------------------------------------->,,Path 3 ----------------------------------->,,
+,,,,,,,,,,,,
+Path,Location,Index 1/,Index Premium,Comment,Quantity Sold at Receipt Point (dth/day),Transport,Fuel (%),Transport,Fuel (%),Transport,Fuel (%),Daily Delivered Quantity at Citygate (dth/day)
+CNG / TGP Z0 ,Tennessee Zone 0 pool,Inside FERC Tennessee Gas Pipeline Texas (zone 0),0.005,,9307.31929255,TGP Z0 to Z4,0.0679,CNG to Quantico,0.0228,VNG Pipeline,0.0025,8500
+TCO / Col Gulf,Columbia Gulf at Rayne,Inside FERC Columbia Gulf Transmission Corp. Louisiana,0.005,Add 100% Load Factor ITS-2 rate to Index price for cost of gas at Rayne,18018.7484792,,,Col Gulf Rayne to Leach,0.0282,TCO to city gate,0.02184,17150
+TCO / Transco Z1,Transco Z1 pool,Inside FERC Transcontinental Gas Pipe Line Corp. Zone 1 (pool),0.005,,1006.71144,Transco Z1 to Emporia,0.047,TCO Shorthaul,0.01,,0,952.0000000000001
+TCO / Transco Z2,Transco Z2 pool,Inside FERC Transcontinental Gas Pipe Line Corp. Zone 2 (pool),0.005,,1475.5090000000002,Transco Z2 to Emporia,0.0435,TCO Shorthaul,0.01,,0,1400
+TCO / Transco Z3,Transco Z3 pool,Inside FERC Transcontinental Gas Pipe Line Corp. Zone 3 (pool),0.005,,3408.090672,Transco Z3 to Emporia,0.0389,TCO Shorthaul,0.01,,0,3248
+,,,,,,,,,,,,
+Notes:,"  1/  All indices are Inside FERC Gas Market Report from table ""Prices of Spot Gas Delivered to Pipelines"" for month of October 2000.",,,,,,,,,,,

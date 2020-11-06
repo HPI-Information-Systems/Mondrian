@@ -1,0 +1,39 @@
+,,,,
+,,,,
+ENERGY OPS - SETTLEMENTS/VM REVISED FINAL REPORT LIST,,,,
+2000-06-16 00:00:00,,,,
+,,,,
+,C#,PRIORITY,REVISED,NAME OF REPORT
+,,,,
+1,1 & 2,SS,SS,The Matrix - Transaction Detail
+2,7,SS,SS,G/L Line Item Report - Current Month (GL 110)
+3,90,SS,SS,Unify vs. SAP I/C Compare Report (Unify Report)
+4,50,SS,SS,Unify A/R Cash Flow Report (Apache Report)
+5,15,SS,SS,A/R and A/P Aging
+7,46,VH,SS,Past Due A/R Invoice > 60 Days Excluding Invoices Prior to 1/31/99 (for insurance policy)
+16,48,H,SS,Cash Forecast Report (Detail)
+17,49,H,SS,Forecasted Invoice by Expected Date
+6,45,VH,VH,Interface Detail Backup A/P Reports
+8,8,H,H,Intercompany A/R & A/P (GL 150)
+9,9,H,H,MSA Consolidated I/S Trial Balance (GL 210)
+10,7,H,H,Various Ad Hoc Queries (DSS)
+11,16,H,H,MSA Consolidated Balance Sheet Trial Balance (GL 211)
+12,47,H,H,Unapplied Cash Report
+13,10,H,H,Account Inquiry - A/P
+14,10,H,H,Account Inquiry - A/R
+15,47,H,H,Cash Deposit Listing by Deposit Date & Counterparty
+18,48,H,H,Forecast vs. Received by Counterparty
+19,48,M,M,Cash Forecast Report (Summary)
+20,57,M,M,Cash Collections by Accounting Month
+21,58,M,M,Late Payment by Coordinator & Invoice Due Date
+22,59,M,M,Late Payment by Counterparty
+23,60,M,M,Cash on Account
+24,48,M,M,A/P Load Outflow Forecast
+25,56,M,M,A/R Conversion Balance Analysis (BG54P660)
+26,90,L,L,Cash Forecast by Due Dates Graph
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,2018-07-21 16:43:15.090000
+,,,,

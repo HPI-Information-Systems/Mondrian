@@ -1,0 +1,67 @@
+TRANSWESTERN PIPELINE COMPANY,,,,,,,
+RED ROCK EXPANSION PROJECT,,,,,,,
+FLAGSTAFF COMPRESSOR STATION,,,,,,,
+,,,,,,,
+Table 1,,,,,,,
+,,,,,,,
+TURBINE INFORMATION,,,,,,,
+,,,,,,,
+,,,,,,,
+Manufacturer:,GE LM2500,,,,,,
+Fuel Type:,Sweet Natural Gas,,,,,,
+HHV:,1050,Btu/scf,,,,,
+Site Elevation:,7458,,,,,,
+Inlet Loss:,4,in H2O,,,,,
+Exhaust Loss:,4,in H2O,,,,,
+Shaft Power:,37270,hp @ 12.8oF (Base Load),,,,,
+,30565,hp @ 60oF (Base Load),,,,,
+Max Heat Rate:,9451,Btu/hp-hr @95oF (50% Load),,,,,
+,352.23877,MMBtu/hr,(Max Heat Rate x shp@12.8oF),,,,
+Avg Heat Rate:,6308,Btu/hp-hr @60oF (Base Load),,,,,
+,192.80402,MMBtu/hr,(Avg Heat Rate x shp@60oF),,,,
+Speed:,6100,rpm,,,,,
+Max Hourly Fuel:,0.3354654952380952,MMscf/hr,(Max Heat Rate / HHV),,,,
+Avg Hourly Fuel:,0.1836228761904762,MMscf/hr,(Avg Heat Rate / HHV),,,,
+Annual Fuel:,1608.5363954285715,MMscf/yr,(Avg Fuel x 8760),,,,
+,,,,,,,
+Potential Emissions,,,,,,,
+Temp,Turbine,NOx (as NO2),,CO,,THC,
+(oF),Load (%),(lb/hr),(tpy),(lb/hr),(tpy),(lb/hr),(tpy)
+0,Base,22.400000000000002,98.11200000000001,13.6,59.568,4.6000000000000005,20.148000000000003
+0,64,25.3,110.814,15.4,67.452,5.4,23.652
+0,50,23,100.74,14,61.32,4.9,21.462
+12.8,Base,22.7,99.426,13.8,60.444,4.7,20.586
+12.8,50,22.6,98.988,13.700000000000001,60.00600000000001,4.8,21.024
+40,Base,20.8,91.104,12.6,55.188,4.3,18.834
+40,50,20.5,89.79,12.5,54.75,4.4,19.272
+60,Base,19.400000000000002,84.97200000000001,11.8,51.684,4,17.52
+60,50,13.200000000000001,57.81600000000001,8.1,35.478,2.7,11.826
+95,Base,16.9,74.022,10.3,45.114,3.5,15.33
+95,50,11.9,52.122,7.3,31.974,2.5,10.95
+,Max Hourly,25.3,110.814,15.4,67.452,5.4,23.652
+,Base Load Max,22.7,99.42599999999999,13.8,60.444,4.7,20.586
+,,,,,,,
+AP-42 Emission Factors (04/00),,,,,,,
+PM,0.0066,lb/MMBtu,,,,,
+SO2,0.0034,lb/MMBtu,,,,,
+Formaldehyde,0.00071,lb/MMBtu,,,,,
+,,,,,,,
+Proposed Turbine Emissions,,,,,,,
+,Maximum,Annual,,,,,
+Pollutant,(lb/hr),(tpy),,,,,
+NOX,25.3,110.81400000000001,operating at 64% load 100% of time,,,,
+CO,15.4,67.452,operating at 64% load 100% of time,,,,
+VOC,0.54,2.3652,operating at 64% load 100% of time,,,,
+PM,2.324775882,10.18251836316,,,,,
+SO2,1.197611818,5.24553976284,,,,,
+Formaldehyde,0.2500895267,1.095392126946,,,,,
+,,,,,,,
+Proposed Turbine Emissions Plus 15% Safety Factor,,,,,,,
+,Maximum,Annual,,,,,
+Pollutant,(lb/hr),(tpy),,,,,
+NOX,29.095,127.4361,,,,,
+CO,17.709999999999997,77.56979999999999,,,,,
+VOC,0.621,2.71998,,,,,
+PM,2.6734922642999996,11.709896117633999,,,,,
+SO2,1.3772535906999999,6.032370727266,,,,,
+Formaldehyde,0.287602955705,1.2597009459879,,,,,

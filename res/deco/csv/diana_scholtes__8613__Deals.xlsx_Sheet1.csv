@@ -1,0 +1,32 @@
+CounterParty,P.O.D.,MW,Delivery Pattern,Term,$,Tariff,Currently Delivering?
+CRC,Palo Verde,50,HLH,thru 12/31/01,58,,No
+CRC,Mead,50,0100 - 0600,thru 12/31/01,19.5,,No
+Burbank,Palo Verde,25,HLH,thru 12/31/01,155,,No
+Nevada,Mead,150,RTC,thru 12/31/01,82,WSPP,No
+Sierra Pacific,Palo Verde,125,HLH,thru 12/31/01,121,WSPP,No
+Sierra Pacific,Palo Verde,125,LLH,thru 12/31/01,86,WSPP,No
+MWD,Mead,100,LLH,thru 12/31/01,67.5,,No
+VEA,Mead,40,RTC,thru 12/31/01,39.33,,No
+WAPA,Pinnacle Peak,25,RTC,thru 04/06/02,45,,No
+San Diego,Palo Verde,25,LLH,thru 12/31/01,19.25,Swap Contract,No
+Redding,NP15,25,RTC,thru 12/31/01,200,,No
+NCPA,NP15,45,LLH,thru 12/31/01,134.2,,No
+NCPA,NP15,85,HLH,thru 12/31/01,172.05,,No
+Oakland Muni,NP15,7,RTC,thru 12/31/01,187.5,,No
+City of Roseville,NP15,50,RTC,thru 4/6/02,49,,No
+Waum,NP15,50,LLH,thru 12/31/01,33.75,,No
+Dympi,NP15,40,LLH,thru 12/31/01,28.15,,No
+Dympi,NP15,60,HLH,thru 12/31/01,34.13,,No
+Dympi,SP15,93,LLH,thru 12/31/01,23.06,,No
+City of Riverside,SP15,25,HLH,thru 12/31/01,180,,No
+Douglas PUD,Mid-C,25,HLH,thru 2/28/02,37.15,,No
+McMinnville,Mid-C,5,RTC,thru 9/30/04,23.7,,No
+Gray's Harbor,Mid-C,10,HLH,thru 2/28/02,64,,No
+Air Products,Mid-C,6,RTC,thru 8/31/04,44.2,,No
+Powerex,COB N/S,176,RTC,thru 12/31/14,24.73,,No
+BPA,COB N/S,25,LLH,thru 12/31/01,42.75,,No
+BPA,COB N/S,25,LLH,thru 12/31/01,27.25,,No
+BPA,COB N/S,25,LLH,thru 12/31/01,43,,No
+BPA,COB N/S,25,LLH,thru 12/31/01,43,,No
+Santa Clara,COB N/S,50,HLH,thru 12/31/09,47.15,,No
+Sierra Pacific,COB N/S,25,HLH,thru 12/31/01,311,,No

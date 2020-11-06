@@ -1,0 +1,121 @@
+COMPANY ,CLIENT,OAKS,DERBY,ROOM,REGION,BROKER,COMMENTS,ITIN.,
+,,,,,,,,,
+ACES,Scott Thompson,1,1,Y,NE GAS,Holtgrave,,,1.0
+AEP,Ron Leshiniski,0,1,Y,WP,McClure,,X,1.0
+,Dave Baker,0,1,Y,WP,McClure,,X,1.0
+,Vishol Apt,0,1,Y,WP,Vaught,,X,1.0
+,John Hymel,0,1,Y,GD,Ridge,,X,1.0
+,John Harris,0,1,Y,MC,Karlen,,X,1.0
+,Joe Foley,0,1,Y,GC,Colvin,,X,1.0
+,Mike Britt,0,1,Y,GC,Tanner,,X,1.0
+,Lew Williams,1,0,Y,NYMEX,Florer,,,
+AES - New Energy,Steve Webster,0,0,Y,NE POOL,,Only Needs Room,,1.0
+,Bruce McLish,1,1,N,NE POOL,Yennes,Staying w/ Tarreck,,1.0
+APS,Steve Wellhausen,1,1,Y,COAL,Keck,,,1.0
+,Mark Wiesinger,1,1,Y,COAL,Keck,,,1.0
+,Jeff Waltman,1,1,Y,COAL,Keck,,,1.0
+Aquila,Jim Brennan,1,1,Y,WP,McClure,,X,1.0
+,Dave Jackson,1,1,Y,COAL,Evans,,X,1.0
+,Joe Stessman,1,1,Y,COAL,Evans,,X,1.0
+,Bill Hayes,2,2,Y,MC,Waits,,,2.0
+,Pat O'Kane,1,1,Y,GD,McKinney,,X,1.0
+,Dan Murphy,1,1,Y,CHAPEL,Allen,,,1.0
+,Dave Fincher,1,1,Y,CHAPEL,Allen,,,1.0
+,Jane McCormick,1,1,Y,CHAPEL,Allen,,,1.0
+,Todd Bandy,1,1,Y,MC,Tarullo,,X,1.0
+,Tom O'Grady,2,2,N,WP,Pierangelino,,,
+Axia,Jeff Blice,1,1,Y,CHAPEL,Gonzalez,,,1.0
+BP,Byron Biggs,1,1,Y,WP,Bohnert,Need Room For Wed,X,1.0
+,Brian Hall,0,1,Y,GD,McKinney,,X,1.0
+,Stefan Amling,1,1,Y,ERCOT,Giles,,X,1.0
+,Andre Hasou,0,1,Y,GC,Hellman,,X,1.0
+,Yehudah Rose,1,1,Y,CHAPEL,Damask,,,1.0
+,Chin Thean Quek,0,1,Y,WGAS,Olson,,,1.0
+,Denise Giordano,0,1,Y,WGAS,Hale,,,1.0
+,Dave Houten,0,1,Y,WGAS,Wood,,,1.0
+Calpine,Peter Gilmore,1,1,Y,NE POOL,Donohue,,,1.0
+,Winn Russell,0,1,Y,WP,McClure,,,1.0
+Cargill,Brian Grant,0,1,Y,NE POOL,Donohue,,,1.0
+Cinergy,Eric Pierce,1,0,N,CHAPEL,Corrado,No Room- Oaks Only,,1.0
+,Steve Herrera,1,0,N,CHAPEL,Corrado,No Room Oaks Only,,1.0
+,Chuck Whitlock,1,0,N,CHAPEL,Corrado,No Room Oaks Only,,1.0
+,Tim McCabe,1,0,Y,GC,Holtgrave,Room for Thurs.  Only,,1.0
+,Michael Cyrus,1,0,Y,GC,Holtgrave,Room for Thurs.  Only,,1.0
+,Karen Kearby,0,1,Y,MC,Karlen,No Oaks,,1.0
+Constellation,Mike Barham,1,1,Y,CHAPEL,Hahn,,,1.0
+Coral,Joon Park,0,1,Y,CHAPEL,Fugelso,,,1.0
+Coral Canada,Jamie Varghese,1,1,Y,Canada,Kennedy,,X,1.0
+Duke,James Stebbins,0,1,Y,WP,Lindsey,,X,1.0
+,Dan Cowles,1,1,Y,GD,McGarvey,,X,1.0
+,Todd Reid,1,0,Y,GC,Holtgrave,Room for Thurs.  Only,,1.0
+,Matt Reed,0,1,Y,COAL,Keck,,,1.0
+Dynegy,Jeremy Davis,1,1,Y,NE GAS,Holtgrave,Need Room For Wed,X,1.0
+,Mark Hallenback,0,1,Y,NE POOL,Knott,,,1.0
+,Brian Whitewater,1,1,Y,MC,Tarullo,,X,1.0
+El Paso,Wes Walton,1,1,Y,GC,Hinkebein,,X,1.0
+,Bruce Gainey,0,1,Y,WGAS,Williams,,X,1.0
+,Pat Phillips,1,1,Y,GD,Fuller,,X,1.0
+,Greg Singleton,1,1,Y,GD,Fuller,,X,1.0
+,Chris Keahey,1,1,Y,GD,Fuller,,X,1.0
+,Tom Aleman,1,1,Y,TQ,Edmonds,,,1.0
+Enron,Matt Motley,2,2,N,WP,Pierangelino,No Room Needed,X,2.0
+,Mike Swerzbin,1,1,Y,WP,Pierangelino,,X,1.0
+,Jubron Whalan,1,1,Y,WP,Vaught,,X,1.0
+,Keith Holst,0,1,Y,WGAS,Neal,,X,1.0
+,Monique Sanchez,0,1,Y,WGAS,Neal,,X,1.0
+,John Forney,0,1,Y,CHAPEL,Newman,,,1.0
+,Tom May,0,1,Y,NE POOL,Donohue,,,1.0
+,Chad Pennix,0,1,Y,COAL,Davis,,,1.0
+,John Massey,0,1,Y,COAL,Davis,,,1.0
+,Clint Dean,0,1,Y,ERCOT,Hickey,,X,1.0
+,Gautam Gupta,0,1,Y,NE POOL,Donohue,,,1.0
+,Mike Carson,0,1,Y,CHAPEL,Gonzalez,No Oaks,,2.0
+,Chris Dorland,1,1,Y,CHAPEL,Peters,,,1.0
+Kinder Morgan,Mark Houghtaling,1,1,Y,NYMEX,Powers,,X,1.0
+Mirant,Brian Keefer,1,1,Y,NE POOL,Yennes,,,1.0
+,Eric Bucht,1,1,Y,NE POOL,Yennes,,,1.0
+,Mark Watson,1,0,N,WP,Osting,,,
+Morgan Stanley,Brendon Connellan,1,1,Y,WGAS,Mitcham,,,1.0
+NRG,Randy Bitsky,1,1,Y,NE POOL,Kamber,,,1.0
+,Pete Noenning,1,1,Y,NE POOL,Kamber,,,1.0
+NU,Pat Smith,1,1,Y,NE POOL,Yennes,,,1.0
+Oxy,Jennifer Lamprecht,1,1,Y,GC,Tanner,,X,1.0
+Peabody,Raphael Pierce,1,1,Y,COAL,Keck,,,1.0
+PECO,Amadu Fall,0,1,Y,NE POOL,Hulsman,,,1.0
+,Tony Zadnik,1,1,Y,CHAPEL,Owens,,,1.0
+PGET,Dylan Kwan,1,1,Y,WP,Ratliff,Need Room For Wed,X,1.0
+,Kristen McAlpin,1,1,Y,NE POOL,Baurenfeind,,,1.0
+PG&E,Susan Jones,1,1,Y,WGAS,Williams,,,1.0
+,Lisa Rahe Hough,1,1,Y,GC,Greenie/Kramer,,X,1.0
+,Mike Reed,1,1,Y,TQ,Edmonds,,,1.0
+,Jim Goetz,0,1,Y,MC,Karlen,,,1.0
+PSCO,Lance Titus,1,1,Y,WP,Vaughn,,X,1.0
+,Jeff Heit,1,1,Y,WP,Vaughn,,X,1.0
+PSEG,Ray Depillo,0,1,Y,NE POOL,Kamber,,,1.0
+,Mike Desouza,0,1,Y,NE POOL,Kamber,,,1.0
+Puget,Darrin Wilkins,1,1,Y,WP,Vaughn,,X,1.0
+Reliant,Jeff Frenza,1,1,Y,NE GAS,Hellman,,X,1.0
+,Dave Ferguson,1,1,N,ERCOT,Hickey,No Room Needed,,1.0
+,David Rosenston,0,1,Y,CHAPEL,Curtis,,,
+Reliant/HL&P,John Kim,0,1,Y,ERCOT,Giles,,X,1.0
+Select,Ed Kamrouzzi,0,1,Y,NE POOL,Kerr,,,1.0
+,George Merchel,1,1,Y,NE POOL,Yennes,,,1.0
+Tractebel,Kevin Maslek,1,1,Y,NE GAS,Massey,,X,1.0
+,Wayne Herndon,0,1,Y,NE POOL,Baurenfeind,,,1.0
+Tucson,Michael Bowling,0,1,N,WP,Vaught,No Room Needed,X,1.0
+TXU,Chuck Higdon,1,1,Y,MC,Karlen,,X,1.0
+VPEM,John McCalla,0,1,Y,NYMEX,Powers,,X,1.0
+,Chuck Gabler,1,1,Y,NE GAS,Arnold,,X,1.0
+Williams,Ben Pratt,0,1,Y,WP,Hovekamp,,X,1.0
+,Andy Forgione,0,1,Y,NE POOL,Hulsman,,,1.0
+,Brian Agre,1,1,Y,NE POOL,Horn,,,1.0
+,Justin Heinke,1,1,Y,CHAPEL,Curtis,,,1.0
+,Scott McKenna,1,1,Y,NE GAS,Massey,,X,1.0
+Other,Leslie McNew,1,1,N,TQ,Edmonds,No Room Needed,,1.0
+,David Shimko,1,1,Y,TQ,Edmonds,,,
+,Greg Harris,1,0,N,GC,Hellman,No Room Needed,,1.0
+,,75,107,,,,,,112.0
+,,,,,,,,,
+Pass Only,Chris Yarrow@Aquila,1,,,,,,,
+,,,,,,,,,
+,,76,,,,,,,

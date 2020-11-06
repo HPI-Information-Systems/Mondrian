@@ -1,0 +1,22 @@
+Payoffs of Crack Spread Options,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,Suppose,,,,,,,,,,,
+,,"F1(t, s1) = price of an s1-maturity  futures contract on commodity 1 (say natural gas)",,,,,,,,,,
+,,,,,,,,,,,,
+,,"F2(t, s2) = price of an s2-maturity  futures contract on commodity 2 (say electricity)",,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,The payoff to European crack spread options with maturity T and strike K on the spread between these two forward contracts can be,,,,,,,,,,,
+represented by the following:,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options,Payoffs of the Crack Spread Options
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,Name,Name,Name,Name,Name,Payoff,Payoff,Payoff,Payoff,Payoff,Payoff
+,,,,,,,,,,,,
+,,Crack Spread Call Option,Crack Spread Call Option,Crack Spread Call Option,Crack Spread Call Option,Crack Spread Call Option,"max(F1(T, s1) - F2(T, s2) - K, 0)","max(F1(T, s1) - F2(T, s2) - K, 0)","max(F1(T, s1) - F2(T, s2) - K, 0)","max(F1(T, s1) - F2(T, s2) - K, 0)","max(F1(T, s1) - F2(T, s2) - K, 0)","max(F1(T, s1) - F2(T, s2) - K, 0)"
+,,,,,,,,,,,,
+,,Crack Spread Put Option,Crack Spread Put Option,Crack Spread Put Option,Crack Spread Put Option,Crack Spread Put Option,"max (K - F1(T, s1) + F2(T, s2), 0)","max (K - F1(T, s1) + F2(T, s2), 0)","max (K - F1(T, s1) + F2(T, s2), 0)","max (K - F1(T, s1) + F2(T, s2), 0)","max (K - F1(T, s1) + F2(T, s2), 0)","max (K - F1(T, s1) + F2(T, s2), 0)"

@@ -1,0 +1,50 @@
+Counterparty,Parent,Enron Entity,,Entities in question,,
+"Vastar Resources, Inc.",Atlantic Richfield Company,"Enron Gas Liquids, Inc.",Physical liquids,BP Products North America Inc.,Enron records reflect that the company changed its name to BP Amcoco Oil Company,
+"Vastar Resources, Inc.",Atlantic Richfield Company,Enron North America Corp.,physical liquids and gas,"BP North American Petroleum, a division of BP Products North America Inc.",,
+"Vastar Resources, Inc.",Atlantic Richfield Company,Houston Pipe Line Company,,"Vastar Resources, Inc. (by and through its agent BP Energy Company)","Enron does not have Vastar as agent for any BP Entity, just acting as principal",
+"Vastar Resources, Inc.",Atlantic Richfield Company,"LOA, Inc.",,,,
+Amoco Chemical Company,BP p.l.c.,"LOA, Inc.",,Master Contracts,,
+Amoco Production Company,BP p.l.c.,Enron Reserve Acquisition Corp.,physical crude,ISDA(96038383),ENA,BP Corporation North America Inc.
+Arco Aluminum Inc,BP p.l.c.,Enron Metals & Commodity Limited,,Master Firm(96000349),ENA,BP Exploration & Oil Inc.
+BP Amoco Chemical Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,Master ECT 1992 Form(95001151),ENA,BP Exploration & Oil Inc.
+BP Amoco Chemical Company,BP p.l.c.,Enron North America Corp.,"finanaical derivatives, physical gas and liquds",Master Power(96060365),EPMI,BP Energy Company
+BP Amoco Oil Company,BP p.l.c.,"Enron Gas Liquids, Inc.",physical liquids,Master Spot(96000463),ENA,BP Energy Company
+BP Amoco Oil Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,Master Spot(96000458),ENA,BP Canada Energy Company
+BP Amoco Oil Company,BP p.l.c.,Enron North America Corp.,,Master Firm<31 Days(96013427),ECC,BP Canada Energy Company
+BP Canada Energy Company,BP p.l.c.,Enron Canada Corp.,physical gas,Master Interruptible(96013429),ECC,BP Canada Energy Company
+BP Canada Energy Company,BP p.l.c.,Enron North America Corp.,,Master Firm Calgary(96013792),ECC,BP Canada Energy Company
+BP Canada Energy Marketing Corp.,BP p.l.c.,Enron North America Corp.,,Master Spot(96002138),ENA,BP Canada Energy Marketing Corp.
+BP Chemicals Inc.,BP p.l.c.,"Enron Gas Liquids, Inc.",physical liquids,,,
+BP Chemicals Inc.,BP p.l.c.,Enron North America Corp.,,Credit Support,,
+BP Chemicals Ltd.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,"Vastar Resources, Inc.",none,
+BP Chemicals Ltd.,BP p.l.c.,Enron Gas & Petrochemicals Trading Limited,,Amoco Chemical Company,none,
+BP Chemicals Trading Ltd,BP p.l.c.,Enron Gas & Petrochemicals Trading Limited,,Amoco Production Company,none,
+BP Corporation North America Inc.,BP p.l.c.,"Enron Gas Liquids, Inc.",physical liquids,BP Amoco Chemical Company,none,
+BP Corporation North America Inc.,BP p.l.c.,Enron North America Corp.,,BP Canada Energy Company,,
+BP Energy Company,BP p.l.c.,"Enron Energy Services, Inc.",,BP Canada Energy Marketing Corp.,BP Canada Energy Corp,
+BP Energy Company,BP p.l.c.,Enron North America Corp.,,BP Chemicals Inc.,none,
+BP Energy Company,BP p.l.c.,"Enron Power Marketing, Inc.",,BP Corporation North America Inc.,,
+BP Energy Company,BP p.l.c.,"LOA, Inc.",,BP Energy Company,BP Corporation North America Inc,
+BP Exploration & Oil Inc.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,BP Exploration & Oil Inc.,BP America Inc,
+BP Exploration & Oil Inc.,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,BP Oil Supply Company,BP America Inc,
+BP Exploration & Oil Inc.,BP p.l.c.,Enron North America Corp.,,"Castrol Industrial North America, Inc.",none,
+BP Gas Marketing Limited,BP p.l.c.,Enron Capital & Trade Resources Limited,,"IGI Resources, Inc.",BP Corporation North America Inc,
+BP International Ltd,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,Cibola Energy Services Corporation,BP Canada Energy Compnay,
+BP Oil Espana SA,BP p.l.c.,"Enron Holdings 1, S.L.",,,,
+BP Oil International Limited,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,,,
+BP Oil International Limited,BP p.l.c.,Enron Capital & Trade Resources Limited,,,,
+BP Oil International Limited,BP p.l.c.,Enron Credit Limited,,,,
+BP Oil International Limited,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,,,
+BP Oil International Limited,BP p.l.c.,Enron North America Corp.,,,,
+BP Oil Refineria de Castellon,BP p.l.c.,"Enron Holdings 1, S.L.",,,,
+BP Oil Supply Company,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,,,
+BP Oil Supply Company,BP p.l.c.,Enron North America Corp.,,,,
+BP Oil Supply Company,BP p.l.c.,Enron Reserve Acquisition Corp.,,,,
+BP Shipping Limited,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,,,
+BP Shipping Limited,BP p.l.c.,"Enron Liquid Fuels, Inc.",physical liquids,,,
+BP Singapore Pte. Ltd.,BP p.l.c.,Enron Capital & Trade Resources International Corp.,,,,
+BP Singapore Pte. Ltd.,BP p.l.c.,Enron Capital & Trade Resources Singapore Pte Ltd.,,,,
+"Castrol Industrial North America, Inc.",BP p.l.c.,"Enron Energy Services, Inc.",,,,
+"IGI Resources, Inc.",Century Partners-Idaho,Enron Canada Corp.,,,,
+"IGI Resources, Inc.",Century Partners-Idaho,Enron North America Corp.,,,,
+Cibola Energy Services Corporation,TransCanada Pipelines Limited,Enron North America Corp.,,,,

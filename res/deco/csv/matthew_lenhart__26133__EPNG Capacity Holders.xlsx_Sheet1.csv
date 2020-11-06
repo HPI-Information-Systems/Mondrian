@@ -1,0 +1,40 @@
+EPNG Capacity Summary,EPNG Capacity Summary,,,,,,
+,Company Name,Rate Schedule,Start Date,End Date,MDQ MMBtu,Receipt,Primary Delivery
+,Amoco Energy Trading,FT1,1998-07-01 00:00:00,2001-04-01 00:00:00,25575,System,"1/2 Socal Topock, Ehrenberg"
+,Amoco Energy Trading,FT1,1990-07-01 00:00:00,2000-06-01 00:00:00,102300,SJ,Various
+,Burlington Resources,FT1,1992-04-01 00:00:00,2007-03-01 00:00:00,102300,System,Socal Topock
+,Burlington Resources,FT1,1992-03-01 00:00:00,2007-02-01 00:00:00,84909,System,Ehrenberg
+,Burlington Resources,FT1,1990-05-01 00:00:00,2005-06-01 00:00:00,306900,SJ,Various
+,LADWP,FT1,1992-04-01 00:00:00,2007-03-01 00:00:00,36828,System,Socal Topock
+,Conoco,FT1,1997-05-01 00:00:00,2003-04-01 00:00:00,46035,System,Waha
+,El Paso Electric,FT1,1991-09-01 00:00:00,2001-12-01 00:00:00,35674,System,EP Electric
+,El Paso Merchant Energy,FT1,2000-03-01 00:00:00,2001-05-01 00:00:00,593122,,
+,El Paso Merchant Energy,FT1,2000-03-01 00:00:00,2001-05-01 00:00:00,193454,,
+,El Paso Merchant Energy,FT1,2000-03-01 00:00:00,2001-05-01 00:00:00,462398,,
+,Oneok,FT1,1997-05-01 00:00:00,2007-04-01 00:00:00,50000,System,Westar Waha
+Previously KN,Oneok,FT1,1998-07-01 00:00:00,2005-12-01 00:00:00,20460,System,"1/2 Socal Topock, Ehrenberg"
+,Oneok,FT1,1999-05-01 00:00:00,2002-04-01 00:00:00,10500,System,Topock
+,MGI Supply,FT1,1992-01-01 00:00:00,2002-12-01 00:00:00,23000,System,Pemex Wilcox
+,MGI Supply,FT1,1997-12-01 00:00:00,2007-12-01 00:00:00,40000,Perm/Anadarko,Hueco
+,MGI Supply,FT1,2000-01-01 00:00:00,2000-12-01 00:00:00,40000,,
+,PG&E Energy Trading,FT1,1997-05-01 00:00:00,2002-04-01 00:00:00,25575,System,Valero Waha
+,Phillips Petroleum ,FT1,1997-05-01 00:00:00,2002-02-01 00:00:00,20460,System,"Havasu, Phillips, Hutchinson"
+,Phillips Petroleum ,FT1,1998-09-01 00:00:00,2003-08-01 00:00:00,5000,,
+,PNM Gas Services,FT1,1991-10-01 00:00:00,2011-09-01 00:00:00,2322,System,"WGI ELP, GCNMSJT, GULFSJT"
+,PNM Gas Services,FT1,1991-10-01 00:00:00,2011-09-01 00:00:00,72,System,"WGI ELP, GCNMSJT, GULFSJT"
+,PNM Gas Services,FT1,1991-10-01 00:00:00,2011-09-01 00:00:00,20027,System,Various
+,PNM Gas Services,FT1,1991-10-01 00:00:00,2011-09-01 00:00:00,10784,System,Various
+,Richardson Products,FT1,2000-04-01 00:00:00,2001-03-01 00:00:00,9375,,
+,Salt River Project,FT1,1992-01-01 00:00:00,2013-12-01 00:00:00,48341,System,SRP Phoenix
+,San Diego Gas & Electric,FT1,1992-03-01 00:00:00,2007-02-01 00:00:00,10230,System,Ehrenberg
+,Socal Edison,FT1,1992-03-01 00:00:00,2007-03-01 00:00:00,132990,System,Ehrenberg
+,Socal Gas,FT1,1991-09-01 00:00:00,2006-08-01 00:00:00,1176450,System,"PG&E Top, Socal Topock, Mojave"
+,SWG,FT1,1991-09-01 00:00:00,2011-08-01 00:00:00,3373,System,Various
+,SWG,FT1,1991-09-01 00:00:00,2011-08-01 00:00:00,153450,System,SWG Topock
+,SWG,FT1,1991-09-01 00:00:00,2011-08-01 00:00:00,333965,System,Various
+,Tenaska Marketing,FT1,2000-04-01 00:00:00,2000-07-01 00:00:00,20000,,
+,Tenaska Marketing,FT1,2000-04-01 00:00:00,2000-07-01 00:00:00,10000,,
+,Texaco,FT1,1992-04-01 00:00:00,2007-03-01 00:00:00,179025,System,Topock
+,Williams Energy,FT1,1998-01-01 00:00:00,2000-12-01 00:00:00,15000,,
+,Williams Energy,FT1,1998-04-01 00:00:00,2002-04-01 00:00:00,25575,System,Waha
+,Williams Energy,FT1,2000-01-01 00:00:00,2004-12-01 00:00:00,101585,System,"PG&E Top, Socal Topock"

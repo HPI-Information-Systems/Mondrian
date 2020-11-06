@@ -1,0 +1,365 @@
+counterparty,erating,parent_counterparty,enron_entity,fmtm,pmtm,sum
+Mahonia Ltd,2,The 600 Group PLC,Enron North America Corp.,-288650093,-126906002,-415556095
+"Dominion Exploration & Production, Inc.",4,Dominion Resources Inc.,Enron North America Corp.,-234798502,0,-234798502
+Dynegy Canada Inc.,4,Dynegy Inc.,Enron North America Corp.,-142398290,68221,-142330069
+American Public Energy Agency,9,American Public Energy Agency,Enron North America Corp.,14014099,-116892582,-102878483
+TransCanada Pipelines Limited,3,TransCanada Pipelines Limited,Enron North America Corp.,0,-65934369,-65934369
+Hess Energy Trading Company LLC,4,Amerada Hess Corporation,Enron North America Corp.,-41723293,0,-41723293
+Phibro Inc.,3,Citigroup Inc.,Enron North America Corp.,-38702485,64813,-38637672
+"Mariner Energy, Inc.",9,Enron Corp.,Enron North America Corp.,-25147089,0,-25147089
+Amerada Hess Corporation,4,Amerada Hess Corporation,Enron North America Corp.,-23538705,4262,-23534443
+Vitro Corporativo S.A. de C.V.,7,Compagnie de Saint-Gobain SA,Enron North America Corp.,-19408814,0,-19408814
+"PG&E Gas Transmission, Northwest Corporation",3,PG&E Corporation,Enron North America Corp.,0,-13458623,-13458623
+Contour Energy Co.,11,Contour Energy Co.,Enron North America Corp.,-13325995,0,-13325995
+"El Paso Merchant Energy, L.P.",4,El Paso Corporation,Enron North America Corp.,0,-10802183,-10802183
+Callon Petroleum Company,9,Callon Petroleum Company,Enron North America Corp.,-10524679,0,-10524679
+"Vernon E. Faulconer, Inc.",9,Vernon E. Faulconer,Enron North America Corp.,-10307795,0,-10307795
+Deutsche Bank AG,2,Deutsche Bank AG,Enron North America Corp.,-10257682,0,-10257682
+"Cargill, Incorporated",2,"Cargill, Incorporated",Enron North America Corp.,-9630716,0,-9630716
+Morgan Stanley Capital Group Inc.,2,Morgan Stanley Dean Witter & Co.,Enron North America Corp.,-9073329,589645,-8483684
+"Las Vegas Cogeneration, LP",9,Enron Corp.,Enron North America Corp.,-7667235,0,-7667235
+Peoples Energy Corporation,2,Peoples Energy Corporation,Enron North America Corp.,-7097250,0,-7097250
+Pacific Gas & Electric Company,12,PG&E Corporation,Enron North America Corp.,0,-7034495,-7034495
+"Tubos de Acero de Mexico, S.A.",7,"Tubos de Acero de Mexico, S.A.",Enron North America Corp.,-6538662,0,-6538662
+"Grupo Industrial Saltillo, S.A. de C.V.",6,"Grupo Industrial Saltillo, S.A. de C.V.",Enron North America Corp.,-5998186,0,-5998186
+"Clayton Williams Energy, Inc.",9,"Clayton Williams Energy, Inc.",Enron North America Corp.,-5931612,0,-5931612
+EnerVest Energy L.P.,7,"Enervest Management Partners, Ltd.",Enron North America Corp.,-5683088,0,-5683088
+Patina Oil & Gas Corporation,7,Patina Oil & Gas Corporation,Enron North America Corp.,-5668982,0,-5668982
+KN Gas Gathering Inc.,5,"Kinder Morgan, Inc.",Enron North America Corp.,0,-5534164,-5534164
+"CGAS, Inc.",9,Joint Energy Development Investments Limited Partnership,Enron North America Corp.,-5373956,0,-5373956
+"Preston Exploration Company, LP",9,"Preston Exploration Company, LP",Enron North America Corp.,-5320661,0,-5320661
+Dominion Exploration Canada Ltd.,11,Dominion Resources Inc.,Enron North America Corp.,-5121100,0,-5121100
+KCS Energy Marketing Inc.,12,KCS Energy Inc.,Enron North America Corp.,-5000453,0,-5000453
+El Paso Gas Marketing Company Inc.,5,El Paso Corporation,Enron North America Corp.,0,-4909777,-4909777
+Enterprise Products Operating L.P.,4,Enterprise Products Operating L.P.,Enron North America Corp.,-4655766,0,-4655766
+"Lamosa Revestimientos, S.A. de C.V.",7,"Grupo Lamosa, S.A. de C.V.",Enron North America Corp.,-4375583,0,-4375583
+"ONEOK Energy Marketing and Trading Company, L.P.",3,"ONEOK, Inc.",Enron North America Corp.,4716843,-8823590,-4106747
+Michigan Consolidated Gas Company,3,DTE Energy Co.,Enron North America Corp.,-75456,-3945840,-4021296
+Louis Dreyfus Plastics Corp.,9,S.A. Louis Dreyfus & Cie.,Enron North America Corp.,-3819567,0,-3819567
+"Wiser Oil Company, The",11,"Wiser Oil Company, The",Enron North America Corp.,-3799559,0,-3799559
+"AEC Marketing (USA), Inc.",4,Alberta Energy Company Ltd.,Enron North America Corp.,0,-3357552,-3357552
+United Oil & Minerals Limited Partnership,7,United Oil & Minerals Limited Partnership,Enron North America Corp.,-3266543,0,-3266543
+"Devon SFS Operating, Inc.",5,"Devon SFS Operating, Inc.",Enron North America Corp.,-3062768,0,-3062768
+"Westport Oil & Gas Company, Inc.",7,Westport Energy Corporation,Enron North America Corp.,-3007216,0,-3007216
+"Nemak, S.A.",6,"ALFA, S.A. de C.V.",Enron North America Corp.,-2881449,0,-2881449
+"Avista Energy, Inc.",5,Avista Corporation,Enron North America Corp.,-2723133,0,-2723133
+"Venoco, Inc.",9,"Venoco, Inc.",Enron North America Corp.,-2624906,0,-2624906
+"EOG Resources, Inc.",4,"EOG Resources, Inc.",Enron North America Corp.,-2479214,0,-2479214
+Thermo Cogeneration Partnership LP,8,Thermo Cogeneration Partnership LP,Enron North America Corp.,0,-2429376,-2429376
+Encore Acquisition Company,7,Encore Acquisition Company,Enron North America Corp.,-2423269,0,-2423269
+St. Mary Land & Exploration Company,6,St. Mary Land & Exploration Company,Enron North America Corp.,-2402548,0,-2402548
+Hunt Petroleum Corporation,8,Hunt Petroleum Corporation,Enron North America Corp.,-2322436,0,-2322436
+Kerr-McGee Rocky Mountain Corporation,7,Kerr-McGee Corporation,Enron North America Corp.,-2284203,0,-2284203
+"Consumers Gas Company Ltd., The",3,Enbridge Inc.,Enron North America Corp.,139134,-2252737,-2113603
+EEX Corporation,11,EEX Corporation,Enron North America Corp.,-2002177,0,-2002177
+EnergyUSA-TPC Corp.,3,NiSource Inc.,Enron North America Corp.,-1848943,0,-1848943
+Diamond Shamrock Refining Company LP,4,Diamond Shamrock Refining Company LP,Enron North America Corp.,-1765393,0,-1765393
+Forest Oil Corporation,7,Forest Oil Corporation,Enron North America Corp.,-1742628,0,-1742628
+"Carrizo Oil & Gas, Inc.",9,"Carrizo Oil & Gas, Inc.",Enron North America Corp.,-1736972,0,-1736972
+Anadarko Energy Services Company,4,Anadarko Petroleum Corporation,Enron North America Corp.,-1711200,0,-1711200
+Texas General Land Office,9,"Texas, State Of",Enron North America Corp.,0,-1551041,-1551041
+"PG&E Energy Trading, Canada Corporation",6,PG&E Corporation,Enron North America Corp.,-326303,-1220334,-1546637
+"Blue Star Resources, Ltd.",9,"Blue Star Resources, Ltd.",Enron North America Corp.,-1528589,0,-1528589
+Energen Resources Corporation,3,Energen Corporation,Enron North America Corp.,0,-1486527,-1486527
+"Duke Energy NGL Services, LP",4,Duke Energy Corporation,Enron North America Corp.,-1434069,0,-1434069
+"Pioneer Natural Resources USA, Inc.",4,Pioneer Natural Resources Company,Enron North America Corp.,-1398021,0,-1398021
+LGS Natural Gas Company,8,Atmos Energy Corporation,Enron North America Corp.,0,-1374594,-1374594
+Range Resources Corporation,9,Range Resources Corporation,Enron North America Corp.,-1296471,0,-1296471
+"Grupo Petrotemex, S.A. de C.V.",,"Grupo Petrotemex, S.A. de C.V.",Enron North America Corp.,-1261513,0,-1261513
+"Yuma Companies, The (Inc.)",8,"Yuma Companies, The (Inc.)",Enron North America Corp.,-1201873,0,-1201873
+"Sanitarios Azteca, S.A. de C.V.",7,"Grupo Lamosa, S.A. de C.V.",Enron North America Corp.,-1187915,0,-1187915
+"Mexichem, S.A. de C.V.",9,"Mexichem, S.A. de C.V.",Enron North America Corp.,-1151510,0,-1151510
+Wisconsin Power And Light Company,3,Alliant Energy Corporation,Enron North America Corp.,-1133008,0,-1133008
+Ultramar Inc.,4,Ultramar Diamond Shamrock Corporation,Enron North America Corp.,-1094345,0,-1094345
+"Merit Energy Partners C-II, L.P.",7,,Enron North America Corp.,-1019109,0,-1019109
+"Fersinsa Gist Brocades, S.A. de C.V.",10,"Fersinsa Gist Brocades, S.A. de C.V.",Enron North America Corp.,-998887,0,-998887
+"Sithe Energies, Inc.",5,"Sithe Energies, Inc.",Enron North America Corp.,-992991,0,-992991
+Belco Oil & Gas Corp.,8,Belco Oil & Gas Corp.,Enron North America Corp.,-949989,0,-949989
+Bankers Trust International PLC,3,Deutsche Bank AG,Enron North America Corp.,-943724,0,-943724
+Fagadau Energy Corporation,11,Fagadau Energy Corporation,Enron North America Corp.,-928303,0,-928303
+Juniper Energy L.P.,10,Juniper Energy L.P.,Enron North America Corp.,-913682,0,-913682
+"Southwest Royalties, Inc.",11,Southwest Royalties Holdings Inc.,Enron North America Corp.,-902077,0,-902077
+"Heartland Steel, Inc.",12,"Heartland Steel, Inc.",Enron North America Corp.,0,-886634,-886634
+"Merit Energy Partners C-I, L.P.",7,,Enron North America Corp.,-873470,0,-873470
+"Reliant Energy, Incorporated",4,"Reliant Energy, Incorporated",Enron North America Corp.,-872407,0,-872407
+"Merit Energy Partners B, L.P.",7,,Enron North America Corp.,-800677,0,-800677
+"Independent Production Company, Inc.",9,"Independent Production Company, Inc.",Enron North America Corp.,0,-771432,-771432
+Shell Oil Company,1,Royal Dutch Petroleum Company,Enron North America Corp.,-730479,0,-730479
+"Industrias Penoles, S.A. de C.V.",6,"Industrias Penoles, S.A. de C.V.",Enron North America Corp.,-669178,0,-669178
+"Copamex, S.A. de C.V.",8,"Copamex, S.A. de C.V.",Enron North America Corp.,-616052,0,-616052
+Pecos Production Company,11,Pecos Production Company,Enron North America Corp.,-606358,0,-606358
+"Fibras Quimicas, S.A. de C.V.",7,"ALFA, S.A. de C.V.",Enron North America Corp.,-599752,0,-599752
+"Black Stone Minerals Company, L.P.",9,"Black Stone Minerals Company, L.P.",Enron North America Corp.,-594296,0,-594296
+KUKUI Inc,9,Kamehameha Schools Bishop,Enron North America Corp.,-575371,0,-575371
+"McElvain Oil & Gas Properties, Inc.",9,,Enron North America Corp.,-491569,0,-491569
+"Univex, S.A.",8,"ALFA, S.A. de C.V.",Enron North America Corp.,-491220,0,-491220
+Home-Stake Oil & Gas Company,9,"Cortez Oil & Gas, Inc.",Enron North America Corp.,-435719,0,-435719
+"Yankee Gas Services Co., Inc.",7,Northeast Utilities (Vol Assoc),Enron North America Corp.,-423877,0,-423877
+"Merit Energy Partners X, L.P.",7,,Enron North America Corp.,-360161,0,-360161
+Daimon Partners I,9,,Enron North America Corp.,-358861,0,-358861
+Daimon Partners III,9,,Enron North America Corp.,-358861,0,-358861
+Ashland Incorporated,4,Ashland Incorporated,Enron North America Corp.,-347559,0,-347559
+Trade Exploration Corporation,9,Trade Exploration Corporation,Enron North America Corp.,-340993,0,-340993
+"Segundo Navarro Drilling, Ltd.",9,"Segundo Navarro Drilling, Ltd.",Enron North America Corp.,-332051,0,-332051
+"Tejas Gas Marketing, LLC",6,Royal Dutch Petroleum Company,Enron North America Corp.,-328258,0,-328258
+CoEnergy Trading Company,5,DTE Energy Co.,Enron North America Corp.,-318167,0,-318167
+"Primary Natural Resources, Inc.",9,"Primary Natural Resources, Inc.",Enron North America Corp.,-317579,0,-317579
+Viking Energy Corporation,11,Viking Energy Corporation,Enron North America Corp.,0,-284187,-284187
+BP Canada Energy Company,1,BP p.l.c.,Enron North America Corp.,0,-274404,-274404
+Virginia Electric and Power Company,4,Dominion Resources Inc.,Enron North America Corp.,-253359,0,-253359
+Public Service Electric and Gas Company,3,Public Service Enterprise Group,Enron North America Corp.,0,-245788,-245788
+"Merit Energy Partners III, L.P.",7,"Merit Energy Partners VII, L.P.",Enron North America Corp.,-227059,0,-227059
+"Merit Energy Partners VIII, L.P.",7,,Enron North America Corp.,-216096,0,-216096
+"K.L.J., Inc.",9,"K.L.J., Inc.",Enron North America Corp.,0,-212879,-212879
+Barrington Petroleum Ltd.,9,Barrington Petroleum Ltd.,Enron North America Corp.,0,-184909,-184909
+"Indelpro, S.A. de C.V.",9,"ALFA, S.A. de C.V.",Enron North America Corp.,-180946,0,-180946
+Phillips Petroleum Company,4,Phillips Petroleum Company,Enron North America Corp.,0,-176177,-176177
+Cabot Oil & Gas Marketing Corporation,8,Cabot Oil & Gas Corporation,Enron North America Corp.,-174059,0,-174059
+Nylon De Mexico S.A. de C.V.,7,Nylon De Mexico S.A. de C.V.,Enron North America Corp.,-157892,0,-157892
+The Chase Manhattan Bank,2,J.P. Morgan Chase & Co.,Enron North America Corp.,0,-152768,-152768
+Wasatch Energy LLC,10,Wasatch Energy LLC,Enron North America Corp.,-146126,0,-146126
+"Merit Partners, L.P.",7,,Enron North America Corp.,-143372,0,-143372
+American Assurance 2000 L.P.,9,,Enron North America Corp.,-141716,0,-141716
+HQ Energy Services (U.S.) Inc.,3,Government of the Province of Quebec,Enron North America Corp.,-129468,0,-129468
+"Pennaco Energy, Inc.",10,USX Corporation,Enron North America Corp.,-124627,0,-124627
+AIG Commodity Arbitrage Fund Limited,10,,Enron North America Corp.,-117748,0,-117748
+Bonneville Fuels Corporation,9,Carbon Energy Corporation,Enron North America Corp.,-113679,0,-113679
+"Kaplan Interests, Inc.",9,"Kaplan Interests, Inc.",Enron North America Corp.,0,-112493,-112493
+"TotalFinaElf Gas & Power North America, Inc.",3,Total Fina Elf S.A.,Enron North America Corp.,-97864,-13883,-111747
+"Polykron, S.A. de C.V.",9,"ALFA, S.A. de C.V.",Enron North America Corp.,-105261,0,-105261
+Torch Energy Marketing Inc.,10,Torch Acquisition Company,Enron North America Corp.,-104446,0,-104446
+Jay Bee Oil & Gas Company,9,Jay Bee Oil & Gas Company,Enron North America Corp.,0,-100165,-100165
+TransCanada Energy Ltd.,3,TransCanada Pipelines Limited,Enron North America Corp.,0,-89028,-89028
+Tauber Oil Company,9,Tauber Oil Company,Enron North America Corp.,-88357,0,-88357
+Northern Illinois Gas Company,2,Nicor Inc.,Enron North America Corp.,-110411,26550,-83861
+"Crosstex Energy Services, Ltd.",9,"Crosstex Energy Services, Ltd.",Enron North America Corp.,-83786,0,-83786
+"Prism Gas Systems, Inc.",9,,Enron North America Corp.,-82424,0,-82424
+Aquila Energy Marketing Corporation,6,Utilicorp United Inc.,Enron North America Corp.,0,-82378,-82378
+Scana Energy Trading LLC,3,Scana Corporation,Enron North America Corp.,-109440,33230,-76210
+PanCanadian Petroleum Limited,3,Canadian Pacific Limited,Enron North America Corp.,0,-74613,-74613
+Equitable Energy L.L.C.,6,Equitable Resources Inc.,Enron North America Corp.,-72530,0,-72530
+"Merit Energy Partners A, L.P.",7,,Enron North America Corp.,-72034,0,-72034
+"Merit Energy Partners IX, L.P.",7,,Enron North America Corp.,-72034,0,-72034
+TDC Energy Corporation,11,TDC Energy Corporation,Enron North America Corp.,-21037,-48858,-69895
+"Dominion Field Services, Inc.",4,Dominion Resources Inc.,Enron North America Corp.,-69474,4092,-65382
+"Red Rock Energy, L.L.C.",5,"Kinder Morgan, Inc.",Enron North America Corp.,0,-64837,-64837
+"Rising Star Energy, L.L.C.",9,"Rising Star Energy, L.L.C.",Enron North America Corp.,-62690,0,-62690
+Castle Power LLC,9,Castle Oil Corporation,Enron North America Corp.,-55235,0,-55235
+"Continental Gas, Inc.",10,"Continental Resources, Inc.",Enron North America Corp.,-46495,0,-46495
+Wellstar Corporation,9,Wellstar Corporation,Enron North America Corp.,0,-45314,-45314
+AIG Commodity Arbitrage Fund LP,10,,Enron North America Corp.,-35171,0,-35171
+TXU Energy Trading Canada Limited,4,TXU Corp.,Enron North America Corp.,-53292,19101,-34191
+Nexen Marketing,5,Nexen Inc.,Enron North America Corp.,0,-30841,-30841
+"Consolidated Edison Solutions, Inc.",3,"Consolidated Edison, Inc.",Enron North America Corp.,-28579,0,-28579
+City of Pasadena,4,City of Pasadena,Enron North America Corp.,0,-27471,-27471
+"Hiland Partners, L.L.C.",9,"Hiland Partners, L.L.C.",Enron North America Corp.,-24471,0,-24471
+"Cedar Resources, Inc.",9,"Cedar Resources, Inc.",Enron North America Corp.,0,-22258,-22258
+"Giant Industries Arizona, Inc.",7,"Giant Industries, Inc.",Enron North America Corp.,25403,-43668,-18265
+"Gatherco, Inc.",9,"Gatherco, Inc.",Enron North America Corp.,0,-16344,-16344
+KStar VPP LP,9,Enron Corp.,ENA Upstream Company LLC,0,-12496,-12496
+"U.S. Department of the Interior, Minerals Management Service",1,Government Of The United States,ENA Upstream Company LLC,0,-8123,-8123
+Columbia Gas Transmission Corporation,4,NiSource Inc.,Enron North America Corp.,0,-8074,-8074
+Suncor Energy Inc.,4,Suncor Energy Inc.,Enron North America Corp.,-7606,0,-7606
+"Sequent Energy Management, L.P.",4,AGL Resources Inc,ENA Upstream Company LLC,0,-7140,-7140
+New Jersey Natural Gas Company,3,New Jersey Resources Corporation,Enron North America Corp.,-6625,0,-6625
+Conoco Canada Energy Partnership,7,Conoco Canada Energy Partnership,Enron North America Corp.,0,-6189,-6189
+Alliance Energy Services Partnership,3,Alliance Energy Services Partnership,Enron North America Corp.,0,-4946,-4946
+"TotalFinaElf Gas & Power North America, Inc.",3,Total Fina Elf S.A.,ENA Upstream Company LLC,0,-4858,-4858
+Swift Energy Company,8,Swift Energy Company,ENA Upstream Company LLC,-4416,0,-4416
+Tudor Arbitrage Partners LP,,Tudor Arbitrage Partners LP,Enron North America Corp.,-2029,0,-2029
+"Nicor Enerchange, LLC",3,Anadarko Petroleum Corporation,Enron North America Corp.,0,-1971,-1971
+"Texoma Trading, LLC",9,,ENA Upstream Company LLC,0,-1679,-1679
+"Camerick Gas Processing Company, L.L.C.",9,"Carrera Gas Company, L.L.C.",ENA Upstream Company LLC,0,-524,-524
+Bill Kennedy,9,Bill Kennedy,Enron North America Corp.,0,-290,-290
+"Key Production Company, Inc.",8,"Key Production Company, Inc.",ENA Upstream Company LLC,0,-221,-221
+Braxton Oil & Gas Corporation,9,Braxton Oil & Gas Corporation,Enron North America Corp.,0,-168,-168
+Stevens Oil and Gas,9,,ENA Upstream Company LLC,0,-103,-103
+"Aurora Services, Inc.",9,"Aurora Services, Inc.",Enron North America Corp.,0,-96,-96
+TransCanada Energy Financial Products Limited,3,TransCanada Pipelines Limited,Enron North America Corp.,-49,0,-49
+Northwest Natural Gas Company,3,Northwest Natural Gas Company,Enron North America Corp.,0,9,9
+"Mainline Energy, L.L.C.",11,"Mainline Energy, L.L.C.",Enron North America Corp.,0,110,110
+"St. Mary's Production, LLC",11,,ENA Upstream Company LLC,0,121,121
+"Wilmar Pipelines, Inc.",9,"Wilmar Pipelines, Inc.",ENA Upstream Company LLC,0,132,132
+Empire District Electric Company,5,Empire District Electric Company,Enron North America Corp.,375,0,375
+"PPL EnergyPlus, LLC",4,PPL Corporation,Enron North America Corp.,0,1288,1288
+Ralaco Ventures,9,Ralaco Ventures,ENA Upstream Company LLC,0,1651,1651
+"Memphis Light, Gas, and Water Division",2,"Memphis, City Of",Enron North America Corp.,0,2358,2358
+Riceland Petroleum Company,11,Riceland Petroleum Company,ENA Upstream Company LLC,0,3067,3067
+Baltimore Gas and Electric Company,3,Constellation Energy Group,Enron North America Corp.,3680,0,3680
+Poco Marketing Ltd.,4,Burlington Resources Inc.,Enron North America Corp.,0,4416,4416
+Tiger Natural Gas Inc.,11,Tiger Natural Gas Inc.,Enron North America Corp.,0,4462,4462
+"e prime Energy Marketing, Inc.",,Xcel Energy Inc.,Enron North America Corp.,5295,0,5295
+Texla Energy Management Inc.,10,Texla Energy Management Inc.,Enron North America Corp.,0,5981,5981
+NGTS LLC,11,"Natural Gas Transmission Services, Inc.",Enron North America Corp.,6054,0,6054
+Agave Energy Company,11,Agave Energy Company,Enron North America Corp.,0,8268,8268
+Solitair Corporation,11,,Enron North America Corp.,8390,0,8390
+"Wexford Spectrum Investors, LLC",9,,Enron North America Corp.,8390,0,8390
+United Technologies Corporation,2,United Technologies Corporation,Enron North America Corp.,0,9920,9920
+Exxon Mobil Corporation,1,Exxon Mobil Corporation,ENA Upstream Company LLC,0,10305,10305
+"Duke Energy Field Services Marketing, LLC",4,Duke Energy Corporation,Enron North America Corp.,11270,0,11270
+Hunt Petroleum Corporation,8,Hunt Petroleum Corporation,ENA Upstream Company LLC,0,12881,12881
+"Torch Energy TM, Inc.",10,Torch Acquisition Company,ENA Upstream Company LLC,0,13812,13812
+"Woodward Marketing, L.L.C.",8,Atmos Energy Corporation,Enron North America Corp.,0,14022,14022
+"Royster-Clark, Inc.",9,"Royster-Clark, Inc.",Enron North America Corp.,0,24402,24402
+Howell Petroleum Corporation,8,Howell Corporation,Enron North America Corp.,0,26227,26227
+"WPS Energy Services, Inc.",2,WPS Resources Corporation,Enron North America Corp.,0,38099,38099
+"Coral Energy Resources, L.P.",1,"Coral Energy Holding, L.P.",Enron North America Corp.,0,38276,38276
+"Entergy New Orleans, Inc.",4,Entergy Corporation,Enron North America Corp.,0,39865,39865
+Kaztex Energy Management Inc.,3,Wisconsin Energy Corporation,Enron North America Corp.,40012,0,40012
+Phibro-tech Inc.,9,"Phililpp Brothers Chemicals, Inc.",Enron North America Corp.,41418,0,41418
+Aquila Canada Corp.,5,Utilicorp United Inc.,Enron North America Corp.,0,41956,41956
+"DTE Energy Trading, Inc.",4,DTE Energy Co.,Enron North America Corp.,45557,0,45557
+"Interconn Resources, Inc.",10,"Interconn Resources, Inc.",Enron North America Corp.,0,50504,50504
+"North Texas Gas Partners, Ltd.",10,,Enron North America Corp.,54448,0,54448
+Tenaska Marketing Ventures,7,Tenaska Marketing Ventures,Enron North America Corp.,0,57007,57007
+President and Fellows of Harvard College,1,President and Fellows of Harvard College,Enron North America Corp.,64192,0,64192
+"Tri-State Generation and Transmission Association, Inc.",5,"Tri-State Generation and Transmission Association, Inc.",Enron North America Corp.,64197,0,64197
+"Municipal Gas Authority of Mississippi, The",1,"Municipal Gas Authority of Mississippi, The",Enron North America Corp.,0,72305,72305
+EOTT Energy Partners LP,7,EOTT Energy Partners LP,Enron North America Corp.,89770,0,89770
+Degussa-Huls Corporation,5,Degussa Aktiengesellschaft,Enron North America Corp.,94097,0,94097
+Duke Energy Marketing Limited Partnership,3,Duke Energy Corporation,Enron North America Corp.,0,98363,98363
+Southern Natural Gas Company,4,El Paso Corporation,Enron North America Corp.,0,114245,114245
+Union Gas Limited,3,Westcoast Energy Inc.,Enron North America Corp.,99283,16780,116063
+"Norampac, Inc.",7,Cascades Inc.,Enron North America Corp.,119087,0,119087
+Marathon Oil Company,4,USX Corporation,Enron North America Corp.,162034,-39672,122362
+"NUI Energy Brokers, Inc.",4,NUI Corporation,Enron North America Corp.,123606,0,123606
+"Vastar Gas Marketing, Inc.",2,BP p.l.c.,Enron North America Corp.,0,123913,123913
+"Laminados de Barro, S.A. de C.V.",9,,Enron North America Corp.,131127,0,131127
+LDNGC Series 1998 A Trust,5,Louis Dreyfus Natural Gas Corp.,Enron North America Corp.,142155,0,142155
+"National Energy & Trade, L.L.C.",11,"National Energy & Trade, L.L.C.",Enron North America Corp.,144247,0,144247
+Sinclair Oil Corporation,6,Sinclair Oil Corporation,Enron North America Corp.,147471,0,147471
+Elk River Public Utility District,3,Elk River Public Utility District,Enron North America Corp.,0,148035,148035
+"Public Utility District of Jefferson and Cocke Counties, Tennessee",9,"Public Utility District of Jefferson and Cocke Counties, Tennessee",Enron North America Corp.,0,148035,148035
+NJR Energy Services Company,4,New Jersey Resources Corporation,Enron North America Corp.,157044,0,157044
+"Welch Foods Inc, A Cooperative",3,"National Grape Co-Operative Association, Inc.",Enron North America Corp.,161242,0,161242
+Quanex Corporation,6,Quanex Corporation,Enron North America Corp.,162462,0,162462
+"Mirant Americas Energy Marketing, L.P.",5,Mirant Corporation,Enron North America Corp.,0,168235,168235
+Trigen-Nassau Energy Corporation,6,Suez Lyonnaise Des Eaux,Enron North America Corp.,0,175465,175465
+Reliant Energy Resources Corp.,4,"Reliant Energy, Incorporated",Enron North America Corp.,0,183239,183239
+"West Texas Gas, Inc.",8,"West Texas Gas, Inc.",Enron North America Corp.,186579,0,186579
+"CMS Field Services, Inc.",8,CMS Energy Corporation,Enron North America Corp.,211673,0,211673
+Citizens Gas Utility District of Scott & Morgan Counties,5,Citizens Gas Utility District of Scott & Morgan Counties,Enron North America Corp.,218913,0,218913
+Lauscha Fiber International Corp.,9,Lauscha Fiber International Corp.,Enron North America Corp.,221330,0,221330
+Total International Limited,10,Total Fina Elf S.A.,Enron North America Corp.,228491,0,228491
+Tennessee Energy Acquisition Corporation,10,Tennessee Energy Acquisition Corporation,Enron North America Corp.,0,228771,228771
+Louisiana-Pacific Corporation,6,Louisiana-Pacific Corporation,Enron North America Corp.,228939,0,228939
+Sprague Energy Corp.,5,Lexa International Corporation,Enron North America Corp.,230799,0,230799
+Columbia Energy Services Corporation,4,NiSource Inc.,Enron North America Corp.,238770,0,238770
+Union Oil Company Of California,4,Unocal Corporation,Enron North America Corp.,244468,0,244468
+Whirlpool Corporation,4,Whirlpool Corporation,Enron North America Corp.,253870,0,253870
+"TRC Operating Company, Inc.",10,"TRC Operating Company, Inc.",Enron North America Corp.,267960,0,267960
+Global Octanes Texas L.P.,8,"Mitsui & Co., Ltd.",Enron North America Corp.,268707,0,268707
+"enovate, L.L.C.",9,"enovate, L.L.C.",Enron North America Corp.,504038,-232186,271852
+"Scana Energy Marketing, Inc.",3,Scana Corporation,Enron North America Corp.,1472,288491,289963
+"Entrada Energy Ventures, L.L.C.",9,,Enron North America Corp.,-87949,425137,337188
+Bridgeline Gas Marketing LLC,6,"Bridgeline Holdings, L.P.",Enron North America Corp.,342330,0,342330
+Kern Oil & Refining Co.,9,Kern Oil & Refining Co.,Enron North America Corp.,367305,0,367305
+Municipal Gas Authority Of Florida,9,,Enron North America Corp.,377575,0,377575
+State of Florida,1,State of Florida,Enron North America Corp.,0,412162,412162
+"Tiffany Brick Company, L. P.",7,Hanson plc,Enron North America Corp.,418763,0,418763
+"Duke Energy Trading and Marketing, L.L.C.",3,Duke Energy Corporation,Enron North America Corp.,-21675,443411,421736
+Burlington Resources Inc.,3,Burlington Resources Inc.,Enron North America Corp.,440813,0,440813
+"Praxair, Inc.",4,"Praxair, Inc.",Enron North America Corp.,457915,0,457915
+"Cornerstone Propane, L.P.",8,Northwestern Public Service Company,Enron North America Corp.,463717,0,463717
+Natural Gas Pipeline Company of America,5,"Kinder Morgan, Inc.",Enron North America Corp.,0,510773,510773
+"Cross Oil Refining & Marketing, Inc.",10,"Cross Oil Refining & Marketing, Inc.",Enron North America Corp.,538104,0,538104
+"SGL Carbon, LLC",10,SGL Carbon AG,Enron North America Corp.,548989,0,548989
+Gulf Gas Utilities Company,10,Gulf Gas Utilities Company,Enron North America Corp.,0,556125,556125
+Aquila Risk Management Corporation,6,Utilicorp United Inc.,Enron North America Corp.,0,561167,561167
+"CMS Marketing, Services and Trading Company",8,CMS Energy Corporation,Enron North America Corp.,0,599311,599311
+"Consolidated Edison Company Of New York, Inc.",3,"Consolidated Edison, Inc.",Enron North America Corp.,-4116,629173,625057
+Central Illinois Light Company,5,"AES Corporation, The",Enron North America Corp.,109934,537029,646963
+"Sequent Energy Management, L.P.",4,AGL Resources Inc,Enron North America Corp.,311988,337295,649283
+Public Utilities Board of the City of Brownsville,5,Public Utilities Board of the City of Brownsville,Enron North America Corp.,652343,0,652343
+Sacramento Municipal Utility District,3,Sacramento Municipal Utility District,Enron North America Corp.,720363,0,720363
+Onondaga Co-Generation LP,8,Onondaga Co-Generation LP,Enron North America Corp.,0,770123,770123
+Duke Energy Merchants LLC,3,Duke Energy Corporation,Enron North America Corp.,791573,0,791573
+Nine Energy Services LLC,11,Nine Energy Services LLC,Enron North America Corp.,0,811909,811909
+"Western Gas Resources, Inc.",6,"Western Gas Resources, Inc.",Enron North America Corp.,900315,0,900315
+Kennedy Oil,9,Kennedy Oil,Enron North America Corp.,0,902410,902410
+"DevX Energy, Inc.",9,"DevX Energy, Inc.",Enron North America Corp.,904514,0,904514
+Rochester Gas & Electric Corporation,4,"RGS Energy Group, Inc.",Enron North America Corp.,937654,0,937654
+Canadian Natural Resources Ltd.,4,Canadian Natural Resources Ltd.,Enron North America Corp.,0,963162,963162
+Great Lakes Chemical Corporation,3,Great Lakes Chemical Corporation,Enron North America Corp.,963955,0,963955
+"Old World Industries, Inc.",9,"Old World Industries, Inc.",Enron North America Corp.,974964,0,974964
+Citrus Corp.,4,Enron Corp.,Enron North America Corp.,1041850,0,1041850
+"General Mills Operations, Inc.",4,General Mills Inc.,Enron North America Corp.,1047844,0,1047844
+Citizens Communications Company,4,Citizens Communications Company,Enron North America Corp.,0,1078334,1078334
+Questar Energy Trading Company,4,Questar Corporation,Enron North America Corp.,1082366,-9,1082357
+Boston Gas Company,3,Keyspan Corp,Enron North America Corp.,0,1086774,1086774
+North Central Oil Corporation,8,North Central Oil Corporation,Enron North America Corp.,0,1201692,1201692
+NRG Power Marketing Inc.,5,Xcel Energy Inc.,Enron North America Corp.,1245779,0,1245779
+The Toronto-Dominion Bank,2,The Toronto-Dominion Bank,Enron North America Corp.,1265404,0,1265404
+"Frito-Lay, Inc.",3,Pepsico Inc.,Enron North America Corp.,1320234,0,1320234
+Navajo Refining Company,8,Holly Corporation,Enron North America Corp.,1335400,0,1335400
+Wyman-Gordon Company,7,Precision Castparts Corp,Enron North America Corp.,1356045,0,1356045
+Duferco-Farrell Corp.,11,Duferco US Investment Corp.,Enron North America Corp.,1365815,0,1365815
+"WTG Gas Marketing, Inc.",9,"West Texas Gas, Inc.",Enron North America Corp.,1523614,0,1523614
+"Mesa, City Of",2,"Mesa, City Of",Enron North America Corp.,0,1550587,1550587
+"KLT, Inc.",9,Kansas City Power & Light Company Inc.,Enron North America Corp.,1627394,0,1627394
+Canadian Natural Resources,4,Canadian Natural Resources Ltd.,Enron North America Corp.,0,1856853,1856853
+Imperial Holly Corporation,12,Imperial Holly Corporation,Enron North America Corp.,1886591,0,1886591
+Texex Energy Partners Ltd.,11,Texex Energy Partners Ltd.,Enron North America Corp.,0,1918061,1918061
+XTO Energy Inc.,7,XTO Energy Inc.,Enron North America Corp.,0,1957990,1957990
+City of Palo Alto,3,City of Palo Alto,Enron North America Corp.,0,2014807,2014807
+Dynegy Marketing and Trade,4,Dynegy Inc.,Enron North America Corp.,2694692,-512642,2182050
+"National Fuel Marketing Company, LLC",11,"National Fuel Marketing Company, LLC",Enron North America Corp.,2204316,0,2204316
+Syngenta AG,3,Syngenta AG,Enron North America Corp.,2310616,0,2310616
+Texican Natural Gas Company,10,Texican Natural Gas Company,Enron North America Corp.,0,2395586,2395586
+Societe Generale,2,Societe Generale S.A.,Enron North America Corp.,2415507,0,2415507
+Thiele Kaolin Company,6,Thiele Kaolin Company,Enron North America Corp.,2440068,0,2440068
+Utilicorp United Inc.,5,Utilicorp United Inc.,Enron North America Corp.,0,2512935,2512935
+Alabama Gas Corporation,3,Energen Corporation,Enron North America Corp.,164841,2396825,2561666
+"Farmland Industries, Inc.",7,"Farmland Industries, Inc.",Enron North America Corp.,2785782,0,2785782
+Vitol S.A.,6,Vitol Holding B.V.,Enron North America Corp.,2889939,0,2889939
+Florida Power Corporation,3,Progress Energy Inc.,Enron North America Corp.,3259632,0,3259632
+"Blue Moon Holdings, LLC",7,"Kinder Morgan, Inc.",Enron North America Corp.,3263986,0,3263986
+The Brooklyn Union Gas Company,3,Keyspan Corp,Enron North America Corp.,0,3303235,3303235
+"IGI Resources, Inc.",8,BP p.l.c.,Enron North America Corp.,3587583,0,3587583
+Avista Corporation,6,Avista Corporation,Enron North America Corp.,3667007,0,3667007
+"Hess Energy Services Company, LLC",4,Amerada Hess Corporation,Enron North America Corp.,3854882,0,3854882
+OXY USA Inc.,5,Occidental Petroleum Corporation,Enron North America Corp.,0,4018219,4018219
+Merced Irrigation District,5,Merced Irrigation District,Enron North America Corp.,4060249,0,4060249
+Stone Energy Corporation,8,Stone Energy Corporation,Enron North America Corp.,4293844,0,4293844
+"Southern Company Services, Inc.",2,"Southern Company Inc, The",Enron North America Corp.,0,4316406,4316406
+San Diego Gas & Electric Company,4,Sempra Energy,Enron North America Corp.,4692076,-57559,4634517
+Southern California Gas Company,2,Sempra Energy,Enron North America Corp.,4313933,340934,4654867
+Ormet Primary Aluminum Corp.,9,Ormet Corporation,Enron North America Corp.,4819269,0,4819269
+Williams Production RMT Company,5,"The Williams Companies, Inc.",Enron North America Corp.,4346168,607005,4953173
+"Enserco Energy, Inc.",11,Black Hills Corporation,Enron North America Corp.,5267076,0,5267076
+Kerr-McGee Energy Services Corporation,8,Kerr-McGee Corporation,Enron North America Corp.,5407840,0,5407840
+Public Service Company Of Colorado,3,Xcel Energy Inc.,Enron North America Corp.,6454614,0,6454614
+KeySpan Gas East Corporation,9,Keyspan Corp,Enron North America Corp.,0,6927031,6927031
+PG&E Energy Trading-Gas Corporation,6,PG&E Corporation,Enron North America Corp.,7981438,1450322,9431760
+"Johns Manville International, Inc",9,"Johns Manville International, Inc",Enron North America Corp.,10355044,0,10355044
+J. M. Huber Corporation,4,J. M. Huber Corporation,Enron North America Corp.,0,10658694,10658694
+"Occidental Energy Marketing, Inc.",4,Occidental Petroleum Corporation,Enron North America Corp.,13313317,0,13313317
+Prior Energy Corporation,9,ICC Industries Inc.,Enron North America Corp.,13995665,0,13995665
+Neumin Production Co.,5,"Formosa Plastics Corporation, USA",Enron North America Corp.,14172846,0,14172846
+Nevada Power Company,7,Sierra Pacific Resources,Enron North America Corp.,14357474,0,14357474
+Vitol Capital Management Ltd.,10,Vitol Holding B.V.,Enron North America Corp.,15776169,0,15776169
+City of Tallahassee,2,City of Tallahassee,Enron North America Corp.,0,17676298,17676298
+"Select Energy, Inc.",5,Northeast Utilities (Vol Assoc),Enron North America Corp.,18056653,0,18056653
+Louis Dreyfus Natural Gas Corp.,4,Louis Dreyfus Natural Gas Corp.,Enron North America Corp.,-13178514,31270142,18091628
+Texaco Inc.,2,ChevronTexaco Corporation,Enron North America Corp.,19353051,0,19353051
+Texaco Natural Gas Inc.,3,ChevronTexaco Corporation,Enron North America Corp.,20709134,8592,20717726
+"Reliant Energy Services, Inc.",4,"Reliant Energy, Incorporated",Enron North America Corp.,23292665,68129,23360794
+Midland Cogeneration Venture Limited Partnership,6,Midland Cogeneration Venture Limited Partnership,Enron North America Corp.,0,24147356,24147356
+"State Street Bank & Trust Company of Connecticut, National Association",2,State Street Corporation,Enron North America Corp.,24297137,0,24297137
+"Virginia Power Energy Marketing, Inc.",4,Dominion Resources Inc.,Enron North America Corp.,28282212,0,28282212
+Trigen Energy Corporation,5,Suez Lyonnaise Des Eaux,Enron North America Corp.,0,29512763,29512763
+"Puget Sound Energy, Inc.",5,Puget Energy Inc,Enron North America Corp.,30546383,0,30546383
+"Entergy-Koch Trading, LP",3,"Entergy-Koch Trading, LP",Enron North America Corp.,31463741,0,31463741
+The New Power Company,10,"NewPower Holdings, Inc.",Enron North America Corp.,34728016,0,34728016
+BP Corporation North America Inc.,2,BP p.l.c.,Enron North America Corp.,36697675,0,36697675
+Noble Gas Marketing Inc.,4,"Noble Affiliates, Inc.",Enron North America Corp.,39599219,0,39599219
+PSEG Energy Resources & Trade LLC,4,Public Service Enterprise Group,Enron North America Corp.,42324721,0,42324721
+AIG Energy Trading Inc.,1,"American International Group, Inc.",Enron North America Corp.,42824260,0,42824260
+Power Authority of the State of New York,3,"New York, State of ",Enron North America Corp.,0,48328207,48328207
+Sempra Energy Trading Corp.,6,Sempra Energy,Enron North America Corp.,51602471,-777970,50824501
+The Peoples Gas Light & Coke Company,2,Peoples Energy Corporation,Enron North America Corp.,3242850,51957729,55200579
+Florida Power & Light Company,2,FPL Group Inc.,Enron North America Corp.,0,58146466,58146466
+"PMI Trading, LTD",7,Petroleos Mexicanos,Enron North America Corp.,68141498,0,68141498
+TXU Energy Trading Company,5,TXU Corp.,Enron North America Corp.,107166840,57513,107224353
+"Calpine Energy Services, L.P.",6,Calpine Corporation,Enron North America Corp.,332393584,0,332393584
+New York Mercantile Exchange,1,New York Mercantile Exchange,Enron North America Corp.,424755410,0,424755410

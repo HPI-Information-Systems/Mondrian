@@ -1,0 +1,46 @@
+CES - Appalachian Deals Behind City Gate,,,,,,,,,,,,,,,
+"January 1, 2000 Forward",,,,,,,,,,,,,,,
+DATE,INTIALS,TS #,BUY/SELL,TRADE PARTNER,PIPELINE,DELIVERY POINT,TERM,,FIXED VOLUME,Day / Month,PRICE,,SITATA #,TAGG #,COMMENTS
+1999-07-27 00:00:00,JMS,0260R,Buy,CNG Field Serv,CPA,Jefferson,1999-08-01 00:00:00,2000-07-31 00:00:00,773,Day,I + $.12,,,,
+1999-03-26 00:00:00,JMS,0100,Buy,Phoenix Dominion,CPA,Jefferson,1999-04-01 00:00:00,2000-03-31 00:00:00,75,Day,2.395,,,,
+1999-03-05 00:00:00,JMS,0047,Buy,Phoenix Dominion,CPA,Class 90,1999-04-01 00:00:00,2000-03-31 00:00:00,140,Day,$2.47/Mcf,,,,
+1999-07-22 00:00:00,JMS,0255,Buy,Phoenix Dominion,CPA,Class 90,1999-08-01 00:00:00,2000-03-31 00:00:00,75,Day,$3.105/Mcf,,,,
+1999-05-06 00:00:00,JMS,0169,Buy,Phoenix Dominion,CPA,Jefferson,1999-06-01 00:00:00,2000-05-31 00:00:00,400,Day,LDS+$.32,,,,
+2000-02-16 00:00:00,JMS,ENA,Trigger,Power Gas Marketing,CPA,Class 90,2000-05-01 00:00:00,2000-07-31 00:00:00,15000,Month,2.915,,,,
+1999-06-11 00:00:00,JMS,0211,Trigger,Power Gas Marketing,CPA,Class 90,2000-01-01 00:00:00,,15000,Month,3.106,,142727,,
+1999-06-17 00:00:00,JMS,0230,Trigger,Power Gas Marketing,CPA,Class 90,2000-02-01 00:00:00,,15000,Month,2.94,,142727,,
+1999-06-17 00:00:00,JMS,0230,Trigger,Power Gas Marketing,CPA,Class 90,2000-03-01 00:00:00,,15000,Month,$2.485 + .16 + LBB,,142727,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0230,Trigger,Power Gas Marketing,CPA,Class 90,2000-04-01 00:00:00,,15000,Month,2.65,,142727,,
+1999-07-21 00:00:00,JMS,0254,Buy,StatOil Energy,CPA,Class 90,1999-11-01 00:00:00,2000-10-30 00:00:00,10000,Month,NX1 + $.56,,,,
+1999-08-07 00:00:00,JMS,0289,Buy,StatOil Energy,CPA,Class 90,1999-11-01 00:00:00,2000-10-30 00:00:00,1500,Day,NX1 + $.54/Mcf,,,,
+1999-08-02 00:00:00,JMS,0287,Buy,Questa Petroleum Company,CPA Prod,Class 90,1999-11-01 00:00:00,2000-10-31 00:00:00,,Month,$3.1571/Mcf,,,,Fixed price for all Volumes.
+2000-02-16 00:00:00,JMS,ENA,Trigger,Power Gas Marketing,EOG,Pool,2000-05-01 00:00:00,2000-07-31 00:00:00,7500,Month,2.905,,141963,,
+1999-06-11 00:00:00,JMS,0213,Trigger,Power Gas Marketing,EOG,Pool,2000-01-01 00:00:00,,10000,Month,3.106,,141963,,
+1999-06-17 00:00:00,JMS,0228,Trigger,Power Gas Marketing,EOG,Pool,2000-02-01 00:00:00,,10000,Month,3.05,,141963,,
+1999-06-17 00:00:00,JMS,0228,Trigger,Power Gas Marketing,EOG,Pool,2000-03-01 00:00:00,,10000,Month,$2.485 + .12 + LBB,,141963,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0228,Trigger,Power Gas Marketing,EOG,Pool,2000-04-01 00:00:00,,10000,Month,2.64,,141963,,
+2000-02-16 00:00:00,JMS,ENA,Trigger,Power Gas Marketing,EQUITRANS,,2000-05-01 00:00:00,2000-07-31 00:00:00,7500,Month,2.785,,141956,,
+1999-06-11 00:00:00,JMS,0215,Trigger,Power Gas Marketing,EQUITRANS,,2000-01-01 00:00:00,,7500,Month,2.986,,141956,,
+1999-06-17 00:00:00,JMS,0226,Trigger,Power Gas Marketing,EQUITRANS,,2000-02-01 00:00:00,,7500,Month,2.93,,141956 / 136019,,
+1999-06-17 00:00:00,JMS,0226,Trigger,Power Gas Marketing,EQUITRANS,,2000-03-01 00:00:00,,7500,Month,$2.485 + LBB,,141956 / 136020,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0226,Trigger,Power Gas Marketing,EQUITRANS,,2000-04-01 00:00:00,,7500,Month,2.52,,141956,,
+,JL,,Buy,Aurora Service,Equitrans Metered,,30 Day Evergreen,60 Day Notice,,,TCo Index + $.03,,170368,,
+,JL,10124,Buy,Braxton Oil & Gas Corporation,Equitrans Metered,,1999-11-01 00:00:00,2000-03-31 00:00:00,2000,Month,3.086,,170379,,Balance @ TCo I Flat
+1999-07-29 00:00:00,JMS,0275,Buy,"CBE, Inc",Equitrans Metered,,1999-11-01 00:00:00,2000-03-31 00:00:00,10000,Month,3.1,,140138,,
+1999-05-12 00:00:00,JMS,0174,Buy,"CBE, Inc",Equitrans Metered,,1999-06-01 00:00:00,2000-05-31 00:00:00,10000,Month,2.58,,Tiered,,
+1999-05-12 00:00:00,JMS,0175,Buy,"CBE, Inc",Equitrans Metered,,1999-06-01 00:00:00,2000-05-31 00:00:00,,,I + $.01,,Tiered,,
+11/29/99,JMS,0413,Buy,"Envirogas Recovery, Inc",Equitrans Metered,,30 Day Evergreen,60 Day Notice,,,I + $.01,,141182,,
+,JL,,Buy,"Kennedy, Bill N.",Equitrans Metered,,30 Day Evergreen,60 Day Notice,,,TCo Index  Flat,,170370,,
+1999-07-28 00:00:00,JMS,0273,Buy,Belden & Blake,NFGD PA,,1999-07-01 00:00:00,2000-06-30 00:00:00,Various,,3.3,,,,
+1999-09-24 00:00:00,JMS,0326,Buy,Belden & Blake,NYSEG,,1999-11-01 00:00:00,2000-03-31 00:00:00,1000,Day,NX1 + $0.61,,,,
+1999-11-12 00:00:00,JMS,0396,Buy,Belden & Blake,NYSEG,,1999-11-01 00:00:00,2000-10-31 00:00:00,Various,,2.8,,,,
+1999-08-09 00:00:00,JMS,0291,Buy,T & F Exploration,Penn Fuel,Pool,1999-11-01 00:00:00,2000-03-31 00:00:00,10000,Month,$3.465/Mcf,,,,
+1999-08-26 00:00:00,JMS,0308,Buy,T & F Exploration,Penn Fuel,Pool,1999-11-01 00:00:00,2000-10-31 00:00:00,,,TCo I + $.23,,,,
+1999-08-26 00:00:00,JMS,0306,Buy,T & F Exploration,Penn Fuel,Pool,2000-04-01 00:00:00,2000-10-31 00:00:00,10000,Month,$2.85/Mcf,,,,
+1999-05-07 00:00:00,JMS,0172,Buy,Phillips Production,PNG,Metered,1999-07-01 00:00:00,2000-06-30 00:00:00,300,Day,2.82,,,,
+1999-07-29 00:00:00,JMS,0278,Buy,Phillips Production,PNG,Metered,1999-12-01 00:00:00,2000-11-30 00:00:00,500,Day,$2.95/Mcf,,,,
+2000-02-16 00:00:00,JMS,ENA,Trigger,Power Gas Marketing,PNG,Pool,2000-05-01 00:00:00,2000-07-31 00:00:00,7500,Month,2.905,,141961,,
+1999-06-11 00:00:00,JMS,0214,Trigger,Power Gas Marketing,PNG,Pool,2000-01-01 00:00:00,,7500,Month,3.106,,141961,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0227,Trigger,Power Gas Marketing,PNG,Pool,2000-02-01 00:00:00,,7500,Month,3.05,,141961,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0227,Trigger,Power Gas Marketing,PNG,Pool,2000-03-01 00:00:00,,7500,Month,$2.485 + .12 + LBB,,141961,,Does not include look- back basis
+1999-06-17 00:00:00,JMS,0227,Trigger,Power Gas Marketing,PNG,Pool,2000-04-01 00:00:00,,7500,Month,2.64,,141961,,Does not include look- back basis

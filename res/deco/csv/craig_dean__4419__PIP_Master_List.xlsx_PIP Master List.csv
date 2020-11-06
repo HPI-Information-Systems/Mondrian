@@ -1,0 +1,247 @@
+,,,,,,,
+PIP Master List,,,,,,,
+,,,,,Last updated:,2018-07-09 00:00:00,
+,,,,,Updated by:,vgates,
+,,,,,,,
+,,,,,,,
+PIwG Review Date,PIP Number,PIP Name,"Rec Doc
+Status*",Criticality,Protocol X-REF,Proposed Delivery Schedule,Comments
+2000-11-27 00:00:00,101,POLR Historical Usage,Complete,3 - Important,15.1.2.7,Phase 2,System was designed to send historical usage to POLR when customer sent to POLR.  The change to be implemented is that ERCOT will act as the transaction point and will receive the historical data and then send it to POLR upon POLR request.
+2000-11-27 00:00:00,106,Direct Load Control,Complete,2 - Improvement,"18.7.2
+6.3.2
+18.2.10
+18.2.1.(7)",Phase 3,Currently there is not a profile for DLC and the system cannot currently support the use of this type of profile.
+2000-11-27 00:00:00,108,sub-QSE of same Legal Entity,Complete,"RUG
+5 - Vital","16.2.1, 16.2.4.1, 16.2.5,16.2.6,16.2.7,16.2.8,16.2.9,16.2.10",Phase 2,"RMR units may not be included in a QSEs Portfolio that is being bid for Ancillary Services.  RMR units must be represented by a ""Sub QSE"". "
+2000-11-27 00:00:00,175,MERGED w/ PIP 106,RESOLVED,PIP106,18.2.1.(7),,Current design does not allow for controllable loads or similar pricing schemes
+2000-11-27 00:00:00,176,Load Profiling Models via the API,Complete,1 - Refinement,18.3.2,,Current design does not include Load Profiling Models to be available via the API
+2000-11-27 00:00:00,177,Availability of Backcast Profiles,Complete,1 - Refinement,18.3.3,,Backcast profiles are sent to the data archive and available on the second day after the operating day
+2000-11-27 00:00:00,178,Load Profile Assignment Table,Complete,1 - Refinement,18.4.1,,Current mapping does not reference all historical rate classes
+2000-11-27 00:00:00,179,Load Profile Assignment Validation Tests,Complete,1 - Refinement,18.4.4.1,,Current design does not include validation tests; ERCOT will perform manual testing
+2000-11-27 00:00:00,182,Treatment of nonmetered loads in IDR requirements reporting,RESOLVED,,18.6.1,,Current system design does not have a flag to exclude nonmetered load from IDR requirements reporting
+2000-11-27 00:00:00,183,TOU schedule/period changes,Complete,1 - Refinement,18.7.1.4.(2),,ERCOT and TX SET should be included in the process for changing TOU schedules/periods.
+2000-11-27 00:00:00,184,Notification to Current CR of Drop Due to Switch (without date),Complete,3 - Important (if required by PUC Rulemaking) ,15.1.1.5,,The TX SET transaction has not been developed to support this process; not included in current design
+2000-11-27 00:00:00,188,Forwarding of meter read data,Complete,3 - Important,"15.1.10, 15.1.2.8, 15.1.5.6, 15.1.4.8, 15.3",,The timing in the current Protocol has not been guaranteed by vendor.  Previous versions of the Protocols stated the processing times would be posted on MIS.
+2000-11-27 00:00:00,189,"Off-cycle meter read request dates, Rejection of switch request",Complete,5 - Vital,15.1.1.10,,Current design is based on the TDSP sending the first available on-cycle switch date if the CR requests an off-cycle date before the first available switch date
+2000-11-27 00:00:00,190,MERGED WITH PIP189,See PIP189,See PIP189,15.1.1.13,,The current system design will not reject an off-cycle switch date preceding a first available switch date
+2000-11-27 00:00:00,191,TX SET 814_10,Complete,1 - Refinement,15.1.2.1,,No longer has all the information necessary for the POLR to provide service for the ESI ID
+2000-11-27 00:00:00,192,Drop to POLR Request,Complete,1 - Refinement,15.1.2.2,,Drop response is only sent within 1 Bus. Day if the Drop Request is invalid
+2000-11-27 00:00:00,193,MERGED WITH PIP185,See PIP185,See PIP185,15.1.2.5,,The current version of 814-04 does not include all the required information.  System design based on current 814-04
+2000-11-27 00:00:00,194,Concurrent processing,Complete,2 - Improvement,15.1.3.1,,"Current design is to wait until end of customer review period, and then process requests concurrently"
+2000-11-27 00:00:00,195,MERGED WITH PIP185,See PIP185,See PIP185,15.1.4.5,,The current version of 814-04 does not include all the required information.  System design based on current 814-04
+2000-11-27 00:00:00,196,TX SET 814_20,Complete,5 - Vital,15.4.1.4,,Does not include all the information required.
+2000-11-28 00:00:00,105,Generation Meter Splitting,Complete,3 - Important,10.3.2.1.6,Phase 2,Multiple owners of a single unit want to be able to split the generation meter for load (auxiliary power).  Currently system does not accommodate split of generation meters.  Protocol allows for load splitting only when all channels of a split meter are scheduled through one REP.
+2000-11-28 00:00:00,116,Outage Scheduler GUI Inadequate,Complete,4 - Significant,8.1.4,,Screens need to be updated to be made relevant for generation outages as well as transmission outages.  
+2000-11-28 00:00:00,117,Outage Scheduler automatic receipt acknowledgement,Complete,2 - Improvement,8.4.2,,Outage Scheduler does not automatically acknowledge receipt of outage request/notification. Needs to do auto acknowledgement email.
+2000-11-28 00:00:00,118,Outage Scheduler time and date stamp submissions,Complete,3 - Important,8.4.3,,Outage Scheduler does not time and date stamp submissions and thus cannot keep track of when submissions are made.  ERCOT personnel have no way to comply with the timelines other than to track submission request dates manually. Needs to have submissions time and date stamped and to allow submissions to be sorted by date submitted to facilitate compliance with response timeline.
+2000-11-28 00:00:00,157,Outage Tagging,Complete,1- Refinement,5.2.,,System does not create or send tags
+2000-11-28 00:00:00,159,Altering or retracting dispatch instructions,Complete,1- Refinement,5.4.4(4),,Should systematically be able to alter or retract
+2000-11-28 00:00:00,171,Loss Code v. Voltage Code,Complete,1 - Refinement,"11.3.2
+11.3.4.1",,Design uses loss code; Correcting terms will make the protocol reflect the design and the existing language in other protocol sections
+2000-11-28 00:00:00,172,Unsuccessful meter load notification,Complete,1 - Refinement,11.2.2(1),,Discussion with market participants revealed that they did not want an individual notification for each ESI-ID that successfully loaded in lodestar - only want notification of failure/rejections.  Need to change protocol to reflect this design.
+2000-11-28 00:00:00,173,Trade Day as Default Profile,Complete,1 - Refinement,"11.3.3.2(6E)
+11.3.3.3( c )",,Current design selects the trade day profile when default profile is used during proxy day routine.  Use of trade day profile is more accurate than use of proxy day profile. 
+2000-11-28 00:00:00,174,UFE Variable Clarification,Complete,1 - Refinement,11.3.6.3,,Need consistent variable naming
+2000-11-28 00:00:00,181,Identification of transmission voltage customers for IDR requirements,RESOLVED,,18.6.1.(1).b,,Identification of transmission voltage customers for exclusion from  IDR requirements in not in current design
+2000-11-28 00:00:00,197,NOIE Load Aggregation Process,Partial pending constituent review,1 - Refinement,11.1.8,,System is not aggregating into a single ESI-ID…language clarification needed
+2000-11-28 00:00:00,198,EPS Load Resource Meters,Partial,2 - Improvement,10.2.3,,
+2000-11-28 00:00:00,200,LSE Load Ratio and loss allocation,Complete,"RUG 
+4 - Significant","11.4.1.1(1)
+11.4.1.1(3)",,MP can use available data to perform calculation of LSE independently; Data remains at aggregate levels throughout process and is made available to MP based on 7-way cut;
+2000-11-28 00:00:00,201,Extracts vs. Posting of Meter data,Complete,1 - Refinement,"11.4.1.1
+11.4.1.1(1)",,Modify protocol language to reflect extract instead of posting
+2000-11-28 00:00:00,202,Creation and posting of Average annual DLF,Complete,1 - Refinement,13.3.1,,ERCOT is not 'posting' an average annual DLF; Requirement should be removed from protocol since no formula was included.
+2000-11-28 00:00:00,203,Formula correction for leap year,Complete,1 - Refinement,13.3.1.1,,Correct formula to reflect intervals during a leap year
+2000-11-29 00:00:00,102,Voltage Support Compensation,Complete,2 - Improvement,"6.8.4
+6.9.3(1)
+6.1.7
+6.5.7",Phase 3,System not designed to calculate compensation.
+2000-11-29 00:00:00,104,Black Start,Complete,2 - Improvement,"6.8.5
+6.9.4.1
+6.1.8",Phase 2,Current system design uses a simple capacity multiplied by a fee to determine payment.  The protocol has a more complex formula which uses a rolling unit availability factor.
+2000-11-29 00:00:00,107,Uninstructed Deviation Tolerance Limit and Zonal Application,Complete,"RUG
+3 - Important",6.8.1.14,,"System meets desired design, but not reflected in Protocols"
+2000-11-29 00:00:00,109,DC Tie (Oklaunion exclusion),Complete,"RUG
+3 - Important",4.4.18,Phase 3,
+2000-11-29 00:00:00,110,SCE Ramp Rate,Complete,5 - Vital,6.5.2(17),Phase 1,Ramp should be considered part of instructions.
+2000-11-29 00:00:00,113,"MERGED WITH PIP110.
+SCE for Load Resources",Complete,MERGED WITH PIP110,6.10.4.3,,
+2000-11-29 00:00:00,119,OOME for Loads acting as a Resource,Complete,2 - Improvement,6.5.2(20),,The calculation for OOME only takes instructions to generators into account. There is no provision for Loads acting as a Resource in the OOME market.
+2000-11-29 00:00:00,123,Cost allocation of defaulting AS providers,Complete,3 - Important,6.6.3.2,,"There is no defined settlement process for this transaction, and no indication of receiving default information from Package 1. The standard mechanism of uplifting costs to load would apply for any procured AS. "
+2000-11-29 00:00:00,125,Bid prices in OOME,Complete,3 - Important,"6.8.2.2(1)
+6.8.2.2(2)",,Energy Payments for OOM UP does not incorporate Bid Price. Words in protocol are inconsistent with formula
+2000-11-29 00:00:00,127,RMR formula-RMR Agreement inconsistency,Complete,1 - Refinement,6.8.3.1,,Formula is not consistent with RMR Agreeement
+2000-11-29 00:00:00,128,Synchronous Condenser Compensation,Complete,3 - Important,"6.8.3.2(4)
+6.8.3.4(2)
+6.8.3.6
+6.9.4.3",,No design for support of Sychronous Condenser Service
+2000-11-29 00:00:00,129,RMR Rebate Approach,Complete,1 - Refinement,6.8.3.7,,"This formula is set up as a payment to provider, however, the provider will have already been paid in the Balancing Energy Market. There is no language under Resource Imbalance excluding RMR units, thus implying payment for their energy has already occurred.  This should be set up as money going back to ERCOT. "
+2000-11-29 00:00:00,130,Black Start Formula -Agreement Inconsistency,Complete,1 - Refinement,6.8.5(2),,Formula is not consistent with Black Start Agreeement
+2000-11-29 00:00:00,131,RMR Load Allocation,Complete,1 - Refinement,6.9.4.2,,Formula missing variable need for full allocation
+2000-11-29 00:00:00,133,Balancing Energy Bid Contents,Complete,1 - Refinement,"6.5.2(1)
+6.5.2(8)
+6.5.2(9)
+6.5.2(10)
+6.5.2.(11)
+6.5.2(12)",,"Language clarification: Balancing energy service up bids consist of monotonically increasing ordered pairs ($/MWh, MW). Balancing energy service down bids consist of monotonically decreasing ordered pairs ($/MWh, MW)."
+2000-11-29 00:00:00,134,Messaging System Language Clarification,Complete,2 - Improvement,6.4.2,,"Langauge clarification: information is posted by ERCOT, but not using the Messaging System"
+2000-11-29 00:00:00,135,Price Substitution,Complete,1 - Refinement,6.6.3.1(10),,Price substitution is not supported by the system
+2000-11-29 00:00:00,136,Scheduling alteration inconsistentcy,Complete,1 - Refinement,"6.6.1(3)
+4.1.1 table",,Langauage between two sections seems to contradict
+2000-11-29 00:00:00,137,Association of BE Bids with RPRS,"Complete
+Pending ERCOT Review",2 - Improvement,"6.6.3.2.1(16)
+4.1.1. Table
+4.4.16(3)
+
+",,This concept was not included in the July 27th protocols and the system does not associate Balancing Energy bids with RPRS.
+2000-11-29 00:00:00,138,Posting BE Forecast,Complete,2 - Improvement,6.7.1.1.(6),,"Not designed to be posted publically, but is being developed; under review with vendor"
+2000-11-29 00:00:00,139,Deployed Non-spin at 95% of BE Stack,** RESOLVED ** ,** RESOLVED ** ,6.7.4(1),,SOW requires user/ERCOT adjustable percentage to initiate deployment; No immediate wording changes required.
+2000-11-29 00:00:00,140,No TCRS at market open,Partial.  Pending further review w/ Vendor,RUG,"4.4.1 table
+",,
+2000-11-29 00:00:00,141,Balanced Schedule Contents,Complete,1 - Refinement,4.3.2(7),,AS Bids are not included in the Balanced Schedule; but awarded bids should be included in updated schedules.
+2000-11-29 00:00:00,142,Generator capacity monitoring,Complete,1 - Refinement,4.3.3,,Current design does not check whether the total planned generation in the combined Resource Plan of the joint Resource representative QSE is greater than the actual generator’s capacity
+2000-11-29 00:00:00,143,"""Approved"" Transmission Outages",Complete,1 - Refinement,4.4.2.1,,Wording clarified
+2000-11-29 00:00:00,144,LSE assignment of AS Obligations,Complete,"RUG 
+4 - Significant","4.4.4,
+6.3.1",,AS Obligations are currently assigned at the QSE level
+2000-11-29 00:00:00,145,Notice of Balancing Energy Down Requirements,Complete,3 - Important,4.4.5,,Current design does not provide a notification to QSEs of Mandatory BES Down bid percentage requirements.  
+2000-11-29 00:00:00,146,Notification of Loss Factors,Complete,"RUG 
+2 - Improvement",4.4.6,,"Loss factors are being posted; however, no direct notification is given to a QSE"
+2000-11-29 00:00:00,147,Expiration times for bids,Complete,3 - Important,"4.4.11
+4.4.11(6)
+4.4.16(8)
+4.5.2(5)
+4.5.3(5)",,System does not support expiration times for bids
+2000-11-29 00:00:00,148,Removing a portion of RPRS bids,Complete,4 - Significant,4.5.8,,Not supported
+2000-11-29 00:00:00,149,RMR Scheduling Treatment,"**
+RESOLVED
+**",see PIP108,4.5.11,,No special treatment for submission of RMR data
+2000-11-29 00:00:00,150,Adjusted schedule notification,Complete,3 - Important,"4.7.2(c )
+4.7.2(e)",,
+2000-11-29 00:00:00,151,Responsibility Transfers,Complete,4 - Significant,4.9.4,,"System does not support Responsibility Transfer Schedules.  For Dynamic Schedules, only the designation of bilateral schedules being dynamic is supported."
+2000-11-29 00:00:00,152,Visual Presentment of Merit Orders,** RESOLVED ** ,** RESOLVED **,4.1.1 table,,"No visual presentation of Merit Order Stack: ESCA clarified ""the system clears the RPRS bids to minimize the RPRS procurement costs. System does not create Merit Orders."" means that visualization of the merit order stack of the RPRS bids is not provided."
+2000-11-29 00:00:00,153,Posting Congestion and Insufficiency Information,Complete,3 - Important,4.4.9,,"No direct notification, but posting"
+2000-11-29 00:00:00,154,K' Variable in Regulation Calculation,Complete,3 - Important,6.10.5.3(2),,
+2000-11-29 00:00:00,155,Zonal forecast posting,Complete,2 - Improvement,4.2.(1),,"ESCA clarification: ""Load area forecast"" will not be published."
+2000-11-29 00:00:00,156,TTC and CSC forecasts,Complete,3 - Important,4.4.2(2),,
+2000-11-29 00:00:00,160,TCR identification number,Complete,RUG + 1 w/PIP140,7.5.4.2,,
+2000-11-29 00:00:00,161,TCR Financial Settlement,Partial pending review w/ vendor,"RUG + 1
+2 - Improvement",7.5.4.3,,
+2000-11-29 00:00:00,162,TCR/Congestion Methodology Timeline,RESOLVED,,7.2.1.2,,Does this timeline support the annual TCR Auction requirement?
+2000-11-29 00:00:00,199,RPRS Tie-breaking process,Complete,1 - Refinement,6.6.3.1,,Change to reflect design
+2000-11-30 00:00:00,120,Local Balancing Energy Premiums,Complete,"
+RUG
+5 - Vital","6.7.1.2(5)
+6.7.1.2(7)
+6.7.1.2(8)
+6.8.1.3
+6.8.1.5
+6.8.1.9
+7.4.3
+4.3.2(8)",,"System does not support bid premiums for Resource-specific settlement charges as specified.  Package 1 algorithms utilize premium in solving Local Congestion, but this data would need to be passed from Package 1 to Package 2 and included in Resource specific charges. Although Paid as Bid methodology was introduced in early August in Protocol review and included in open point issues, there is no calculation to pay for “Local Balancing Energy Premiums to Provider”. There is no mechanism in the current design for submitting unit specific premium bids. If #5 below is incorporated, a corresponding formula and charge type will need to be created. 
+THREE PIP EXCERPTS"
+2000-11-30 00:00:00,122,Deployment of NSRS,Complete,"RUG + 1
+2 - Improvement","6.7.4
+4.4.11",,"Possible Contradiction: NSRS is deployed ERCOT wide without indication of Congestion Zone.
+TWO PIP EXCERPTS"
+2000-11-30 00:00:00,126,Plant vs. Resource Specific Output in OOME,Complete,"RUG
+2 - Improvement if changing; or
+1 - Refinement if permanent language","6.8.2.2(2)
+6.8.2.2(4)",Phase 3,"Rather than plant specific output, OOME will be based on the resource plan submitted by the QSE for the specific Resource given the OOM instruction"
+2000-11-30 00:00:00,132,Mismatched Schedules in Replacement Underscheduled Charge,Complete,4 - Significant,6.9.2.1.1,Phase 2,There is no design to implement the maximum mismatched schedule amount as part of this charge.
+2000-11-30 00:00:00,163,SCF Allocation to RPRS CSC,Complete,4 - Significant,7.3.3.1(3),Phase 1,Funds collected from SCF are not used for BECSC
+2000-11-30 00:00:00,164,Zonal BE CSC Congestion Charge,Complete,1 - Refinement,7.3.4.1,,Language is inconsistent with formula
+2000-11-30 00:00:00,165,RPRS CSC Congestion Charge,Complete,1 - Refinement,7.3.4.2,,Formula correct; language correction necessary for consistentcy
+2000-11-30 00:00:00,166,UFE data on Settlement Statement,Complete,1 - Refinement,9.2,,"There is no inclusion of load data per UFE zone, nor provision of any data at the UFE zone level, on the Settlement Statement since UFE is settled as part of Imbalance. These are billing determinants not presented on the statement"
+2000-11-30 00:00:00,167,"MERGED WITH PIP163
+Variable clarification in BENA",SEE PIP163,SEE PIP163,9.6.1,,"Formula correct; however, clarification on variables needed"
+2000-11-30 00:00:00,168,Variable clarification in ERCOT Admin Fees,Complete,1 - Refinement,9.7.1,,"Formula correct; however, clarification on variables needed"
+2000-11-30 00:00:00,169,NonERCOT CR Invoicing,Complete,1 - Refinement,9.7.3,,"Non-ERCOT fees can't be on the settlement statement, since statements go to QSEs"
+2000-11-30 00:00:00,170,Mismatched Scheduling Fee Clarification,Complete,1 - Refinement,9.7.4,,
+2000-11-30 00:00:00,207,Capacity Insufficiency,Complete,3 - Important,"6.6.7.1,
+6.8.1.1(2)(b),
+6.8.1.3,
+6.8.1.5,
+6.8.1.9,
+",Phase 3,
+2000-11-30 00:00:00,208,Posting Declining OOMC and OOME Dispatch Instructions,Complete,3 - Important,6.5.10,Phase 3,
+2000-12-01 00:00:00,103,Default QSE,Partial pending additional language and RUG decision,?????????????????2 - Improvement,16.2.12 (New),Phase 1,Larger implications when introducing the default QSE than we have currently considered.  Alternatives must be presented to RUG.  No drafted process on backup process.
+2000-12-01 00:00:00,112,Balancing Energy Up Load,Partial w/ 107,4 - Significant,6.8.1.14.3,Phase 2,Not supported in current system design;
+2000-12-01 00:00:00,158,Contents of Dispatch Instructions,Partial,5 - Vital,5.4.2(1),"Item 4 = Phase 1
+Other items in Phase 2",Wording Change
+2000-12-01 00:00:00,180,Assignment of Weather zones,Partial pending Lotspeich,1 - Refinement,18.4.5,No system change,Current design will not support ERCOT making the Weather Zone assignment
+2000-12-01 00:00:00,185,ESI ID information included on SET 814_04.,Complete,5 - Vital,15.1.1.7,,The current version of 814-04 does not include all the required information.  System design based on current 814-04.  Cutover and conversion asks for station name rather than bus id.
+2000-12-01 00:00:00,186,Portal/MIS equivalent for 814_04 and 814_09,Complete,1 - Refinement,15.1.1.7,,The current design does not include a Portal/MIS equivalent for the 814_04 and 814_09
+2000-12-01 00:00:00,187,Status of TX SET Change Control process on Concurrent Processing,Complete,RUG,15.1.1.9,,The TX SET transaction for concurrent processing is in change control review by TX SET.  Any change to current transactions formats will result in gap.
+2000-12-01 00:00:00,204,EPS Meter Data Transmittal,Partial pending current language on Friday,"RUG
+4 - Significant","10.2.3
+10.3.2.1.6",Phase 1 or 2,
+2000-12-01 00:00:00,205,RPRS Not Reported,Complete,2 - Improvement,12.3.2(5),Phase 3,
+2000-12-01 00:00:00,206,Deemed Actual TLF Not Posted,RESOLVED,,12.4.4(5),Phase 3,
+,111,Merged w/ PIP 107,Partial w/ 107,3 - Important,6.8.1.14,,"System meets desired design, but not reflected in Protocols"
+,114,RMR (owners use of unit),Partial,,,,To be addressed by future change control group (PCP).
+,115,Uncontrollable Resources (e.g wind) Deviations,Partial,,,,How should deviations from uncontrollable renewable resources be handled? To be addressed by market change control group (PCP).
+,121,Pay as Bid for Local Replacement Capacity,** RESOLVED ** ,,6.8.1.11,RESOLVED,System does not support bid prices for local replacement reserve
+,124,Declining OOMC Payment,** RESOLVED ** ,,6.8.2.1,RESOLVED,"Constant value supported, but not ability to reduce on # of calls in a time period; Vendor agreed to support"
+,,,,,,,
+,,,,,,,
+,Description of Fields,Description of Fields,Description of Fields,Description of Fields,Description of Fields,,
+,"PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item","PIP Number: Unique Identifier for item; should be referenced in each area of protocols sections where language has been altered
+PIP Name: Description of the PIP Item
+Rec Doc Status: Status of the corresponding Reconciliation Document
+Related Items: Other PIP Items that may be related
+Criticality: Ranked assessment of implementation need, as described in a corresponding PIP Ranking document
+Language Author: Primary author responsible for drafting changes to protocol language
+Proposed Delivery Schedule: Recommended Phase for implementation of the item"
+,Document Status,Document Status,Document Status,Document Status,Document Status,,
+,"None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete","None: No Reconciliation Document Exists
+Partial: Document Drafted, but not yet complete
+Complete: All section of document (including 'protocol-ready' language) complete"

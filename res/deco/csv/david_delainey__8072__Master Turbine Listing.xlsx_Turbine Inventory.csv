@@ -1,0 +1,38 @@
+MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST,MASTER TURBINE LIST
+,,,,,,,,,,,,,,,,
+Developing Company,GT/ST/HRSG,Quantity,Manufacturer,Purchaser,On/Off Balance Sheet,BOP Purchased (Y/N),Delivery Date(s),Total Capex Commitment (MM USD),Project(s),Originator/  Developer,Hz,Total  MW @ ISO,Heat Rate (HHV),New/Used GT,Comments,Payment Dates & Amounts
+ENA,LM6000,2,GE,WLB,Off,Y - Transformers to be purchased 4/24/00 from ABB via WLB,1-3 7/00; 4-6 8/00; 7-8 9/00; 9-11 10/00; 12-13 11/00; 14-15 12/00; 16-18 1/01; 19-20 2/01; 21-22 3/01; 23-24 4/01,28,"(see ""LM6000 Timing"")",Dietrich/Jacoby,60,93,10400,New,,
+ENA,LM6000,4,GE,WLB,Off,"""",,56,Las Vegas Co-Gen,Gilbert,60,186,10400,New,Operate in CC 4x2,
+ENA,LM6000,4,GE,WLB,Off,"""",,56,City of Austin,Ducote/McDonald,60,186,10400,New,,
+ENA,LM6000,4,GE,WLB,Off,"""",,56,Colorado PSC,Thomas,60,186,10400,New,,
+ENA,LM6000,4,GE,WLB,Off,"""",,56,Puerto Suarez (ESA),,60,186,10400,New,,
+ENA,LM6000,6,GE,WLB,Off,"""",,84,Florida Merchant,Jacoby,60,279,10400,New,,
+ENA,7FA,1,GE,ENA,On,,2000-10-01 00:00:00,31,Vitro/Mexico,Max Yazguirra,60,250,6800,,Vitro- combined cycle project,
+ENA,7FA,1,GE,WLB,Off,N,2000-10-01 00:00:00,35,Midwest/Peoples (in process of being assigned to Elwood Energy - Peoples/Dominion project                    ,Dietrich/ Luce,60,170,10500,New,One of orginal Cogen Tech GTs; WLB and Peoples have ADA between themselves,See attached worksheet (obligation of People's)
+ENA,7FA2,3,GE,WLB,Off,N,2002-07-01 00:00:00,220,Pastoria,Parquet,60,750,6800,New,,
+ENA,ST,1,,ENA,On,,Available Now,2.3,Korean,Miller/Virgo,60,110,,Used,Currently under sale negotiations,
+ENA,F6B,2,GE,ENA,On,N,Available Now,13,Lagos/LIPA swap with Calme,Dietrich/Jacoby,50,70,12500,Used,,
+ENA,11N1,2,ABB,WLB,Off,N,Available Now,26,Canada,Milnthorp/LeDain,60,166,,Used,,
+,,,,,,,,,,,,,,,,
+EECC,501D5A,1,Westinghouse,CALME,On,N,2001-11-01 00:00:00,24,CALME Panama,Shultz/Barto,60,130,11500,New,,90% pd to date; shipment (est 6/3) - 5%; COD (est 8/1) - 5%
+EECC,7FA; 1 - ST,2,GE,WLB3,Off,N,1 - 7/01; 1 - 8/01; ST 8/01,95,GenPower,Barto,60,500,6800,New,,See attached worksheet
+EECC,7FA; 1 - ST,2,GE,WLB3,Off,N,1 - 9/01; 1 - 10/01; ST 9/01,95,GenPower,Barto,60,500,6800,New,,See attached worksheet which includes schedule for CS2 & NEPCO NESCO
+EECC,7FA,1,GE,EECC,On,N,2001-09-01 00:00:00,54,Goldendale (NEPCO),Westfahl,60,250,6800,New,aka NACO GTs,See attached worksheet
+EECC,V94.2 Enhanced; ST; HRSG,1,Siemens; Toshiba ST & HRSG,EECC,On,N,2001-11-01 00:00:00,64,Croatia,Barto,50,155,11260,New,,5% - manu release; 15% NTP; 15% 3 mos after NTP; 10% 6 mos after NTP; 20% delivery GT; 10% delieveru of generator; 5% delivery of PCC container; 15% completion of erection; 5% pass performance test
+EECC,7EA2,2,GE,LJM,"Off3,4",N,1 - 2/01; 1 - 2/02,36,,Barto,60,166,11900,New,,See attached worksheet
+EECC,9FA2,3,GE,EECC3,On,N,1 - 10/01; 1 - 11/01; 1 - 12/01,249,Arcos (Spain),Barto,50,1125,6800,New,"Subject to Sutton Bridge Settlement; due to timining issues, Izzo has requested Enron to purchase on balance sheet",
+,,,,,,,,,,,,,,,,
+CALME,501D5A,1,Westinghouse,ENA,On,N,2000-09-30 00:00:00,24,Saudi Arabia,Haug,60,130,11500,New,,
+CALME,F6B Power Barges,9,GE,EI  Powerbarge Co.,On,N,Available Now,72,2 - LIPA,Baca,60,270,"12,500 - 13,000",Used,,
+,,,,,,,,,,,,,,,,
+ESA,501F,2,Mitsubishi,WLB,Off4,N,1- 7/01; 1 - 8/01,70,Riogen,Wiggs,60,368,,New,,
+ESA,501F1,2,Mitsubishi,WLB,"Off3,4",N,1 - 5/01; 1 - 10/01,75,Cuiaba II or Riogen Expansion,Wiggs,60,368,,New,,
+,,60,,,,,,,,,,,,,,
+Enron Europe,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+APACHI,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1ESA has option on these units which it expects to exercise 4/00 or 5/00,,,,,,,,,,,,,,,,
+2Definitve agreement being negotiated,,,,,,,,,,,,,,,,
+3Not officially in WLB but currently being sized for WLB,,,,,,,,,,,,,,,,
+4ESA is currently negotiating a separate WLB-type facility for its projects,,,,,,,,,,,,,,,,

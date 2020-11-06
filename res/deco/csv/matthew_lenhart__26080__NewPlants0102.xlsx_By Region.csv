@@ -1,0 +1,789 @@
+NEW GAS FIRED PLANT ADDITIONS (1999 THROUGH 2005),,,,,,,,,,,,,,,,,,,
+NERC REGION,YEAR,Plant Description,Pipeline,State,Probability,Type,Month,Operational?,Plant Capacity,Merchant Capacity,Machine Type,Tot Plant Capacity High,Tot Plant Capacity Medium,Tot Plant Capacity Low,Tot Gas Usage High,Tot Gas Usage Medium,Tot Gas Usage Low,Summer Only,ID
+ECAR,1999,Detroit Edison - Greenwood,ANR,MI,High,CT,Sept,Y,226,0,,226,0,0,41584,0,0,41584,49
+ECAR,1999,Kentucky Utilities - EW Brown 6/7,Tennessee,KY,High,CT,August,Y,328,0,,328,0,0,60352,0,0,60352,51
+ECAR,1999,East Kentucky Power Coop - Clark County,,KY,High,CT,Feb-May,Y,330,0,,330,0,0,60720,0,0,60720,50
+ECAR,1999,Detroit Edison - Belle River,ANR,MI,High,CT,Sept,Y,216,0,,216,0,0,39744,0,0,39744,47
+ECAR,1999,Dayton Power & Light - Dayton,,OH,High,1,June,N,84,0,,84,0,0,15456,0,0,15456,46
+ECAR,1999,CMS Energy/DTE Energy Dearborn,PEPL/MichCon,MI,High,Cogen,July,Y,135.2,0,,135.2,0,0,21091.2,0,0,0,45
+ECAR,1999,CMS Energy  - Livingston,,KY,High,1,June,Y,144,0,,144,0,0,26496,0,0,26496,44
+ECAR,1999,AES (Hoosier) moved to 2000 and sold to Williams,,IN,Low,1,June,N,0,0,,0,0,0,0,0,0,0,38
+ECAR,1999,AMP-Ohio - St. Mary GT,,MI,Low,1,June,N,0,0,,0,0,0,0,0,0,0,42
+ECAR,1999,AMP-Ohio - DistGen Project Phase II,,MI,Low,1,June,N,0,0,,0,0,0,0,0,0,0,41
+ECAR,1999,AMP-Ohio - DistGen Project Phase I,,MI,Low,1,June,N,0,0,,0,0,0,0,0,0,0,40
+ECAR,1999,CMS Energy  - Otsego/Kalamazoo,,MI,High,1,June,Y,65,0,,65,0,0,11960,0,0,11960,43
+ECAR,2000,PG&E - Galion,,OH,Med,CT,July,N,50,50,,0,50,0,0,9200,0,2300,134
+ECAR,2000,PG&E - Napoleon,,OH,Med,CT,July,N,50,50,,0,50,0,0,9200,0,2300,135
+ECAR,2000,PG&E - Bowling Green,,OH,High,CT,August,Y,16.5,16.5,,16.5,0,0,3036,0,0,3036,136
+ECAR,2000,Toledo Edison - Richland,,OH,High,CT,July,N,260,0,,260,0,0,47840,0,0,47840,137
+ECAR,2000,Toledo Edison - Richland,,OH,High,CT,September,N,130,0,,130,0,0,23920,0,0,23920,138
+ECAR,2000,Trigen-Cinergy - Middle Works,,OH,Low,Cogen,,N,230,230,,0,0,230,0,0,35880,0,139
+ECAR,2000,Trigen-Cinergy - Lafarge Gypsum,,KY,Low,Cogen,,N,20,20,,0,0,20,0,0,3120,0,140
+ECAR,2000,Dayton Power & Light - Montpelier Station,,OH,High,CT,June,Y,200.3,200.3,,200.3,0,0,36855.2,0,0,36855.2,694
+ECAR,2000,Williams (Hoosier Energy Rural),,IN,Med,1,June,N,400,400,,0,400,0,0,73600,0,18400,142
+ECAR,2000,PG&E - Canton,,OH,Med,CT,July,N,50,50,,0,50,0,0,9200,0,2300,133
+ECAR,2000,Indianapolis Power & Light - Gerogetown,,IN,High,CT,June,Y,72.5,72.5,,72.5,0,0,13340,0,0,13340,220
+ECAR,2000,IP&L/DTE - Pike Township (Georgetown),PEPL,IN,High,CT,June,N,240,160,,240,0,0,44160,0,0,44160,130
+ECAR,2000,AMP-Ohio - Bowling Green,,OH,High,CT,June,Y,27.2,0,,27.2,0,0,5004.8,0,0,5004.8,661
+ECAR,2000,Trigen-Cinergy - Ashtabula,,OH,High,Cogen,October,N,28,0,,28,0,0,4368,0,0,0,141
+ECAR,2000,Detroit Edison - Del-Ray,ANR,MI,High,1,June,N,70,0,,70,0,0,12880,0,0,12880,124
+ECAR,2000,AMP-Ohio - Hamilton Peaking,,OH,High,CT,June,Y,27.2,0,0,27.2,0,0,5004.8,0,0,5004.8,691
+ECAR,2000,MCN Energy - Columbus,,OH,Dead,CT,June,N,0,0,,0,0,0,0,0,0,0,132
+ECAR,2000,Matrix Power - Worthington Plant,,IN,High,CT,June,N,180,180,,180,0,0,33120,0,0,33120,131
+ECAR,2000,Air Products - Calvert City,,KY,High,Cogen,April,Y,26,0,,26,0,0,4056,0,0,0,121
+ECAR,2000,CMS Energy/DTE Energy Dearborn,PEPL/MichCon,MI,High,Cogen,June,Y,240,240,,240,0,0,37440,0,0,0,123
+ECAR,2000,Detroit Edison - Del-Ray,ANR,MI,High,CT,January,Y,139.4,0,,139.4,0,0,25649.6,0,0,25649.6,48
+ECAR,2000,Dayton Power & Light - Chester,,IN,Med,CT,,N,225,225,,0,225,0,0,41400,0,10350,125
+ECAR,2000,Kentucky Utilities - EW Brown,,KY,High,CT,June,Y,75,0,0,75,0,0,13800,0,0,13800,684
+ECAR,2000,Duke Energy/Cinergy - Vermilion County,Midwestern,IN,High,CT,June,Y,640,640,,640,0,0,117760,0,0,117760,127
+ECAR,2000,ENA - Wheatland,Midwestern,IN,High,CT,May,Y,459,459,,459,0,0,84456,0,0,84456,128
+ECAR,2000,Holland Board of Public Works,,MI,High,CT,April,Y,66.3,0,,66.3,0,0,12199.2,0,0,12199.2,129
+ECAR,2000,Allegheny Energy Supply,,PA,High,CT,January,Y,74.5,0,,74.5,0,0,13708,0,0,13708,39
+ECAR,2000,Allegheny Energy Supply,,PA,High,CT,June,N,220,0,,220,0,0,40480,0,0,40480,122
+ECAR,2001,PSEG Global - Morristown,,IN,Med,CT,June,N,180,180,,0,180,0,0,33120,0,8280,225
+ECAR,2001,Kentucky Utilities/LG&E - (Brown/Paddy's Run),,KY,High,CT,,N,284,0,,284,0,0,52256,0,0,52256,221
+ECAR,2001,First Energy - West Loraine (Defiance),Columbia Gas/EOG,OH,High,CT,Spring,N,425,0,,425,0,0,78200,0,0,78200,219
+ECAR,2001,NiSource - Whiting (BP Amoco Refining),,IN,High,Cogen,,N,525,425,,525,0,0,81900,0,0,0,222
+ECAR,2001,Primary Energy - Indiana Harbor (LTV),,IN,High,Cogen,September,N,50,50,,50,0,0,7800,0,0,0,224
+ECAR,2001,SEI - Zeeland I (Grand Rapids),,MI,Med,CC,June,N,300,300,,0,300,0,0,54000,0,0,226
+ECAR,2001,SIG&E,,IN,High,CT,,N,80,0,,80,0,0,14720,0,0,14720,227
+ECAR,2001,SIG&E,,IN,High,Cogen,,N,42,0,,42,0,0,6552,0,0,0,228
+ECAR,2001,Putnam Energy Center,,IN,Med,CT,June,N,500,500,LM 6000,0,500,0,0,92000,0,23000,778
+ECAR,2001,Cinergy - Cincinnati (West End),,OH,Med,CT,June,N,90,90,,0,90,0,0,16560,0,4140,205
+ECAR,2001,Duke - DeSoto,,IN,Low,CT,June,N,320,320,,0,0,320,0,0,58880,0,218
+ECAR,2001,Entergy - Jackson Generating (Bloomfield),,OH,Med,CT,June,N,640,640,,0,640,0,0,117760,0,29440,662
+ECAR,2001,Columbia Electric - Henderson Co,,KY,Low,CT,June,N,500,500,,0,0,500,0,0,92000,0,208
+ECAR,2001,Dayton Power & Light - Greenville (Darke Co),,OH,Med,CT,March,N,200,200,,0,200,0,0,36800,0,9200,216
+ECAR,2001,Dayton Power & Light - Tait (Montgomery Co),,OH,High,CT,June,N,320,320,,320,0,0,58880,0,0,58880,215
+ECAR,2001,Dayton Power & Light - West Lancaster (Fairfield),Columbia Gas,OH,High,CT,June,N,200,200,,200,0,0,36800,0,0,36800,214
+ECAR,2001,Dayton Power & Light - (Chester) Wells Co.,,IN,Med,CT,June,N,400,400,,0,400,0,0,73600,0,18400,213
+ECAR,2001,Dayton Power & Light - Greenville (Wells/Hamilton Co),,IN,Med,CT,May,N,200,0,,0,200,0,0,36800,0,9200,212
+ECAR,2001,Consumers Energy @ Morrow Site,,MI ?,High,CC,,N,60,0,,60,0,0,10800,0,0,0,211
+ECAR,2001,Constellation - Bristol (Wayne Co),,WV,Med,CT,June,N,300,300,,0,300,0,0,55200,0,13800,210
+ECAR,2001,Columbia Electric - Ceredo (Twelvepole Creek),Columbia Gas,WV,Med,CT,,N,500,500,,0,500,0,0,92000,0,23000,209
+ECAR,2001,Cinergy -Erlanger,,KY,Med,CT,,,80,80,,0,80,0,0,14720,0,3680,206
+ECAR,2001,CMS Energy/DTE Energy Dearborn,PEPL/MichCon,MI,Med,CT,,N,310,310,,0,310,0,0,57040,0,14260,207
+ECAR,2001,Dynegy - Riverside Generating,Tennessee,KY,High,CT,June,N,500,500,,500,0,0,92000,0,0,92000,217
+ECAR,2002,LS Power - Columbus Station,,IN,Med,CC,,N,825,825,,0,825,0,0,148500,0,0,403
+ECAR,2002,Duke - Vigo County,,IN,Low,CC,June,,620,620,,0,0,620,0,0,111600,0,714
+ECAR,2002,Dayton Power & Light - Darby (Pickaway),,OH,Med,CT,June,N,480,480,,0,480,0,0,88320,0,22080,665
+ECAR,2002,Dominion - Muskingum County,CNG,OH,Med,CT,July,N,600,600,,0,600,0,0,110400,0,27600,395
+ECAR,2002,Dominion/Troy Energy (Wood Co),CNG,OH,High,CT,June,N,600,600,,600,0,0,110400,0,0,110400,402
+ECAR,2002,Duke - Knox County,,IN,Low,CT,June,,620,620,GE PG7 - EA,0,0,620,0,0,114080,0,126
+ECAR,2002,Dresden Energy - Cass (Muskingum Co),,OH,Low,CT,,N,500,500,,0,0,500,0,0,92000,0,394
+ECAR,2002,Duke Energy/Cinergy - Butler County (Madison) II,TETCO,OH,Med,CT,June,,640,640,,0,640,0,0,117760,0,29440,144
+ECAR,2002,PSEG - Waterford Township (Marietta),,OH,Med,CC,January,N,850,850,,0,850,0,0,153000,0,0,401
+ECAR,2002,National Power Coop - Van Wert Co,,OH,Low,CT,,N,510,510,,0,0,510,0,0,93840,0,400
+ECAR,2002,East Kentucky Power Coop - Clark County,,KY,High,CT,,N,80,0,,80,0,0,14720,0,0,14720,399
+ECAR,2002,Duke - Waterford (Washington Co),,OH,Low,CC,,N,620,620,,0,0,620,0,0,111600,0,398
+ECAR,2002,Dominion - Pleasants County,CNG,WV,Med,CT,August,N,600,600,,0,600,0,0,110400,0,27600,396
+ECAR,2002,Cogentrix - Franklin (Jackson Co),,OH,Low,CC,,N,1200,1200,,0,0,1200,0,0,216000,0,392
+ECAR,2002,Cogentrix - Bedford (Lawrence Co),,IN,Low,CT,,N,500,500,,0,0,500,0,0,92000,0,391
+ECAR,2002,AEP - Buckeye Power (OREC),,OH,Med,CT,,N,510,0,,0,510,0,0,93840,0,23460,390
+ECAR,2002,Dayton Power & Light - Hardinsburg Stn,,KY,Med,CT,,N,400,400,,0,400,0,0,73600,0,18400,397
+ECAR,2002,Kinder Morgan - Jackson,,MI,High,CC,June,,550,550,,550,0,0,99000,0,0,0,717
+ECAR,2002,Duke - Baroda (Berrien Co),,MI,Med,CT,,,640,640,,0,640,0,0,117760,0,29440,715
+ECAR,2002,Decker Energy - Carson City/St. Clair Co.,,MI,Med,CT,,N,500,500,,0,500,0,0,92000,0,23000,393
+ECAR,2002,SkyGen - Mt Vernon (Posey),,IN,Low,CT,,,440,440,,0,0,440,0,0,80960,0,727
+ECAR,2002,Dynegy - Rolling Hills (Vinton Co),,OH,Low,CT,,,800,800,,0,0,800,0,0,147200,0,716
+ECAR,2002,Ogden Energy - Indianapolis,,IN,Low,CT,,,250,250,,0,0,250,0,0,46000,0,718
+ECAR,2003,Calpine - Fremont,,OH,Med,CC,,N,700,700,,0,700,0,0,126000,0,0,551
+ECAR,2003,Dynegy - Bluegrass Gen. (Oldham),TGT,KY,High,CT,June,N,324,324,Siemens W501F,324,0,0,59616,0,0,59616,559
+ECAR,2003,Tenaska - Pike County,Midwestern?,IN,Med,CC,Late,N,830,830,,0,830,0,0,149400,0,0,557
+ECAR,2003,Panda - Mount Vernon,,IN,Med,CC,,,1070,1070,,0,1070,0,0,192600,0,0,705
+ECAR,2003,SEI - Zeeland II (Grand Rapids),,MI,Med,CC,June,N,530,530,,0,530,0,0,95400,0,0,555
+ECAR,2003,Dominion - Possum Plant Coal Conv.,,VA,Med,CC,,N,450,0,,0,450,0,0,81000,0,0,554
+ECAR,2003,Indeck - Niles,,MI,Med,CC,,N,1100,1100,,0,1100,0,0,198000,0,0,552
+ECAR,2003,Decker Energy - Carson City/St. Clair Co.,,MI,Med,CT,,N,500,500,,0,500,0,0,92000,0,23000,558
+ECAR,2003,PSEG Global - Lawrenceburg,,IN,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,550
+ECAR,2003,PG&E - Covert,,MI,Low,CC,January,N,1000,1000,,0,0,1000,0,0,180000,0,549
+ECAR,2003,CME Energy - Benton Harbor (Meadowbrook),,MI,Med,CC,,,800,800,,0,800,0,0,144000,0,0,730
+ECAR,2003,Calpine/CME Energy - Lawrence Co,,OH,Med,CC,June,N,1100,1100,,0,1100,0,0,198000,0,0,739
+ECAR,2003,Kinder Morgan - Jackson,,MI,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,553
+ECAR,2003,Southern - (formerly Nordic Electric) - Wyandotte,,MI,Med,CC,July,N,480,480,,0,480,0,0,86400,0,0,223
+ECAR,2003,Cinergy - Martinsville,,VA,Med,CT,June,N,330,330,,0,330,0,0,60720,0,15180,758
+ECAR,2003,Southern Co - State Line (Hammond),,IN,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,556
+ECAR,2004,Entergy - Jackson Co (Bloomfield),,OH,Low,CT,,N,640,640,,0,0,640,0,0,117760,0,629
+ECAR,2004,Dayton Power & Light - Darby (Pickaway Co),,OH,Low,CT,,N,480,480,,0,0,480,0,0,88320,0,630
+ECAR,2004,Panda - Tallmadge Power (Kent Co),ANR,MI,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,631
+ECAR,2004,Westlake - Marshall Co,,KY,Low,CC,,N,520,520,,0,0,520,0,0,93600,0,632
+ECAR,2004,Panda - Cullonden (Campbell Co),,WV,Low,CC,,N,1000,1000,,0,0,1000,0,0,180000,0,628
+ECAR,2004,Dayton Power & Light - Fairmount (Grant Co),,IN,Med,CT,,N,400,400,P&W FT 8 Twin Pac,0,400,0,0,73600,0,18400,747
+,,,,,,,,,41440.1,36457.3,0,8760.099999999999,21910,10770,1580124.7999999998,3982900,1954840,1756767.6,36472
+ERCOT,1998,Borger Energy - Blackhawk Station,,TX,High,Cogen,October,Y,225,225,0,225,0,0,35100,0,0,0,683
+ERCOT,1999,BASF - Freeport,,TX,High,Cogen,July,Y,79.7,0,,79.7,0,0,12433.2,0,0,0,15
+ERCOT,1999,Southern Co.-Wichita Falls,,TX,High,Cogen,October,N,80,80,,80,0,0,12480,0,0,0,19
+ERCOT,1999,CSW - Mission (Frontera),,TX,High,CT,August,Y,280.5,280.5,,280.5,0,0,51612,0,0,51612,16
+ERCOT,1999,Oxy/Conoco - Ingleside,,TX,High,Cogen,October,Y,465.4,205,,465.4,0,0,72602.4,0,0,0,18
+ERCOT,2000,Calpine(was Duke) - Hildago/Edinburg,Duke Field Svs,TX,High,CC,June,Y,500,500,,500,0,0,90000,0,0,0,78
+ERCOT,2000,Calpine - Pasadena expansion,Midcon/Channel/Tejas/HPL,TX,High,Cogen,June,N,510,510,,510,0,0,79560,0,0,0,77
+ERCOT,2000,CSW - Mission (Frontera),,TX,High,CC,June,N,160,160,,160,0,0,28800,0,0,0,79
+ERCOT,2000,ANP - Midlothian,Lone Star/Valero,TX,High,CC,June,Y,1100,1100,ABB GT24 OTC,1100,0,0,198000,0,0,0,76
+ERCOT,2000,Dynegy - Lyondell,,TX,Low,Cogen,June,N,155,155,,0,0,155,0,0,24180,0,80
+ERCOT,2000,Golden Spread - Pampa,,TX,Med,CC,,N,486,200,,0,486,0,0,87480,0,0,82
+ERCOT,2000,LG&E /Columbia Electric - Gregory,,TX,High,Cogen,July,N,361,361,,361,0,0,56316,0,0,0,83
+ERCOT,2000,PG&E(USGen)/UDS - Three Rivers,,TX,Dead,Cogen,,N,0,0,,0,0,0,0,0,0,0,84
+ERCOT,2000,San Antonio Public Service (CPS Von Rosenburg),,TX,High,CC,June,Y,511,0,,511,0,0,91980,0,0,0,85
+ERCOT,2000,Southern Co. - Brazos Electric (Bosque Co) (Whitney),,TX,High,CT,June,Y,300,300,7FA,300,0,0,55200,0,0,55200,86
+ERCOT,2000,Reliant/Air Liquide - Orange (Sabine),,TX,High,Cogen,January,Y,88.5,48.5,,88.5,0,0,13806,0,0,0,17
+ERCOT,2000,FPL (Panda) - Paris (Lamar Power),NGPL/Black Marlin(NNG),TX,High,CC,June,Y,1000,300,7FA,1000,0,0,180000,0,0,0,81
+ERCOT,2001,ANP/US Gen - Edinburg Phase I,,TX,Low,CC,June,N,550,550,,0,0,550,0,0,99000,0,230
+ERCOT,2001,ANP - Midlothian,Lone Star/Valero,TX,High,CT,October,N,550,550,,550,0,0,101200,0,0,101200,231
+ERCOT,2001,Southern Co. - Brazos Electric (Bosque County) II,,TX,Med,CT,June,N,248,248,,0,248,0,0,45632,0,11408,697
+ERCOT,2001,Reliant - Equistar Chemical,,TX,High,Cogen,November,N,750,450,,750,0,0,117000,0,0,0,250
+ERCOT,2001,Constellation - Gilmer (Longview),HPL/Tejas/NGPL/Midcon,TX,Med,CC,June,N,800,800,,0,800,0,0,144000,0,0,240
+ERCOT,2001,Coral/LCRA - Lost Pines,,TX,Low,1,,Y,1500,1500,,0,0,1500,0,0,276000,0,241
+ERCOT,2001,Duke - Jack County,NGPL,TX,Med,CC,June,N,500,500,,0,500,0,0,90000,0,0,243
+ERCOT,2001,Duke - Mesquite,,TX,Med,CC,June,N,500,500,,0,500,0,0,90000,0,0,244
+ERCOT,2001,ENA - Austin Energy (Sand Hill Energy Center),,TX,High,CT,May,N,180,180,,180,0,0,33120,0,0,33120,245
+ERCOT,2001,Garland Power & Light (2001?),,TX,Med,CT,June,N,85,0,,0,85,0,0,15640,0,3910,246
+ERCOT,2001,Panda - Taylor Creek (Wichita Falls),,TX,Med,Cogen,Summer,N,1000,1000,,0,1000,0,0,156000,0,0,247
+ERCOT,2001,ANP - Hayes County (San Marcos) 2002?,Oasis,TX,High,CC,June,N,1100,1100,,1100,0,0,198000,0,0,0,229
+ERCOT,2001,Panda/PSEG - Marion (Guadalupe Power),,TX,High,CC,January,N,1000,1000,,1000,0,0,180000,0,0,0,249
+ERCOT,2001,Conoco - Sabine River Works,Valero,TX,Med,Cogen,Summer,N,420,350,,0,420,0,0,65520,0,0,239
+ERCOT,2001,Skygen/Polsky - Corpus Christi,HPL/Valero/Tejas,TX,High,Cogen,January,N,532,452,,532,0,0,82992,0,0,0,251
+ERCOT,2001,Calpine/GenTex Power - Lost Pines I,,TX,High,CC,June,N,500,250,,500,0,0,90000,0,0,0,236
+ERCOT,2001,Calpine - Edinburg (Magic Valley),Valero/TETCO/Tenn/Trunkline/HPL,TX,High,CC,January,N,700,300,,700,0,0,126000,0,0,0,232
+ERCOT,2001,Calpine/Bayer - Baytown,Channel/Midcon/Tejas,TX,Med,Cogen,November,N,700,0,,0,700,0,0,109200,0,0,233
+ERCOT,2001,Panda/PSEG - Ector County (Odessa),El Paso,TX,High,CC,June,N,1000,1000,,1000,0,0,180000,0,0,0,248
+ERCOT,2001,Calpine/CITCO - Ship Channel,,TX,Med,Cogen,,N,560,0,,0,560,0,0,87360,0,0,235
+ERCOT,2001,Tenaska Gateway Gen - Rusk County,Tejas,TX,High,CC,May,N,830,830,,830,0,0,149400,0,0,0,252
+ERCOT,2001,Coastal - Bastrop,,TX,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,237
+ERCOT,2001,Cobisa - Forney,,TX,Low,CC,June,N,1500,1500,,0,0,1500,0,0,270000,0,238
+ERCOT,2001,Calpine/Bayer - Baytown,Channel/Midcon/Tejas,TX,Med,CT,November,N,100,100,,0,100,0,0,18400,0,4600,234
+ERCOT,2002,Constellation - Seguin (Rio Nogales),Oasis,TX,Med,CC,June,N,800,800,,0,800,0,0,144000,0,0,404
+ERCOT,2002,AES - Granbury (Wolf Hollow),,TX,Med,CC,June,N,730,730,,0,730,0,0,131400,0,0,405
+ERCOT,2002,Calpine (was Entergy) - Fairfield (Freestone),,TX,Low,CC,1Q,N,1000,1000,,0,0,1000,0,0,180000,0,406
+ERCOT,2002,KN Power - Dallas,NGPL,TX,Low,CC,June,N,510,510,,0,0,510,0,0,91800,0,407
+ERCOT,2002,Monterrey III,Export,TX,Med,CC,April,N,450,0,,0,450,0,0,81000,0,0,408
+ERCOT,2003,Sempra/Doane Products - Cedar Bluff,,TX,Med,CC,May,N,578,578,,0,578,0,0,104040,0,0,562
+ERCOT,2003,Wise County Power,,TX,Low,CT,,N,800,800,,0,0,800,0,0,147200,0,561
+ERCOT,2004,Dynergy/ANP - El Paso,,TX,Low,CC,,N,1500,1500,,0,0,1500,0,0,270000,0,636
+ERCOT,2004,Sempra - Montgomery Co (Dobbin),,TX,Low,CC,,N,578,578,,0,0,578,0,0,104040,0,638
+ERCOT,2004,Cottonwood Energy - Newton,,TX,Low,CT,,N,1200,1200,,0,0,1200,0,0,220800,0,634
+ERCOT,2004,Texas Industrial Power - Mt. Belvieu,,TX,Low,CT,,N,193,193,,0,0,193,0,0,35512,0,639
+ERCOT,2004,Mobil Beaumont Expansion,HPL,TX,Med,CC,,N,740,740,,0,740,0,0,133200,0,0,637
+ERCOT,2004,Ceng - Duval Co,,TX,Low,Cogen,,N,385,385,,0,0,385,0,0,60060,0,635
+ERCOT,2004,ANP - Chambers (Harris Co),,TX,Low,CT,,N,2200,2200,,0,0,2200,0,0,404800,0,633
+ERCOT,2004,Avista/Steag - Fort Bend (Coodine),,TX,Low,CT,,N,800,800,,0,0,800,0,0,147200,0,640
+,,,,,,,,,34921.1,30149,0,12803.1,9247,12871,2235601.6,1601872,2330592,261050,16131
+FRCC,1999,Cargill - Riverview,,FL,Low,1,July,N,35,0,,0,0,35,0,0,6440,0,71
+FRCC,1999,FPC - Anclote,FGT,FL,High,CC,June,N,1000,400,,1000,0,0,180000,0,0,0,72
+FRCC,1999,FPC - Hines Unit #1,FGT ****,FL,High,CC,April,Y,470,0,,470,0,0,84600,0,0,0,73
+FRCC,1999,JEA - Brady Branch I,FGT,FL,High,CC,Sept,N,177,0,,177,0,0,31860,0,0,0,74
+FRCC,1999,Lakeland - McIntosh I,FGT ****,FL,High,1,June,N,245,0,,245,0,0,45080,0,0,45080,75
+FRCC,2000,FPL - Fort Meyers,FGT,FL,High,CC,October,N,1400,0,,1400,0,0,252000,0,0,0,88
+FRCC,2000,TECO - Polk Power Station,FGT  ****,FL,High,SC,July,N,150,0,,150,0,0,27600,0,0,27600,92
+FRCC,2000,TECO - Hardee,FGT,FL,High,CT,June,Y,75,0,,75,0,0,13800,0,0,13800,91
+FRCC,2000,JEA - Kennedy,FGT  +++,FL,High,CT,June,Y,165,0,,165,0,0,30360,0,0,30360,89
+FRCC,2000,Bio Energy Partners - CSL Gas Recovery,FGT,FL,High,CT,June,Y,2,0,0,2,0,0,368,0,0,368,692
+FRCC,2000,Tallahassee - Purdom #8,FGT,FL,High,CC,May,Y,250,0,,250,0,0,45000,0,0,0,90
+FRCC,2001,FPC - Intersession City,FGT  ****,FL,High,SC,December,N,255,0,,255,0,0,46920,0,0,46920,260
+FRCC,2001,Reliant - Orlando (Seminole EC),FGT,FL,Med,CT,December,N,460,300,,0,460,0,0,84640,0,21160,265
+FRCC,2001,TECO - IMC,FGT,FL,High,Cogen,,N,150,150,,150,0,0,23400,0,0,0,264
+FRCC,2001,Polskly - Sterling Chemical (Skygen),Koch Gateway,FL,Med +,Cogen,,N,250,-56,,0,250,0,0,39000,0,0,263
+FRCC,2001,FPL - Martin Expansion,FGT,FL,High,CT,,N,340,0,,340,0,0,62560,0,0,62560,261
+FRCC,2001,FPC - Hines #2,FGT  ****,FL,delay,CC,June,N,0,0,,0,0,0,0,0,0,0,259
+FRCC,2001,ENA - Ft. Pierce,FGT,FL,High,CT,June,N,190,190,,190,0,0,34960,0,0,34960,258
+FRCC,2001,LS Power - Hardee Co.,FGT +++,FL,High,CT,October,,510,510,,510,0,0,93840,0,0,93840,477
+FRCC,2001,ENA - Lakeland,FGT,FL,Low,CT,January,N,150,0,,0,0,150,0,0,27600,0,257
+FRCC,2001,Calpine - Auburndale,FGT,FL,Low,1,,N,100,100,,0,0,100,0,0,18400,0,256
+FRCC,2001,El Paso - Hardee Co,FGT,FL,Low,1,,N,640,640,,0,0,640,0,0,117760,0,255
+FRCC,2001,El Paso - Pasco Co (510??),FGT,FL,Low,1,June,N,300,150,,0,0,300,0,0,55200,0,254
+FRCC,2001,JEA - Brandy Branch,FGT  +++,FL,Med,CT,1Q & 4Q,N,450,230,,0,450,0,0,82800,0,20700,262
+FRCC,2002,IMC Agrico (Polk Co),FGT,FL,Med,CC,,N,400,0,,0,400,0,0,72000,0,0,420
+FRCC,2002,ENA - Pompano Beach,,FL,Low,CT,July,,510,510,GE 7FA,0,0,510,0,0,93840,0,529
+FRCC,2002,FPL - Ft. Meyers,FGT,FL,High,CC,June,N,914,0,,914,0,0,164520,0,0,0,417
+FRCC,2002,FPL - Sanford,FGT,FL,High,CC,January,N,1000,0,,1000,0,0,180000,0,0,0,418
+FRCC,2002,Dynegy - Palmetto Power,FGT  ****,FL,Med,1,May,N,500,500,,0,500,0,0,92000,0,23000,412
+FRCC,2002,Panda - Leesburgh,FGT  +++,FL,Low,CC,,N,1000,1000,,0,0,1000,0,0,180000,0,424
+FRCC,2002,Seminole E.C. - Hardee Cty,FGT  ****,FL,Med,CC,January,N,500,0,,0,500,0,0,90000,0,0,426
+FRCC,2002,TECO (inc. Polk Power Plt),FGT  ****/+++,FL,Low,CC,,N,540,0,,0,0,540,0,0,97200,0,428
+FRCC,2002,Thermo Ecotek,FGT,FL,Low,CC,,N,210,210,,0,0,210,0,0,37800,0,429
+FRCC,2002,ENA - Jacksonville,FGT,FL,Med,CT,January,N,120,120,,0,120,0,0,22080,0,5520,414
+FRCC,2002,Seminole E.C. - Payne Creek,FGT  ****,FL,High,CC,,N,500,0,,500,0,0,90000,0,0,0,427
+FRCC,2002,GRU - Kelly (Gainesville),FGT,FL,Med,CC,,N,110,0,,0,110,0,0,19800,0,0,419
+FRCC,2002,Decker Energy - Fort Meade,FGT,FL,Low,CT,November,N,500,500,,0,0,500,0,0,92000,0,410
+FRCC,2002,Constellation - Cocoa/Oleander,FGT  ****,FL,Med,SC,April,N,850,850,,0,850,0,0,156400,0,39100,409
+FRCC,2002,Duke - New Smyrna Beach,FGT,FL,Low,CC,June,N,514,484,,0,0,514,0,0,92520,0,411
+FRCC,2002,FMPA - Cane Island,FGT  ****,FL,High,CC,,N,240,0,,240,0,0,43200,0,0,0,416
+FRCC,2002,ENA - Vero Beach,FGT,FL,Low,CT,June,N,150,150,,0,0,150,0,0,27600,0,415
+FRCC,2002,Lakeland - McIntosh II,FGT  ****,FL,High,CC,June,N,120,0,,120,0,0,21600,0,0,0,423
+FRCC,2002,KUA - Cane Island (Kissimmee),FGT  ****,FL,High,CC,,N,250,0,,250,0,0,45000,0,0,0,422
+FRCC,2002,IPS/Avon Park - Hardee County,FGT  ****,FL,Med,1,July,N,680,680,,0,680,0,0,125120,0,31280,421
+FRCC,2002,ENA - South Florida (Special),FGT,FL,High,CT,June,N,150,150,,150,0,0,27600,0,0,27600,413
+FRCC,2002,EDC - Dade County,,FL,Low,1,May,N,74,74,,0,0,74,0,0,13616,0,666
+FRCC,2002,Seminole E.C.,FGT,FL,Low,CC,,N,900,0,,0,0,900,0,0,162000,0,425
+FRCC,2003,FPC - Polk County (Hines #2),FGT,FL,High,CT,November,N,530,0,,530,0,0,97520,0,0,97520,570
+FRCC,2003,IPS/Avon Park - De Soto Co.,FGT ****,FL,Med,CT,,N,340,340,,0,340,0,0,62560,0,15640,669
+FRCC,2003,Competitive Power Ventures - St. Lucie,,FL,Low,CT,,N,250,250,,0,0,250,0,0,46000,0,781
+FRCC,2003,US Gen,FGT,FL,Low,CC,,N,1000,1000,,0,0,1000,0,0,180000,0,576
+FRCC,2003,Southern Co - Central Florida,FGT +++,FL,Med +,1,January,N,500,500,,0,500,0,0,92000,0,23000,575
+FRCC,2003,PG&E - Okeechobee Co,FGT  ****,FL,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,574
+FRCC,2003,Panda - Midway Power (St. Lucie),,FL,Med,CC,May,N,1000,0,,0,1000,0,0,180000,0,0,573
+FRCC,2003,TECO - Gannon Repowering,FGT,FL,High,CC,May,N,698,0,,698,0,0,125640,0,0,0,571
+FRCC,2003,"TECO shut down of six coal plants to add 250,000/d of load by 2004",,FL,Low,1,,N,,,,0,0,,0,0,,0,563
+FRCC,2003,Calpine I - Vero Beach (Blue Heron),FGT,FL,Low,CC,March,N,1000,1000,,0,0,1000,0,0,180000,0,564
+FRCC,2003,Calpine II - Auburndale (Osprey),FGT,FL,Med,CC,June,N,540,540,,0,540,0,0,97200,0,0,565
+FRCC,2003,Duke - Fort Pierce (St. Lucie),FGT,FL,Low,CT,,N,620,620,,0,0,620,0,0,114080,0,568
+FRCC,2003,Panda - Leesburg,,FL,High,CC,May,N,1000,0,,1000,0,0,180000,0,0,0,572
+FRCC,2003,Decker - Polk County (Port St. Lucie),FGT,FL,Med,CC,January,N,500,500,,0,500,0,0,90000,0,0,567
+FRCC,2003,Bonnie Mine Energy,FGT,FL,Low,1,,N,800,800,,0,0,800,0,0,147200,0,566
+FRCC,2003,FPL - Ft. Meyers,FGT,FL,Med,CT,April,N,340,0,,0,340,0,0,62560,0,15640,569
+FRCC,2004,IPS/Avon Park - Pasco Co,,FL,Low,CT,,N,340,340,,0,0,340,0,0,62560,0,676
+FRCC,2004,Competitive Power Ventures II,,FL,Low,1,,N,550,550,,0,0,550,0,0,101200,0,645
+FRCC,2004,Competitive Power Ventures I,,FL,Low,1,,N,550,550,,0,0,550,0,0,101200,0,644
+FRCC,2004,Bonnie Mine Energy,,FL,Low,CT,,N,800,800,,0,0,800,0,0,147200,0,643
+FRCC,2004,"TECO shut down of six coal plants to add 250,000/d of load by 2004",,FL,Low,1,,N,,,,0,0,,0,0,,0,641
+FRCC,2004,TECO - Bayside Station,FGT,FL,Med,CC,1Q,N,1475,0,,0,1475,0,0,265500,0,0,642
+,,,,,,,,,31879,16182,0,10781,9565,11533,1947428,1732660,2101416,675648,28406
+MAIN,1999,Coga Industries - Macoupin Cour,,IL,Low,1,,N,65,65,,0,0,65,0,0,11960,0,26
+MAIN,1999,Trigen Energy - St. Louis (Ashley),,MO,High,Cogen,June,N,15,0,,15,0,0,2340,0,0,0,34
+MAIN,1999,White Oak Energy - Joliet,,IL,Low,1,,N,130,0,,0,0,130,0,0,23920,0,35
+MAIN,1999,White Oak Energy - Lockport,,IL,Low,1,,N,130,0,,0,0,130,0,0,23920,0,36
+MAIN,1999,Soyland Power Coop - Alsey/Tilton,PEPL,IL,High,Cogen,June,Y,600,600,,600,0,0,93600,0,0,0,33
+MAIN,1999,Illinois Power - Tilton 1-4,NGPL,IL,High,CT,June,Y,176,0,,176,0,0,32384,0,0,32384,29
+MAIN,1999,Manitowoc Public Utilities - Custer,,WI,High,CT,June,Y,17,0,,17,0,0,3128,0,0,3128,698
+MAIN,1999,Skygen - Wood River,,IL,Low,1,,N,15,15,,0,0,15,0,0,2760,0,32
+MAIN,1999,AEC - Nodaway Power,TETCO,MO,High,CT,June,Y,182.8,0,,182.8,0,0,33635.2,0,0,33635.2,27
+MAIN,1999,NRG/Dynegy - East Dundee(Rocky Road),NiGas,IL,High,CT,July,N,250,250,,250,0,0,46000,0,0,46000,28
+MAIN,1999,Skygen - De Pere Energy,ANR,WI,High,CC,May,N,179,179,,179,0,0,32220,0,0,0,31
+MAIN,1999,Wisc Pub Service,Great Lakes,WI,High,1,June,N,180,0,,180,0,0,33120,0,0,33120,37
+MAIN,1999,Peoples/Dominion - Elwood,PGLC/NBPL,IL,High,CT,June,N,600,600,,600,0,0,110400,0,0,110400,30
+MAIN,2000,WEPCO - Germantown,,WI,High,CT,May,Y,72.6,0,,72.6,0,0,13358.4,0,0,13358.4,115
+MAIN,2000,Southwestern Elec Coop - St. Elmo,NGPL,IL,High,CT,June,Y,45,45,,45,0,0,8280,0,0,8280,111
+MAIN,2000,Madison Gas & Electric/WPS - West Marinette,ANR,WI,High,CT,June,Y,83,0,,83,0,0,15272,0,0,15272,113
+MAIN,2000,Trigen-St Louis (Tuscola),,IL,High,Cogen,January,Y,34,34,,34,0,0,5304,0,0,0,112
+MAIN,2000,Unicom - North Chicago,,IL,High,CT,June,N,77,0,,77,0,0,14168,0,0,14168,114
+MAIN,2000,Southern/WEPCO - Neenah,ANR,WI,High,CT,June,Y,300,50,,300,0,0,55200,0,0,55200,110
+MAIN,2000,Reliant - DuPage County,,IL,High,CT,June,N,270,270,,270,0,0,49680,0,0,49680,109
+MAIN,2000,Reliant - Shelby County (Neoga),Trunkline,IL,High,CT,June,Y,225,225,,225,0,0,41400,0,0,41400,108
+MAIN,2000,Reliant - Carb Orchard,,IL,High,CT,June,N,328,328,,328,0,0,60352,0,0,60352,107
+MAIN,2000,NRG/Dynegy - East Dundee(Rocky Road II),NiGas,IL,High,CT,July,Y,100,100,,100,0,0,18400,0,0,18400,106
+MAIN,2000,CalEnergy/Mid Am (Cordova) - Quad Cities (2001?),NBPL,IL,High,CC,June,N,537,537,,537,0,0,96660,0,0,0,101
+MAIN,2000,Indeck Energy - Buffalo Grove (Libertyville),,IL,Med,CT,December,N,300,300,,0,300,0,0,55200,0,13800,104
+MAIN,2000,Indeck Energy - McHenry County (DuPage Airport),,IL,Low,CT,June,N,300,300,,0,0,300,0,0,55200,0,103
+MAIN,2000,ENA - Wilton Center (Lincoln Energy Center),NBPL,IL,High,CT,May,Y,564.4,564.4,,564.4,0,0,103849.6,0,0,103849.6,102
+MAIN,2000,Cogeneration Corp of America - Morris,,IL,High,CC,June,N,60,60,,60,0,0,10800,0,0,0,100
+MAIN,2000,Ameren - Patoka,NGPL GC,IL,High,CT,June,N,135,135,,135,0,0,24840,0,0,24840,99
+MAIN,2000,Ameren - Gibson,NGPL GC,IL,High,CT,June,N,234,234,,234,0,0,43056,0,0,43056,98
+MAIN,2000,Ameren - Meramec (St. Louis),,MO,High,CT,June,Y,48,0,,48,0,0,8832,0,0,8832,97
+MAIN,2000,KN Energy- Island Lake,,IL,Dead,CC,,N,0,0,,0,0,0,0,0,0,0,105
+MAIN,2001,Duke - Lee County (Dixon),NGPL,IL,Med,CT,,N,640,640,,0,640,0,0,117760,0,29440,282
+MAIN,2001,CILCO - Medina Valley,,IL,High,CC,June,N,45,0,,45,0,0,8100,0,0,0,280
+MAIN,2001,Manitowoc Public Utilities - Shoto Energy,,WI,Low,CT,,N,80,0,GE PG65816,0,0,80,0,0,14720,0,780
+MAIN,2001,Constellation - West Energy Project,,IL,Low,CT,June,,300,300,,0,0,300,0,0,55200,0,701
+MAIN,2001,Power Energy Partners (Crete Energy),,IL,Low,CT,,,390,390,,0,0,390,0,0,71760,0,702
+MAIN,2001,University of Missouri,,MO,High,CT,,,26,0,,26,0,0,4784,0,0,4784,703
+MAIN,2001,SkyGen - Mt Vernon (Posey),,IN,Low,CC,,,440,440,,0,0,440,0,0,79200,0,664
+MAIN,2001,Coastal - Fox River Peaking,,IL,Low,CT,May,N,390,0,,0,0,390,0,0,71760,0,700
+MAIN,2001,ENA/Peoples (Calumet Power),,IL,Dead,CT,June,,0,0,,0,0,0,0,0,0,0,615
+MAIN,2001,ABBEV,,IL,Low,CC,,N,1758,1758,,0,0,1758,0,0,316440,0,277
+MAIN,2001,ENA - Wilton Center,NBPL,IL,High,CT,June,N,80,80,,80,0,0,14720,0,0,14720,284
+MAIN,2001,Skygen/Wisvest - Calumet Energy Team (Cook Co),,IL,High,CT,June,N,300,250,Seimens V84.3A,300,0,0,55200,0,0,55200,279
+MAIN,2001,Standard Power & Light - DuPage Airport,,IL,Low,CT,,N,800,800,,0,0,800,0,0,147200,0,291
+MAIN,2001,Constellation - University Park,,IL,High,CT,June,N,300,300,,300,0,0,55200,0,0,55200,281
+MAIN,2001,Reliant - McHenry County (Woodstock),,IL,Low,CT,,N,500,500,,0,0,500,0,0,92000,0,287
+MAIN,2001,Duke - Audrain County,PEPL,MO,Med,CT,June,N,640,640,,0,640,0,0,117760,0,29440,283
+MAIN,2001,Peoples/Dominion - Elwood II,PGLC/NBPL,IL,High,CT,June,N,600,600,,600,0,0,110400,0,0,110400,286
+MAIN,2001,Skygen/Alliant - Dane City/Johnston (Rockgen Energy),ANR,WI,High,CT,,N,510,375,,510,0,0,93840,0,0,93840,480
+MAIN,2001,Reliant - DuPage County,,IL,High,CT,June,N,684,684,,684,0,0,125856,0,0,125856,289
+MAIN,2001,Reliant - Roxana (Cardinal),,IL,High,CC,March,N,634,500,,634,0,0,114120,0,0,0,288
+MAIN,2001,Ameren - Kinmundy,NGPL GC,IL,High,CT,June,N,234,234,,234,0,0,43056,0,0,43056,278
+MAIN,2002,PG&E - Bedger Generating,,WI,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,482
+MAIN,2002,Southern Co - Terre Haute (Sugar Creek),,IN,Med,CT,,N,300,300,GE PG7 - FA,0,300,0,0,55200,0,13800,290
+MAIN,2002,Panda - Jefferson Co,,IL,Low,CC,,,1070,1070,,0,0,1070,0,0,192600,0,725
+MAIN,2002,Skygen - Zion Energy Center,,IL,Low,CT,June,N,800,800,,0,0,800,0,0,147200,0,756
+MAIN,2002,"Ameren - Gibson,Kinmundy,Pinckneyville",NGPL GC,IL,High,CT,June,N,324,324,,324,0,0,59616,0,0,59616,478
+MAIN,2002,Carlton Power - Zion,,IL,Low,CT,June,,390,390,,0,0,390,0,0,71760,0,699
+MAIN,2002,PSEG Global - Sidney,,IL,Med,CC,,N,500,500,,0,500,0,0,90000,0,0,481
+MAIN,2002,ABBEV - Grande Prairie Gen I,,IL,Low,CT,,,802,802,,0,0,802,0,0,147568,0,726
+MAIN,2002,Holland Energy,,IL,Low,CC,April,N,680,680,,0,0,680,0,0,122400,0,479
+MAIN,2002,LS Power - Kendall Co. (2001?),NGPL,IL,High,CC,March,N,1160,825,,1160,0,0,208800,0,0,0,476
+MAIN,2003,Alliant,,WI,Low,1,,N,500,0,,0,0,500,0,0,92000,0,590
+MAIN,2003,Calpine(Skygen) - Rock River,,WI,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,787
+MAIN,2003,"Ameren - Gibson,Kinmundy,Pinckneyville",NGPL GC,IL,High,CT,June,N,360,360,,360,0,0,66240,0,0,66240,594
+MAIN,2003,Panda - Montgomery Co (New Florence),PEPL,MO,Med,CC,Late,N,1000,1000,,0,1000,0,0,180000,0,0,593
+MAIN,2003,"CalEnergy - Outagamie, WI",,WI,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,591
+MAIN,2003,Southern Illinois Power Coop - Marion,,IL,Med,CT,,N,150,150,,0,150,0,0,27600,0,6900,671
+MAIN,2003,MidAm - Kaukauna (Outagamie Co),,WI,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,672
+MAIN,2003,Calpine - Fon Du Lac,,WI,Low,CC,June,,500,500,,0,0,500,0,0,90000,0,709
+MAIN,2003,ABBEV - Grande Prairie Gen II,,IL,Low,CC,,,725,725,,0,0,725,0,0,130500,0,710
+MAIN,2003,PG&E - Pleasant Prairie,,WI,Med,CC,,,1050,1050,,0,1050,0,0,189000,0,0,711
+MAIN,2003,Panda - New Florence,,MO,Med,CC,,N,1170,1170,,0,1170,0,0,210600,0,0,762
+MAIN,2003,Alliant/Corn Products (Argo Power),,IL,Med,Cogen,,N,750,750,,0,750,0,0,117000,0,0,592
+MAIN,2004,Midwest Power - Muskego,,WI,Low,CT,,N,300,300,,0,0,300,0,0,55200,0,750
+MAIN,2004,Midwest Power - New Berlin,,WI,Low,CT,,N,375,375,,0,0,375,0,0,69000,0,751
+MAIN,2004,Southern - Terre Haute II (Sugar Creek),,IN,Low,CT,,N,260,260,GE PG7 - FA,0,0,260,0,0,47840,0,744
+MAIN,2004,Dynegy/Ameren/LG&E - Joppa,,IL,Med,CT,,,216,216,,0,216,0,0,39744,0,9936,735
+MAIN,2004,Skygen/Alliant - DePere,ANR,WI,Med +,Cogen,January,N,255,75,,0,255,0,0,39780,0,0,589
+MAIN,2004,Midwest Power - Beloit,,WI,Med,CT,,N,365,365,,0,365,0,0,67160,0,16790,746
+,,,,,,,,,32405.8,29169.4,0,10569.8,10136,11700,1916211.2000000002,1810804,2132108,1464373.2000000002,30009
+MAPP,2000,NSP MN - Black Dog (coal conv) Phane II (2002),,MN,Low,1,,N,0,0,,0,0,0,0,0,0,0,117
+MAPP,2000,OPPD - Omaha,NNG,NE,High,CT,June,N,96,0,,96,0,0,17664,0,0,17664,118
+MAPP,2001,Tenaska/NRG Energy - Martin City,NBPL,MN,High,CT,June,N,550,0,,550,0,0,101200,0,0,101200,270
+MAPP,2001,EnPower - Rosemount,,MN,Med,1,,N,150,150,,0,150,0,0,27600,0,6900,266
+MAPP,2001,Great River Energy  - Mower County,NNG,MN,High,CT,April,N,475,100,,475,0,0,87400,0,0,87400,267
+MAPP,2001,Northern Alternative - Green-Blended Energy,,MN,High,CT,,N,300,300,,300,0,0,55200,0,0,55200,269
+MAPP,2001,Minnesota Power - Potlatch Cloquet,NNG,MN,High,CT,,N,24,24,,24,0,0,4416,0,0,4416,268
+MAPP,2002,Minnesota Power - Superior,,WI,Med,CT,,N,90,0,,0,90,0,0,16560,0,4140,433
+MAPP,2002,OPPD - Omaha,,NE,Low,CC,,N,175,0,,0,0,175,0,0,31500,0,430
+MAPP,2002,NSP MN - Black Dog (coal conv),,MN,Med,CC,,N,290,0,,0,290,0,0,52200,0,0,431
+MAPP,2003,Dairyland Power - Elk Mound Station,,WI,Med,CT,,N,80,0,,0,80,0,0,14720,0,3680,771
+MAPP,2003,Lincoln Electric System,,NE,Med,CC,,N,130,0,,0,130,0,0,23400,0,0,577
+MAPP,2004,Lincoln Electric System,,NE,Med,CT,,N,55,0,,0,55,0,0,10120,0,2530,646
+MAPP,2004,Midwest Power - Osceola,,WI,Low,CT,,N,365,365,,0,0,365,0,0,67160,0,752
+,,,,,,,,,2780,939,0,1445,795,540,265880,144600,98660,,
+MAPPC,2000,SaskPower,TransGas,SK,Dead,1,,N,0,0,,0,0,0,0,0,0,0,119
+MAPPC,2000,CanOxy,TransGas,SK,High,1,,N,43,0,,43,0,0,7912,0,0,7912,116
+MAPPC,2000,TranAlta Energy - Lloydminster,,SK,High,CC,,N,210,210,,210,0,0,37800,0,0,0,120
+MAPPC,2002,Atco/SaskPower (Potasch),,SK,Med,CT,November,N,228,228,,0,228,0,0,41952,0,10488,432
+,,,,,,,,,481,438,0,253,228,0,45712,41952,0,18400,787
+NPCC,1999,Duke - Bridgeport II,Iroquois,CT,High,CC,June,Y,180,180,,180,0,0,32400,0,0,0,54
+NPCC,1999,Polsky/UI - Jay (Androscoggin),PNGTS,ME,High,Cogen,December,Y,165,165,,165,0,0,25740,0,0,0,58
+NPCC,1999,Orion Power Holding(Goldman Sachs & Constellation),,NY,High,Cogen,,N,105,105,,105,0,0,16380,0,0,0,56
+NPCC,1999,RG&E - Allegany Cogen,,NY,High,CT,June,Y,109,0,,109,0,0,20056,0,0,20056,57
+NPCC,2000,Cabot LNG - Everett (2002),,MA,Low,Cogen,June,N,0,0,,0,0,0,0,0,0,0,143
+NPCC,2000,HQ/Champion - Bucksport,MNE/Bangor Gas,ME,High,Cogen,July,Y,174,120,,174,0,0,27144,0,0,0,154
+NPCC,2000,Foss Maufacutring - Hamption Facility,,NH,High,CT,January,Y,4.3,0,0,4.3,0,0,791.2,0,0,791.2,688
+NPCC,2000,FPL - Wyman A,MNE,ME,Dead,CT,January,N,0,0,,0,0,0,0,0,0,0,151
+NPCC,2000,GKO - South Norwalk,,CT,Low,1,January,N,175,175,,0,0,175,0,0,32200,0,153
+NPCC,2000,PDC - Berkshire (Agawam),Tenn,MA,High,CC,July,Y,272,272,,272,0,0,48960,0,0,0,156
+NPCC,2000,Calpine/IPP - Westbrook,MNE,ME,High,CC,July,N,540,540,,540,0,0,97200,0,0,0,155
+NPCC,2000,Duke - Veazie (Maine Independence) Casco Bay,MNE,ME,High,CC,March,Y,481.2,481.2,,481.2,0,0,86616,0,0,0,145
+NPCC,2000,Southern Energy - Newington,,NH,Med,CC,February,N,525,525,,0,525,0,0,94500,0,0,161
+NPCC,2000,EMI/Calpine - Tiverton,Algon,RI,High,CC,March,Y,239.6,239.6,,239.6,0,0,43128,0,0,0,148
+NPCC,2000,PG&E(US Gen) - Charlton (Millennium),Tenn,MA,High,CC,April,Y,316.4,316.4,,316.4,0,0,56952,0,0,0,157
+NPCC,2000,FPL - ESI New Bedford,,MA,Low,1,November,N,250,250,,0,0,250,0,0,46000,0,149
+NPCC,2000,FPL - Mason (Wiscassett),,ME,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,150
+NPCC,2000,Polsky/UI - Jay (Androscoggin),PNGTS,ME,High,CT,June,N,55,55,,55,0,0,10120,0,0,10120,158
+NPCC,2000,EMI/Calpine - Rumford,PNGTS,ME,High,CC,April,N,265,265,,265,0,0,47700,0,0,0,147
+NPCC,2000,Skygen - Livermore Falls,,ME,Dead,CC,December,N,0,0,,0,0,0,0,0,0,0,159
+NPCC,2000,FPL - Yarmouth,,ME,Dead,CC,,N,0,0,,0,0,0,0,0,0,0,152
+NPCC,2000,Skygen - Versaille,,CT,Dead,1,,N,0,0,,0,0,0,0,0,0,0,160
+NPCC,2001,Sempra - Rocky River - New Milford (site problems),,CT,Dead,CC,July,N,0,0,,0,0,0,0,0,0,0,310
+NPCC,2001,PDC - Milford,Tenn/Iroq,CT,High,CC,February,N,544,544,,544,0,0,97920,0,0,0,308
+NPCC,2001,PDC - Westfield (Summit Power) site problems,,MA,Low,CC,March,N,276,276,,0,0,276,0,0,49680,0,307
+NPCC,2001,Patriot Power - Holyoke (Duke),,MA,Low,1,,N,300,300,,0,0,300,0,0,55200,0,306
+NPCC,2001,PG&E - Somerset (Brayton Point),Algon,MA,Med,CC,,N,477,477,,0,477,0,0,85860,0,0,320
+NPCC,2001,PDC/El Paso - Meriden-Berlin,Tenn/Algon,CT,Med,CC,3Q,N,544,544,,0,544,0,0,97920,0,0,309
+NPCC,2001,Sithe - Framingham,,MA,Dead,1,,N,0,0,,0,0,0,0,0,0,0,311
+NPCC,2001,Sithe - West Medway,,MA,Med,CT,,N,540,540,,0,540,0,0,99360,0,24840,312
+NPCC,2001,Stone & Webster - Wareham,,MA,Low,1,,N,500,500,,0,0,500,0,0,92000,0,314
+NPCC,2001,Orrington Gen Ptnrs - Orrington,,ME,Dead,1,July,N,0,0,,0,0,0,0,0,0,0,305
+NPCC,2001,Tractebel/Sprague Energy - Piscataqua,,NH,Med,CC,December,N,700,700,,0,700,0,0,126000,0,0,316
+NPCC,2001,PG&E - Killingly (LakeRoad Gen),Algon,CT,High,CC,June,N,810,810,,810,0,0,145800,0,0,0,321
+NPCC,2001,Vermont Power/EDC - Bennington,Iroquois,VT,Dead,CC,November,N,0,0,,0,0,0,0,0,0,0,322
+NPCC,2001,Vermont Power/EDC - Rutland,Iroquois,VT,Dead,CC,November,N,0,0,,0,0,0,0,0,0,0,323
+NPCC,2001,Stone & Webster - Wiscasset,,ME,Dead,1,October,N,0,0,,0,0,0,0,0,0,0,315
+NPCC,2001,Williams - Norwich,,CT,Low,1,,N,500,500,,0,0,500,0,0,92000,0,324
+NPCC,2001,NYPA - Pilgrim State Hospital,Transco,NY,High,CT,June,N,44,44,LM 6000,44,0,0,8096,0,0,8096,777
+NPCC,2001,NYPA - Hell Gate,Transco,NY,High,CT,June,N,79.9,79.9,LM 6000,79.9,0,0,14701.6,0,0,14701.6,773
+NPCC,2001,NYPA - Harlem Rail,Transco,NY,Med,CT,June,N,79.9,79.9,LM 6000,0,79.9,0,0,14701.6,0,3675.4,772
+NPCC,2001,NYPA - 23rd Street Brooklyn,Transco,NY,High,CT,June,N,79.9,79.9,LM 6000,79.9,0,0,14701.6,0,0,14701.6,766
+NPCC,2001,NYPA - Vernon Blvd.,Transco,NY,High,CT,June,N,79.9,79.9,LM 6000,79.9,0,0,14701.6,0,0,14701.6,783
+NPCC,2001,ANP - Bellingham,Algon,MA,High,CC,June,N,580,580,,580,0,0,104400,0,0,0,293
+NPCC,2001,Indeck - North Smithfield (Tusipani Water),,RI,Dead,CC,,N,0,0,,0,0,0,0,0,0,0,302
+NPCC,2001,IEG - Berwick,,ME,Low,1,,N,500,500,,0,0,500,0,0,92000,0,301
+NPCC,2001,AES - Southington (permit problems),,CT,Low,CT,,N,320,320,,0,0,320,0,0,58880,0,292
+NPCC,2001,ANP - Blackstone,Tenn,MA,High,CC,March,N,580,580,,580,0,0,104400,0,0,0,294
+NPCC,2001,ANP - Gorham,MNE,ME,High,CC,December,N,850,850,,850,0,0,153000,0,0,0,295
+NPCC,2001,Calpine - Westbrook Power,MNE/PNGTS,ME,High,CC,March,N,540,540,,540,0,0,97200,0,0,0,296
+NPCC,2001,Cogen Tech - Linden,PSE&G,NJ,Med,CT,,N,125,125,,0,125,0,0,23000,0,5750,297
+NPCC,2001,CT Municipal Electric - Norwich,,CT,Low,1,,N,500,500,,0,0,500,0,0,92000,0,298
+NPCC,2001,NYPA - Virginia Ave.,Transco,NY,High,CT,June,N,44,44,LM 6000,44,0,0,8096,0,0,8096,784
+NPCC,2001,PP&L/Stone & Webster - Wallingford,,CT,High,CC,,N,250,250,,250,0,0,45000,0,0,0,605
+NPCC,2001,Reliant - Johnston,,RI,Med,CC,April,N,500,500,,0,500,0,0,90000,0,0,300
+NPCC,2002,PPL Global - Smithtown (Long Island),,NY,Low,1,June,N,600,600,,0,0,600,0,0,110400,0,504
+NPCC,2002,Green Mnt. Pwr. - Highgate,,VT,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,495
+NPCC,2002,HQ - Surowiec (CMP),,ME,Low,CC,,N,600,600,,0,0,600,0,0,108000,0,496
+NPCC,2002,IDC/FPL - Bellingham (2001?),,MA,Med +,CC,,N,700,700,,0,700,0,0,126000,0,0,497
+NPCC,2002,Twin Tier Power (Tioga Co),,NY,Low,CC,,N,520,520,,0,0,520,0,0,93600,0,511
+NPCC,2002,Keyspan - Ravenswood,,NY,Low,Cogen,,N,250,250,,0,0,250,0,0,39000,0,499
+NPCC,2002,Duke - Newington (ConEd),,NH,Low,CC,March,,520,520,,0,0,520,0,0,93600,0,728
+NPCC,2002,NYPA - Poletti Expansion,Transco,NY,Low,CC,,N,500,0,,0,0,500,0,0,90000,0,503
+NPCC,2002,Indeck - Yarmouth,,ME,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,498
+NPCC,2002,Sithe - Mystic Stn - Charlestown,Cabot LNG,MA,High,CC,,N,1600,1600,,1600,0,0,288000,0,0,0,506
+NPCC,2002,Sithe - Weymouth (Edgar Station),Algon,MA,High,CC,Early,N,800,800,,800,0,0,144000,0,0,0,507
+NPCC,2002,Southern - Kendall Repowering,,MA,Med,1,January,N,234,234,,0,234,0,0,43056,0,10764,508
+NPCC,2002,Sunset Energy  (earlier ?),MarketLink,NY,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,509
+NPCC,2002,TransEnergie - Crossound,,CT,Med,CT,May,N,600,600,,0,600,0,0,110400,0,27600,510
+NPCC,2002,Wisconsin Energy - New Haven,Algon ?,CT,Med,1,,N,446,446,,0,446,0,0,82064,0,20516,163
+NPCC,2002,NIMO - Bethlehem  Energy Center,,NY,Low,1,September,N,750,750,,0,0,750,0,0,138000,0,502
+NPCC,2002,Bechtel Power - Haddem Neck,,CT,Low,CT,,N,900,900,,0,0,900,0,0,165600,0,486
+NPCC,2002,3 Entrepeneurs - Brockton Power,Algon,MA,Med,1,January,N,272,272,,0,272,0,0,50048,0,12512,483
+NPCC,2002,AES - Loudenberry,Tennessee,NH,High,CC,April,N,720,720,,720,0,0,129600,0,0,0,484
+NPCC,2002,Keyspan - Melville (Suffolk Co),,NY,Med,CT,May,N,79,79,,0,79,0,0,14536,0,3634,500
+NPCC,2002,ANP - Ramapo,,NY,Med,CT,December,N,1100,1100,,0,1100,0,0,202400,0,50600,485
+NPCC,2002,FPL - Providence (Johnston),,RI,Med,CC,,N,500,500,,0,500,0,0,90000,0,0,494
+NPCC,2002,Constellation - Dracut,,MA,High,CC,,N,750,750,,750,0,0,135000,0,0,0,491
+NPCC,2002,Cabot LNG - Everett (Island End),LNG,MA,High,Cogen,December,N,350,350,,350,0,0,54600,0,0,0,488
+NPCC,2002,Campello - Brockton Power,,MA,Med,CC,Q2,N,285,285,,0,285,0,0,51300,0,0,489
+NPCC,2002,Con Ed - East River Repowering,,NY,Low,1,,N,450,0,,0,0,450,0,0,82800,0,490
+NPCC,2002,Besicorp - Empire State Newsprint,,NY,Med,Cogen,November,N,450,200,,0,450,0,0,70200,0,0,487
+NPCC,2003,PSE&G - Linden,PSE&G,NJ,Low,CC,,,1186,0,,0,0,1186,0,0,213480,0,712
+NPCC,2003,Vermont Energy - Glenville Energy,,NY,Low,1,,N,500,500,,0,0,500,0,0,92000,0,600
+NPCC,2003,PG&E - Athens (no pl cap),Iroquois,NY,High,CC,1Q,N,1080,1080,,1080,0,0,194400,0,0,0,604
+NPCC,2003,Southern - Sandwich (Canal),,MA,Med,CC,June,N,665,665,,0,665,0,0,119700,0,0,603
+NPCC,2003,Sithe - Independence Exp (Scriba/Heritage),,NY,Med,CC,,N,800,800,,0,800,0,0,144000,0,0,602
+NPCC,2003,Sithe - Ramapo/Torne Valley,,NY,Low,CC,,N,827,827,,0,0,827,0,0,148860,0,601
+NPCC,2003,Constellation Power - Orange Co,,NY,Low,CC,,N,1080,1080,,0,0,1080,0,0,194400,0,675
+NPCC,2003,Southern Energy - Bowline Pt #3,,NY,Med,CC,,N,750,750,,0,750,0,0,135000,0,0,313
+NPCC,2003,Columbia Elec - Grassy Pt/Haverstraw,,NY,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,595
+NPCC,2003,SCS - Astoria Energy (2002?),,NY,Low,1,,N,1000,1000,,0,0,1000,0,0,184000,0,599
+NPCC,2003,ABB - Oak Point Yard,,NY,Low,CC,,N,1075,1075,,0,0,1075,0,0,193500,0,673
+NPCC,2003,Brrokhaven - Suffolk Co,,NY,Low,CT,October,N,540,540,,0,0,540,0,0,99360,0,598
+NPCC,2003,AES - Connecticut Yankee,,CT,Low,1,,N,700,700,,0,0,700,0,0,128800,0,597
+NPCC,2003,Calpine/Towantic Energy - Oxford,,CT,Med,CC,,N,540,540,,0,540,0,0,97200,0,0,596
+NPCC,2003,Keyspan - Ravenswood,,NY,Low,Cogen,,N,250,250,,0,0,250,0,0,39000,0,674
+NPCC,2004,York - North First Street,,NY,Low,CT,,N,500,500,,0,0,500,0,0,92000,0,678
+NPCC,2004,Calpine - Orange County (Wawayanda),,NY,Med,CC,1Q,N,540,540,,0,540,0,0,97200,0,0,654
+NPCC,2004,Constellation Power - Astoria,,NY,Low,CC,,,531,531,,0,0,531,0,0,95580,0,736
+NPCC,2004,Orion - Astoria (ConEd repower),,NY,Med,CC,,,750,750,,0,750,0,0,135000,0,0,737
+,,,,,,,,,44190.1,41636.8,0,12688.199999999999,13901.9,17600,2266804,2505445.6,3191940,251155.40000000002,41922
+NPCCC,2000,Enron Canada - Moore Power Plant,TCPL/Union,ON,Low,CT,December,N,166,166,,0,0,166,0,0,30544,0,146
+NPCCC,2000,Tractabel/NB Power,,NB,Low,CC,December,N,350,350,,0,0,350,0,0,63000,0,162
+NPCCC,2001,Tractebel/NB Power,,NB,Low,CC,December,N,280,280,,0,0,280,0,0,50400,0,317
+NPCCC,2001,Westcoast Power - Bayside Power,,NB,Low,CC,September,N,265,265,,0,0,265,0,0,47700,0,764
+NPCCC,2001,Boralex - Senneterre,,PQ,High,CT,June,N,32,32,,32,0,0,5888,0,0,5888,765
+NPCCC,2001,New Bunswick Power - Bayside Conv (Courtney Bay),MNE,NB,High,CC,,N,265,265,,265,0,0,47700,0,0,0,303
+NPCCC,2001,Toronto Hydro - Cascades,,ON,Med,CC,January,N,112,0,,0,112,0,0,20160,0,0,319
+NPCCC,2001,Northland Power,,ON,Low,Cogen,,N,250,250,,0,0,250,0,0,39000,0,304
+NPCCC,2001,TransAlta - Sarnia,,ON,High,Cogen,January,N,520,520,,520,0,0,81120,0,0,0,318
+NPCCC,2002,CUPIL - Lakeview,,ON,Low,CC,September,N,550,550,,0,0,550,0,0,99000,0,492
+NPCCC,2002,Sithe - Southdown Station (Mississauga),TCPL,ON,Med,CC,October,N,800,800,,0,800,0,0,144000,0,0,763
+NPCCC,2002,Sithe - Goreway (Brampton),TCPL,ON,Med,CC,October,N,800,800,,0,800,0,0,144000,0,0,505
+NPCCC,2002,Dofasco,,ON,Low,Cogen,July,N,500,500,,0,0,500,0,0,78000,0,493
+NPCCC,2002,New Bunswick Power - Bayside Conv (Courtney Bay),MNE,NB,High,CC,June,N,260,260,,260,0,0,46800,0,0,0,501
+NPCCC,2003,JD Irving Oil - New Brunswick,MNE,NB,High,CC,,N,95,95,,95,0,0,17100,0,0,0,743
+,,,,,,,,,5245,5133,0,1172,1712,2361,198608,308160,407644,,
+PJM,1999,Williams - Hazelton (Repowering),Transco Z6,PA,Low,CC,June,N,120,120,,0,0,120,0,0,21600,0,53
+PJM,1999,PP&L Global - Martins Creek (to 2002),,PA,Low,CC,,N,0,0,,0,0,0,0,0,0,0,52
+PJM,2000,Calpine - Ontelaunee Energy (2001),TETCO,PA,Low,CC,,N,0,0,,0,0,0,0,0,0,0,93
+PJM,2000,PSEG - Burlington,,NJ,High,CT,June,Y,186,186,0,186,0,0,34224,0,0,34224,685
+PJM,2000,Trigen-Cinergy - Sweetheart Cups,,MD,High,Cogen,December,N,15,0,,15,0,0,2340,0,0,0,96
+PJM,2000,Motiva - Delaware City,,DE,High,CT,May,Y,156.4,156.4,,156.4,0,0,28777.6,0,0,28777.6,95
+PJM,2000,Commonwealth-Chesapeake - TM Power,,VA,High,CT,July,Y,135,135,,135,0,0,24840,0,0,24840,94
+PJM,2001,Statoil - Kraft Foods,,DE,Med,Cogen,,N,88,88,,0,88,0,0,13728,0,0,276
+PJM,2001,Connectiv - New Castle Co (Wilmington),,DE,Med,CT,June,N,335,335,,0,335,0,0,61640,0,15410,275
+PJM,2001,Calpine - Ontelaunee Energy Center,TETCO,PA,Med,CC,November,N,545,545,,0,545,0,0,98100,0,0,272
+PJM,2001,PEI/Cayuga - Scranton,,PA,Med,CT,July,N,45,45,,0,45,0,0,8280,0,2070,663
+PJM,2001,Columbia Electric - Kelson Ridge (2003?),,PA,Med,CC,,N,550,550,,0,550,0,0,99000,0,0,273
+PJM,2001,Chesapeake - Seaford Expanson,,DE,High,CT,July,,10,0,,10,0,0,1840,0,0,1840,274
+PJM,2001,Old Dominion (old AES) - Ironwood,TETCO,PA,High,CC,July,N,720,200,,720,0,0,129600,0,0,0,271
+PJM,2002,PG&E -West Deptford (Mantua Creek),,NJ,Med,CC,,N,800,800,,0,800,0,0,144000,0,0,441
+PJM,2002,AES - Redoak (Sayreville),,NJ,High,CC,March,N,830,830,,830,0,0,149400,0,0,0,434
+PJM,2002,Columbia Electric - Liberty Power,TETCO,PA,High,Cogen,1Q,N,500,500,,500,0,0,78000,0,0,0,435
+PJM,2002,Connectiv - New Castle Co (Wilmington),,DE,Med,CC,,N,165,0,,0,165,0,0,29700,0,0,436
+PJM,2002,Old Dominion - Armstrong (Cecil Co),CNG,MD,Med,CC,,N,1020,1020,,0,1020,0,0,183600,0,0,438
+PJM,2002,Connectiv - Northampton (Bethlehem),,PA,Med,CC,,,500,500,,0,500,0,0,90000,0,0,720
+PJM,2002,FPL/Sunoco - Marcus Hook Refinery,,PA,Med,CC,March,N,725,725,,0,725,0,0,130500,0,0,437
+PJM,2002,PG&E - Linden (Liberty Project),,NJ,High,CC,,N,1100,1100,,1100,0,0,198000,0,0,0,440
+PJM,2002,PP&L Global - Martins Creek (N End),,PA,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,442
+PJM,2002,PP&L - Upper Hanover,TETCO,PA,High,CT,,N,90,90,,90,0,0,16560,0,0,16560,443
+PJM,2002,PP&L - Hatfield,TETCO,PA,High,CT,,N,90,90,,90,0,0,16560,0,0,16560,444
+PJM,2002,PP&L - West Earl Township,Columbia Gas,PA,High,CT,,N,450,450,,450,0,0,82800,0,0,82800,445
+PJM,2002,PP&L - West Hempfield,TETCO,PA,High,CT,,N,180,180,,180,0,0,33120,0,0,33120,446
+PJM,2002,PP&L - Eden,Transco,PA,High,CT,,N,90,90,,90,0,0,16560,0,0,16560,447
+PJM,2002,PSEG Power - Bergen Stn,,PA,Med,CC,,N,500,500,,0,500,0,0,90000,0,0,448
+PJM,2002,Panda - Upper Hanover (Perkiomen),,PA,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,439
+PJM,2003,Orion (formerly Columbia Electric) - Kelson Ridge,Columbia Gas,MD,Med,CC,January,N,1650,1650,,0,1650,0,0,297000,0,0,580
+PJM,2003,"Allegheny Energy Unites 3,4,5",,PA,Med,CC,,N,540,540,,0,540,0,0,97200,0,0,578
+PJM,2003,PSEG - Linden,,NJ,Med,CC,May,N,1186,1186,,0,1186,0,0,213480,0,0,579
+,,,,,,,,,14921.4,14211.4,0,4552.4,10249,120,812621.6,1844228,21600,272761.6,12544
+SERC,1999,ENA - Brownsville,ANR,TN,High,CT,June,Y,475,475,,475,0,0,87400,0,0,87400,64
+SERC,1999,ENA - Caledonia,Tenn,MS,High,CT,June,Y,475,475,,475,0,0,87400,0,0,87400,65
+SERC,1999,ENA - New Albany,Col Gulf,MS,High,CT,June,N,390,390,,390,0,0,71760,0,0,71760,66
+SERC,1999,Olgethrope Power - Smarr Energy,,AL,High,CT,June,Y,217.4,0,,217.4,0,0,40001.6,0,0,40001.6,63
+SERC,1999,Alabama Power - Burkville Cogen,,AL,High,CC,July,Y,97,0,,97,0,0,17460,0,0,0,62
+SERC,1999,OG&E - Magee,Destin,MS,High,CT,June,N,100,100,,100,0,0,18400,0,0,18400,70
+SERC,1999,Entergy,Columbia Gulf,AR,High,CT,February,Y,306,0,,306,0,0,56304,0,0,56304,67
+SERC,1999,Entergy,Columbia Gulf,LA,High,CT,February,Y,281.1,0,,281.1,0,0,51722.4,0,0,51722.4,68
+SERC,1999,Morgan Stanley - Lee County,SoNat,GA,High,CC,,N,100,100,,100,0,0,18000,0,0,0,69
+SERC,1999,CP&L - Asheville,,NC,High,CT,June,Y,165,0,,165,0,0,30360,0,0,30360,59
+SERC,1999,Alabama Power - Washington #1,,AL,High,CT,February,Y,109,0,,109,0,0,20056,0,0,20056,61
+SERC,2000,CP&L - Monroe Walton Co.,Transco,GA,High,CT,January,Y,136,0,,136,0,0,25024,0,0,25024,60
+SERC,2000,ENA - Gleason,ANR,TN,High,CT,May,Y,462.4,462.4,,462.4,0,0,85081.6,0,0,85081.6,172
+SERC,2000,TVA Gallatin Plant  (Wilson County),Columbia Gulf,TN,High,CT,July,Y,300,300,,300,0,0,55200,0,0,55200,183
+SERC,2000,Dynegy - Rockingham,Transco Z5,NC,High,CT,June,Y,800,200,,800,0,0,147200,0,0,147200,170
+SERC,2000,Walton EMC - Doyle,Transco Z4,GA,High,CT,May,Y,263.5,0,,263.5,0,0,48484,0,0,48484,186
+SERC,2000,Dynegy - Lake Charles (Calcasieu),Koch/Sabine,LA,High,CT,June,Y,155,155,,155,0,0,28520,0,0,28520,169
+SERC,2000,Entergy - Louisiana 2  (Baton Rouge),,LA,High,CT,July,Y,140,0,,140,0,0,25760,0,0,25760,173
+SERC,2000,CP&L - Wayne Co,NCNG,NC,High,CT,May,Y,720,0,,720,0,0,132480,0,0,132480,167
+SERC,2000,ENA - Calvert City,TGT,KY,Low,CT,June,N,0,0,,0,0,0,0,0,0,0,171
+SERC,2000,CP&L - Asheville 4,,NC,High,CT,March,Y,180,0,,180,0,0,33120,0,0,33120,166
+SERC,2000,Calpine - Cataula,,GA,High,CT,June,Y,680,680,,680,0,0,125120,0,0,125120,165
+SERC,2000,Alabama Power (SOCO) - Barry,Koch,AL,High,CC,May,Y,457.5,0,,457.5,0,0,82350,0,0,0,164
+SERC,2000,NRG - Sterlington,,LA,High,CT,June,N,132,132,0,132,0,0,24288,0,0,24288,682
+SERC,2000,FPL - Kinetic,,AL,Med,CT,,N,628,628,0,0,628,0,0,115552,0,28888,681
+SERC,2000,Baconton (Cornerstone),,GA,High,CT,June,Y,188,188,LM 6000,188,0,0,34592,0,0,34592,680
+SERC,2000,Dominion - VA Power (Caroline Co) - 2001?,,VA,Med,CT,June,N,320,0,,0,320,0,0,58880,0,14720,168
+SERC,2000,Oglethorpe - Polk County,,GA,High,CT,June,Y,500,0,,500,0,0,92000,0,0,92000,178
+SERC,2000,Cogentrix - Southaven,,NC,High,CT,March,Y,680.9,680.9,0,680.9,0,0,125285.6,0,0,125285.6,690
+SERC,2000,VEPCO (Virginia Power) - Fauquier City (Remington),,VA,High,CT,June,Y,616,0,,616,0,0,113344,0,0,113344,185
+SERC,2000,TVA Johnsonville,,TN,High,CT,July,Y,300,300,,300,0,0,55200,0,0,55200,184
+SERC,2000,Georgia Power (SOCO) - Dahlberg,Transco Z4,GA,High,CT,June,Y,640,0,,640,0,0,117760,0,0,117760,174
+SERC,2000,PG&E(US Gen) - Georgia,,GA,Low,1,,N,440,440,,0,0,440,0,0,80960,0,180
+SERC,2000,Sonat Energy - Upson County (Thomaston) - West Georgia Gen,SoNat,GA,High,CT,June,Y,680,115,,680,0,0,125120,0,0,125120,182
+SERC,2000,Old Dominion CO-OP (Remington),,VA,Low,1,,N,0,0,,0,0,0,0,0,0,0,179
+SERC,2000,Skygen - Broad River Energy center,,SC,High,CT,July,Y,453,453,,453,0,0,83352,0,0,83352,181
+SERC,2000,Morgan Stanley - Decatur,,GA,Med,CT,,N,80,80,,0,80,0,0,14720,0,3680,177
+SERC,2000,LS Power/Cogentrix - Batesville,ANR/Tenn/Trkl/Col Gulf,MS,High,CC,March,Y,837,837,,837,0,0,150660,0,0,0,176
+SERC,2000,LG&E - Clarke County,Transco Z4,GA,Med,CT,June,N,325,0,,0,325,0,0,59800,0,14950,175
+SERC,2000,Duke - Calvert City (Marshall Co) I,,KY,High,CT,June,Y,68,68,7EA,68,0,0,12512,0,0,12512,458
+SERC,2001,Skygen/InterGen - Pine Bluff Energy Center,Reliant,AR,High,CC,,N,220,220,,220,0,0,39600,0,0,0,340
+SERC,2001,Skygen/InterGen - Mobile (Hog Bayou Energy Center),,AL,High,CC,,N,250,230,,250,0,0,45000,0,0,0,339
+SERC,2001,SMEPA - Duke - (Hinds Energy),TETCO,MS,High,CC,June,N,500,500,,500,0,0,90000,0,0,0,341
+SERC,2001,Constellation Power - Bristol (Wolf Hills Energy),,VA,High,CT,,N,250,250,,250,0,0,46000,0,0,46000,342
+SERC,2001,Mississippi Power - Victor Daniel,Destin,MS,High,CC,January,N,1000,1000,,1000,0,0,180000,0,0,0,338
+SERC,2001,PG&E - Ballard,,KY,Med,CT,June,N,180,180,,0,180,0,0,33120,0,8280,768
+SERC,2001,Duke - Attala Energy (Kosciusko),TETCO,MS,High,CC,June,N,510,510,,510,0,0,91800,0,0,0,344
+SERC,2001,TVA Gallatin Plant (Wilson Co) & Johnsonville?,Col Gulf,TN,High,CT,June,N,600,0,,600,0,0,110400,0,0,110400,346
+SERC,2001,Duke - Murray Energy Facility,,GA,Med,CC,June,N,1200,1200,,0,1200,0,0,216000,0,0,776
+SERC,2001,PG&E - Metcalf,,KY,Med,CT,June,N,180,180,,0,180,0,0,33120,0,8280,775
+SERC,2001,Tenaska - Autauga Co II,,AL,Med,CC,,N,900,900,0,0,900,0,0,162000,0,0,686
+SERC,2001,"Dynegy - Heard Co., GA",Transco Z4,GA,High,CT,June,N,500,500,,500,0,0,92000,0,0,92000,332
+SERC,2001,Dynegy - Lake Charles (Calcasieu),Koch/Sabine,LA,High,CT,July,N,165,165,,165,0,0,30360,0,0,30360,333
+SERC,2001,"LG&E - Monroe, GA",Transco Z4,GA,High,CT,June,N,450,450,,450,0,0,82800,0,0,82800,337
+SERC,2001,Entergy (EWO) - Vicksburg,,MS,Med,1,Spring,N,300,300,,0,300,0,0,55200,0,13800,334
+SERC,2001,ENA - St. Charles,Bridgeline,LA,Low,CT,June,N,325,325,,0,0,325,0,0,59800,0,335
+SERC,2001,FPL - Doswell,CNG PL1,VA,High,CT,June,N,171,171,,171,0,0,31464,0,0,31464,336
+SERC,2001,Georgia Power (SOCO) - Dahlberg,Transco Z4,GA,High,CT,June,N,160,0,,160,0,0,29440,0,0,29440,343
+SERC,2001,CP&L - Hamlet,,NC,High,CT,June,N,620,0,,620,0,0,114080,0,0,114080,331
+SERC,2001,CP&L - Monroe Walton Co.,Transco,GA,Med,CT,,N,300,0,,0,300,0,0,55200,0,13800,330
+SERC,2001,NRG - Sterlington,,LA,High,CT,,,67,67,,67,0,0,12328,0,0,12328,285
+SERC,2001,CP&L - Rowan County,Transco Z5,NC,High,CT,June,N,465,0,,465,0,0,85560,0,0,85560,329
+SERC,2001,Cogentrix - Bogalusa (Washington Co),,LA,Low,CC,,N,800,800,,0,0,800,0,0,144000,0,328
+SERC,2001,Alabama Power (SOCO) - Barry II,Koch,AL,High,CC,June,N,537,0,,537,0,0,96660,0,0,0,327
+SERC,2001,Alabama Power - Theodore Cogen,Mobile Gas,AL,High,Cogen,June,N,207,0,,207,0,0,32292,0,0,0,326
+SERC,2001,AEC (McWilliams),FGT,AL,High,CC,November,N,500,250,,500,0,0,90000,0,0,0,325
+SERC,2002,Acadia Power Partners - Eunice,,LA,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,449
+SERC,2002,Duke - Buffalo Creek,,GA,Med,CC,June,N,620,620,,0,620,0,0,111600,0,0,770
+SERC,2002,CP&L - Richmond County (Hamlet),Transco Z5,NC,Med,CC,June,N,625,0,,0,625,0,0,112500,0,0,457
+SERC,2002,TVA,,MS,Low,CT,,N,340,0,,0,0,340,0,0,62560,0,474
+SERC,2002,Calpine/Solutia - Decatur Energy - Phase I,Midcoast,AL,High,Cogen,June,N,440,440,,440,0,0,68640,0,0,0,452
+SERC,2002,Georgia Power - Savannah,,GA,Med,1,Summer,N,1600,0,,0,1600,0,0,294400,0,73600,464
+SERC,2002,Georgia Power - Plant Wansley,Transco Z4,GA,High,CC,June,N,1132,0,,1132,0,0,203760,0,0,0,463
+SERC,2002,Georgia Power - Goat Rock,,AL,Med,CC,Early,N,500,500,,0,500,0,0,90000,0,0,462
+SERC,2002,GenPower - Lonoke (Keo),,AR,Low,CC,4Q,N,640,640,GE 7FA,0,0,640,0,0,115200,0,461
+SERC,2002,Entergy/PPG Industries (Westlake),,LA,Med,Cogen,,N,448,448,,0,448,0,0,69888,0,0,460
+SERC,2002,Georgia Power (SOCO) - Dahlberg,Transco Z4,GA,High,CT,June,N,400,0,,400,0,0,73600,0,0,73600,465
+SERC,2002,Duke - Sandersville Station (Washington Co),,GA,Med,CT,June,N,640,640,,0,640,0,0,117760,0,29440,779
+SERC,2002,Alabama Power (SOCO) - Barry II,Koch,AL,High,CC,May,N,233,0,,233,0,0,41940,0,0,0,451
+SERC,2002,AEP - Dow Plaquemine (Baton Rouge),,LA,Med,Cogen,,N,900,900,,0,900,0,0,140400,0,0,450
+SERC,2002,Tenaska - Lindsay Hill (Billingsley),,AL,High,CC,,N,846,846,,846,0,0,152280,0,0,0,475
+SERC,2002,Entergy (EWO) - Lake Charles,,LA,Med,Cogen,,N,500,100,,0,500,0,0,78000,0,0,459
+SERC,2002,TVA Brownsville,,TN,Low,CT,,N,680,0,,0,0,680,0,0,125120,0,473
+SERC,2002,Calpine - Morgan Energy Center,,AL,High,Cogen,,N,440,440,,440,0,0,68640,0,0,0,453
+SERC,2002,Cogentrix - Caledonia (Lowdes Co?),Tennessee,MS,High,1,,N,0,0,,0,0,0,0,0,0,0,454
+SERC,2002,Cogentrix - Southaven,TGT,MS,High,CT,June,N,800,800,,800,0,0,147200,0,0,147200,455
+SERC,2002,SCE&G - Aiken Co,,SC,Med,CC,June,N,450,0,,0,450,0,0,81000,0,0,471
+SERC,2002,Cogentrix - Sterlington,,LA,Low,CC,,N,800,800,,0,0,800,0,0,144000,0,456
+SERC,2002,Skygen - St. Francisville,,LA,Med,Cogen,June,,520,520,,0,520,0,0,81120,0,0,724
+SERC,2002,Oglethorpe - Talbot Co.,,GA,Med,CT,June,,434,0,,0,434,0,0,79856,0,19964,723
+SERC,2002,CP&L - Effingham Co,,GA,Med,CT,July,N,525,0,,0,525,0,0,96600,0,24150,721
+SERC,2002,Kinder Morgan/SEI - Little Rock (Wrightsville),NGPL,AR,Low,CT,April,N,550,550,,0,0,550,0,0,101200,0,466
+SERC,2002,Duke - Calvert City (Marshall Co) II,,KY,Med,CT,June,N,570,570,7EA,0,570,0,0,104880,0,26220,693
+SERC,2002,Tenaska - Heard County,,GA,High,CT,,N,950,950,,950,0,0,174800,0,0,174800,345
+SERC,2002,GenPower - Sallis (Attala Co),,MS,Low,CC,June,,640,640,,0,0,640,0,0,115200,0,722
+SERC,2002,Nation Energy - Chalmette (to 2002),,LA,Med,Cogen,,N,110,110,,0,110,0,0,17160,0,0,467
+SERC,2002,Santee Cooper - Anderson Co (Rainey Plant),Transco Z4,SC,High,CC,January,N,650,0,,650,0,0,117000,0,0,0,469
+SERC,2002,Duke - Hot Spring Energy I (Malvern),,AR,Med,CC,June,N,620,620,,0,620,0,0,111600,0,0,757
+SERC,2002,Old Dominion CO-OP (Boswells Tavern),,VA,Med,CT,,N,570,0,,0,570,0,0,104880,0,26220,468
+SERC,2002,Santee Cooper - Anderson Co (Rainey Plant),Transco Z4,SC,High,CT,January,N,490,0,,490,0,0,90160,0,0,90160,470
+SERC,2002,SOCO - Plant Smith (Gulf Power),FGT,FL,High,CC,,N,574,0,,574,0,0,103320,0,0,0,472
+SERC,2003,SkyGen - Calhoun Co (Eastman),,SC,Med,CC,,,500,500,,0,500,0,0,90000,0,0,707
+SERC,2003,Oglethorpe - Talbot Co,,GA,Med,CT,June,,218,0,,0,218,0,0,40112,0,10028,706
+SERC,2003,AES - Cyprus,,AR,Med,CT,,N,540,540,,0,540,0,0,99360,0,24840,767
+SERC,2003,Cogentrix - Henry County,TGT,VA,Med,CC,,N,1100,1100,,0,1100,0,0,198000,0,0,670
+SERC,2003,Cogentrix - Blount,,AL,Low,CC,,,800,800,,0,0,800,0,0,144000,0,560
+SERC,2003,Alabama Power (SOCO) - Autaugaville,,AL,High,CC,,,1260,0,,1260,0,0,226800,0,0,0,588
+SERC,2003,Panda - Union County (El Dorado) 2002??,Panda Int PL fed by Tennessee/Gulf States PL,AR,Med,CC,March,N,2720,2720,,0,2720,0,0,489600,0,0,587
+SERC,2003,Duke - Southaven,,MS,Low,1,,N,640,640,,0,0,640,0,0,117760,0,586
+SERC,2003,GenPower - Quinton,,AL,Low,CC,,N,600,600,,0,0,600,0,0,108000,0,584
+SERC,2003,LG&E - Tiger Creek,,GA,Med,CT,,N,850,850,,0,850,0,0,156400,0,39100,782
+SERC,2003,Calpine - Haywood Energy Center,,TN,Med,CC,,,770,770,,0,770,0,0,138600,0,0,649
+SERC,2003,NRG - Big Cajun I,,LA,Med,CT,,N,240,240,,0,240,0,0,44160,0,11040,769
+SERC,2003,Tenaska - Lonoke,,AR,Med,CC,May,,1700,1700,,0,1700,0,0,306000,0,0,708
+SERC,2003,Calpine - Lowndes Co (Lone Oak),Tennessee,MS,High,CT,Early,N,800,800,,800,0,0,147200,0,0,147200,581
+SERC,2003,CP&L - Rowan County,Transco Z5,NC,Med,CC,June,N,470,0,,0,470,0,0,84600,0,0,583
+SERC,2003,Calpine - Tallapoosa Co (Hillabee Energy),Midcoast,AL,Med,CC,,N,700,700,,0,700,0,0,126000,0,0,582
+SERC,2003,Oglethorpe - Wansley,,GA,Med,CC,January,N,520,520,,0,520,0,0,93600,0,0,785
+SERC,2003,SCANA - Greene/Martin/Onslow Co,,NC,Med,Cogen,Late,N,200,200,,0,200,0,0,31200,0,0,585
+SERC,2004,Santee Cooper - (Northern SC),Transco,SC,Med,CC,,N,500,0,,0,500,0,0,90000,0,0,647
+SERC,2004,Tenaska - Fluvanna Plant,Transco,VA,Low,CC,,,900,900,,0,0,900,0,0,162000,0,87
+SERC,2004,Georgia Power - Goat Rock II (Autaugaville Power??),,AL,Low,CC,,N,1710,0,,0,0,1710,0,0,307800,0,648
+SERC,2004,CPV - Cunningham Creek (Fluvanna Co),Transco,VA,Low,CC,,,520,520,,0,0,520,0,0,93600,0,731
+SERC,2004,CLECO - Perryville,,LA,Med,CT,,N,1000,1000,,0,1000,0,0,184000,0,46000,677
+SERC,2004,Tractabel Power - Loundon,,VA,Low,CC,,,1400,1400,,0,0,1400,0,0,252000,0,253
+SERC,2004,Oxy - Convent Plant,,LA,Low,CC,,N,835,835,,0,0,835,0,0,150300,0,652
+SERC,2004,Calpine - Haywood Energy Center,,TN,Med,CC,,N,770,770,,0,770,0,0,138600,0,0,651
+SERC,2004,CPV - Cunnigham Creek (Fluvanna Co),Transco,VA,Low,CC,,,520,520,,0,0,520,0,0,93600,0,197
+SERC,2004,Tenaska - Coosa,,AL,Low,CT,,,510,510,,0,0,510,0,0,93840,0,732
+SERC,2004,Calpine - Morgan Energy Center II,,AL,High,Cogen,,N,220,220,,220,0,0,34320,0,0,0,650
+SERC,2004,Scana/Fayetteville PWC - Fayetteville,SCANA Energy,NC,Dead,CC,June,,0,0,,0,0,0,0,0,0,0,734
+SERC,2004,Duke - Hot Spring Energy II (Malvern),,AR,Low,CC,,N,620,620,GE 7FA,0,0,620,0,0,111600,0,774
+SERC,2004,South Carolina PSA,,SC,Med,CC,,N,500,0,,0,500,0,0,90000,0,0,653
+,,,,,,,,,71124.8,47566.3,0,28511.8,28343,14270,5170761.2,5075468,2582540,3657239.2,56431
+SPP,1999,Air Liquide - Geismar,Koch ?,LA,High,Cogen,,N,80,15,,80,0,0,12480,0,0,0,22
+SPP,1999,AEC - Essex Power,TETCO,MO,High,CT,June,Y,112.6,0,,112.6,0,0,20718.4,0,0,20718.4,20
+SPP,1999,LS Power/Golden Spread - Mustang Station,NNG,TX,High,CC,June,Y,488,488,F7FA,488,0,0,87840,0,0,0,713
+SPP,1999,Exxon - Baton Rouge,,LA,Low,1,,N,0,0,,0,0,0,0,0,0,0,23
+SPP,1999,AEC/Duke - St. Francis Power Plant,TETCO,MO,High,CC,July,Y,260,125,,260,0,0,46800,0,0,0,21
+SPP,2000,CLECO - Evangeline,,LA,High,CC,May,Y,918.5,0,,918.5,0,0,165330,0,0,0,200
+SPP,2000,"Iola, City of",,KS,High,CT,June,Y,4.9,4.9,,4.9,0,0,901.6,0,0,901.6,696
+SPP,2000,Koch-Sterlington,,LA,High,CT,July,Y,170,170,,170,0,0,31280,0,0,31280,201
+SPP,2000,OG&E - Mustang & Horseshoe,,OK,High,CT,May,N,210,0,,210,0,0,38640,0,0,38640,202
+SPP,2000,AEC/KAMO Power - Chouteau,,OK,High,CC,June,Y,530,130,,530,0,0,95400,0,0,0,199
+SPP,2000,KCP&L - Hawthorn,,MO,High,CC,May,Y,304,0,,304,0,0,54720,0,0,0,203
+SPP,2000,Western Resouces - Sedgwick Co. (Gordon Evans),Willaims Central,KS,High,CT,June,Y,147,0,,147,0,0,27048,0,0,27048,204
+SPP,2001,Reliant - Sabine Cogen,,TX,Med,Cogen,,N,100,100,,0,100,0,0,15600,0,0,355
+SPP,2001,Arkansas Elec Coop - Fulton (Hempstead),NGPL,AR,High,CT,June,N,153,118,,153,0,0,28152,0,0,28152,357
+SPP,2001,MEP(Calpine)/UtiliCorp - Pleasant Hill (Aries),Williams,MO,High,CT,June,N,372,372,,372,0,0,68448,0,0,68448,348
+SPP,2001,Empire District Co/WRI - Joplin (State Line),Williams,MO,High,CC,Summer,N,500,500,,500,0,0,90000,0,0,0,349
+SPP,2001,ONEOK - West Edmond (Logan Co),,OK,Med,CT,June,N,300,225,,0,300,0,0,55200,0,13800,350
+SPP,2001,Skygen,,LA,Low,Cogen,June,N,640,640,,0,0,640,0,0,99840,0,351
+SPP,2001,AEC/Duke - St Francis Power Plant II,TETCO,MO,High,CC,July,N,260,0,,260,0,0,46800,0,0,0,352
+SPP,2001,Cogentrix/Power Resources(Green Country) - Jenks,,OK,Low,CC,,N,0,0,,0,0,0,0,0,0,0,347
+SPP,2001,Arkansas Elec Coop - Ozark Repowering,,AR,Med,CT,,N,110,110,,0,110,0,0,20240,0,5060,356
+SPP,2001,"Duke/OMPA - McClain Energy (Newcastle, OK)",ONG,OK,High,CC,June,N,500,0,,500,0,0,90000,0,0,0,353
+SPP,2001,Western Resouces - Sedgwick Co. (Gordon Evans),Willaims Cent,KS,High,CT,June,N,150,0,,150,0,0,27600,0,0,27600,354
+SPP,2002,Calpine/Panda Oneta Plant (Coweta),,OK,Med +,CT,Spring,N,1000,1000,,0,1000,0,0,184000,0,46000,516
+SPP,2002,CLECO/Calpine - Eunice (Acadia),,LA,Med,CC,June,N,1000,1000,,0,1000,0,0,180000,0,0,512
+SPP,2002,Cogentrix/Power Resources(Green Country) - Jenks,TransOk,OK,High,CC,March,N,850,850,,850,0,0,153000,0,0,0,513
+SPP,2002,MEP(Calpine)/UtiliCorp - Pleasant Hill (Aries),Williams,MO,High,CT,January,,600,600,,600,0,0,110400,0,0,110400,514
+SPP,2002,OMPA - Ponca City Reporter,,OK,Med,CT,,N,39,0,,0,39,0,0,7176,0,1794,515
+SPP,2002,MEP (Calpine)/UtiliCorp - Pleasant Hill (Aries),Williams,MO,High,CT,January,,600,600,,600,0,0,110400,0,0,110400,729
+SPP,2002,Power Resource (Kiowa) - McAlister (Kiamichi),,OK,Low,CC,,N,1200,1200,,0,0,1200,0,0,216000,0,517
+SPP,2003,Duke - Newcastle (2001),,OK,Low,CC,,N,0,0,,0,0,0,0,0,0,0,606
+SPP,2003,Adair - Indian Res Plant,,KS,Low,1,,N,500,500,,0,0,500,0,0,92000,0,607
+SPP,2004,Energentix - Arcadia,,OK,,1,,,825,825,,0,0,0,0,0,0,0,7
+SPP,2004,Kinder Morgan - Pittsburg,,OK,Low,CC,,N,453,453,,0,0,453,0,0,81540,0,679
+,,,,,,,,,13377,10025.9,0,7210,2549,2793,1305958,462216,489380,530242,12291
+WSCC,1999,Deming/Garland Loman/Rosal,,NM,Dead,1,,N,0,0,,0,0,0,0,0,0,0,9
+WSCC,1999,City of Colorado Springs - Nixon Plant,CIG,CO,High,CT,July,Y,63,0,,63,0,0,11592,0,0,11592,8
+WSCC,1999,PSCO - Fort St. Vrain #3,CIG,CO,High,CC,January,Y,241,0,,241,0,0,43380,0,0,0,11
+WSCC,1999,PSCO - Valmont,CIG,CO,High,CT,October,N,40,0,,40,0,0,7360,0,0,7360,10
+WSCC,2000,Dynegy - Santa Teresa,El Paso,NM,Med,CC,,N,500,500,,0,500,0,0,90000,0,0,193
+WSCC,2000,Delta Power - Detroit Gas (Cobisa/Pearson),PSNM ??,NM,High,CT,June,N,140,140,,140,0,0,25760,0,0,25760,192
+WSCC,2000,California Institue of Technology,,CA,High,CT,January,Y,5.2,0,0,5.2,0,0,956.8,0,0,956.8,687
+WSCC,2000,Adair/Native American - Glacier,,MT,Low,CT,,N,160,160,,0,0,160,0,0,29440,0,187
+WSCC,2000,City of Springfield - Whitehead,,UT,High,CT,February,Y,6.8,0,0,6.8,0,0,1251.2,0,0,1251.2,689
+WSCC,2000,Coastal - Pawnee Station (Brush) - Fulton Cogen 0 Manchief Station,CIG/PSCO,CO,High,CT,May,Y,328.1,0,,328.1,0,0,60370.4,0,0,60370.4,190
+WSCC,2000,Black Hills Generation - Arapahoe,CIG/PSCO,CO,High,CT,June,Y,74,74,,74,0,0,13616,0,0,13616,196
+WSCC,2000,PSCO - Arapahoe/Valmont,CIG/PSCO,CO,High,CT,June,Y,126,0,,126,0,0,23184,0,0,23184,195
+WSCC,2000,Black Hills Power & Light - Gillette,KN,WY,High,CT,June,Y,34,34,,34,0,0,6256,0,0,6256,189
+WSCC,2001,North American Power - DIA,,CO,Low,CT,,N,150,150,,0,0,150,0,0,27600,0,373
+WSCC,2001,Edison Mission (formerly Texaco) - Sunrise Power Project,,CA,High,Cogen,December,N,300,300,,300,0,0,46800,0,0,0,387
+WSCC,2001,PG&E - Kern County/La Paloma (2002?),Kern/Mojave,CA,High,CC,September,N,1048,1048,,1048,0,0,188640,0,0,0,377
+WSCC,2001,Two Elks Plant,,WY,Low,CT,,Y,50,50,,0,0,50,0,0,9200,0,389
+WSCC,2001,Reliant - Casa Grande (Desert Basin),El Paso,AZ,High,CC,June,N,500,500,,500,0,0,90000,0,0,0,380
+WSCC,2001,PP&L/Duke - Kingman (Griffith),El Paso/TW,AZ,High,Cogen,July,N,520,390,,520,0,0,81120,0,0,0,378
+WSCC,2001,Panda Energy - Gila River I,El Paso,AZ,Med,CT,,N,1000,1000,,0,1000,0,0,184000,0,46000,375
+WSCC,2001,PacifiCorp - Klamath Falls,PGT,OR,High,CC,July,N,464,313,,464,0,0,83520,0,0,0,374
+WSCC,2001,Summit Group - Blythe,El Paso,CA,Med,Cogen,,N,400,400,,0,400,0,0,62400,0,0,381
+WSCC,2001,Calpine/Pinnacle - West Phoenix (Buckeye) 4,,AZ,High,CC,August,N,70,70,,70,0,0,12600,0,0,0,365
+WSCC,2001,Avista Power/Cogentrix - Rathdrum,Avista,ID,High,CC,September,N,270,270,,270,0,0,48600,0,0,0,361
+WSCC,2001,"Calpine - Yuba City, Sutter County",PG&E,CA,High,CC,September,N,520,520,,520,0,0,93600,0,0,0,363
+WSCC,2001,Calpine - Warnerville Project,,CA,High,CT,,N,86.4,86.4,,86.4,0,0,15897.6,0,0,15897.6,755
+WSCC,2001,AES - South City,PG&E,CA,Low,CT,,N,170,170,,0,0,170,0,0,31280,0,358
+WSCC,2001,PSCO - Fort St. Vrain,,CO,Low,CC,May,N,214,0,,0,0,214,0,0,38520,0,379
+WSCC,2001,Hermosillo Power Plant,El Paso,AZ,High,CC,,N,225,225,,225,0,0,40500,0,0,0,372
+WSCC,2001,Calpine (Enron) - Pittsburg (Los Medanos),,CA,High,CC,May,N,500,425,,500,0,0,90000,0,0,0,364
+WSCC,2001,El Paso - South San Francisco,PG&E,CA,High,CT,August,N,51,51,,51,0,0,9384,0,0,9384,754
+WSCC,2001,Calpine - South Point (Fort Mojave),SWG/TW,AZ,High,CC,July,N,540,540,,540,0,0,97200,0,0,0,367
+WSCC,2001,Coastal Power - Carlin,,NV,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,368
+WSCC,2001,Calpine - Scott Substation,PG&E,CA,High,CT,June,N,88,88,LM 6000,88,0,0,16192,0,0,16192,753
+WSCC,2001,PG&E - San Diego,,CA,High,CT,June,,49,0,,49,0,0,9016,0,0,9016,719
+WSCC,2001,Front Range Energy - Ft. Lupton (2000?),CIG/PSCO,CO,High,Cogen,May,N,160,0,,160,0,0,24960,0,0,0,370
+WSCC,2001,Global Energy - Snohomish,NWPL,WA,Med,CC,,N,250,250,,0,250,0,0,45000,0,0,371
+WSCC,2001,APS - West Phoenix,,AZ,Med,CC,,N,130,0,,0,130,0,0,23400,0,0,360
+WSCC,2002,Ogden Pacific - Three Mountain,PG&E,CA,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,535
+WSCC,2002,El Paso - Brush,,CO,Low,CT,May,N,60,60,,0,0,60,0,0,11040,0,668
+WSCC,2002,Naco-Nogales/Grupo Mexico,El Paso,AZ,Med,CC,March,N,350,0,,0,350,0,0,63000,0,0,534
+WSCC,2002,Midway Sunset Cogen,,CA,Low,Cogen,,N,500,500,,0,0,500,0,0,78000,0,532
+WSCC,2002,Las Vegas Cogen Expansion,,NV,High,CC,June,N,220,220,,220,0,0,39600,0,0,0,531
+WSCC,2002,Duke - Moss Landing,PG&E,CA,High,CC,July,Y,1060,1060,,1060,0,0,190800,0,0,0,528
+WSCC,2002,Morley Comp - Campstool,CIG,WY,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,533
+WSCC,2002,Panda Energy - Gila River II (CC Conv),El Paso,AZ,Med,CC,,N,1000,1000,,0,1000,0,0,180000,0,0,536
+WSCC,2002,Duke - Deming,,NM,Med,CC,,Y,600,600,,0,600,0,0,108000,0,0,667
+WSCC,2002,Potlatch - Lewiston,NWPL,ID,Low,CC,,N,126,126,,0,0,126,0,0,22680,0,537
+WSCC,2002,Rosarito,Socal,CA,Med,CC,August,N,450,0,,0,450,0,0,81000,0,0,539
+WSCC,2002,Salt River Project - Suntan (Maricopa Co),,AZ,Low,CT,,N,825,825,,0,0,825,0,0,151800,0,540
+WSCC,2002,Sempra/Oxy - Elk Hills,,CA,High,CC,December,N,500,500,,500,0,0,90000,0,0,0,541
+WSCC,2002,SRP/Dynegy/NRG - Phoenix,,AZ,Med,CT,,N,825,825,,0,825,0,0,151800,0,37950,542
+WSCC,2002,NESCO - Goldendale,,WA,Med,CC,October,N,248,0,,0,248,0,0,44640,0,0,543
+WSCC,2002,Sunlaw Cogen (EM-ONE),,CA,Low,Cogen,,N,800,800,,0,0,800,0,0,124800,0,544
+WSCC,2002,CSW/Northwest Power - Creston,NWPL,WA,Med,CC,,N,900,900,,0,900,0,0,162000,0,0,527
+WSCC,2002,Calpine - Hermiston,PGT,OR,High,CC,May,N,536,536,,536,0,0,96480,0,0,0,524
+WSCC,2002,WPPSS - Satsop,NWPL,WA,Low,CC,,N,500,500,,0,0,500,0,0,90000,0,548
+WSCC,2002,Calpine (Tejon Ranch) - Pastoria Power,Kern/Mojave,CA,Med,CC,,N,960,960,,0,960,0,0,172800,0,0,538
+WSCC,2002,Bock - Livingstone (Pioneer),,CA,Low,CC,,N,260,260,,0,0,260,0,0,46800,0,521
+WSCC,2002,FPL - Northeast Power - Everett Delta,NWPL,WA,High,CC,August,N,248,248,,248,0,0,44640,0,0,0,369
+WSCC,2002,AES - South City,PG&E,CA,Low,CC,,N,345,345,,0,0,345,0,0,62100,0,518
+WSCC,2002,Avista - Coyote Springs II,PGT,OR,High,CC,,N,280,280,,280,0,0,50400,0,0,0,759
+WSCC,2002,Calpine - Metcalf Energy Center,,CA,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,522
+WSCC,2002,Calpine - Pittsburg (Delta Energy Center),,CA,High,CC,June,N,880,880,,880,0,0,158400,0,0,0,523
+WSCC,2002,PP&L - Sundance (Pinal Co),,AZ,Med,CT,June,N,600,600,,0,600,0,0,110400,0,27600,786
+WSCC,2002,Cowlitz Cogen - Weyerhaeuser,NWPL,WA,Low,Cogen,,N,395,395,,0,0,395,0,0,61620,0,526
+WSCC,2003,Sempra - Mesquite (Maricopa),,AZ,Low,CC,,N,1000,1000,,0,0,1000,0,0,180000,0,622
+WSCC,2003,Sumas Energy 2 - NESCO (Kirkland),Westcoast,WA,High,CC,September,N,710,710,,710,0,0,127800,0,0,0,618
+WSCC,2003,Constellation/Inland - Victorville/High Desert,Kern/Mojave &PG&E,CA,High,CC,June,N,720,720,,720,0,0,129600,0,0,0,525
+WSCC,2003,Cobisa - Belen,,NM,Low,CT,,N,220,220,,0,0,220,0,0,40480,0,613
+WSCC,2003,Duke - Buckeye,,AZ,Low,CC,,N,550,550,,0,0,550,0,0,99000,0,614
+WSCC,2003,IPT/Power Dev - Gila Bend,,AZ,Med,CC,November,N,750,750,,0,750,0,0,135000,0,0,616
+WSCC,2003,PG&E - Harzuahala Velley,,AZ,High,CC,January,N,1000,1000,,1000,0,0,180000,0,0,0,617
+WSCC,2003,City of Colorado Springs - Nixon Plant,CIG,CO,Med +,CC,October,N,480,0,,0,480,0,0,86400,0,0,612
+WSCC,2003,Tractabal - Chehalis,NWPL,WA,High,CC,,N,500,500,,500,0,0,90000,0,0,0,619
+WSCC,2003,Calpine - Newark Energy,,CA,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,609
+WSCC,2003,PG&E - Umatilla Co. (Hermiston),PGT,OR,Low,CC,,N,550,550,,0,0,550,0,0,99000,0,621
+WSCC,2003,Calpine/Adair - Teayawa Energy Center,,CA,Med,CC,,N,600,600,,0,600,0,0,108000,0,0,611
+WSCC,2003,Southern - Apex Industrial Park (Soen),,NV,Med,CC,January,N,1000,1000,,0,1000,0,0,180000,0,0,623
+WSCC,2003,Reliant - Apex,,NV,Low,CC,,N,1400,1400,,0,0,1400,0,0,252000,0,624
+WSCC,2003,Reliant - Arrow Canyon,,NV,Low,CC,June,N,500,500,,0,0,500,0,0,90000,0,625
+WSCC,2003,Southern - Contra Costa,,CA,Low,CT,,N,530,530,,0,0,530,0,0,97520,0,626
+WSCC,2003,Southern - Potrero,,CA,Low,CT,,N,520,520,,0,0,520,0,0,95680,0,627
+WSCC,2003,Pinnacle - Red Hawk,,AZ,Med,CC,,N,530,530,,0,530,0,0,95400,0,0,620
+WSCC,2003,Calpine/Pinnacle - West Phoenix (Buckeye) 5,,AZ,High,CC,December,N,500,500,,500,0,0,90000,0,0,0,366
+WSCC,2003,Calpine (formerly PG&E) - Otay Mesa,,CA,Med,CC,June,N,510,510,,0,510,0,0,91800,0,0,547
+WSCC,2003,Pinnacle West - Harry Allen Power Stn,,NV,Med,CC,,N,500,500,,0,500,0,0,90000,0,0,745
+WSCC,2003,AES - Antelope Valley,Kern,CA,Low,CC,,N,1000,1000,,0,0,1000,0,0,180000,0,608
+WSCC,2004,Calpine - Hudson (Weld Co),,CO,Low,CT,,,516,516,,0,0,516,0,0,94944,0,738
+WSCC,2004,Cogentrix - Mercer Ranch,,WA,Low,CC,,N,850,850,,0,0,850,0,0,153000,0,749
+WSCC,2004,Pinnacle - Red Hawk,,AZ,Med,CC,,Y,530,530,,0,530,0,0,95400,0,0,655
+WSCC,2004,Mountainview Power Co (San Bernardino),,CA,Med,CC,,N,1100,1100,,0,1100,0,0,198000,0,0,656
+WSCC,2004,Confederated Umatilla Tribe - Eugene,,OR,Low,1,,N,500,500,,0,0,500,0,0,92000,0,657
+WSCC,2004,Newport Northwest - Wallula Power,,WA,Low,CC,,N,1300,1300,,0,0,1300,0,0,234000,0,658
+WSCC,2004,PP&L Global (Formerly Northwest Power Enterprise) - Starbuck,,WA,Low,CT,,Y,1100,1100,,0,0,1100,0,0,202400,0,660
+WSCC,2004,Ida West - Garnet Energy,,ID,Low,CC,,,250,250,,0,0,250,0,0,45000,0,740
+WSCC,2004,PG&E - Meadow Valley Gen,,NV,Med,CC,,,1000,1000,,0,1000,0,0,180000,0,0,741
+WSCC,2004,SMUD - Rancho Seco,,CA,Med,CT,,,1000,0,,0,1000,0,0,184000,0,46000,742
+WSCC,2004,Calpine - East Altamont Energy,PG&E,CA,Med,CC,June,N,1100,1100,,0,1100,0,0,198000,0,0,760
+WSCC,2004,Northeast Energy Sys (NESCO) - Goldendale,,WA,Low,CT,,N,248,248,,0,0,248,0,0,45632,0,659
+WSCC,2005,Allesheny - La Paz (Alensu),,AZ,Low,CC,,N,1080,1080,,0,0,1080,0,0,194400,0,748
+,,,,,,,,,50285.5,46038.4,0,13603.5,18513,18169,2429476,3336440,3249936,,
+WSCCC,1999,Suncor 1 - Ft McMurray,,AB,High,CC,,N,220,220,,220,0,0,39600,0,0,0,12
+WSCCC,1999,TransAlta Energy - Fort Saskatchewan,,AB,High,CC,,N,120,40,,120,0,0,21600,0,0,0,13
+WSCCC,1999,TransAlta Energy - Fort Nelson,Westcoast,BC,High,Cogen,July,N,46,46,,46,0,0,7176,0,0,0,14
+WSCCC,2000,Air Liquide/Shell - Scotford,,AB,High,CC,,N,84,29,,84,0,0,15120,0,0,0,188
+WSCCC,2000,TCPL - Cancarb (Medicine Hat),,AB,High,CC,,N,63,25,,63,0,0,11340,0,0,0,198
+WSCCC,2000,Island Cogeneration,,BC,High,CC,June,N,240,240,,240,0,0,43200,0,0,0,194
+WSCCC,2000,CU Power/Nova/Epcor - Joffre,,AB,High,CC,June,Y,416,270,,416,0,0,74880,0,0,0,191
+WSCCC,2001,TCPL - Agrium,,AB,High,Cogen,November,N,80,80,,80,0,0,12480,0,0,0,383
+WSCCC,2001,BC Hydro - Port Alberni,Westcoast,BC,Med,Cogen,December,N,240,0,,0,240,0,0,37440,0,0,362
+WSCCC,2001,PC - Mckay River,,AB,Med,CC,,N,166,156,,0,166,0,0,29880,0,0,376
+WSCCC,2001,Suncor 2 - Ft McMurray,,AB,High,CC,,N,140,140,,140,0,0,25200,0,0,0,382
+WSCCC,2001,TCPL - Redwater,,AB,High,Cogen,November,N,40,40,,40,0,0,6240,0,0,0,384
+WSCCC,2001,PanCanadian - Cavilier (Southmore),,AB,Med,1,,N,106,106,,0,106,0,0,19504,0,4876,385
+WSCCC,2001,PanCanadian/CanOxy - Balzac,,AB,Med,1,,N,106,106,,0,106,0,0,19504,0,4876,386
+WSCCC,2001,TransAlta,,AB,Med,Cogen,,N,360,360,,0,360,0,0,56160,0,0,388
+WSCCC,2001,Air Liquide/Shell - Scotford,,AB,Med,CC,,N,84,84,,0,84,0,0,15120,0,0,359
+WSCCC,2002,TransAlta Energy - Wabamun Lake,,AB,Low,CC,,N,370,370,,0,0,370,0,0,66600,0,546
+WSCCC,2002,Syncrude 2 - Mildred/Aurora,,AB,High,CC,,N,240,160,,240,0,0,43200,0,0,0,545
+WSCCC,2002,Epcor - Rossdale,,AB,Low,CC,,N,170,170,,0,0,170,0,0,30600,0,530
+WSCCC,2002,ATCO Power - Potasch Cory Mine,,AB,Med,Cogen,,N,228,228,,0,228,0,0,35568,0,0,519
+WSCCC,2002,BC Hydro - Westcoast Island,Westcoast,BC,High,Cogen,,N,240,0,,240,0,0,37440,0,0,0,520
+WSCCC,2003,Calpine - Calgary Energy Centre,,AB,Med,CC,,N,250,250,,0,250,0,0,45000,0,0,610
+,,,,,,,,,4009,3120,0,1929,1540,540,337476,258176,97200,9752,7485
+,,,,,,,,,,,,,,,,,,,
+GRAND TOTAL,,,,,,,,,347059.79999999993,281066.5,0,114278.90000000002,128688.9,103267,20512662.400000002,23104921.6,18657856,8897389,242478

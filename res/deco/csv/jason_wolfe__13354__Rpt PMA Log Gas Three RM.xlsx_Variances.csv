@@ -1,0 +1,38 @@
+Risk Profit & Loss vs General Ledger Variances,,,,,,
+"As of December 31, 2000",,,,,,
+,,,,,,
+Bookcode,Month,Code,Type,Description,Risk,Description
+Firm Trade - South Texas (GB),Dec,RM,E,Gas Daily Variances,20671,See GB tab for deal level variances.  
+Firm Trade - South Texas (GB),,,,Book Admin:  Denver Plachy,20671,
+,,,,,,
+FT Denver (W5),Dec,RM,E,Broker Fee Adjustment,-155,
+FT Denver (W5),,,,Book Admin:  Pat Ryder,-155,
+,,,,,,
+"FT HPL Transport (A$, B{, B} )",Nov,RM,O,Broker Fee Adjustment,-606,
+"FT HPL Transport (A$, B{, B} )",,,,Book Admin:  Mick Walters,-606,
+,,,,,,
+FT HPLC (NB),Jul,RM,O,Broker Fee Adjustment,-458,
+FT HPLC (NB),,,,Book Admin:  Mick Walters,-458,
+,,,,,,
+FT Intra Central,Nov,RM,E,Broker Fee Adjustment,2579,
+FT Intra Central,Nov,RM,E,Misc. Rounding,1232,
+FT Intra Central,,,,Book Admin:  Scott Palmer,3811,
+,,,,,,
+FT Intra Ontario (43),Dec,RM,E,Broker Fee Adjustment,-1220,
+FT Intra Ontario (43),Various,RM,E,Misc. Rounding,3593,
+FT Intra Ontario (43),,,,Book Admin:  Bruce Mills,2373,
+,,,,,,
+Intra Texas (PA),Dec,RM,E,Gas Daily Variances,-32523,See PA tab for deal level variances.
+Intra Texas (PA),,,,Book Admin:  David Baumbach,-32523,
+,,,,,,
+Management West,Jul - Sep,RM,T,Pricing Variances,234338,"July = (12,630) on gas daily deals due to rounding and decimal place differences in g/l & p&l calcs"
+,,,,,,"August = 111,531 due to doubling of basis swap values in risk p&l"
+,,,,,,"September = 135,437 on gas daily deals due to rounding and decimal place differences in g/l & p&l calcs"
+Management West,Jul,RM,E,Misc. Rounding,-1018,
+Management West,,,,Book Admin:  Jason Wolfe,233320,
+,,,,,,
+GRAND TOTAL,,,,,226433,
+,,,,,,
+,,,,,,
+Note:  Amounts in brackets ( ) would be a hurt to income on the risk p&l.,,,,,,
+          Amounts without brackets would be a help to income on the risk p&l.,,,,,,

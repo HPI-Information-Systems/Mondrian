@@ -1,0 +1,10 @@
+,,,,,,,,,,To be loaded into ERCOT Congestion Management System,
+CM Zone Name,Total Number of Load Flow Buses,Number of Load Buses,Load Total MW,Number of Offline Generation Buses,Offline Generation Total Pmax MW,Number of Online Generation Buses,Online Generation Total Pmax MW,Summation of Individual Weighted Shift Factors for CSC #1,Summation of Individual Weighted Shift Factors for CSC #2,Average Weighted Shift Factor on Commercially Significant Constraint #1 - 1430 GRAHAM 345kV to 1436 PARKER 345kV ckt 1,Average Weighted Shift Factor on Commercially Significant Constraint #2 - 46020 LIMESTONE 345 kV to 2428 WATERMILL 345 kV ckt1
+South2001,2356,1419,33569.63899999998,66,6331.699996948242,226,40400.92996006014,349.99728985637125,-1330.2592972491957,0.004358498139619819,-0.016565650193039752
+West2001,956,539,3729.4430000000016,22,1715,41,5323,2938.653577766818,-1193.8383283228272,0.27292028179455585,-0.11087482221385589
+North2001,1685,957,20692.080999999984,19,1982,83,20009,-552.1171630186509,-5320.768333372524,-0.01293526966852864,-0.12465755069022608
+,,,,,,,,,,,
+ERCOT,4997,2915,57991.162999999964,107,10028.699996948242,350,65732.92996006014,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
