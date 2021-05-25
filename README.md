@@ -79,7 +79,7 @@ Their respective folders contain the files in .csv format and the annotations in
 
 The file "annotation_elements.json" contains the file-level annotations for region boundaries in the form: 
 
-    ``{
+    `{
         "file": {
             "n_regions": int,
             "regions": [
