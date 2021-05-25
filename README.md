@@ -1,5 +1,5 @@
 # Detecting Multiregion Templates with Mondrian
-Code repository associated with the paper "Detecting Layout Templates in Complex Multiregion Files" submitted to the 2021 SIGMOD Conference.
+Code repository associated with the paper "Detecting Layout Templates in Complex Multiregion Files" submitted to Volume 15 of PVLDB.
 
 ## Setup
 
@@ -73,3 +73,24 @@ For the full list of parameters, type:
 
 `python3 template_search.py --help`
 
+## Datasets 
+The folder "res" in the dataset contains two annotated dataset of spreadsheet files: DECO and FUSTE.
+Their respective folders contain the files in .csv format and the annotations in .json format.
+The file "annotation_elements.json" contains the file-level annotations for region boundaries in the form: 
+{
+    "file": {
+        "n_regions": int,
+        "regions": [
+            {
+                "region_label": string,
+                "region_type": string,
+                "top_lx": [int,int], #the top-left coordinate of region boundary
+                "bot_rx": [int,int], #the bot-right coordingate of the region boundary
+              ...
+              }]}
+}
+
+The file "annotations_template.json" contains dataset-level annotations of templates in the form: 
+{
+  "template_name": ["file1", "file2", ...]
+}
