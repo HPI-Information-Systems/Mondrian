@@ -77,7 +77,8 @@ For the full list of parameters, type:
 The folder "res" in the dataset contains two annotated dataset of spreadsheet files: DECO and FUSTE.
 Their respective folders contain the files in .csv format and the annotations in .json format.
 The file "annotation_elements.json" contains the file-level annotations for region boundaries in the form: 
-{
+
+`{
     "file": {
         "n_regions": int,
         "regions": [
@@ -88,9 +89,10 @@ The file "annotation_elements.json" contains the file-level annotations for regi
                 "bot_rx": [int,int], #the bot-right coordingate of the region boundary
               ...
               }]}
-}
+}`
 
 The file "annotations_template.json" contains dataset-level annotations of templates in the form: 
-{
+
+`{
   "template_name": ["file1", "file2", ...]
-}
+}`
