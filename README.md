@@ -79,8 +79,8 @@ Their respective folders contain the files in .csv format and the annotations in
 
 The file "annotation_elements.json" contains the file-level annotations for region boundaries in the form: 
 
-    `{
-        "file": {
+    {
+        "file1": {
             "n_regions": int,
             "regions": [
                 {
@@ -89,8 +89,9 @@ The file "annotation_elements.json" contains the file-level annotations for regi
                     "top_lx": [int,int], #the top-left coordinate of region boundary
                     "bot_rx": [int,int], #the bot-right coordingate of the region boundary
                   ...
-                  }]}
-    }`
+                  }]},
+          "file2": ...
+    }
 
 The file "annotations_template.json" contains dataset-level annotations of templates in the form: 
 
