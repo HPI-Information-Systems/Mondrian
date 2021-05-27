@@ -73,7 +73,7 @@ def propagation_func(p):
 
     m = np.max([w_a, w_b], axis=0)
     m[m == 0] = 1
-    sim = 1 - np.linalg.norm(w_a / m - w_b / m, axis=0) / np.sqrt(2)
+    sim = 1 - np.linalg.norm(w_a / m - w_b / m, axis=0) / np.sqrt(2)  # sqrt(2) is max achievable
 
     return sim
 

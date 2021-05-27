@@ -2,7 +2,6 @@ import json
 import ntpath
 import os
 import pickle
-
 import PIL
 import matplotlib
 import networkx as nx
@@ -13,7 +12,6 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from PIL import ImageDraw
 from matplotlib.patches import FancyArrowPatch
-
 from scipy.stats import rankdata
 
 from .mondrian import find_regions
@@ -46,13 +44,12 @@ class Spreadsheet:
             if not regions:
                 return
             color_img = table_as_image(file_path, delimiter=delimiter, color=True)
-            self.regions = [Region(points_tuple=p, filename=self.filename, img=color_img)
-                            for p in find_regions(self, partitioning=partitioning)]
+            self.regions = [Region(points_tuple=p, filename=self.filename, img=color_img) for p in find_regions(self, partitioning=partitioning)]
             self.empty_regions = []
 
             if len(self.regions) > 1:
-                self.empty_regions = [Region(points_tuple=p, filename=self.filename, img=color_img, type="empty")
-                                      for p in find_regions(self, inverse_regions=self.regions, inverse=True)]
+                self.empty_regions = [Region(points_tuple=p, filename=self.filename, img=color_img, type="empty") for p in
+                                      find_regions(self, inverse_regions=self.regions, inverse=True)]
             if save_path:
                 self.save(region_path, self.regions)
                 self.save(empty_path, self.regions)
@@ -91,19 +88,16 @@ class Spreadsheet:
         im = Image.fromarray(img)
         im = im.resize(tuple(np.array(im.size) * FACTOR), resample=PIL.Image.NEAREST)
         draw = ImageDraw.Draw(im, "RGBA")
-        _, self.color_list = draw_rectangles(draw, [{"top_lx": r.top_lx, "bot_rx": r.bot_rx} for r in rectangles],
-                                             factor=FACTOR, alpha=200, width=3)
+        _, self.color_list = draw_rectangles(draw, [{"top_lx": r.top_lx, "bot_rx": r.bot_rx} for r in rectangles], factor=FACTOR, alpha=200, width=3)
 
         try:
-            _, color_empty = draw_rectangles(draw, [{"top_lx": r.top_lx, "bot_rx": r.bot_rx} for r in self.empty_regions],
-                                             factor=FACTOR, alpha=200, width=3, color=colors.RGB_WHITE,
-                                             out_color=colors.RGB_BLUE)
+            _, color_empty = draw_rectangles(draw, [{"top_lx": r.top_lx, "bot_rx": r.bot_rx} for r in self.empty_regions], factor=FACTOR, alpha=200,
+                                             width=3, color=colors.RGB_WHITE, out_color=colors.RGB_BLUE)
         except AttributeError:
             pass
 
-        draw_grid(draw, img_size=np.shape(img),
-                  factor=FACTOR, color=tuple(colors.RGB_BLACK), line_width=3,
-                  text=True, text_color=tuple(colors.RGB_AQUA))
+        draw_grid(draw, img_size=np.shape(img), factor=FACTOR, color=tuple(colors.RGB_BLACK), line_width=3, text=True,
+                  text_color=tuple(colors.RGB_AQUA))
 
         if save_path is None:
             save_path = "res/img/files/"
@@ -134,17 +128,15 @@ class Spreadsheet:
             pos = nx.spring_layout(self.layout)
             N = len(self.layout.nodes)
 
-            nx.draw_networkx(self.layout, pos, with_labels=True, node_color = color_list,
-                             node_shape="s", node_size=int(6000 / N),
-                             font_color="black", font_size=int(scale / np.log10(N + 1)),
-                             linewidths=2, width=1, edgecolors="black")
+            nx.draw_networkx(self.layout, pos, with_labels=True, node_color=color_list, node_shape="s", node_size=int(6000 / N), font_color="black",
+                             font_size=int(scale / np.log10(N + 1)), linewidths=2, width=1, edgecolors="black")
 
             direct = nx.get_edge_attributes(self.layout, 'direction')
             direct = {k: DIR_STRINGS[v] for k, v in direct.items()}
             weights = nx.get_edge_attributes(self.layout, 'weight')
             distance = nx.get_edge_attributes(self.layout, 'distance')
             labels = {k: f"{direct[k]}, {weights[k]}, {distance[k]}" for k in direct}
-            nx.draw_networkx_edge_labels(self.layout, pos, edge_labels=labels, font_size=int(scale/np.log10(N+1)))
+            nx.draw_networkx_edge_labels(self.layout, pos, edge_labels=labels, font_size=int(scale / np.log10(N + 1)))
 
             plt.title(self.filename)
             plt.gca().invert_yaxis()

@@ -1,13 +1,13 @@
 import datetime
 from backports.datetime_fromisoformat import MonkeyPatch
+MonkeyPatch.patch_fromisoformat()
+
 import re
 from . import colors as colors
 import dateutil.parser
 
-MonkeyPatch.patch_fromisoformat()
 
-
-class CellType:
+class CellType():
     EMPTY = colors.RGB_WHITE
     NON_EMPTY = colors.RGB_BLACK
     INTEGER = colors.RGB_AQUA

@@ -3,18 +3,18 @@ import os
 import pickle
 import random
 import PIL
-import numpy as np
 from pathlib import Path
 from PIL import Image, ImageFont
 from skimage import feature
 
 import cv2 as cv
 import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image, ImageFont
 from PIL import ImageDraw
 
 from . import colors as colors
 from .parsing import parse_cell
-
 from .partition import find_external_lines, partition_contour, find_virtual_lines
 
 
@@ -24,11 +24,8 @@ def lbp_describe(image, numPoints=8, radius=1, eps=1e-7):
     of the image, and then use the LBP representation
     to build the histogram of patterns
     """
-    lbp = feature.local_binary_pattern(image, numPoints,
-                                       radius, method="uniform")
-    (hist, _) = np.histogram(lbp.ravel(),
-                             bins=np.arange(0, numPoints + 3),
-                             range=(0, numPoints + 2))
+    lbp = feature.local_binary_pattern(image, numPoints, radius, method="uniform")
+    (hist, _) = np.histogram(lbp.ravel(), bins=np.arange(0, numPoints + 3), range=(0, numPoints + 2))
 
     hist = hist.astype("float")
     hist /= (hist.sum() + eps)
@@ -58,7 +55,7 @@ def table_as_image(path, delimiter=',', color=False, cell_length=False):
 
     img = []
     last_nonempty = 0
-    with open(path, 'r', encoding="UTF-8", errors = "ignore") as csvfile:
+    with open(path, 'r', encoding="UTF-8", errors="ignore") as csvfile:
         tablereader = csv.reader(csvfile, delimiter=delimiter)
         max_size = 0
         for idx, line in enumerate(tablereader):
@@ -126,19 +123,8 @@ def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
 
         aspect_ratio = float(width) / height
 
-        e = {
-            "label": label,
-            "top_lx": [x0, y0],
-            "bot_rx": [x1, y1],
-            "center": [c_x, c_y],
-            "aspect_ratio": aspect_ratio,
-            "width": width,
-            "height": height,
-            "area": area,
-            "inner_area": inner_area,
-            "extent": extent,
-            "diagonal": diagonal
-        }
+        e = {"label": label, "top_lx": [x0, y0], "bot_rx": [x1, y1], "center": [c_x, c_y], "aspect_ratio": aspect_ratio, "width": width,
+            "height": height, "area": area, "inner_area": inner_area, "extent": extent, "diagonal": diagonal}
 
         if lbp:
             region = Image.fromarray(img).crop((x, y0, x1 + 1, y1 + 1))
@@ -158,11 +144,7 @@ def find_table_elements(img, partitioning=False, lbp=False, save_path=None):
             for r in rectangles:
                 h, w = np.subtract(r[1], r[0])
                 area = np.multiply.reduce((h + 1, w + 1))
-                elements_found.append({
-                    "top_lx": list(r[0]),
-                    "bot_rx": list(r[1]),
-                    "area": area,
-                })
+                elements_found.append({"top_lx": list(r[0]), "bot_rx": list(r[1]), "area": area, })
 
     if save:
         Path(os.path.split(save_path)[0]).mkdir(parents=True, exist_ok=True)
@@ -319,7 +301,7 @@ def save_colored_image(img, path):
     to_save = np.concatenate((to_save, to_save, to_save), axis=2)
     mask = (to_save != 0)
 
-    to_save[:, :, 0] %= 180
+    to_save[:, :, 0] % 180
     to_save[:, :, 1] = 255
     to_save[:, :, 2] = 255
     to_save *= mask
@@ -345,7 +327,8 @@ def save_image(img, path, grid=False):
         draw_lines(draw, [h_lines, h_lines, v_lines, v_lines], color=tuple(colors.RGB_BLACK), width=line_width)
 
     Path(os.path.split(path)[0]).mkdir(parents=True, exist_ok=True)
-    im.save(path)
+    im.save(path, "PNG")
+    return im
 
 
 def draw_lines(draw, lines, color=(255, 0, 0), width=5, factor=1):
@@ -365,15 +348,13 @@ def draw_lines(draw, lines, color=(255, 0, 0), width=5, factor=1):
         draw.line((h[1] * factor, h[0] * factor) + ((h[2] + 1) * factor, h[0] * factor), fill=color, width=width)
 
     for h in bot:
-        draw.line((h[1] * factor, (h[0] + 1) * factor) + ((h[2] + 1) * factor, (h[0] + 1) * factor), fill=color,
-                  width=width)
+        draw.line((h[1] * factor, (h[0] + 1) * factor) + ((h[2] + 1) * factor, (h[0] + 1) * factor), fill=color, width=width)
 
     for v in left:
         draw.line((v[0] * factor, v[1] * factor) + (v[0] * factor, (v[2] + 1) * factor), fill=color, width=width)
 
     for v in right:
-        draw.line(((v[0] + 1) * factor, v[1] * factor) + ((v[0] + 1) * factor, (v[2] + 1) * factor), fill=color,
-                  width=width)
+        draw.line(((v[0] + 1) * factor, v[1] * factor) + ((v[0] + 1) * factor, (v[2] + 1) * factor), fill=color, width=width)
 
     return draw
 
@@ -410,8 +391,7 @@ def draw_rectangles(draw, rectangles, labels=None, factor=1, color=None, out_col
 
     color_list = []
     for i, r in enumerate(rectangles):
-        rect = ((r["top_lx"][0] * factor, r["top_lx"][1] * factor),
-                ((r["bot_rx"][0] + 1) * factor, (r["bot_rx"][1] + 1) * factor))
+        rect = ((r["top_lx"][0] * factor, r["top_lx"][1] * factor), ((r["bot_rx"][0] + 1) * factor, (r["bot_rx"][1] + 1) * factor))
         if labels is not None:
             random.seed(labels[i])  # same label, same color
         if color is None:
@@ -447,4 +427,4 @@ def print_images(fname, img, predicted_labels, predicted_cluster_edges, target_c
     for im in images:
         new_im.paste(im, (x_offset, 0))
         x_offset += im.size[0] + 50
-    new_im.save('res/' + fname + '.jpg')
+    new_im.save('res/' + fname + '.png', "PNG")

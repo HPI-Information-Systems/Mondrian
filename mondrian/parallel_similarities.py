@@ -11,23 +11,13 @@ import networkx as nx
 import pandas as pd
 import time
 from scipy.optimize import linear_sum_assignment
+from joblib import Parallel, delayed
 
 from .model.region import parallel_region_sim, DIRECTION_NONE
 
 
 def print(*args, **kwargs):
     return __builtin__.print(f"\033[94m{time.process_time()}:\033[0m", *args, **kwargs)
-
-def parallel_neigh_props(m, n, i, j, edge_prop):
-    indices_x = [int(i + (x * m) - sum(range(x + 1))) for x in range(i + 1)]
-    indices_x += list(range(max(indices_x) + 1, max(indices_x) + m - len(indices_x) + 1))
-    indices_x = np.asarray(indices_x)
-
-    indices_y = [int(j + (y * n) - sum(range(y + 1))) for y in range(j + 1)]
-    indices_y += list(range(max(indices_y) + 1, max(indices_y) + n - len(indices_y) + 1))
-    indices_y = np.asarray(indices_y)
-
-    return edge_prop[indices_y,indices_x[:, None]]
 
 def vectorized_edge_sim(direction_a, direction_b, weight_a, weight_b, distance_a, distance_b):
     z = np.array([DIRECTION_NONE] *len(direction_a))
@@ -48,8 +38,23 @@ def parallel_unisim(s0, edges_prop, n_jobs=1, verbose = False):
     node_diff = np.abs(np.diff(s0.shape)[0])
     return np.average([node_sim[i, j] for i, j in node_match] + [0] * node_diff)
 
+
+def parallel_neigh_props(m, n, i, j, edge_prop=None):
+    indices_x = [int(i + (x * m) - sum(range(x + 1))) for x in range(i + 1)]
+    indices_x += list(range(max(indices_x) + 1, max(indices_x) + m - len(indices_x) + 1))
+    indices_x = np.asarray(indices_x)
+
+    indices_y = [int(j + (y * n) - sum(range(y + 1))) for y in range(j + 1)]
+    indices_y += list(range(max(indices_y) + 1, max(indices_y) + n - len(indices_y) + 1))
+    indices_y = np.asarray(indices_y)
+
+    if edge_prop is None:
+        return (indices_y, indices_x[:,None])
+    else:
+        return edge_prop[indices_y, indices_x[:, None]]
+
 def parallel_update_sim(sim_ij, s0_ij, s0, sim, local_edge_prop):
-    return sim_ij * (s0_ij + sum(np.max((s0 + sim) * local_edge_prop.toarray(), axis=1)))
+    return sim_ij * (s0_ij + sum(np.max((s0 + sim) * local_edge_prop.A, axis=1)))
 
 def parallel_similarity_flooding(s0, edge_prop, SIM_EPS=0.001, N_ITER=1000, n_jobs=1, verbose = False):
     m, n = np.shape(s0)
@@ -62,19 +67,32 @@ def parallel_similarity_flooding(s0, edge_prop, SIM_EPS=0.001, N_ITER=1000, n_jo
 
     if verbose: print("Calculating local edges matrix")
     if n_jobs > 1:
-        with Pool(n_jobs) as pool:
-            local_edge_prop = list(pool.starmap(parallel_neigh_props, args, chunksize = int(len(args)/n_jobs)))
+        args = [(x, y, *z, t) for x, y, z, t in zip([m] * (m * n), [n] * (m * n), itertools.product(range(m), range(n)), [edge_prop] * (m * n))]
+        chunk_size = max([int(len(args) / n_jobs), 1])
+        temp_jobs = n_jobs
+        if verbose: print("Chunksize", chunk_size, "n_jobs", temp_jobs)
+        local_edge_prop = Parallel(n_jobs=temp_jobs, max_nbytes=1e3)( delayed(
+            parallel_neigh_props)(*a) for a in args)
     else:
         local_edge_prop = list(itertools.starmap(parallel_neigh_props, args))
 
+    if verbose: print("Starting loop")
     while not terminate:
-        args = [(sim[i, j], s0[i, j], s0, sim, local_edge_prop[i + j * m]) for i in range(m) for j in range(n)]
-        if n_jobs > 1:
-            with Pool(n_jobs) as pool:
-                new_sim = list(pool.starmap(parallel_update_sim, args, chunksize=int(len(args) / n_jobs)))
+        if n_jobs > 1 and m*n >(100 *n_jobs):
+            # args = [(sim[i, j], s0[i, j], s0, sim, edge_prop.A[local_indices[i + j * m]]) for i in range(m) for j in range(n)]
+            args = [(s0[i,j],sim[i,j],s0, sim, local_edge_prop[i + j * m]) for i in range(m) for j in range(n)]
+            chunk_size = max([int(len(args) / n_jobs), 1])
+            temp_jobs = n_jobs #min(n_jobs, chunk_size)
+            if verbose: print("Before newsim")
+            with Pool(temp_jobs) as pool:
+                new_sim = list(pool.starmap(parallel_update_sim, args, chunksize=chunk_size))
+            # new_sim = Parallel(n_jobs=temp_jobs, max_nbytes=1e2)( delayed(
+            #     parallel_update_sim)(*a) for a in args)
         else:
+            args = [(sim[i, j], s0[i, j], s0, sim, local_edge_prop[i + j * m]) for i in range(m) for j in range(n)]
             new_sim = list(itertools.starmap(parallel_update_sim, args))
 
+        if verbose: print("Starting numpy")
         new_sim = np.array(new_sim).reshape(s0.shape)
         norm_sim = new_sim
         norm_sim /= np.max(new_sim, axis=0)  # normalize by columns
@@ -85,7 +103,7 @@ def parallel_similarity_flooding(s0, edge_prop, SIM_EPS=0.001, N_ITER=1000, n_jo
             if verbose: print(f"\tTerminating for delta d={delta_sim}, i was {n_iter}")
             terminate = True
         if n_iter >= N_ITER:
-            if verbose: print(f"\tTerminating for i={n_iter}, d was {delta_sim}")
+            if verbose: print(f"\tTerminating for i={n_iter}, delta was {delta_sim}")
             terminate = True
         sim = norm_sim
         n_iter += 1
@@ -109,8 +127,9 @@ def parallel_layout_similarity(layout_a, layout_b, n_jobs=None, verbose = False,
 
     if verbose: print("Calculating s0")
     if n_jobs > 1:
-        chunk_size = int(len(index_pairs) / n_jobs)
-        with Pool(n_jobs) as pool:
+        chunk_size = max([int(len(index_pairs) / n_jobs), 1])
+        temp_jobs = n_jobs #min(n_jobs, chunk_size)
+        with Pool(temp_jobs) as pool:
             s0 = list(pool.starmap(parallel_region_sim, index_pairs, chunksize=chunk_size))
     else:
         s0 = list(itertools.starmap(parallel_region_sim, index_pairs))
@@ -150,11 +169,14 @@ def parallel_layout_similarity(layout_a, layout_b, n_jobs=None, verbose = False,
     t2 = edges_b_df.query(f"direction != {DIRECTION_NONE}")
     edge_sims_df = t1.merge(t2, on="joinkey", how="inner", suffixes=["_a", "_b"])
 
-    edge_sims_df["similarity"] = vectorized_edge_sim(edge_sims_df.direction_a.values, edge_sims_df.direction_b.values,
-                                                     edge_sims_df.weight_a.values, edge_sims_df.weight_b.values,
-                                                     edge_sims_df.distance_a.values, edge_sims_df.distance_b.values)
-    cols_df = pd.DataFrame([{"r1_a":r1, "r2_a":r2, "col_idx":idx} for idx, (r1,r2) in enumerate(itertools.combinations_with_replacement(range(m), 2))])
-    rows_df = pd.DataFrame([{"r1_b":r1, "r2_b":r2, "row_idx":idx} for idx, (r1,r2) in enumerate(itertools.combinations_with_replacement(range(n), 2))])
+    if verbose: print("Before vectorized edge_sim")
+    edge_sims_df["similarity"] = vectorized_edge_sim(edge_sims_df.direction_a.values, edge_sims_df.direction_b.values, edge_sims_df.weight_a.values,
+                                                     edge_sims_df.weight_b.values, edge_sims_df.distance_a.values, edge_sims_df.distance_b.values)
+    if verbose: print("After vectorized edge_sim")
+    cols_df = pd.DataFrame(
+        [{"r1_a": r1, "r2_a": r2, "col_idx": idx} for idx, (r1, r2) in enumerate(itertools.combinations_with_replacement(range(m), 2))])
+    rows_df = pd.DataFrame(
+        [{"r1_b": r1, "r2_b": r2, "row_idx": idx} for idx, (r1, r2) in enumerate(itertools.combinations_with_replacement(range(n), 2))])
     edge_sims_df = edge_sims_df.merge(cols_df)
     edge_sims_df = edge_sims_df.merge(rows_df)
 
@@ -169,4 +191,5 @@ def parallel_layout_similarity(layout_a, layout_b, n_jobs=None, verbose = False,
         b_sim_a = parallel_unisim(s0.transpose(), edge_prop.transpose(), verbose = verbose, n_jobs=n_jobs)
 
     avg_sim = np.average([a_sim_b, b_sim_a])
+    if verbose: print("Calculated sim", avg_sim)
     return avg_sim

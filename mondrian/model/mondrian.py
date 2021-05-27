@@ -1,20 +1,17 @@
 import itertools
 import pickle
-
 import networkx as nx
 import numpy as np
-
 import cv2 as cv
 from PIL import Image
 from PIL import ImageDraw
-
 from joblib import Parallel, delayed
 from sklearn.cluster import DBSCAN
 
 from .region import Region, rectangles_from_lines, dominating, region_adjacency, region_distance
+from ..visualization import table_as_image
 from ..clustering import cdist_generic, denoise_labels
 from ..distances import parallel_distance
-from ..visualization import table_as_image
 
 '''
 Class that is used to encapsulate the Mondrian algorithms.
@@ -25,6 +22,35 @@ RADIUS = 1
 ALPHA = 1
 BETA = 0.5
 GAMMA = 10
+
+
+def neighbors(pixel, img):
+    '''
+    Function used to check for a given pixel the content of neighboring pixels.
+    If the neighbors are empty, they will contain a 0.
+    '''
+
+    height, width, _ = np.shape(img)
+    x, y = pixel
+    if x - 1 >= 0:
+        n_left = int(all(img[y, x - 1] == [0, 0, 0]))
+    else:
+        n_left = 0
+    try:
+        n_right = int(all(img[y, x + 1] == [0, 0, 0]))
+    except IndexError:
+        n_right = 0
+    if y - 1 >= 0:
+        n_top = int(all(img[y - 1, x] == [0, 0, 0]))
+    else:
+        n_top = 0
+    try:
+        n_bot = int(all(img[y + 1, x] == [0, 0, 0]))
+    except IndexError:
+        n_bot = 0
+
+    return [n_left, n_bot, n_right, n_top]
+
 
 def find_regions(spreadsheet, partitioning=True, inverse_regions=None, inverse=False):
     if inverse_regions is None:
@@ -120,36 +146,9 @@ def find_regions(spreadsheet, partitioning=True, inverse_regions=None, inverse=F
 
     return regions
 
-def neighbors(pixel, img):
-    '''
-    Function used to check for a given pixel the content of neighboring pixels.
-    '''
-
-    height, width, _ = np.shape(img)
-    x, y = pixel
-    if x - 1 >= 0:
-        n_left = int(all(img[y, x - 1] == [0, 0, 0]))
-    else:
-        n_left = 0
-    try:
-        n_right = int(all(img[y, x + 1] == [0, 0, 0]))
-    except IndexError:
-        n_right = 0
-    if y - 1 >= 0:
-        n_top = int(all(img[y - 1, x] == [0, 0, 0]))
-    else:
-        n_top = 0
-    try:
-        n_bot = int(all(img[y + 1, x] == [0, 0, 0]))
-    except IndexError:
-        n_bot = 0
-
-    return [n_left, n_bot, n_right, n_top]
-
-
 
 def merge_nodes(spreadsheet, G, list_nodes):
-    while len(list_nodes) > 0: 
+    while len(list_nodes) > 0:  # check for merging
         e = list_nodes[0]
         merged = False
         for v in G[e]:
@@ -192,7 +191,8 @@ def merge_nodes(spreadsheet, G, list_nodes):
 
 def calculate_layout(region_objects, save_path = None, overwrite= ""):
     G = nx.Graph()
-    G.add_nodes_from([(str(r), {"region": r}) for r in region_objects])
+    nodes = [(str(r), {"region": r}) for r in region_objects]
+    G.add_nodes_from(nodes)
 
     try:
         edges = pickle.load(open(save_path+overwrite, "rb"))

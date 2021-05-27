@@ -4,7 +4,6 @@ import openpyxl.utils
 import pandas as pd
 import os
 import csv
-
 from openpyxl.worksheet.worksheet import Worksheet
 
 print("Excel to csv script")
@@ -13,13 +12,11 @@ input_dir = "./in"
 output_dir = "./out"
 
 with open(output_dir + "stats_hidden.csv", "w") as f:
-    csv_writer = csv.writer(f, delimiter=',', quotechar='"',
-                            quoting=csv.QUOTE_MINIMAL)
+    csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     csv_writer.writerow(["filename", "hidden_rows", "hidden_cols"])
 
 with open(output_dir + "stats_merged.csv", "w") as f:
-    csv_writer = csv.writer(f, delimiter=',', quotechar='"',
-                            quoting=csv.QUOTE_MINIMAL)
+    csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     csv_writer.writerow(["filename", "merged_area_min_col", "merged_area_min_row", "merged_area_max_col", "merged_area_max_row"])
 
 with open(output_dir + "stats_corrupt.txt", "w") as f:
@@ -78,13 +75,11 @@ for file in xls_files:
                     # output if it had merged or hidden rows/columns
                     if hidden_rows != [] or hidden_cols != []:
                         with open(output_dir + "stats_hidden.csv", "a") as f:
-                            csv_writer = csv.writer(f, delimiter=',', quotechar='"',
-                                                    quoting=csv.QUOTE_MINIMAL)
+                            csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
                             csv_writer.writerow([fname, hidden_rows, hidden_cols])
 
                     if ws.merged_cells.ranges:
                         with open(output_dir + "stats_merged.csv", "a") as f:
-                            csv_writer = csv.writer(f, delimiter=',', quotechar='"',
-                                                    quoting=csv.QUOTE_MINIMAL)
+                            csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
                             for r in ws.merged_cells.ranges:
                                 csv_writer.writerow([fname, r.min_col - 1, r.min_row - 1, r.max_col - 1, r.max_row - 1])

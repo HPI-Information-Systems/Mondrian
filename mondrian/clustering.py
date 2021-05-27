@@ -1,15 +1,13 @@
+import itertools
 import multiprocessing
 import os
 import pickle
 from pathlib import Path
 import numpy as np
 
-import itertools
-from PIL import Image
+from PIL import Image, ImageDraw
 from joblib.parallel import Parallel, delayed, parallel_backend
-
 from .distances import rectangle_as_array, parallel_distance
-
 from sklearn.cluster import DBSCAN
 from sklearn.metrics import pairwise_distances
 
@@ -348,6 +346,30 @@ def denoise_labels(labels):
             labels[labels.index(-1)] = n_clusters + i
     return labels
 
+
+def error_of_boundary(box_a, box_b):
+    top = np.abs(box_a["top_lx"][1] - box_b["top_lx"][1])
+    bot = np.abs(box_a["bot_rx"][1] - box_b["bot_rx"][1])
+    left = np.abs(box_a["top_lx"][0] - box_b["top_lx"][0])
+    right = np.abs(box_a["bot_rx"][0] - box_b["bot_rx"][0])
+    return max([top, bot, left, right])
+
+
+def evaluate_EoB(predicted_clusters, target_clusters):
+    eob_m = np.zeros((len(target_clusters), len(predicted_clusters)))
+
+    dict_eob = {}
+
+    for i, e in enumerate(target_clusters):
+        minimum = -1
+        for j, t in enumerate(predicted_clusters):
+            score = error_of_boundary(e, t)
+            eob_m[i, j] = score
+            if score <= minimum or minimum ==-1:
+                minimum = score
+        dict_eob[e["region_label"]] = minimum
+
+    return dict_eob, eob_m
 
 def evaluate_IoU(predicted_clusters, target_clusters, img, print_matrix=False):
     iou_m = np.zeros((len(target_clusters), len(predicted_clusters)))
