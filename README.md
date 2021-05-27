@@ -3,10 +3,10 @@ Code repository associated with the paper "Detecting Layout Templates in Complex
 
 ## Setup
 
-The code was written using Python 3.8.
+The code is written using Python 3.8.
 If using a local (or virtual) environment, install dependencies with
 `pip install -r requirements.txt`
-Alternatively, if using a conda distribution, use:
+Alternatively, if using a conda distribution on Linux, use:
 `conda env create --file mondrian.yml`
 
 ## Basic script
