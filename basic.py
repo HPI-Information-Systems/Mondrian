@@ -12,7 +12,6 @@ from mondrian.model.region import Region
 from mondrian.clustering import clustering
 from mondrian.model.mondrian import calculate_layout
 from mondrian.visualization import table_as_image, find_table_elements
-
 from mondrian.clustering import find_cluster_edges
 from mondrian.model.spreadsheet import Spreadsheet
 from mondrian.parallel_similarities import parallel_layout_similarity

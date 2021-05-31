@@ -1,5 +1,5 @@
 # Detecting Multiregion Templates with Mondrian
-Code repository associated with the paper "Detecting Layout Templates in Complex Multiregion Files" submitted to Volume 15 of PVLDB.
+Code repository of the Mondrian project, developed at the Information Systems Group of the Hasso Plattner Institute.
 
 ## Setup
 

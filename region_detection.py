@@ -1,12 +1,12 @@
-# This script calculates the regions for each file, given a set of hyperparameters
-# The input is a set of files in the /res/{dataset} folder, with their annotations in /res/{dataset}/annotations
-# Saves the results as a pckl file and possibly the radii in a csv
-# Launch with --help to see command line parameters
+"""This script calculates the regions for each file, given a set of hyperparameters
+The input is a set of files in the /res/{dataset} folder, with their annotations in /res/{dataset}/annotations
+Saves the results as a pckl file and possibly the radii in a csv
+Launch with --help to see the complete list of command line parameters.
+"""
 
 import argparse
 import csv
 import json, os
-import math
 import multiprocessing
 import time
 from functools import reduce
@@ -14,7 +14,7 @@ from pathlib import Path
 from joblib import Parallel, delayed
 from sklearn.metrics import pairwise_distances
 
-from mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU
+from mondrian.clustering import clustering, cluster_labels_inference, find_cluster_edges, iou_labels, evaluate_IoU, evaluate_EoB
 from mondrian.distances import rectangle_as_array, parallel_distance
 from mondrian.visualization import table_as_image, find_table_elements
 
@@ -115,7 +115,7 @@ def main():
 
             if experiment == "baseline" or args.baseline:
                 result_dir = os.path.join("./", "results/", dataset, "connected_components")
-            elif "koci" in experiment:
+            elif "genetic" or "tablesense" in experiment:
                 result_dir = os.path.join("./", "results/", dataset, experiment, iteration)
             else:
                 result_dir = os.path.join("./", "results/", dataset, hyperparameters, experiment, iteration)
@@ -131,24 +131,20 @@ def main():
         eval_time = time.time()
         dict_region_iou = [x[0] for x in evaluations]
         dict_binary = [x[1] for x in evaluations]
+        dict_eob = [x[3] for x in evaluations]
 
         acc_100 = np.average(
-            [len([dict[region] for region in dict if dict[region] >= 1]) /
-             len([dict[region] for region in dict])
-             for dict in dict_region_iou])
+            [len([dict[region] for region in dict if dict[region] >= 1]) / len([dict[region] for region in dict]) for dict in dict_region_iou])
 
         acc_80 = np.average(
-            [len([dict[region] for region in dict if dict[region] >= 0.8]) /
-             len([dict[region] for region in dict])
-             for dict in dict_region_iou])
+            [len([dict[region] for region in dict if dict[region] >= 0.8]) / len([dict[region] for region in dict]) for dict in dict_region_iou])
 
         acc_50 = np.average(
-            [len([dict[region] for region in dict if dict[region] >= 0.5]) /
-             len([dict[region] for region in dict])
-             for dict in dict_region_iou])
+            [len([dict[region] for region in dict if dict[region] >= 0.5]) / len([dict[region] for region in dict]) for dict in dict_region_iou])
 
         dict_region_iou = reduce(lambda a, b: dict(a, **b), dict_region_iou)
         dict_binary = reduce(lambda a, b: dict(a, **b), dict_binary)
+        dict_eob = reduce(lambda a, b: dict(a, **b), dict_eob)
 
         tn = len([x for x in dict_binary if dict_binary[x] == "tn"])
         tp = len([x for x in dict_binary if dict_binary[x] == "tp"])
@@ -178,6 +174,9 @@ def main():
         iou_path = os.path.join(result_dir, "iou_scores.pckl")
         pickle.dump(dict_region_iou, open(iou_path, "wb"))
 
+        eob_path = os.path.join(result_dir, "eob_scores.pckl")
+        pickle.dump(dict_eob, open(eob_path, "wb"))
+
         binary_path = os.path.join(result_dir, "binary_scores.pckl")
         pickle.dump(dict_binary, open(binary_path, "wb"))
 
@@ -194,6 +193,7 @@ def main():
         print("% Regions with IoU >80", iou_80)
         print("% Regions with IoU >100", iou_100)
         print("\nTime for evaluation", time.time() - eval_time)
+        print("Find the result files in:", result_dir)
 
     print("Done.")
 
@@ -203,9 +203,7 @@ def baseline_results(result_dir):
 
     print("Experimenting with the baseline")
 
-    evaluations = Parallel(n_jobs=n_cores)(delayed(process_file)(
-        file, result_dir
-    ) for file in data if file not in to_skip)
+    evaluations = Parallel(n_jobs=n_cores)(delayed(process_file)(file, result_dir) for file in list(data)[:subset] if file not in to_skip)
 
     print("\nOverall execution time", time.time() - execution_time)
 
@@ -218,9 +216,8 @@ def static_radii(mult, result_dir):
     print("Partitioning", partitioning, "Alpha", alpha, "Beta", beta, "Gamma ", gamma)
     print("\tRadius ", mult)
 
-    evaluations = Parallel(n_jobs=n_cores)(delayed(process_file)(
-        filename=file, result_dir=result_dir, radius=mult
-    ) for file in list(data)[:subset] if file not in to_skip)
+    evaluations = Parallel(n_jobs=n_cores)(
+        delayed(process_file)(filename=file, result_dir=result_dir, radius=mult) for file in list(data)[:subset] if file not in to_skip)
 
     print("\nOverall execution time", time.time() - execution_time)
 
@@ -250,12 +247,13 @@ def find_radii(result_dir):
 
 def process_file(filename, result_dir, radius=None):
     path = csv_dir + filename
-
+    start_time = time.time()
     img = table_as_image(path)
     sample = data[filename]
     return_label_iou = {}
     return_dict_iou = {}
     return_dict_binary = {}
+    return_dict_eob = {}
 
     if partitioning and not args.baseline:
         try:
@@ -267,9 +265,14 @@ def process_file(filename, result_dir, radius=None):
     else:
         elements_found, _, _ = find_table_elements(img, partitioning=False)
 
+    mid_time = time.time()
+
     if args.baseline:
         predicted_labels = [idx for idx, e in enumerate(elements_found)]
-        list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time=0)]
+        radius = -1
+        exec_time = mid_time - start_time
+        list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time=exec_time)]
+
 
     elif not args.baseline:
         file_width = max([e["bot_rx"][0] for e in elements_found]) + 1
@@ -281,33 +284,29 @@ def process_file(filename, result_dir, radius=None):
         except:
             p_elements = np.asarray([rectangle_as_array(x) for x in elements_found])
 
-            distances = pairwise_distances(X=p_elements, metric=parallel_distance, n_jobs=n_cores,
-                                           file_width=file_width, file_height=file_height, alpha=alpha, beta=beta,
-                                           gamma=gamma)
+            distances = pairwise_distances(X=p_elements, metric=parallel_distance, n_jobs=n_cores, file_width=file_width, file_height=file_height,
+                                           alpha=alpha, beta=beta, gamma=gamma)
             distance_path = os.path.join("./results/", dataset, hyperparameters, "distances", filename + "_distances.pckl")
             Path(os.path.split(distance_path)[0]).mkdir(parents=True, exist_ok=True)
             pickle.dump(distances, open(distance_path, "wb"))
 
         if radius is not None:
             exec_time = time.time()
-            predicted_labels, _ = clustering(elements_found, distances=distances, radius=radius,
-                                             alpha=alpha,
-                                             beta=beta, gamma=gamma,
-                                             n_jobs=n_cores)
-            exec_time -= time.time()
+            predicted_labels, _ = clustering(elements_found, distances=distances, radius=radius, alpha=alpha, beta=beta, gamma=gamma, n_jobs=n_cores)
+            exec_time = time.time() - start_time
             list_radii = [evaluate_clustering_iteration(img, elements_found, predicted_labels, radius, sample, exec_time)]
 
         elif args.dynamic:
             iterations = np.arange(0.1, 2.1, 0.1)
             iterations = np.append(iterations, np.arange(3, 11, 1))
             iterations = np.append(iterations, np.arange(20, 110, 10))
-            exec_time = time.time()
+            # final grid: (0.1,0.2, ..., 1.9, 2.0, 3, 4, 5, ..., 10, 20, 30, .. 100)
 
             list_prediction = Parallel(n_jobs=n_cores)(delayed(clustering)(
                 elements_found, distances=distances, radius=mult,
                 alpha=alpha, beta=beta, gamma=gamma, n_jobs=n_cores) for mult in iterations)
 
-            exec_time = (time.time() - exec_time) / len(iterations)  # that is an ESTIMATE
+            exec_time = time.time() - start_time  # that is an ESTIMATE
 
             list_radii = Parallel(n_jobs=n_cores)(delayed(evaluate_clustering_iteration)(
                 img, elements_found, clustering_results[0], iterations[idx], sample, exec_time)
@@ -328,6 +327,7 @@ def process_file(filename, result_dir, radius=None):
             best_predicted_labels = dict["predicted_labels"]
             best_predicted_multiregion = dict["predicted_multiregion"]
             best_dict_iou = dict["dict_iou"]
+            best_dict_eob = dict["dict_eob"]
             best_target_multiregion = dict["target_multiregion"]
             best_predicted_cluster_edges = dict["predicted_cluster_edges"]
             best_time = dict["time"]
@@ -340,6 +340,9 @@ def process_file(filename, result_dir, radius=None):
         return_dict_iou[filename + "_" + region] = best_dict_iou[region]
     for region in best_label_iou:
         return_label_iou[filename + "_" + region] = best_label_iou[region]
+
+    for region in best_dict_eob:
+        return_dict_eob[filename + "_" + region] = best_dict_eob[region]
 
     if best_predicted_multiregion and best_target_multiregion:
         return_dict_binary[filename] = "tp"
@@ -365,7 +368,7 @@ def process_file(filename, result_dir, radius=None):
             writer = csv.writer(fd, quoting=csv.QUOTE_MINIMAL)
             writer.writerow([filename, best_radius, largest_radius])
 
-    return return_dict_iou, return_dict_binary, return_label_iou
+    return return_dict_iou, return_dict_binary, return_label_iou, return_dict_eob
 
 
 def evaluate_clustering_iteration(img, elements_found, predicted_labels, radius_eval, sample, exec_time):
@@ -380,6 +383,7 @@ def evaluate_clustering_iteration(img, elements_found, predicted_labels, radius_
     dict_label_iou = {sample["regions"][k]["region_label"]: v for k, v in dict_label_iou.items()}
 
     acc_100, acc_80, acc_50, dict_iou, iou_m = evaluate_IoU(predicted_cluster_edges, target_cluster_edges, img)
+    dict_eob, eob_m = evaluate_EoB(predicted_cluster_edges, target_cluster_edges)
 
     overall = np.average([dict_iou[x] for x in dict_iou])
     predicted_multiregion = (predicted_n_clusters > 1)
@@ -390,23 +394,28 @@ def evaluate_clustering_iteration(img, elements_found, predicted_labels, radius_
                  "predicted_multiregion": predicted_multiregion, "target_multiregion": target_multiregion,
                  "predicted_cluster_edges": predicted_cluster_edges,
                  "dict_label_iou": dict_label_iou, "avg_label_iou": avg_label_iou,
-                 "dict_iou": dict_iou, "time": exec_time}
+                 "dict_iou": dict_iou, "dict_eob": dict_eob, "time": exec_time}
 
     return dict_mult
 
 
 def evaluate_file(filename, csv_dir, result_dir):
     result_file = filename + "_results.pckl"
-    dict_regions_iou, dict_binary = {}, {}
+    dict_regions_iou, dict_binary, dict_regions_eob = {}, {}, {}
 
-    predicted_cluster_edges, target_cluster_edges, execution_time = pickle.load(
-        open(os.path.join(result_dir, result_file), "rb"))
+    predicted_cluster_edges, target_cluster_edges, execution_time = pickle.load(open(os.path.join(result_dir, result_file), "rb"))
     predicted_n_clusters = len(predicted_cluster_edges)
     target_n_clusters = len(target_cluster_edges)
 
     file_path = csv_dir + filename
     img = table_as_image(file_path, color=False)
+    for e in predicted_cluster_edges:
+        if e["top_lx"][0] > e["bot_rx"][0]:
+            t = e["bot_rx"]
+            e["bot_rx"] = e["top_lx"]
+            e["top_lx"] = t
     acc_100, acc_80, acc_50, dict_iou, iou_m = evaluate_IoU(predicted_cluster_edges, target_cluster_edges, img)
+    dict_eob, eob_m = evaluate_EoB(predicted_cluster_edges, target_cluster_edges)
 
     predicted_multiregion = (predicted_n_clusters > 1)
     target_multiregion = (target_n_clusters > 1)
@@ -422,8 +431,10 @@ def evaluate_file(filename, csv_dir, result_dir):
 
     for region in dict_iou:
         dict_regions_iou[filename + "_" + region] = dict_iou[region]
+    for region in dict_eob:
+        dict_regions_eob[filename + "_" + region] = dict_eob[region]
 
-    return [dict_regions_iou, dict_binary]
+    return [dict_regions_iou, dict_binary, None, dict_regions_eob] # None for consistency with other
 
 
 if __name__ == "__main__":

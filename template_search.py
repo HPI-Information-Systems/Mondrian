@@ -1,3 +1,10 @@
+"""
+This script finds layout templates given a set of spreadsheet files.
+The input is a set of files in the /res/{dataset} folder, with their annotations in /res/{dataset}/annotations
+Saves the results as a pckl file and possibly the radii in a csv
+Launch with --help to see the complete list of command line parameters.
+"""
+
 from __future__ import print_function
 
 import json
@@ -5,8 +12,6 @@ import multiprocessing
 import os
 import pickle
 import time
-from pathlib import Path
-
 import numpy as np
 import networkx as nx
 import pandas as pd
@@ -15,6 +20,7 @@ import builtins as __builtin__
 import tqdm as tqdm
 import warnings
 
+from pathlib import Path
 from numpy import VisibleDeprecationWarning
 from sklearn.metrics import normalized_mutual_info_score, adjusted_mutual_info_score, homogeneity_score, completeness_score, v_measure_score
 
@@ -50,8 +56,8 @@ def print(*args, **kwargs):
 def assess_pair(m, n, allthresholds = False):
     if not allthresholds:
         if min(m, n) / max(m, n) < 0.7:
-            return "easy"
-    if np.mean([m, n]) < 100:
+            return "skip"
+    if np.mean([m, n]) < 100:  # upperbound
         return "easy"
     else:
         return "hard"
@@ -64,8 +70,8 @@ def main():
     parser.add_argument("--b", default=1, help="The desired beta to experiment (default = 1)")
     parser.add_argument("--g", default=1, help="The desired gamma to experiment (default = 1)")
     parser.add_argument("--p", default=True, help="1 for partitioning, 0 for no partitioning (default = 1)")
-    parser.add_argument("--experiment", default="static", help="The experiment to pick clustering results from (default = 'static')")
     parser.add_argument("--r", default=None, help="The desired radius for a static radius experiment")
+    parser.add_argument("--experiment", default="static", help="The experiment to pick clustering results from (default = 'static')")
     parser.add_argument("--allthresholds", default=False, help="Do not skip computation for thresholds below 0.7 (default= False)")
     parser.add_argument("--rthreshold", default=0.75, help="The threshold for region similarity (default = 0.75)")
     parser.add_argument("--thresholdlist", nargs="*", type=float, default=list(np.arange(0.7, 1, 0.1)),
@@ -157,12 +163,12 @@ def main():
         {"file_x": "int16", "file_y": "int16", "region_x": "int16", "region_y": "int16", "file_region_x": "int16", "file_region_y": "int16"},
         copy=False)
     print("Creating region pairs - 2/2...")
-    region_pairs_df["pair"] = [frozenset(p) for p in zip(region_pairs_df["file_region_x"], region_pairs_df["file_region_y"])]
 
     print("Dropping duplicate pairs...")
-    region_pairs_df = region_pairs_df.drop_duplicates(subset="pair", ignore_index=True)
+    df = region_pairs_df[["file_region_x", "file_region_y"]]
+    df1 = pd.DataFrame(np.sort(df.values, axis=1), index=df.index, columns=df.columns)
+    region_pairs_df = region_pairs_df[~df1.duplicated()]
     regions_df.set_index("file_region", inplace=True)
-    region_pairs_df.drop(columns=["pair"], inplace=True)
     print(f"There are {len(regions_df)} total regions")
     print("Number of pairs", len(region_pairs_df))
 
@@ -222,13 +228,14 @@ def main():
         difficulty = list(pool.starmap(assess_pair, zip(layout_pairs_df["n_regions_x"], layout_pairs_df["n_regions_y"], [allthresholds]*len(layout_pairs_df)), chunksize=chunksize))
     layout_pairs_df["difficulty"] = difficulty
 
+    skip_pairs_df = layout_pairs_df[layout_pairs_df["difficulty"]=="skip"].reset_index(drop=True).copy()
     easy_pairs_df = layout_pairs_df[layout_pairs_df["difficulty"] == "easy"].reset_index(drop=True).copy()
     hard_pairs_df = layout_pairs_df[layout_pairs_df["difficulty"] == "hard"].reset_index(drop=True).copy()
     easy_pairs_df.drop(columns="difficulty", inplace=True)
     hard_pairs_df.drop(columns="difficulty", inplace=True)
     del layout_pairs_df, region_pairs_df, regions_df
 
-    print(f"Number of easy pairs {len(easy_pairs_df)}, number of hard pairs {len(hard_pairs_df)}")
+    print(f"Number of skippable pairs: {len(skip_pairs_df)}, easy pairs: {len(easy_pairs_df)}, hard pairs: {len(hard_pairs_df)}")
 
     easy_pairs_df.to_json(f"{template_path}/easy_pairs.json")
     hard_pairs_df.to_json(f"{template_path}/hard_pairs.json")
@@ -264,7 +271,7 @@ def main():
         else:
             easy_pairs_df["similarity"] = scores
 
-        print(f"Time for computing easy similiraties: {time.time() - start} sec")
+        print(f"Time for computing easy similarities: {time.time() - start} sec")
         if SUBSET_END is None:
             easy_pairs_df.to_json(easy_sims_path)
         del easy_diff
@@ -302,7 +309,7 @@ def main():
                              files_df.loc[f2].spreadsheet.layout) for f1, f2 in hard_layouts]
 
             print("Computing", len(hard_diff), "missing hard similarities")
-            scores = list(tqdm.tqdm(map(lambda p: parallel_layout_similarity(p[0], p[1], n_jobs=n_cores, allthresholds=allthresholds), hard_layouts)))
+            scores = list(tqdm.tqdm(map(lambda p: parallel_layout_similarity(p[0], p[1], n_jobs=n_cores, verbose = False, allthresholds=allthresholds), hard_layouts)))
 
             if "similarity" in hard_pairs_df.columns:
                 hard_diff["similarity"] = scores
@@ -313,9 +320,11 @@ def main():
             hard_pairs_df.to_json(hard_sims_path)
 
     print("Concatenating dataframes...")
+    skip_pairs_df["similarity"] = 0
+    skip_pairs_df.reset_index(drop=True, inplace=True)
     easy_pairs_df.reset_index(drop=True, inplace=True)
     hard_pairs_df.reset_index(drop=True, inplace=True)
-    layout_pairs_df = pd.concat([easy_pairs_df, hard_pairs_df])
+    layout_pairs_df = pd.concat([skip_pairs_df,easy_pairs_df, hard_pairs_df])
 
     print(f"Time for layout similiraties: {time.time() - start} sec")
 
