@@ -189,5 +189,3 @@ dependencies:
     - xlrd==1.2.0
     - zict==1.0.0
     - zipp==0.6.0
-prefix: /home/gerardo/anaconda3/envs/mondrian
-
