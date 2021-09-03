@@ -4,21 +4,19 @@ Rig Expenses,,,,,,,,,
 ,,,,,,,,,
 ,,,July,,August,,September ,,Total
 ,,,,,,,,,
-Monthly Depreciation,,,65754.77,,65754.77,,65754.77,,197264.31
-Insurance Amortization,,,5000,,5000,,5000,,15000
-NewPark Shipbuilding,,,18944,,15870,,12796,,47610
-Enforcement of Ship Mortgage.  ,,,0,,0,,12323.41,,12323.41
-Misc.,,,0,,5027.75,,0,,5027.75
-ABS Group-Appraisals,,,0,,0,,18500,,18500
+Monthly Depreciation,,,"65,754.77",,"65,754.77",,"65,754.77",,"197,264.31"
+Insurance Amortization,,,"5,000.00",,"5,000.00",,"5,000.00",,"15,000.00"
+NewPark Shipbuilding,,,"18,944.00",,"15,870.00",,"12,796.00",,"47,610.00"
+Enforcement of Ship Mortgage.  ,,, -   ,, -   ,,"12,323.41",,"12,323.41"
+Misc.,,, -   ,,"5,027.75",, -   ,,"5,027.75"
+ABS Group-Appraisals,,, -   ,, -   ,,"18,500.00",,"18,500.00"
 ,,,,,,,,,
-    TOTAL 3RD QUARTER EXPENSES,,,89698.77,,91652.52,,114374.18000000001,,295725.47
-,,,,,,,,,
-,,,,,,,,,
+    TOTAL 3RD QUARTER EXPENSES,,,"89,698.77",,"91,652.52",,"114,374.18",,"295,725.47"
 ,,,,,,,,,
 ,,,,,,,,,
-,AVERAGE MONTHLY EXPENSES,,,,98575.15666666666,,,,
 ,,,,,,,,,
 ,,,,,,,,,
+,AVERAGE MONTHLY EXPENSES,,,," $98,575.16 ",,,,
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
@@ -34,3 +32,5 @@ ABS Group-Appraisals,,,0,,0,,18500,,18500
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
+,,,,,,,,,
+'file:///richard_sanders__31694__Rig expense estimate.xlsx'#$Rig Expenses,,,,,,,,,
